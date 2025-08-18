@@ -1,0 +1,671 @@
+{
+    "dialogue_id": "A02005",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "げんまい",
+        "はくさい",
+        "いそべ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "げんまい",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "はくさい",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "いそべ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "げんまい",
+            "text": "突然ですが、今夜、何食べるか決まってますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "いそべ",
+            "text": "迷いますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "はくさい",
+            "text": "全然決まってないです。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "げんまい",
+            "text": "この後、買い物に行くのですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "げんまい",
+            "text": "何にしようかと。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "いそべ",
+            "text": "生姜焼きはどうですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "げんまい",
+            "text": "生姜焼き！簡単でいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "いそべ",
+            "text": "おいしいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "げんまい",
+            "text": "豚肉を買うって、モメしておきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "げんまい",
+            "text": "後、おみそ汁ぐらいでいいかな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "はくさい",
+            "text": "うちも来週あたり生姜焼き作ろ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "いそべ",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "げんまい",
+            "text": "3日間ぐらいの献立を考えてスーパーに行くのですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "げんまい",
+            "text": "ノープランだったのです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "いそべ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "はくさい",
+            "text": "えらい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "はくさい",
+            "text": "献立決まってると買い物はやいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "いそべ",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "げんまい",
+            "text": "いそべさん、はくさいさんは、ごはん作る担当の人ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "いそべ",
+            "text": "@げんまい 食べる専任です・・",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "はくさい",
+            "text": "ごはん作る担当です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "げんまい",
+            "text": "食べる専門、うらやましいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "はくさい",
+            "text": "うらやましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "いそべ",
+            "text": "何でも食べます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "いそべ",
+            "text": "わがままいいません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "はくさい",
+            "text": "何でも食べてくれるのいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "いそべ",
+            "text": "いえません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "げんまい",
+            "text": "なんでも食べる人は助かります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "げんまい",
+            "text": "食べる専門でも、献立作りには参加できますよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "はくさい",
+            "text": "好き嫌いあると作るのめんどくさくなっちゃって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "げんまい",
+            "text": "わかるー。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "いそべ",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "げんまい",
+            "text": "うちの家族は好き嫌い多いです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "いそべ",
+            "text": "@げんまい 大変ですね",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "はくさい",
+            "text": "みんなの好みに合わせるのたいへんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "げんまい",
+            "text": "献立さえきまってればね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "げんまい",
+            "text": "楽なんですけど。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "はくさい",
+            "text": "献立がきまらないんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "いそべ",
+            "text": "チャットGPTとか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "いそべ",
+            "text": "どうですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "げんまい",
+            "text": "たまに使います。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "げんまい",
+            "text": "チャットGPT",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "いそべ",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "はくさい",
+            "text": "すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "げんまい",
+            "text": "けっこう、良い答えが出てきますね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "いそべ",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "はくさい",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "げんまい",
+            "text": "冷蔵庫にあるものを書いて、これで作れるものって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "いそべ",
+            "text": "負担が減りますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "げんまい",
+            "text": "レシピサイトだと、「それ家に無いわー」っていう食材がけっこうあるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "はくさい",
+            "text": "今度やってみます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "げんまい",
+            "text": "チャットGPTはそれがないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "はくさい",
+            "text": "@げんまい わかります！",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "げんまい",
+            "text": "ぜひ！やってみてほしいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "いそべ",
+            "text": "ご飯担当におしえます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "げんまい",
+            "text": "今ある、食材だけで作れるものを教えてくれます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "はくさい",
+            "text": "@げんまい それ一番いいですね",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "いそべ",
+            "text": "無駄がでないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "げんまい",
+            "text": "でも、しらばらくGPTさんに聞いてなかったので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "げんまい",
+            "text": "この後、聞いてみたいと思いますｗｗｗ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "はくさい",
+            "text": "ノープランで買い物行って無駄なものいっぱい買っちゃうんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "げんまい",
+            "text": "@いそべ 思い出させてくれてありがとうございます。",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "げんまい",
+            "text": "ノープランでの買い物は危険ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "はくさい",
+            "text": "危険がいっぱいです。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "げんまい",
+            "text": "結局、何を作ればいいんだい？ってなります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "はくさい",
+            "text": "なりますなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "げんまい",
+            "text": "あと、お腹が空いているときのお買い物も危険です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "はくさい",
+            "text": "わかるー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "いそべ",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "げんまい",
+            "text": "お菓子いっぱい買っちゃう。ｗｗ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "いそべ",
+            "text": "買いすぎしそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "はくさい",
+            "text": "買いすぎちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "げんまい",
+            "text": "すぐ食べられるものをかごに入れがち",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "はくさい",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "はくさい",
+            "text": "家帰ってきて後悔しちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "げんまい",
+            "text": "スーパーやコンビニでお菓子買いますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "いそべ",
+            "text": "コンビニ高いのでスーパーで買います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "はくさい",
+            "text": "子どもたちが食べたいお菓子をついつい買っちゃいますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "げんまい",
+            "text": "そうですよね。コンビニは強気な値段です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "はくさい",
+            "text": "だしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "げんまい",
+            "text": "@はくさい 自分用には？",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "はくさい",
+            "text": "買うと食べちゃうので、買わないようにしてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "げんまい",
+            "text": "えらいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "はくさい",
+            "text": "子どもの卒業式が近くて、新たに服を買わなくていいように",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "はくさい",
+            "text": "気を付けないといけないんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "いそべ",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "げんまい",
+            "text": "卒業式、あるものでなんとかしたいですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "はくさい",
+            "text": "まだ試してないのでわからないですが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "げんまい",
+            "text": "うちも、卒業式間近です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "はくさい",
+            "text": "3年前のものが切れるかどうか。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "いそべ",
+            "text": "私も卒業式近いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "げんまい",
+            "text": "着られますように。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "げんまい",
+            "text": "お！おめでとうございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "いそべ",
+            "text": "ありがとうございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "げんまい",
+            "text": "うちも長男が卒業間近。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "げんまい",
+            "text": "3人とも卒業式ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "いそべ",
+            "text": "おお！同じですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "はくさい",
+            "text": "びっくりです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "いそべ",
+            "text": "私は3月8日です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "げんまい",
+            "text": "45353",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "げんまい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "はくさい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "いそべ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

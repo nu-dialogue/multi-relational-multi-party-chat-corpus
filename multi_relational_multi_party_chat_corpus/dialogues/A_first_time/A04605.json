@@ -1,0 +1,687 @@
+{
+    "dialogue_id": "A04605",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おにぎり",
+        "ハンバーグ",
+        "こまつな"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おにぎり",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ハンバーグ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "こまつな",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おにぎり",
+            "text": "お願いいたします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ハンバーグ",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "こまつな",
+            "text": "よろしくです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おにぎり",
+            "text": "皆さん、普段は車生活ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ハンバーグ",
+            "text": "車をないと生活出来ません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "こまつな",
+            "text": "@おにぎり 車ないです",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "おにぎり",
+            "text": "@ハンバーグ 一緒ですねーーー",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こまつな",
+            "text": "まえは乗ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ハンバーグ",
+            "text": "近くのコンビニも車です笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "おにぎり",
+            "text": "@こまつな 電車、バスで生活できるんですかね！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "こまつな",
+            "text": "あはは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ハンバーグ",
+            "text": "車なくて生活出来るならいいですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "おにぎり",
+            "text": "同じく！コンビニも車！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "こまつな",
+            "text": "まあ、出来ますが不便",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "おにぎり",
+            "text": "でも、何かしら公共交通機関が使えるのは、いいですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ハンバーグ",
+            "text": "できれば歩いた方がいいのはわかってるんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "おにぎり",
+            "text": "駅までも、車で送迎しないと。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ハンバーグ",
+            "text": "自転車も乗りません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "こまつな",
+            "text": "仕方ないから歩いてる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり 送迎は大変ですよね",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "おにぎり",
+            "text": "@ハンバーグ 子供の送迎してますか？",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "こまつな",
+            "text": "@おにぎり たいへんですね",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@こまつな 今度近くのコンビニは歩こうかな",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "こまつな",
+            "text": "@ハンバーグ 運動",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "おにぎり",
+            "text": "そうですね、、たまには歩かないと。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "こまつな",
+            "text": "だと思って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ハンバーグ",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ハンバーグ",
+            "text": "運動します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "こまつな",
+            "text": "暖かくなれば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "こまつな",
+            "text": "いいかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ハンバーグ",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "おにぎり",
+            "text": "春になれば、気持ち良いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ハンバーグ",
+            "text": "寒いとまず布団から出たくないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "おにぎり",
+            "text": "朝、得意ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "こまつな",
+            "text": "寒いと気合い入れる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "おにぎり",
+            "text": "気合か～～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "おにぎり",
+            "text": "入らない笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり 何度もアラームなってます笑",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "こまつな",
+            "text": "めちゃくちゃダメなんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "こまつな",
+            "text": "@ハンバーグ 同じく",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@こまつな 気合い入らないです涙",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "おにぎり",
+            "text": "アラームの意味って、ほんと無くって。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり わかります",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "おにぎり",
+            "text": "アラームを何度も止めるのも、ルーティンです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "こまつな",
+            "text": "いつの間にかけす",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ハンバーグ",
+            "text": "同じだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "おにぎり",
+            "text": "朝強い人、うらやましい。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "こまつな",
+            "text": "ほんとです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "こまつな",
+            "text": "なんか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ハンバーグ",
+            "text": "何か予定ある時は起きれますけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "こまつな",
+            "text": "年取ると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "おにぎり",
+            "text": "はいはい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "こまつな",
+            "text": "朝早くなるってきいたけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "こまつな",
+            "text": "ならない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ハンバーグ",
+            "text": "聞きますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "おにぎり",
+            "text": "聞きますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "こまつな",
+            "text": "あれ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "おにぎり",
+            "text": "もーっと年を重ねたらですかねぇ。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ハンバーグ",
+            "text": "じゃまだ若いんだと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "こまつな",
+            "text": "まだわかい？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "おにぎり",
+            "text": "そうだそうだ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "こまつな",
+            "text": "わかいんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "おにぎり",
+            "text": "寝るのにも体力要る、っていいますもん。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ハンバーグ",
+            "text": "いつまでも若くいて下さい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "おにぎり",
+            "text": "まだまだ、成長期ですよ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ハンバーグ",
+            "text": "気持ちだけでも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "こまつな",
+            "text": "あはは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こまつな",
+            "text": "気持ちは若いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ハンバーグ",
+            "text": "気持ち若ければ大丈夫",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "おにぎり",
+            "text": "中学生の時とか、いつも眠くなかったですか。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "おにぎり",
+            "text": "いくらでも寝られた。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "こまつな",
+            "text": "そういう事にしよう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり 寝れましたね",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "おにぎり",
+            "text": "夜は、強いですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "こまつな",
+            "text": "@おにぎり ほんとです",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "おにぎり",
+            "text": "朝は、早くならないけど、夜は結構早く眠くなるようになってきました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "こまつな",
+            "text": "夜はいけます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "おにぎり",
+            "text": "@こまつな ほんとに、まだまだ若いんですよ！！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ハンバーグ",
+            "text": "夜いけます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ただ眠いですけど笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "おにぎり",
+            "text": "私だけだ、、年寄化。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "こまつな",
+            "text": "変な時間に眠いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "おにぎり",
+            "text": "昼寝しちゃいます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "こまつな",
+            "text": "夕方とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "おにぎり",
+            "text": "そうそう。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ハンバーグ",
+            "text": "昼寝いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "おにぎり",
+            "text": "夜になると、目が辛くって。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ハンバーグ",
+            "text": "夏の昼寝は嫌だけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "こまつな",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "おにぎり",
+            "text": "しょぼしょぼしちゃいます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こまつな",
+            "text": "わかる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり 寝ろって事です笑",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "こまつな",
+            "text": "若くないな私",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "おにぎり",
+            "text": "@ハンバーグ エアコンの効いた部屋での昼寝最高じゃないですか？",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こまつな",
+            "text": "冷えません？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ハンバーグ",
+            "text": "エアコンの温度設定がわからなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "おにぎり",
+            "text": "冷えます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ハンバーグ",
+            "text": "何か寒くなって布団かぶってます笑",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おにぎり",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "ハンバーグ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "こまつな",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

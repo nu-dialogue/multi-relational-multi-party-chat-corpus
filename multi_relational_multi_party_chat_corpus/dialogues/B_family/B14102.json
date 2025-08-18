@@ -1,0 +1,742 @@
+{
+    "dialogue_id": "B14102",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "くじら",
+        "くま",
+        "じゃがいも"
+    ],
+    "relationship": [
+        "くま",
+        "じゃがいも"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くじら",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "くま",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "じゃがいも",
+            "text": "こんばんはです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くじら",
+            "text": "昨日ご飯食べる時にドジをしてしまって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "じゃがいも",
+            "text": "あらあら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "くま",
+            "text": "ほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "じゃがいも",
+            "text": "なんかあったんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "くじら",
+            "text": "キャベツにドレッシングをかけるはずがご飯にかけてしまいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "じゃがいも",
+            "text": "疲れてらっしゃるそれは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くま",
+            "text": "@くじら それはそれは、、、",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "くま",
+            "text": "何ドレッシングですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くじら つい笑ってしまいましたが、何ドレッシングですか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くじら",
+            "text": "ちょっとかけただけですんだので良かったんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "じゃがいも",
+            "text": "同じことを笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "じゃがいも",
+            "text": "危ない危ない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "くじら",
+            "text": "ごまどれです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "くま",
+            "text": "ゴマならギリいけますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "くま",
+            "text": "シーザーとかよりはいいかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "じゃがいも",
+            "text": "ごまなら！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "じゃがいも",
+            "text": "セーフですセーフ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 好きなドレッシングはありますか？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 私ですか笑",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くじら",
+            "text": "主人にも問題ないと言われました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "じゃがいも",
+            "text": "シーザーサラダですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "じゃがいも",
+            "text": "良かったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "くじら",
+            "text": "好きなのはピエトロのドレッシングとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "くま",
+            "text": "@くじら 全然セーフです",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くじら まぁそれでなんか言ってきたら私はキレますね、くまに",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも シーザー派か",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くじら ぴ、ぴえとろ、、、？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "じゃがいも",
+            "text": "ピエトロってなんですか、メーカー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "くま",
+            "text": "@くじら ピエトロわからない、、、",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "くじら",
+            "text": "ピエトロはメーカーですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "くま",
+            "text": "うちは安いやつしか使わないからなあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くじら 無知でごめんなさい",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "じゃがいも",
+            "text": "どんな味ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 本当に安いやつしか買わないよね笑",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "くじら",
+            "text": "オニオンと醤油みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "じゃがいも",
+            "text": "それすら賞味期限切れてるよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くじら 美味しいやつです！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも スーパーのオリジナルのやつね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "くじら",
+            "text": "私も滅多に買わないです高いのは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "くま",
+            "text": "@くじら おいしそう！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "じゃがいも",
+            "text": "うわぁ、それは美味しいやつです。今度買ってみますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "くま",
+            "text": "たまに使うのがいい感じですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "くじら",
+            "text": "おすすめです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "じゃがいも",
+            "text": "話戻りますけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "くま",
+            "text": "メモしとかなきゃ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "じゃがいも",
+            "text": "私は歯磨き粉で顔洗ったことはありますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "くじら",
+            "text": "それは痛くなかったですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも やばいこと言ってる",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "じゃがいも",
+            "text": "爽快な目覚めなので、年に1回くらいはおすすめです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "くま",
+            "text": "眠い時にはいいのか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "くじら",
+            "text": "スースーしますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くじら ペーストのみだったんですが、ヒリヒリして気づきました",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "じゃがいも",
+            "text": "泡立たないな...？と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "くじら",
+            "text": "それはお肌にダメージが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くじら ごく稀にこういうことあるんですよねぇ",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "くま",
+            "text": "そのレベルのドジはパット思いつかないなあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 言い方悪いぞ笑",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 失礼いたしました",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くじら お仕事疲れということで自分の中で消化しました",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "くじら",
+            "text": "@くま あまりドジはないんですね。羨ましい",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くじら 我旦那ながら思ったよりちゃんとしてます",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "じゃがいも",
+            "text": "言った約束はよく忘れます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "くま",
+            "text": "@くじら 物忘れは多い気がします、、、",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 自分でわかっててよろしい",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "くじら",
+            "text": "忘れる時ありますよ。家でも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くじら あら",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "じゃがいも",
+            "text": "まぁ人間ですからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 今後は気をつけてください",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "くま",
+            "text": "忘れるのはしょっちゅうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "くじら",
+            "text": "そんなの言ってた？とかよく主人に言われます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "じゃがいも",
+            "text": "私はそれ以上に忘れやすいけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くじら あー、みんな疲れてらっしゃるのか",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 二人とも忘れてることありそう",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "くじら",
+            "text": "忙しいと抜けることありますから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "じゃがいも",
+            "text": "そういうことにしましょう、みんな平和",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "くま",
+            "text": "@くじら ですねえ",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "じゃがいも",
+            "text": "世界平和",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 壮大だな",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "くじら",
+            "text": "今日は夕飯は何を食べましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "じゃがいも",
+            "text": "外食してました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "くま",
+            "text": "@くじら 外食しました",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くじら 私はハンバーグです",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くじら",
+            "text": "@じゃがいも 外食、良いですね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "じゃがいも",
+            "text": "武蔵野珈琲店ってところで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "くま",
+            "text": "私はジャンバラヤだったはず",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "じゃがいも",
+            "text": "埼玉に結構あるんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くじら",
+            "text": "@じゃがいも 聞いたことあります",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "くま",
+            "text": "カフェみたいなとこですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くじら ふわふわパンケーキで有名です",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "くじら",
+            "text": "気になっていました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "じゃがいも",
+            "text": "ほんとにふわふわ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くじら",
+            "text": "パンケーキ食べたいですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "くま",
+            "text": "色んな珈琲店ありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "じゃがいも",
+            "text": "幸せのパンケーキってところと似てますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "じゃがいも",
+            "text": "あのふわふわだとカロリーはきっと0なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 久しぶりにその名前聞いた",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "じゃがいも",
+            "text": "いくら食べても大丈夫ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "くじら",
+            "text": "幸せのパンケーキは食べに行ったと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "くま",
+            "text": "サンドウィッチマンかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま マジで閉店してる可能性は大いにある",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "じゃがいも",
+            "text": "おっ！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くじら",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "くま",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "じゃがいも",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 2,
+            "satisfaction": 5
+        }
+    ]
+}

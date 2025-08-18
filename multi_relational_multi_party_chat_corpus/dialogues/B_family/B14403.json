@@ -1,0 +1,774 @@
+{
+    "dialogue_id": "B14403",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "いるか",
+        "てばさき",
+        "えのき"
+    ],
+    "relationship": [
+        "てばさき",
+        "えのき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "いるか",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "てばさき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "えのき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "いるか",
+            "text": "お休みの日って何をして過ごされてますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "てばさき",
+            "text": "この間スカイツリー行ってきました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "えのき",
+            "text": "基本的に仕事をしています…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "てばさき",
+            "text": "一昨日です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき いいなあ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき わ！いいですね！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "てばさき",
+            "text": "高かったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 展望台どうだった？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "いるか",
+            "text": "@えのき えあのきさん・・・しんどみが・・・",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "てばさき",
+            "text": "標高も、入場料も…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき なにそのこなみかん…",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "えのき",
+            "text": "@いるか いいんです",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "えのき",
+            "text": "涙ふきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき まだ混んでるんですかね？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 混んでた？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 結構人いましたー",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "いるか",
+            "text": "@えのき お疲れ様です・・・！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "えのき",
+            "text": "何を見てきたの？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "てばさき",
+            "text": "海外の人に写真撮影頼まれました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "えのき",
+            "text": "@いるか ありがとうございます！！",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき へー！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき 英語でですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "いるか",
+            "text": "私返答できないですね・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "えのき",
+            "text": "私も…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか OKといえばなんか通じたと思うので多分英語です",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "えのき",
+            "text": "英語からきし…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "いるか",
+            "text": "おーおー！しか言えない・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき それ…内容理解してOKした？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき OKで乗り越えたんです？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "いるか",
+            "text": "こわい笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき テイクとか言ってたので",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき とか言ってた笑",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "えのき",
+            "text": "うっかりだまされるやつでは…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "えのき",
+            "text": "いい人でよかったね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "てばさき",
+            "text": "んで写真スポットの前でスマホ渡されたから大体は流石に察せる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "いるか",
+            "text": "@えのき 海外だと多いですよね・・・",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "えのき",
+            "text": "そうかあ、カモはこんなところに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "えのき",
+            "text": "ねぎをしょって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき 察する能力だけで・・・",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき いや貴重品渡された側だから鴨は多分向こう",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "いるか",
+            "text": "@えのき 悪い人サイドの台詞・・・",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき で、スカイツリーで何を見てきたの？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": "@いるか うふふ",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 高いところの景色と夜景と原神コラボ！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき 考え方が乱暴笑",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "てばさき",
+            "text": "の展示",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "いるか",
+            "text": "原神コラボしてるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 原神コラボ、貢いできたの？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 楽しかったし美味しかった！貢いだと思う！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "えのき",
+            "text": "私があげた5000円を…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "えのき",
+            "text": "お賽銭として…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 母の五千円は入場料に消えた",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "いるか",
+            "text": "@えのき あっ・・・？！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "えのき",
+            "text": "ごめん、5000円じゃ足りなかったね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "母、修行が足りなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "いるか",
+            "text": "え、いま入場料いくらなんですか？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき あとは自腹で飲み食いしたから大丈夫、その財源も親の金だから",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "いるか",
+            "text": "ディズニー並みです？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 入場料聞きたい",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき すべて親の金・・・！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "てばさき",
+            "text": " 大人1人展望回廊セットで3100円です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てばさき",
+            "text": "へい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "えのき",
+            "text": "まあ、そんなもんですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "てばさき",
+            "text": "しかも平日の値段",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "えのき",
+            "text": "休日は別料金！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき え、土日で変わる・・・",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "いるか",
+            "text": "三千円台なら、まだなんとか・・・と思いましたが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか そりゃあ土日祝は絞りどきですから",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "えのき",
+            "text": "バイト代も時給土日アップとかありますしね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "絞られ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "えのき",
+            "text": "ぎゅうぎゅうに…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき 考えがちょっと物騒笑",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "えのき",
+            "text": "もう出ない…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 干し柿？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "えのき",
+            "text": "@いるか スカイツリー、のぼったことありますか？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき たとえが笑",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "いるか",
+            "text": "@えのき 登ったことないです！近くはいつも行くんですが",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "いるか",
+            "text": "@えのき 登ったことありますか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "えのき",
+            "text": "ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "えのき",
+            "text": "まあ、展望台なんて、高いだけですよ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "えのき",
+            "text": "ちらっ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "いるか",
+            "text": "ですよね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 一度は行くべき！エレベーター楽しかった！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "エレベーターまでもが！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "えのき",
+            "text": "どう楽しいの？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ちょっとジェットコースター乗りたくなった",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "いるか",
+            "text": "そして原神コラボ、グッズ軒並み売り切れですね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "えのき",
+            "text": "えっ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき ジェットコースター？？？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか コラボカフェはいけたので大丈夫です",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "いるか",
+            "text": "耳がキーンてなるわけではなく！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき グッズ、なにか買えた？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "えのき",
+            "text": "何もなかった？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "いるか",
+            "text": "コラボカフェは大丈夫だったんですね！良かった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか コースターもらえました",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "えのき",
+            "text": "よかったね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき ランダムですか・・・",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "いるか",
+            "text": "推しは自引きできましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "てばさき",
+            "text": "エレベーターの方は確かに耳がキーンってしました…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 引けた？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか 友達と交換しましたが、まあ自引きはできたと思います！",
+            "mention_to": [
+                "いるか"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "いるか",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

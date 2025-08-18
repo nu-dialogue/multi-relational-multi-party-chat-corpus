@@ -1,0 +1,762 @@
+{
+    "dialogue_id": "B10407",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "うさぎ",
+        "つくね",
+        "しらたき"
+    ],
+    "relationship": [
+        "つくね",
+        "しらたき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うさぎ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つくね",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらたき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うさぎ",
+            "text": "どこか行きたいところありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "うさぎ",
+            "text": "国内でも海外でも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つくね",
+            "text": "国内は北海道とか行ってみたいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しらたき",
+            "text": "沖縄ですかねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ はありますか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね この春行きます！北海道",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ えー！いいなー！！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "うさぎ",
+            "text": "娘の誕生日に2人旅です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つくね",
+            "text": "2人旅！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つくね",
+            "text": "素敵ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "うさぎ",
+            "text": "主人は繁忙期でお留守番です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ いいですね！俺も行きたい！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき ご家族で是非!",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 旦那さん可哀想…",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 決算期なので仕方なくです",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 計画します！笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき たのみます！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき ぜひ！うちは主人が沖縄好きで",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "うさぎ",
+            "text": "そっちの方が行きたいらしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 決算期ってことは来月とかですか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 沖縄修学旅行で",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 3月、4月あたり続くみたいです",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "しらたき",
+            "text": "1回行ったけど、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "しらたき",
+            "text": "また行きたいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき 修学旅行！いいなー",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ そうなんです…お忙しそう…",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 修学旅行はどこでしたか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 同じく沖縄ー！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね いやー地味でしたよ、京都、奈良と、萩、津和野",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね ええっ？！羨ましすぎる",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 京都、奈良の方だったんですね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "うさぎ",
+            "text": "お二人ご出身一緒ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つくね",
+            "text": "中学は京都、奈良でした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 一緒です！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 関東だとそっちですねー",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "しらたき",
+            "text": "大体地元の高校は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "しらたき",
+            "text": "沖縄です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき 地域柄でしょうか？羨ましい",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ そうなんですね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "うさぎ",
+            "text": "もしかして同じ高校？ではなく？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 学校によって違うみたいですが",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "しらたき",
+            "text": "私立とかだと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "しらたき",
+            "text": "長崎とからいしです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 高校は同じではなかったですー！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき あっ、娘、長崎でした!",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ あ！そうなんですね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "しらたき",
+            "text": "平和公園？かな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき はい、グラバー邸とか定番の",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "うさぎ",
+            "text": "カステラお土産みたいな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "しらたき",
+            "text": "なるほど！義弟は長崎でハウステンボスだったみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ カステラ！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき いやー羨ましすぎる",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つくね",
+            "text": "久しぶりに食べたい！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "うさぎ",
+            "text": "ハウステンボス何十年も前に行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね カステラいいですよねー",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 今小学校の修学旅行は",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "しらたき",
+            "text": "ディズニーとかみたいですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ カステラ美味しいですよね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき そうなりますよね！たくさん来てます",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つくね",
+            "text": "中々買って食べないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "うさぎ",
+            "text": "うちはバスで40分くらいなのでディズニー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "うさぎ",
+            "text": "駅前から乗って寝てます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ ですよね〜自分の頃は",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "しらたき",
+            "text": "東京ドームでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき えっ、渋い！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 40分でディズニー羨ましい！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "うさぎ",
+            "text": "その頃って何がありました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ うちも小学校の頃は東京ドームでした笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 今もあるのかな？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "しらたき",
+            "text": "遊園地ありました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき あります！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "うさぎ",
+            "text": "わりと怖目の乗り物とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ あ！じゃあそこで遊びました！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "うさぎ",
+            "text": "ジェットコースター系？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 苦手なんです笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うさぎ",
+            "text": "あとは室内遊技場？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 乗れないよね笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき 私もです!",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "うさぎ",
+            "text": "三半規管弱いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "うさぎ",
+            "text": "ぐるぐる回ります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ お！そうなんですね",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "しらたき",
+            "text": "自分は高いところが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しらたき",
+            "text": "ダメです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "しらたき",
+            "text": "お化け屋敷は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "しらたき",
+            "text": "得意です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき おー私も苦手です",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね ジェットコースター大丈夫ですか？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ めっちゃ好きです！笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "うさぎ",
+            "text": "うわ、羨ましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "つくね",
+            "text": "家族で遊園地行っても",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つくね",
+            "text": "私しか乗らない…ので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "つくね",
+            "text": "結構寂しいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね お一人？？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "うさぎ",
+            "text": "みんな下で見てるとか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 無理矢理乗せます！笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 乗らされます笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 付き合ってくれるんですね！優しい",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "しらたき",
+            "text": "この前行った時も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "しらたき",
+            "text": "子供泣いてました笑",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うさぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,670 @@
+{
+    "dialogue_id": "B14006",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "カンガルー",
+        "たまご",
+        "つみれ"
+    ],
+    "relationship": [
+        "たまご",
+        "つみれ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "カンガルー",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまご",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "カンガルー",
+            "text": "寒いですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "つみれ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つみれ",
+            "text": "寒いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "カンガルー",
+            "text": "季節が逆戻り！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たまご",
+            "text": "寒いですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "カンガルー",
+            "text": "昨日の夜、東京雪が降りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "つみれ",
+            "text": "長野のうちの地域は昨日から雪で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "たまご",
+            "text": "寒暖差でお腹壊しちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "つみれ",
+            "text": "東京も降ったんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまご お腹壊す！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご お腹弱いからね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまご",
+            "text": "気づかなかったー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "たまご",
+            "text": "激弱です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまご お腹弱いんだー",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "たまご",
+            "text": "すぐ壊します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "カンガルー",
+            "text": "私もお腹弱い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "カンガルー",
+            "text": "壊すと言うよりは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "たまご",
+            "text": "週4くらいで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー すぐお腹痛いって言います",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "カンガルー",
+            "text": "常にゆるい…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "たまご",
+            "text": "痛くなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "たまご",
+            "text": "分かります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "つみれ",
+            "text": "たまごは小さい頃からそうでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "つみれ",
+            "text": "別に冷たいもの飲んでるわけじゃないのにね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "たまご",
+            "text": "うん、まぁ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "つみれ",
+            "text": "え？飲んでる？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "たまご",
+            "text": "たまには飲むけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "カンガルー",
+            "text": "私はあまり便秘とか関係ない人間ですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "カンガルー",
+            "text": "お腹痛いと言えば！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "たまご",
+            "text": "自分もそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー 私はどちらかというと便秘です",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "カンガルー",
+            "text": "半年前に急にお腹？胃？が痛くなったことがあって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "たまご",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "カンガルー",
+            "text": "脂汗かきました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "つみれ",
+            "text": "辛いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "カンガルー",
+            "text": "その時は薬でおさまったんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "カンガルー",
+            "text": "後日もう一度病院でみてもらって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "たまご",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "カンガルー",
+            "text": "そのとき胃カメラを初めて経験したんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つみれ",
+            "text": "あらー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "カンガルー",
+            "text": "胃カメラやったことあります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たまご",
+            "text": "ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "カンガルー",
+            "text": "すごい経験をしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "たまご",
+            "text": "大変でしたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "カンガルー",
+            "text": "おかしかったら必ず病院行ってくださいね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たまご",
+            "text": "大切ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "たまご",
+            "text": "胃カメラ口からですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つみれ",
+            "text": "ほんと大切",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "たまご",
+            "text": "痛そうなイメージ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "カンガルー",
+            "text": "口からの胃カメラ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つみれ",
+            "text": "実は私も２回胃カメラやりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ 部分麻酔？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "たまご",
+            "text": "うえってなっちゃいそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまご それがですね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー そうですね、喉だけ？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "カンガルー",
+            "text": "私も不安だったんだけど、最近は眠ったままやるんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たまご",
+            "text": "眠ってたら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "カンガルー",
+            "text": "あれなんて言うんだろう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "たまご",
+            "text": "分からないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー 麻酔で眠ってる間に終わるやつ！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "カンガルー",
+            "text": "睡眠導入剤ではないけれど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "たまご",
+            "text": "それが1番いい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ そうそう！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "カンガルー",
+            "text": "それが妙によくきいて、全然記憶ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "つみれ",
+            "text": "楽ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つみれ",
+            "text": "え？記憶がない？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "カンガルー",
+            "text": "はい、全然。起きたら終わってた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "カンガルー",
+            "text": "深い眠り？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "たまご",
+            "text": "えー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "つみれ",
+            "text": "それは経験してみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たまご",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "たまご",
+            "text": "意外です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "カンガルー",
+            "text": "ものすごいぐっすり眠れた感じでスッキリ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たまご",
+            "text": "謎ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "カンガルー",
+            "text": "友達にそれを話したら、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "つみれ",
+            "text": "そんな効果まで？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "カンガルー",
+            "text": "友達もやっぱり起きたら終わってたみたいで。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "たまご",
+            "text": "みなさんよく効くんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つみれ",
+            "text": "えーーー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "カンガルー",
+            "text": "起きたら終わってるのってラッキーですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "たまご",
+            "text": "みんななるんですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つみれ",
+            "text": "確かに、ラッキー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "カンガルー",
+            "text": "ホント気持ちよく眠れて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "つみれ",
+            "text": "それは絶対体験したいレベル",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "カンガルー",
+            "text": "気持ちよく起きれます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "たまご",
+            "text": "やってみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "カンガルー",
+            "text": "2時間くらいの睡眠なのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "カンガルー",
+            "text": "2時間も寝てないかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "たまご",
+            "text": "結構深い眠りなんですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "カンガルー",
+            "text": "でもあのストレッチャー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "たまご",
+            "text": "どういう原理なんだろ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "カンガルー",
+            "text": "の上で寝るんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "たまご",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "カンガルー",
+            "text": "周りにそんな人沢山いて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つみれ",
+            "text": "ああ、検査ですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "カンガルー",
+            "text": "ちょっと異様な風景ですけど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たまご",
+            "text": "みんな寝てるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "たまご",
+            "text": "実験みたいな雰囲気",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "カンガルー",
+            "text": "年に一回は経験したい",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "カンガルー",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

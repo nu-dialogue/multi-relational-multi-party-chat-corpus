@@ -1,0 +1,798 @@
+{
+    "dialogue_id": "B14402",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "いるか",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "いるか",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "いるか",
+            "text": "お花見のご予定とかありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "お花見…行けるかなあ今年は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "えのき",
+            "text": "と思っています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか 父の実家に菜の花見に行きます！",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき いいね！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき 菜の花！素敵ですね！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "てばさき",
+            "text": "桜の方は近所の小学校や公園で済ませます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき でもてばさんは、菜の花アレルギーだよね？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "いるか",
+            "text": "ご実家近いんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "いるか",
+            "text": "@えのき えっ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "えのき",
+            "text": "@いるか 電車で1時間半くらいな感じです",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 今年は勝つ！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "えのき",
+            "text": "いや…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "いるか",
+            "text": "@えのき 結構お近い！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "えのき",
+            "text": "気合い入れても勝てないから…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 初挑戦にして勝利！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "えのき",
+            "text": "@いるか ご実家は遠いんですか？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき 怖い・・・じゅびじゅびになって帰ってきますよ・・・",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "えのき",
+            "text": "@いるか 若さゆえの無謀です…",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "いるか",
+            "text": "@えのき 実家は自転車で行ける距離です！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか うっ",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "えのき",
+            "text": "@いるか めっちゃ近いですね！",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "いるか",
+            "text": "敗北ボクサーみたいになって帰ってきますよ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "えのき",
+            "text": "負ける前提",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか 私はまだ実家住まいです！これからもです！",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "えのき",
+            "text": "そんな宣言要らない…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "いるか",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 一人暮らしやだぁ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "えのき",
+            "text": "はやく嫁に行ってほしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "えのき",
+            "text": "早くジジババトークにまざりたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき 甘えられるときに甘えときましょ・・・！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき やだぁ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "いるか",
+            "text": "@えのき あ～～～～",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "えのき",
+            "text": "職場で、最近孫が産まれた人がいて、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 孫は妹に淡い期待を抱いといて",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "えのき",
+            "text": "もうでれっでれです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき 淡い期待笑",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "えのき",
+            "text": "責任のない赤ちゃんをだっこしたい…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "いるか",
+            "text": "でれっでれになりますよね・・・尊いあかちゃん・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき お姉さまはもう次元が一つ下の旦那捕まえちゃったし",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "えのき",
+            "text": "都合よく可愛がりたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき それな",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき じげん・・・？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "えのき",
+            "text": "@いるか 二次元です",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "えのき",
+            "text": "しかも重婚してるです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "いるか",
+            "text": "@えのき それは、捕まえたという・・・？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか 姉には旦那と嫁がいます",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "えのき",
+            "text": "日本語が不適切",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき 重婚ですね？？？？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "えのき",
+            "text": "翻訳機械が混乱する",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか 重症です",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "いるか",
+            "text": "@えのき 笑",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "えのき",
+            "text": "@いるか 推しキャラとかいますか？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "いるか",
+            "text": "@えのき います！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "@いるか どなたか聞いてもいいですか！？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私は特定の人じゃなく満遍なく推してます",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 聞いてない",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 頑張って場を繋げようと…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき すごい！博愛者！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "誰でも愛せるから誰も愛さないんだよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 関係性が好き",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てばさき",
+            "text": "なのよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "えのき",
+            "text": "あー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "いるか",
+            "text": "私は、安室さんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "えのき",
+            "text": "それは…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "いるか",
+            "text": "日本が恋人ですが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか コナンですかー",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき そうです！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "えのき",
+            "text": "楽しそうですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "いるか",
+            "text": "@えのき えのきさんの推しはどなたですか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか 安室さんは正直勤務時間が気になります",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき 確かに笑",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "いるか",
+            "text": "喫茶店でアルバイトもして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "いるか",
+            "text": "いつ働いているのか・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか ハムサンドすごい推されて",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "てばさき",
+            "text": "ちょっと食べてみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "@いるか 私はよくてばさんのハマっている漫画に興味ない。って言って、",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "えのき",
+            "text": "母は何に興味があるの？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "えのき",
+            "text": "って言われます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき ハムサンド！作りましたね！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき なにに興味があるの？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "いるか",
+            "text": "@えのき あ～～～",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "えのき",
+            "text": "三次元なドラマしか見ないんだ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "えのき",
+            "text": "ごめんね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 父？あ、やっぱいいやうざかった",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "てばさき",
+            "text": "母が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "えのき",
+            "text": "微妙",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "いるか",
+            "text": "お",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "いるか",
+            "text": "あれ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "それはそれとして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 微妙というのもどうなの",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "いるか",
+            "text": "惚気が始まるかと・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "すごいことを思いついたんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ろくなことではないと予知",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "いるか",
+            "text": "@えのき なんですか？！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "いるか",
+            "text": "わくわく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "えのき",
+            "text": "パラソル天動説ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "いるか",
+            "text": "？？？？？？？？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "いるか",
+            "text": "なんて・・・？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき パラソルは仮に動いていないと！？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "えのき",
+            "text": "すみません、谷山浩子さんが好きなので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき てかその場合は気がついたが正しい",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "えのき",
+            "text": "親子で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき すみません…",
+            "mention_to": [
+                "てばさき"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "いるか",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,732 @@
+{
+    "dialogue_id": "B14607",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "カンガルー",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "カンガルー",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "カンガルー",
+            "text": "桜のお菓子が出始めましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "えのき",
+            "text": "いろいろ食べたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "えのき",
+            "text": "桜餅とか…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "カンガルー",
+            "text": "私この時期桜のお菓子食べるの楽しみで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "えのき",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "えのき",
+            "text": "今の時期しか食べられないですし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "てばさき",
+            "text": "あれ、送れてます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "カンガルー",
+            "text": "桜餅も道明寺が好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "てばさき",
+            "text": "桜餅…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "カンガルー",
+            "text": "桜餅",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "えのき",
+            "text": "私も道明寺派ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "カンガルー",
+            "text": "送れてますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "てばさき",
+            "text": "どっちがどっちかわかんないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき やはり！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "えのき",
+            "text": "まあ、あればどっちでも食べますけれど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "カンガルー",
+            "text": "@てばさき 道明寺は餅米の粒々のやつ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 道明寺がどっちのやつです？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "えのき",
+            "text": "自分で選ぶとなったら、ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー なるほど",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき 子供の頃、桜の葉が苦手でしたが",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "カンガルー",
+            "text": "今は絶対に必須ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "えのき",
+            "text": "@カンガルー 確かに…",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 桜餅はどっちでも美味しければ好きです、葉っぱは食べない派ですが",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "えのき",
+            "text": "小さい子には不評かも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "カンガルー",
+            "text": "で、柏餅の柏の葉も食べれるのかな？と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "えのき",
+            "text": "でも、大人になると、あの葉っぱがいい。ってなるんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "カンガルー",
+            "text": "一度試しましたよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 大人にはなりたくないものだなぁ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "えのき",
+            "text": "@カンガルー 食べられました？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 柏の葉はダメな方ですよ確か",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき 食べれませんでした",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "えのき",
+            "text": "ですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー そりゃそうです",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "えのき",
+            "text": "柏の葉っぱって、本当はものすごく大きいらしいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "カンガルー",
+            "text": "残念でしたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき そうなんですか！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "てばさき",
+            "text": "桜餅の一緒に入ってる草餅も好きです、なんならそっちの方が好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "長さ３０センチを越すものもあるらしいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "カンガルー",
+            "text": "あれは柏餅用？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "えのき",
+            "text": "まだ小さい葉っぱだったんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "カンガルー",
+            "text": "@てばさき スーパーのやつですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき てばさんは、わりと草餅好きだよね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ほのかな草の風味がなんか好きです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "カンガルー",
+            "text": "@てばさき 草餅系も美味しいですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき よもぎは？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "えのき",
+            "text": "好き？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ちょっとわかんない",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "カンガルー",
+            "text": "よもぎで一回蓬餅作ってみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 草餅の草ってよもぎじゃないんだ…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "えのき",
+            "text": "@カンガルー 洋風のスイーツなら何がお好きですか？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "カンガルー",
+            "text": "よもぎってその辺に生えてますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 洋菓子かー",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき 洋菓子は",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "カンガルー",
+            "text": "何だろ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "えのき",
+            "text": "なんか、すごい美味しい生クリームをたっぷり使ったなにかを食べたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "カンガルー",
+            "text": "何でも美味しいですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "えのき",
+            "text": "ケーキでも、シュークリームでも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 私マカロンとか好きです",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "てばさき",
+            "text": "ランドグシャも名前が好き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき マカロン推しきた",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "カンガルー",
+            "text": "シュークリームはシュークリームでも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "カンガルー",
+            "text": "パッカーン！と開いてる生クリームたっぷりのやつがいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき クッキーシューと普通のシューだとどっち派？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 挟むやつですか",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "えのき",
+            "text": "クッキー派かな…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "えのき",
+            "text": "どっちでも美味しくいただきますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ザクザクしてて美味しいよね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "カンガルー",
+            "text": "@てばさき そんな感じです",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき わかりみ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "てばさき",
+            "text": "ビアードパパとか美味しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "カンガルー",
+            "text": "クッキーシューのザクザクしたやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "えのき",
+            "text": "そのへんにあって買いやすいしねパパ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "てばさき",
+            "text": "he is our ダディ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "カンガルー",
+            "text": "名前忘れたけど一時流行ってる店があったな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 私たちのダディ！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "えのき",
+            "text": "@カンガルー えー、一度食べてみたいです、美味しいシュークリーム",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "カンガルー",
+            "text": "zakzakシューだったかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー ザクザク…！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "えのき",
+            "text": "クロッカンシュー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "カンガルー",
+            "text": "忘れちゃいました　新宿にあって買いに行ったのは覚えてるんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき クロ…？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "えのき",
+            "text": "見かけたことないけど、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "近所にあったらよかった…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "カンガルー",
+            "text": "あと、最近、ローソンで売ってる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "えのき",
+            "text": "ローソンなら…！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー なんと！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "カンガルー",
+            "text": "バスクチーズケーキが人気だそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "バスクチーズケーキすごい人気らしいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー ああ、バスチーですか",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "カンガルー",
+            "text": "見つけたらラッキーみたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "一時期買えなかったくらい…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "カンガルー",
+            "text": "@てばさき 知ってますか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー なんか人気らしいってことは知ってます",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "カンガルー",
+            "text": "私、最近2回くらい買いました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "カンガルー",
+            "text": "たまたま？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "えのき",
+            "text": "最近はわりと置いてあるんじゃないかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "カンガルー",
+            "text": "あ、あるんですねー",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "カンガルー",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

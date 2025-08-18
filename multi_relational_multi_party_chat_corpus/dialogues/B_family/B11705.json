@@ -1,0 +1,676 @@
+{
+    "dialogue_id": "B11705",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ぱんだ",
+        "たまねぎ",
+        "にんじん"
+    ],
+    "relationship": [
+        "たまねぎ",
+        "にんじん"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ぱんだ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまねぎ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "にんじん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ぱんだ",
+            "text": "よく作る料理は何ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぱんだ カレー？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ぱんだ",
+            "text": "@たまねぎ カレー！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たまねぎ",
+            "text": "率高い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ぱんだ",
+            "text": "お肉は豚肉派？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "たまねぎ",
+            "text": "両方ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "にんじん",
+            "text": "二つ作ります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ぱんだ",
+            "text": "一度に？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ぱんだ",
+            "text": "２種類？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "たまねぎ",
+            "text": "そーです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "にんじん",
+            "text": "辛口と甘口！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ぱんだ",
+            "text": "すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ぱんだ",
+            "text": "あ、なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "にんじん",
+            "text": "甘口は挽肉！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ぱんだ",
+            "text": "色んなカレーがあるけれど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "にんじん",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ぱんだ",
+            "text": "挽肉！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "にんじん",
+            "text": "子供用",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ぱんだ",
+            "text": "普通のカレーが1番好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "にんじん",
+            "text": "わかります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ぱんだ",
+            "text": "挽肉だと食べやすいですものね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ぱんだ",
+            "text": "インドカレーとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "たまねぎ",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ぱんだ",
+            "text": "たまにで良いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "にんじん",
+            "text": "専門店で食べると美味しいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ぱんだ",
+            "text": "何気にバーモントカレーの甘口が1番好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "にんじん",
+            "text": "甘口はうちもバーモントかも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ぱんだ",
+            "text": "小さい頃、カレーの王子様に憧れもしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "にんじん",
+            "text": "あ、わかります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ぱんだ",
+            "text": "人参が星の形で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "にんじん",
+            "text": "はいはい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "たまねぎ",
+            "text": "憧れたー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ぱんだ",
+            "text": "母に頼んだら普通の人参で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ぱんだ",
+            "text": "ガッカリしたのが思い出です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ぱんだ",
+            "text": "これじゃない！って怒りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "にんじん",
+            "text": "今日カレーにしようかなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "にんじん",
+            "text": "星型の",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ぱんだ",
+            "text": "母は苦笑いしてましたけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "たまねぎ",
+            "text": "星型にするの手間ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ぱんだ",
+            "text": "@にんじん ぜひ！絶対に喜びます！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ぱんだ",
+            "text": "@たまねぎ そうですよねー",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "にんじん",
+            "text": "ひな祭りの時とかいいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ぱんだ",
+            "text": "クッキーの形でやれば簡単なのですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ぱんだ",
+            "text": "それすらめんどくさい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "にんじん",
+            "text": "確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ぱんだ",
+            "text": "ひな祭り！ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "にんじん",
+            "text": "気合い入れないと！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "にんじん",
+            "text": "準備が大変！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ぱんだ",
+            "text": "ここのところ雛人形出してないなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "たまねぎ",
+            "text": "食べる専門！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ぱんだ",
+            "text": "誰か作って欲しいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ぱんだ",
+            "text": "星型！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "にんじん",
+            "text": "娘さんにやってもらいましょ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ぱんだ",
+            "text": "娘はもう11歳なんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "たまねぎ",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ぱんだ",
+            "text": "喜ぶかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "たまねぎ",
+            "text": "絶対！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ぱんだ",
+            "text": "星型の人参！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "にんじん",
+            "text": "気づくかなー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ぱんだ",
+            "text": "反応見てみよう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ぱんだ",
+            "text": "気がつかなかったりして！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "にんじん",
+            "text": "そのまま食べたらショック笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ぱんだ",
+            "text": "そしたらしつこく何でも星型にしてやろうかな！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "にんじん",
+            "text": "たまーにハートも笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ぱんだ",
+            "text": "ポテトサラダとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "にんじん",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "たまねぎ",
+            "text": "気づくまで！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ぱんだ",
+            "text": "子供が小さい頃よくやりました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "たまねぎ",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ぱんだ",
+            "text": "ハートと星型！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "たまねぎ",
+            "text": "バレンタインとかねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ぱんだ",
+            "text": "七夕の時とかも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "にんじん",
+            "text": "行事満載ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ぱんだ",
+            "text": "結構無反応だったんですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "にんじん",
+            "text": "あらーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ぱんだ",
+            "text": "覚えてるかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "たまねぎ",
+            "text": "きっと覚えてますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ぱんだ",
+            "text": "聞いてみます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "たまねぎ",
+            "text": "大人になっていってくれるやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "たまねぎ",
+            "text": "あの時さーって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ぱんだ",
+            "text": "覚えてくれていたらやり甲斐があったって事で！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "にんじん",
+            "text": "わかるー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "にんじん",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "にんじん",
+            "text": "大人になっての昔話楽しいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "にんじん",
+            "text": "飲みながらとか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ぱんだ",
+            "text": "母は私がガッカリしたのをみて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "にんじん",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ぱんだ",
+            "text": "次は星型にしてくれました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "にんじん",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "にんじん",
+            "text": "素敵なママ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "にんじん",
+            "text": "覚えててくれたんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "たまねぎ",
+            "text": "偉大だわー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ぱんだ",
+            "text": "偉そうに、そう！これだよーって言ったの覚えてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ぱんだ",
+            "text": "母は偉大",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "にんじん",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "にんじん",
+            "text": "暖かい家庭だったんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ぱんだ",
+            "text": "当時、クッキーの形なんて無くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ぱんだ",
+            "text": "めちゃくちゃ大変だったかと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "にんじん",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "にんじん",
+            "text": "私も泣けてきました笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "ぱんだ",
+            "text": "星形も微妙でしたが",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ぱんだ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまねぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "にんじん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

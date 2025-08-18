@@ -1,0 +1,698 @@
+{
+    "dialogue_id": "B14706",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "コアラ",
+        "たまご",
+        "つみれ"
+    ],
+    "relationship": [
+        "たまご",
+        "つみれ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "コアラ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまご",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つみれ",
+            "text": "おはようござます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "コアラ",
+            "text": "今日こちらはいいお天気です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "たまご",
+            "text": "快晴です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つみれ",
+            "text": "長野もいい天気です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "コアラ",
+            "text": "昨日は朝雪がうっすら積もってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "たまご",
+            "text": "良い天気で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "たまご",
+            "text": "気持ちがいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "たまご",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "コアラ",
+            "text": "本当に空気は冷たいですがいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "コアラ",
+            "text": "そろそろお花見シーズンですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "たまご",
+            "text": "はいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "コアラ",
+            "text": "行かれてますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "つみれ",
+            "text": "@コアラ お花見行きますか？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "たまご",
+            "text": "お花見シーズンです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "コアラ",
+            "text": "@つみれ はい！私、大の花見好きです",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "たまご",
+            "text": "最近は行けてないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "コアラ",
+            "text": "@たまご あっ、全く？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "たまご",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "つみれ",
+            "text": "私は毎年、フラッといく感じです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "たまご",
+            "text": "そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "たまご",
+            "text": "大学に入ってから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "つみれ",
+            "text": "@コアラ お花見",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "コアラ",
+            "text": "近くに小さな用水路があって本当に地元民しか行かないのですが、毎年いきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "たまご",
+            "text": "あんま行かなくなりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "コアラ",
+            "text": "@たまご でも学校の中って桜咲いてそう",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "たまご",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "コアラ",
+            "text": "あまり見る時間もなく？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たまご",
+            "text": "咲いてたかも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つみれ",
+            "text": "学校って桜の木ありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "たまご",
+            "text": "なんとなく行ってないだけです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "コアラ",
+            "text": "@つみれ はい、ただ最近小学校とか散ってますよね",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "コアラ",
+            "text": "入学式",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "たまご",
+            "text": "道路の桜を見かける程度です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "たまご",
+            "text": "咲くのが早いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "つみれ",
+            "text": "たまごの通ってた小学校は桜綺麗でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "コアラ",
+            "text": "葉桜の前で寂しい写真撮りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "たまご",
+            "text": "地球温暖化の影響で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "コアラ",
+            "text": "@つみれ お式の時と咲いてましたか？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "つみれ",
+            "text": "入学式散っちゃうんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "たまご",
+            "text": "小学校の桜綺麗でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "コアラ",
+            "text": "@たまご いいですねー",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たまご",
+            "text": "ちっちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "コアラ",
+            "text": "温暖化、ありますよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つみれ",
+            "text": "どんどん桜咲くの早くなってるから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "コアラ",
+            "text": "全てが前倒し",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "コアラ",
+            "text": "そうそう梅と同時期とか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "たまご",
+            "text": "式の時さけばベストなのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "コアラ",
+            "text": "これどっち？みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "たまご",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つみれ",
+            "text": "卒業式に咲いてるくらいになりそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "たまご",
+            "text": "早すぎますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "コアラ",
+            "text": "@たまご 昔はきっとジャストだったんでしょうね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "コアラ",
+            "text": "@つみれ そうそう！卒業式の方が間に合う",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "たまご",
+            "text": "一周回ってそうなりそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "たまご",
+            "text": "@コアラ たしかに！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "コアラ",
+            "text": "ですよね、そのうち咲かなくなりそうで怖い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つみれ",
+            "text": "@コアラ 私の入学式の写真、桜咲いてますよ",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "たまご",
+            "text": "それは嫌ですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "たまご",
+            "text": "今年は見に行きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "たまご",
+            "text": "いいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "コアラ",
+            "text": "本当嫌ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "つみれ",
+            "text": "桜咲かないって悲しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "たまご",
+            "text": "入学式で咲くのが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "たまご",
+            "text": "入学式っぽくて良い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "コアラ",
+            "text": "歩ける範囲、公園とかでもいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "たまご",
+            "text": "お花見気持ちいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "つみれ",
+            "text": "夜桜とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "たまご",
+            "text": "何か食べながら見たいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "コアラ",
+            "text": "@たまご 昔はそれこそママ友と子供たちとお花見しました",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "たまご",
+            "text": "おにぎりとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "コアラ",
+            "text": "お酒なしですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "たまご",
+            "text": "良いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つみれ",
+            "text": "@コアラ お弁当持って？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "コアラ",
+            "text": "@たまご ビニールシート敷いてね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "たまご",
+            "text": "夜桜も綺麗！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "たまご",
+            "text": "ザ花見ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "コアラ",
+            "text": "@つみれ はい、うちの近くにお花見弁当コーナーあってみんなで買いました",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "コアラ",
+            "text": "作らない笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "たまご",
+            "text": "そんなコーナーが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "コアラ",
+            "text": "主婦は作りたくない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つみれ",
+            "text": "私も作りません笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "コアラ",
+            "text": "@たまご 遠い場所のお弁当とか特別にありました",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "コアラ",
+            "text": "選ぶのも楽しくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "たまご",
+            "text": "いいですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "コアラ",
+            "text": "@たまご あっ、でもお酒飲まれますか？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "たまご",
+            "text": "お弁当食べながらお花見最高",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "コアラ",
+            "text": "それならほどほどに飲みながらもいいかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "たまご",
+            "text": "飲みます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "つみれ",
+            "text": "おでん買ったり、ラーメン買ったりします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "コアラ",
+            "text": "@たまご ビール派ですか？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "たまご",
+            "text": "ありですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "たまご",
+            "text": "ビール派です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "コアラ",
+            "text": "@つみれ 美味しそう",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまご",
+            "text": "おでん渋",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "コアラ",
+            "text": "@たまご ビールなら缶で飲めるし",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "たまご",
+            "text": "たしかに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "つみれ",
+            "text": "そこにお酒があれば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "コアラ",
+            "text": "お花見ビールありですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "たまご",
+            "text": "最高花見",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "つみれ",
+            "text": "なお良しです",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "コアラ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 2,
+            "satisfaction": 3
+        }
+    ]
+}

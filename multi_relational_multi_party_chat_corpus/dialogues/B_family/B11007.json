@@ -1,0 +1,728 @@
+{
+    "dialogue_id": "B11007",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ポテト",
+        "こんぶ",
+        "ちくわ"
+    ],
+    "relationship": [
+        "こんぶ",
+        "ちくわ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ポテト",
+            "text": "こんにちは～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "こんぶ",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ちくわ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "こんぶ",
+            "text": "今日久しぶりにミスドたべました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ポテト",
+            "text": "お！いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "こんぶ",
+            "text": "朝からですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ちくわ",
+            "text": "昨日買ってきたね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ポテト",
+            "text": "@こんぶ 何が好きですか？",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "こんぶ",
+            "text": "昨日旦那が買ってきてくれて！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "こんぶ",
+            "text": "私、本当にドーナツ好きで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こんぶ",
+            "text": "なんでも好きってくらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "こんぶ",
+            "text": "全種類好きです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ポテト",
+            "text": "@こんぶ そうなんですね！ドーナッツ美味しい",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ちくわ",
+            "text": "久々に行ったらミスドがあったからねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "こんぶ",
+            "text": "でも、値上がりしたからなかなか、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ ほんまに全種類すきやね！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ポテト",
+            "text": "私、エンゼルクリームが好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "こんぶ",
+            "text": "そう！！大好き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ちくわ",
+            "text": "@ポテト 僕も好きです！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "こんぶ",
+            "text": "@ポテト エンゼルクリーム！！！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "こんぶ",
+            "text": "私も好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ポテト",
+            "text": "@こんぶ たしかに気軽に買えなくなったかも・・・",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ちくわ",
+            "text": "生クリームが好きなんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ポテト",
+            "text": "@ちくわ わかります！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "こんぶ",
+            "text": "クリームの量の絶妙さが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ポテト",
+            "text": "生クリーム美味しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ちくわ",
+            "text": "ケーキとかも全部生クリームあれば！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "こんぶ",
+            "text": "ね！ちょうど良くて美味しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ちくわ",
+            "text": "なんでも食べれます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "こんぶ",
+            "text": "私昔は、チョコレートケーキ派だったんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ちくわ",
+            "text": "本当に久々に食べましたけど美味かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "こんぶ",
+            "text": "今では、生クリームも大好きに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ポテト",
+            "text": "@こんぶ そうなんですね！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "こんぶ",
+            "text": "あとは、安定のポンデリングとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ポテト",
+            "text": "うちの旦那は、ゴールデン・・・あのつぶつぶのがすきです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "こんぶ",
+            "text": "ココナッツついたチョコとかも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ ポンデリングは、必須やね！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "こんぶ",
+            "text": "あーー！わかります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "こんぶ",
+            "text": "私も好きですよ！ゴールデンチョコレート！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ポテト",
+            "text": "@こんぶ ポンデリングは、娘が好きです！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ちくわ",
+            "text": "やっぱりみんなミスドは好きなんだねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ちくわ",
+            "text": "全国共通ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "こんぶ",
+            "text": "@ポテト ポンデははずせないですね！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "こんぶ",
+            "text": "でも、なかなか、行く機会がないから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ポテト",
+            "text": "@こんぶ こんぶさん分かるんですね・・・私はあのつぶつぶの良さが分からず・・・！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ ポンデって略すぐらいマニアか。",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こんぶ",
+            "text": "あーー！口に残る感じがあまりですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ポテト",
+            "text": "ポンデは安定して美味しい・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ポテト",
+            "text": "@こんぶ ですです！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "こんぶ",
+            "text": "ついポンデと、、笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ポテト",
+            "text": "じゃりじゃり・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "こんぶ",
+            "text": "@ポテト うんうん。それもわかります",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ちくわ",
+            "text": "つぶつぶ残るの僕もあまり好きではないです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "こんぶ",
+            "text": "そーいう方もいそうだなーって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ちくわ",
+            "text": "薬とかもそういうのありますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "こんぶ",
+            "text": "んじゃあ、話かわりますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "こんぶ",
+            "text": "スイカバーとかも好きじゃないです？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "こんぶ",
+            "text": "あのアイスにチョコが入ってる感じ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ポテト",
+            "text": "@こんぶ スイカバー！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ちくわ",
+            "text": "でた。スイカバー。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "こんぶ",
+            "text": "冷たいのに、チョコがのこるかんじが、私は逆に苦手です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ちくわ",
+            "text": "ガキの頃のストーリーがある。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ポテト",
+            "text": "チョコのやつ・・・！あれも気になりますが、ゴールデンほどじゃないです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "こんぶ",
+            "text": "あ、そうなんですね！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ちくわ",
+            "text": "僕はガキの頃、スイカと思っていたから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ちくわ",
+            "text": "チョコは種だと思い、外に出していました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ポテト",
+            "text": "@ちくわ あっ・・・",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "こんぶ",
+            "text": "@ポテト ほんとのスイカだと？",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ポテト",
+            "text": "チョコレートが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ちくわ",
+            "text": "途中で親にチョコ！！と言われ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "こんぶ",
+            "text": "それは、面白すぎる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ちくわ",
+            "text": "食べ出しました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ポテト",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "こんぶ",
+            "text": "本当に信じてるのが笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "こんぶ",
+            "text": "メロンバーみたいなのもありませんでしたっけ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ポテト",
+            "text": "@こんぶ 確かに！スイカそんなにシャーベットじゃない・・！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ちくわ",
+            "text": "メロンバーね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ポテト",
+            "text": "メロンバー！あったかも・・・？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ちくわ",
+            "text": "なんか聞いたことあるかも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "こんぶ",
+            "text": "ありましたよね！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ポテト",
+            "text": "メロンはカップに入ってるものもありましたね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こんぶ",
+            "text": "箱で買った時、なんか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "こんぶ",
+            "text": "2種類入ってたようです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ちくわ",
+            "text": "メロンのケースのシャーベットとかね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "こんぶ",
+            "text": "あーー！ありました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ちくわ",
+            "text": "なんか色々あるよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "こんぶ",
+            "text": "あれも食べたことあります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ポテト",
+            "text": "@ちくわ そうそう！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "こんぶ",
+            "text": "メロンカップにはいったやつ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ちくわ",
+            "text": "@ポテト ありましたよね！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "こんぶ",
+            "text": "あと、みかんみたいなのありませんでした？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ちくわ",
+            "text": "カップを洗って、遊んでました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ポテト",
+            "text": "ありましたね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ポテト",
+            "text": "がっつりみかん？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こんぶ",
+            "text": "私も！カップ洗ってあそんでた！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "こんぶ",
+            "text": "ガツンとみかん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ポテト",
+            "text": "がつんとみかん？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ちくわ",
+            "text": "がつんとみかんー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ポテト",
+            "text": "あ、そっちだった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ちくわ",
+            "text": "あれ好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "こんぶ",
+            "text": "そう！！！ガツンとみかんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ポテト",
+            "text": "あれ好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ポテト",
+            "text": "わたしも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "こんぶ",
+            "text": "あれ美味しいですよねーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "ちくわ",
+            "text": "僕は冷凍みかんが好きなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "こんぶ",
+            "text": "しっかりみかんがはいって！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "ちくわ",
+            "text": "みかんを凍らすという！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ポテト",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "こんぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ちくわ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

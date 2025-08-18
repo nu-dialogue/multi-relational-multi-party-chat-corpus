@@ -1,0 +1,794 @@
+{
+    "dialogue_id": "B10704",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "りんご",
+        "つくね",
+        "しらたき"
+    ],
+    "relationship": [
+        "つくね",
+        "しらたき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "りんご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つくね",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらたき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "りんご",
+            "text": "ペットとかいますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つくね",
+            "text": "飼ってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "しらたき",
+            "text": "猫飼ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "りんご",
+            "text": "@つくね ねこちゃん！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 癒しですー！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 私猫ちゃん好き",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 何か飼ってますか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "りんご",
+            "text": "@つくね でもわんちゃん買ってます",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 可愛いですよね！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 柴犬ですよー",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "つくね",
+            "text": "@りんご え！？笑",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご シバ犬！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "しらたき",
+            "text": "俺も犬派でしたが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "しらたき",
+            "text": "猫派になりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 主人が犬はなんです",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "つくね",
+            "text": "@りんご そうなんですね！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つくね",
+            "text": "小さい頃は犬飼ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき うちは逆ですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "りんご",
+            "text": "@つくね かわいいですよね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご お！じゃあ猫派から犬派ですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき です、です！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "つくね",
+            "text": "@りんご かわいいです！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "つくね",
+            "text": "ただ、散歩が…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つくね",
+            "text": "で、犬飼うのは諦めてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "りんご",
+            "text": "@つくね そうなんでよね、毎日お散歩大変",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 実家ではチワワ飼ってて",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "しらたき",
+            "text": "今はいなんですけど、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき おーチワワかわいい",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "つくね",
+            "text": "@りんご ですよね…",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき あれ、お空に？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "つくね",
+            "text": "毎日がしんどい！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご お空にです！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "しらたき",
+            "text": "もう数年経ちますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "りんご",
+            "text": "@つくね うちは柴犬なんですが事故にあって",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき そうだよね…",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "しらたき",
+            "text": "事故ですか！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 車椅子でお散歩してます！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "つくね",
+            "text": "@りんご ワンちゃんの車椅子！？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき わんちゃんの車椅子です！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つくね",
+            "text": "足につけるやつですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 命があってなによりです",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "りんご",
+            "text": "@つくね そうなんです！特注でつくりました！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 特注なんですね！？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 本当その通りで涙でました",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "つくね",
+            "text": "テレビで見た事あります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご そうですよね、、、",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "しらたき",
+            "text": "どんな形でも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "しらたき",
+            "text": "一緒に過ごせるのが幸せです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 志村動物園のお弟子さんがつくりました",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つくね",
+            "text": "@りんご そうなんですか！？それもすごい！！！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 本当にそうです、命あっただけで幸せです",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "つくね",
+            "text": "色なんものの進歩が見えますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご なんで事故にあってしまったんですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "りんご",
+            "text": "@つくね もう7年になります",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 息子が玄関開けたら飛び出してしまって",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 7年ですか…今一緒にいられるのが",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つくね",
+            "text": "本当奇跡ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 室内飼いだったんですね",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 本当に奇跡です！オシッコも自力でできないから",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 本当奇跡だよね！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき そうなんです、逃げて追いかけたから逃げて",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 犬も猫も追いかけられると",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しらたき",
+            "text": "逃げますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "しらたき",
+            "text": "習性なのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき たぶん習性でしょうね、追いつけない！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき うちもこの前飛び出しちゃったよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 焦ったよね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 確かに！足早いし",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "りんご",
+            "text": "@つくね ねこちゃんって外行ったらダメなんでしょう？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 焦った！猫は余計に一旦止まって振り返るしね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "つくね",
+            "text": "@りんご ダメではないですが",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つくね",
+            "text": "帰ってこないです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "りんご",
+            "text": "@つくね えー！帰ってこない！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つくね",
+            "text": "狩りもできますし！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "つくね",
+            "text": "ご飯とかどーにかなるので笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "りんご",
+            "text": "@つくね そっか！狩りしますね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つくね",
+            "text": "相当お腹空いたりしなければ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つくね",
+            "text": "なので血眼になって探しました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 実家で猫飼ってましたが鳥とってきました",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね テラスの下に隠れてたよね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 鳥！？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき よかったですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "つくね",
+            "text": "うちの実家の猫はカエルとかですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "りんご",
+            "text": "@つくね そう、鳩！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "つくね",
+            "text": "鳩！？笑すごっれ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "りんご",
+            "text": "@つくね もうびっくり！自慢そうにもってきた",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "つくね",
+            "text": "大物じゃないですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 自慢げにもってきますよね",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 大物！確かねー",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき なんか誇らしげですよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 主人への貢物！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご そこもかわいいからなんとも言えない笑",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "しらたき",
+            "text": "でも鳩はびっくりするな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "りんご",
+            "text": "@つくね おー、すごい貢物！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つくね",
+            "text": "@りんご お世話になってるからですかね！？笑",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 鳩には参りました",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つくね",
+            "text": "猫なりに笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご そのあと鳩どーしたんですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "りんご",
+            "text": "@つくね なるほどね！あげるねって感じですね",
+            "mention_to": [
+                "つくね"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "りんご",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

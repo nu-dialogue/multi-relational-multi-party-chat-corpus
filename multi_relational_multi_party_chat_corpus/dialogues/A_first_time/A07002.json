@@ -1,0 +1,701 @@
+{
+    "dialogue_id": "A07002",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "てんぷら",
+        "ししとう",
+        "みたらし"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "てんぷら",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ししとう",
+            "text": "こんばんはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "みたらし",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "てんぷら",
+            "text": "最近寒いので外に出ていないんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "てんぷら",
+            "text": "皆さんは何かスポーツされていますか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ししとう",
+            "text": "全然なんです〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "みたらし",
+            "text": "@てんぷら スポーツしないですね",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "てんぷら",
+            "text": "スポーツしない3人ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "てんぷら",
+            "text": "観戦もしませんか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "みたらし",
+            "text": "てんぷらさんもですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ししとう",
+            "text": "観戦もしないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "みたらし",
+            "text": "野球は観戦しますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし おお！野球！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "てんぷら",
+            "text": "スポーツ観戦しない2人と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "みたらし",
+            "text": "子供がすきなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "てんぷら",
+            "text": "野球見る1人ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし なるほど！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ししとう",
+            "text": "お子さんと！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "てんぷら",
+            "text": "プロ野球ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "みたらし",
+            "text": "プロ野球です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "てんぷら",
+            "text": "応援しているチームはありますか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "みたらし",
+            "text": "子供がヤクルトファンなのでヤクルト応援してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし ヤクルト！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "てんぷら",
+            "text": "村上春樹と一緒だ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "てんぷら",
+            "text": "あれ、違うっけ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "みたらし",
+            "text": "神宮と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら まさかの村上春樹の名前がでるとは！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "みたらし",
+            "text": "@てんぷら そうなんですね",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "てんぷら",
+            "text": "神宮ってことは、合っていました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "てんぷら",
+            "text": "念のため、教えてGoogle",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "みたらし",
+            "text": "あとで見てみますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "てんぷら",
+            "text": "Googleも正しいっていっています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ししとう",
+            "text": "困ったときのGoogle先生！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "みたらし",
+            "text": "おお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "みたらし",
+            "text": "いいですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "みたらし",
+            "text": "ウチはAmazon Echoです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし Amazon Echo！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ししとう",
+            "text": "いいなー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "てんぷら",
+            "text": "いいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ししとう",
+            "text": "うちは自力ですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "てんぷら",
+            "text": "うちのGoogleは、ブラウザです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "みたらし",
+            "text": "アレクサ―ってよんでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "てんぷら",
+            "text": "@ししとう 一緒一緒",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし 便利ですね！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "みたらし",
+            "text": "@てんぷら そうなんですね",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "てんぷら",
+            "text": "弟が、アレクサと何かを会話させていました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "みたらし",
+            "text": "@ししとう 便利ですよ。",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら 何か…！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "てんぷら",
+            "text": "Amazon Echoではなかったような",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "みたらし",
+            "text": "テレビも照明も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "てんぷら",
+            "text": "便利そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "みたらし",
+            "text": "操作してくれます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "てんぷら",
+            "text": "照明も？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ししとう",
+            "text": "スマートホームですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "みたらし",
+            "text": "@ししとう ですね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "てんぷら",
+            "text": "どうやってつなげるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "てんぷら",
+            "text": "照明とAmazonくんを",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "みたらし",
+            "text": "赤外線のIOTを買って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "みたらし",
+            "text": "リモコンを登録するとできるんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "てんぷら",
+            "text": "IOTを検索しました、Googleで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "みたらし",
+            "text": "照明はリモコンタイプじゃないとできませんが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "てんぷら",
+            "text": "なるほどなるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら 早速！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "みたらし",
+            "text": "@てんぷら いいですね",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ししとう",
+            "text": "我が家もじつは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ししとう",
+            "text": "スイッチボットというメーカーの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "みたらし",
+            "text": "それですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "みたらし",
+            "text": "@ししとう ",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "てんぷら",
+            "text": "おおお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ししとう",
+            "text": "ハブを使って、玄関の鍵を自動化してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "みたらし",
+            "text": "おおいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ししとう",
+            "text": "締め忘れ対策笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ししとう",
+            "text": "出かけたあとに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ししとう",
+            "text": "しめたかどうか不安になるんです〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "みたらし",
+            "text": "@ししとう 鍵のボットもいいですよね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "てんぷら",
+            "text": "私、もう閉め忘れをデフォルト値に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "みたらし",
+            "text": "みんなやってる！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "てんぷら",
+            "text": "開けるときはどうするんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "てんぷら",
+            "text": "いつも鍵がなかなか見つからないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ししとう",
+            "text": "我が家は指紋認証を活用してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "てんぷら",
+            "text": "スマートな解錠！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "てんぷら",
+            "text": "それいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら すごく便利になりました！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "みたらし",
+            "text": "@ししとう 指紋いいですね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ししとう",
+            "text": "買い物帰りとか、とくに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "みたらし",
+            "text": "おお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "てんぷら",
+            "text": "カバン、探しにくいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "みたらし",
+            "text": "便利そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら ですよね！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "てんぷら",
+            "text": "うち、団地なんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "てんぷら",
+            "text": "できますかね？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら 後づけできますよ！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "てんぷら",
+            "text": "まじですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ししとう",
+            "text": "我が家も普通の玄関ドアだったんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "みたらし",
+            "text": "@ししとう スマホ経由ではなくて",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ししとう",
+            "text": "つけれました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "みたらし",
+            "text": "ドアに指紋認証があるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "てんぷら",
+            "text": "Google先生に聞いたところ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし スマホからも開けられます！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "てんぷら",
+            "text": "SwitchBotスマートロック指紋認証パッド",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら そうそう！それそれ！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "てんぷら",
+            "text": "スマホからも指紋認証出来るんですか",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "てんぷら",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ししとう",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "みたらし",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

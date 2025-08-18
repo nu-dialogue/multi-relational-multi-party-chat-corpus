@@ -1,0 +1,732 @@
+{
+    "dialogue_id": "B12604",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "くじら",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くじら",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くじら",
+            "text": "中学では何部でしたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "くじら",
+            "text": "私はブラスバンド部でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 文芸部でした",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "えのき",
+            "text": "@くじら 楽器お好きなんですか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "くじら",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "えのき",
+            "text": "@くじら どの楽器でした？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くじら",
+            "text": "中学ではクラリネットでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "えのき",
+            "text": "クラリネット、すごいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "えのき",
+            "text": "触ったことすらないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くじら",
+            "text": "@えのき 何部でしたか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "えのき",
+            "text": "私は美術部でしたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "えのき",
+            "text": "油絵描いたり、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "くじら",
+            "text": "すごいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "えのき",
+            "text": "巨大なトトロのはりぼてを作ったりしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 知らんかった…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くじら",
+            "text": "油絵憧れます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "えのき",
+            "text": "油絵むずかしいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき トトロ…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "えのき",
+            "text": "学校祭の展示用トトロ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くじら",
+            "text": "どんなところが難しいですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 石膏はやった？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "くじら",
+            "text": "水彩とは全然違うのかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "えのき",
+            "text": "なかなか思うように描けないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "くじら",
+            "text": "絵の具が思うようにのらない感じですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "えのき",
+            "text": "のびないというか、水彩のほうがまだましですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "えのき",
+            "text": "今はデジタル一辺倒ですけれども",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 母絵上手いよね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "くじら",
+            "text": "すごいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "えのき",
+            "text": "最近は素材が…充実しているので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "くじら",
+            "text": "@えのき どんな絵を書きますか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "てばさき",
+            "text": "私もペンタブ使えるようになりたい。何なら液タブ欲しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "えのき",
+            "text": "絵が下手でも、絵がうまい人が作ったブラシを使えばいいのよ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "えのき",
+            "text": "@くじら いろいろですね",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "くじら",
+            "text": "デジタルで書くんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "くじら",
+            "text": "面白そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "えのき",
+            "text": "@くじら 絵は描かれますか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 父のパソコンのユーザーアイコン可愛かった",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "えのき",
+            "text": "あー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "くじら",
+            "text": "私も昔お絵描き教室行ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "おえかき教室、どんなことをするんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "えのき",
+            "text": "デッサンとかやります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら いつ頃の話ですか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "くじら",
+            "text": "デッサンやりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "くじら",
+            "text": "小学生、遠い昔",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "くじら",
+            "text": "子供に時々教えます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "えのき",
+            "text": "すごいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "くじら",
+            "text": "いえいえ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "えのき",
+            "text": "お子さんはおいくつですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 小学生のころの刹那の習い事…というやつですか",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "くじら",
+            "text": "@祖母の友達の息子さんが教室開いたとかで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "くじら",
+            "text": "行ってみてとなって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "えのき",
+            "text": "知り合いだと行きやすいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "えのき",
+            "text": "きっかけが大事ですし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "くじら",
+            "text": "優しい先生で楽しかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "くじら",
+            "text": "弟も一緒でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 先生が優しいのはやりやすいですよね",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "えのき",
+            "text": "ごきょうだいで！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "えのき",
+            "text": "先生次第なところありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 弟さんもいらっしゃるんですか",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "くじら",
+            "text": "習い事はそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき はい、います",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "くじら",
+            "text": "高校の先生してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "えのき",
+            "text": "へー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "くじら",
+            "text": "日本史を教えてるとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら　弟さんとの仲はよろしいですか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くじら",
+            "text": "良い方かと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "くじら",
+            "text": "この間もlineで話しました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "えのき",
+            "text": "日本史とかすごいですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 日本史いいですね",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "えのき",
+            "text": "ほぼほぼ覚えてないです日本史",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき 日本史好きですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私はまだかろうじて覚えてる",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "えのき",
+            "text": "てばさんは、まだ一応学生だしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "くじら",
+            "text": "私は世界史が好きで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 高校の歴史はちょっと苦手です",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くじら",
+            "text": "そうですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くじら",
+            "text": "段々難しくなりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら あ、世界史に関する系の漫画はよく読んでました",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "てばさき",
+            "text": "テルマエロマエとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき 面白いですよね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "くじら",
+            "text": "映画でしか見てないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "えのき",
+            "text": "最近また連載してるんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "くじら",
+            "text": "@えのき そうなんですか",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら この間ジャンプラにて続編が連載開始しました",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "えのき",
+            "text": "また映画化するんでしょうかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くじら",
+            "text": "映画化されたら見たいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき また阿部さんかな",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くじら",
+            "text": "阿部寛が好きで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "合ってましたよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "えのき",
+            "text": "顔が濃くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くじら",
+            "text": "濃いのが合ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ルシウスめちゃくちゃ頑固親父になってた",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "えのき",
+            "text": "そうなんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "くじら",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "えのき",
+            "text": "結婚できない男みたいな…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 息子もいました。奥さんは失踪してました",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "えのき",
+            "text": "奥さん…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "えのき",
+            "text": "かわいそう…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "くじら",
+            "text": "それは可愛そうな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "てばさき",
+            "text": "映画化するにしても奥さんの行方が分かってからになるんでしょうね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "えのき",
+            "text": "映画版だと、上戸彩といい感じになっていたのでは？",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くじら",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

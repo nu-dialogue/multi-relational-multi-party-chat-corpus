@@ -1,0 +1,758 @@
+{
+    "dialogue_id": "B10006",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "うさぎ",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うさぎ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うさぎ",
+            "text": "今日暖かいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "そうですね、雨ですけど…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "えのき",
+            "text": "だんだん暖かくなってきましたよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ 朝から雨で憂鬱です…",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "えのき",
+            "text": "今週はずっと天気が悪いみたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "うさぎ",
+            "text": "でもまたさむくなるみたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき わかります！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "えのき",
+            "text": "週末は雪予報まで出てて…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ 三寒四温ですね",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき うわーまた雪？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "えのき",
+            "text": "雪とかさらに憂鬱です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "てばさき",
+            "text": "お外出たくないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "えのき",
+            "text": "出勤だから…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "えのき",
+            "text": "出ないと…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき どうせ娘は期末テスト前なので在宅ですが、嫌ですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "てばさき",
+            "text": "私は大人しくお家でお勉強しときます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき お疲れ様です！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "えのき",
+            "text": "@うさぎ 娘さんはおいくつなんですか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき 高2です！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ そろそろ本格的に志望校決めなきゃですね",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "えのき",
+            "text": "春から受験生ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき そうなんです、、、",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "えのき",
+            "text": "大変ですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき はい、高三です",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "うさぎ",
+            "text": "お二人は親子でいらっしゃるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "えのき",
+            "text": "そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "えのき",
+            "text": "受験は、親も大変ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ 親子です！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 子も大変ですが？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "うさぎ",
+            "text": "えのきさんがお母様？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "えのき",
+            "text": "@うさぎ はい。",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 自分のことじゃん！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ 娘です",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき 学生さんですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ 大学生です！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "えのき",
+            "text": "てばさんは、三姉妹の真ん中なんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき 羨ましい！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "うさぎ",
+            "text": "三姉妹！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ やばい姉とドライな妹です",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "@うさぎ お子さんは、おひとりですか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき はい、のーんびり一人っ子です",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ 一人っ子いいですねぇ",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": "うちはいつもかしましいですよ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 三姉妹なだけに？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき いや、お姉ちゃん欲しかったらしいです！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "えのき",
+            "text": "漢字の成り立ちがよくわかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき 漢字の成り立ち？！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ 姦しいと書きますから",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "えのき",
+            "text": "姦しいでかしましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "うさぎ",
+            "text": "おーーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "うさぎ",
+            "text": "素晴らしい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "えのき",
+            "text": "とりあえず、姉妹仲良くしてくれれば・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき おいくつ離れてるんですか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 悪くはないと思うよ、良いとは言えないかもだけど",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "@うさぎ 3歳ずつ離れてます",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "えのき",
+            "text": "おねえちゃんは今年22歳で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき ちょうどいい感じ？？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ そんな感じです",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "うさぎ",
+            "text": "お年頃！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "中学入学と小学校入学がかぶるので、大変でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき お疲れ母上",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "えのき",
+            "text": "入学式が同じ日で…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき あっ、そういうこともあるんですね！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "うさぎ",
+            "text": "同じ日？？！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "うさぎ",
+            "text": "どうするんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "えのき",
+            "text": "午前は小学校、中学校は午後からでなんとかなりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき えーっ、すごすぎます！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "えのき",
+            "text": "けど、その年、4月なのに雪が降ったんですよね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てばさき",
+            "text": "そんな大変なことが…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき もう涙目ですね、、、",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "うさぎ",
+            "text": "近かったんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "えのき",
+            "text": "電車の距離です…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき ヒェーーつ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "うさぎ",
+            "text": "遅れたり止まったりもなく？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "てばさき",
+            "text": "そういえばお姉さま中学受験してましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "えのき",
+            "text": "電車は動いててよかったです～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "あらかじめ遅れていくと連絡はしてあっのたで、そっと滑り込みました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき さすが！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき うちも中学受験してます",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "えのき",
+            "text": "@うさぎ 中高一貫ですか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "うさぎ",
+            "text": "はい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき なので高校受験はなくて、",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "うさぎ",
+            "text": "これから苦労します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ 受験は久しぶりですか",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "えのき",
+            "text": "お気楽だと思いましたが…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき はい、6年ぶりになりますね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "うさぎ",
+            "text": "姉妹バラバラな感じですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "えのき",
+            "text": "思い思いの学校に行っています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "全員性格が違うので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ 私の大学では中高大一貫のところからわざわざ受験した子とかいましたね",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき それが1番ですよね！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき そうなんだ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "えのき",
+            "text": "いろいろあるね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき おーそうなんですね！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき あの中にいたらやばかったとのことです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "うさぎ",
+            "text": "実は娘も女子大ついてるのですがいきません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "うさぎ",
+            "text": "学部がなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "えのき",
+            "text": "やりたいこともあるだろうし…",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うさぎ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

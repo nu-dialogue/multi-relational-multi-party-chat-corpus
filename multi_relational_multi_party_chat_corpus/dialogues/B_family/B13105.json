@@ -1,0 +1,744 @@
+{
+    "dialogue_id": "B13105",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "くじら",
+        "しらたき",
+        "つくね"
+    ],
+    "relationship": [
+        "しらたき",
+        "つくね"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くじら",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "しらたき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つくね",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くじら",
+            "text": "学生の時、部活何をしていましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つくね",
+            "text": "@くじら バスケ部でした！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "しらたき",
+            "text": "サッカー部です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "つくね",
+            "text": "@くじら は何部でしたか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "くじら",
+            "text": "二人ともスポーツですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "つくね",
+            "text": "そうです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くじら",
+            "text": "私は吹奏楽でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "しらたき",
+            "text": "おー凄いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つくね",
+            "text": "かっこいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つくね",
+            "text": "楽器は何だったんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "くじら",
+            "text": "スポーツするのもかっこいいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "しらたき",
+            "text": "ありがとうございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "しらたき",
+            "text": "モテたくてやってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "くじら",
+            "text": "楽器は中学はクラリネット、高校はアルトサックスです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "くじら",
+            "text": "@しらたき サッカーもてそうですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "つくね",
+            "text": "@くじら 管楽器？というやつですか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つくね",
+            "text": "サックスかっこいい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "くじら",
+            "text": "@つくね そうですね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "くじら",
+            "text": "木管楽器です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "しらたき",
+            "text": "@くじら そこそこモテました！笑",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "くじら",
+            "text": "@しらたき もてたんですね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "つくね",
+            "text": "木管なんですね！管楽器だとフルートとか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "しらたき",
+            "text": "後輩には笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "くじら",
+            "text": "フルートも木管です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 同年代じゃないんだ笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "つくね",
+            "text": "@くじら そうなんですか？じゃあ管楽器って何を指すんですか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つくね",
+            "text": "知らなかった笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "くじら",
+            "text": "後輩にもてるのも良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 少しはモテてかかも！笑",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "くじら",
+            "text": "楽器は木管と金管に分かれるかと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しらたき",
+            "text": "@くじら ファンクラブがあったみたいです笑",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "しらたき",
+            "text": "自分で言うのも恥ずかしですが…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "くじら",
+            "text": "@しらたき それはすごい！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "くじら",
+            "text": "ファンクラブもあるのはすごいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "つくね",
+            "text": "@くじら 金管というんですね！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "つくね",
+            "text": "吹奏楽はお金がかかるイメージです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つくね",
+            "text": "楽器高いですよね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "くじら",
+            "text": "@つくね 金管はトランペットとか",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "しらたき",
+            "text": "@くじら 当時は満更でもなかったです笑",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "しらたき",
+            "text": "髪が崩れるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しらたき",
+            "text": "ヘディングできなかったです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "くじら",
+            "text": "@しらたき もてるのは嬉しいですよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "くじら",
+            "text": "ヘディング出来たらかっこよいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つくね",
+            "text": "@くじら あー！トランペット！華ですね",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "くじら",
+            "text": "私は何故かトランペットは音が出なくて・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "しらたき",
+            "text": "@くじら そうなんですが髪の方が大事でした笑",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 今もじゃん！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "くじら",
+            "text": "髪型にこだわっていたのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "くじら",
+            "text": "今もですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つくね",
+            "text": "@くじら マウスピースが難しそうですね",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "くじら",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "しらたき",
+            "text": "@くじら @つくね 髪のセットは大事！",
+            "mention_to": [
+                "くじら",
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しらたき",
+            "text": "毎朝のルーティーンです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "くじら",
+            "text": "今日もきまってますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "くじら",
+            "text": "うちの子はいつもぼさぼさです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つくね",
+            "text": "@くじら 今日もきまってます！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つくね",
+            "text": "@くじら うち女の子ですがボサボサです笑",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "つくね",
+            "text": "女の子だからもう少しなんとかして欲しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "くじら",
+            "text": "ええ～女の子でも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しらたき",
+            "text": "@くじら 髪セットしたりしないんですよ",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "くじら",
+            "text": "女の子は中学生ぐらいからメークする子もいますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "つくね",
+            "text": "@くじら 今早いですよねー！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "くじら",
+            "text": "姪っ子が私よりばっちりメイクしていて、びっくり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "つくね",
+            "text": "100均で色々揃うし！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "くじら",
+            "text": "100均にもたくさんありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "つくね",
+            "text": "@くじら ばっちりメイクですか！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "つくね",
+            "text": "今の100均すごいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つくね",
+            "text": "ファンデとかもあるし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "くじら",
+            "text": "@つくね 私よりしてると思って",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね いろいろ揃うよね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "しらたき",
+            "text": "娘もよく欲しいってねだるよね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "くじら",
+            "text": "100均は何でもあるので、ついつい行ってしまいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "つくね",
+            "text": "@くじら そうなんですよね…買う物なくても",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つくね",
+            "text": "寄ると買っちゃいます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "くじら",
+            "text": "そうなんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 無駄遣い！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くじら",
+            "text": "これ使えそうとか思って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき @くじら 何かに使えると思って買ってしまう",
+            "mention_to": [
+                "くじら",
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね ほぼ使わないじゃん！笑",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき いやいや！使ってるから",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "くじら",
+            "text": "100均で色々見るのが楽しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "つくね",
+            "text": "楽しいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "つくね",
+            "text": "うちの近くの100均は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つくね",
+            "text": "小さいのと狭くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "くじら",
+            "text": "あまり置いてない感じですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "つくね",
+            "text": "@くじら そうですね、メジャーなものは置いてあります！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 大きい100均だと遠いよね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき そうだねーだから近場で済ませちゃう！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くじら",
+            "text": "大型店は家もちょっと遠いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "つくね",
+            "text": "@くじら そうなんですね！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つくね",
+            "text": "でも大型店の方が品揃えありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "つくね",
+            "text": "在庫も豊富で！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "くじら",
+            "text": "なので大型店に行くと、じっくり見てしまいますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つくね",
+            "text": "@くじら そうなんですよ！子連れだとじっくり見れないので",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つくね",
+            "text": "学校行ってる間にちょちょいと行きます！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "くじら",
+            "text": "確かに子連れだとゆっくりできない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "くじら",
+            "text": "それが良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 確かにゆっくり見れないよね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "くじら",
+            "text": "学校に行っている間に行くのが良いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "つくね",
+            "text": "@くじら ゆっくり物色したいですよね！",
+            "mention_to": [
+                "くじら"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くじら",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

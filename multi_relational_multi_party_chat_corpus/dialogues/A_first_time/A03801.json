@@ -1,0 +1,689 @@
+{
+    "dialogue_id": "A03801",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おにぎり",
+        "ちくわぶ",
+        "うどん"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おにぎり",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ちくわぶ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "うどん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おにぎり",
+            "text": "はじめまして。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "おにぎり",
+            "text": "よろしくお願いいたします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ちくわぶ",
+            "text": "よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おにぎり",
+            "text": "今日は、寒いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "うどん",
+            "text": "寒いですね〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@おにぎり 寒いですねー",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "うどん",
+            "text": "昨日は暖かかったのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "おにぎり",
+            "text": "体調、大丈夫ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "おにぎり",
+            "text": "気温差が激しすぎますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ちくわぶ",
+            "text": "風邪ひきそうです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "うどん",
+            "text": "久々に風邪ひいちゃいました〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "うどん",
+            "text": "気温差すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "おにぎり",
+            "text": "@うどん あらら。。",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@うどん 久々の風邪は辛いですよねー",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "うどん",
+            "text": "そうなんです〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "おにぎり",
+            "text": "インフルエンザもまだまだ多いみたいで。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@おにぎり そうみたいですね",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ちくわぶ",
+            "text": "インフルは辛い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "おにぎり",
+            "text": "学級閉鎖のクラスがある様です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "うどん",
+            "text": "@おにぎり うちの周りもいます〜",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "うどん",
+            "text": "学級閉鎖！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "うどん",
+            "text": "そんなに流行ってるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ちくわぶ",
+            "text": "受験シーズンでかわいそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "うどん",
+            "text": "たしかに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "おにぎり",
+            "text": "なんだか、今年の冬は、ずっと何か流行っていますね。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "うどん",
+            "text": "受験とかぶったら辛すぎる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "おにぎり",
+            "text": "受験生、親も子も体調管理は悩ましいですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ちくわぶ",
+            "text": "とてもシビアですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "おにぎり",
+            "text": "受験生、いらっしゃいませんか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "うどん",
+            "text": "注意してても体調崩しちゃうこともありますしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ちくわぶ",
+            "text": "うち受験生でした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "うどん",
+            "text": "@おにぎり うちはいないです！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "おにぎり",
+            "text": "そうなんですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "おにぎり",
+            "text": "@ちくわぶ もう、終わりました？？",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ちくわぶ",
+            "text": "前期で一応！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "うどん",
+            "text": "@ちくわぶ お疲れさまでした！",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "おにぎり",
+            "text": "おめでとうございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ギリギリでした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ありがとうございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "おにぎり",
+            "text": "ほんと、お疲れさまでした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ちくわぶ",
+            "text": "親も結構きますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "おにぎり",
+            "text": "受かってしまえば、なんでもいいですよね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ちくわぶ",
+            "text": "精神的に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "うどん",
+            "text": "ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@おにぎり ほんとですね！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "おにぎり",
+            "text": "今の大学受験は、親も大変だって聞きました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "おにぎり",
+            "text": "制度を把握するのが一苦労とか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ちくわぶ",
+            "text": "あー確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ガラッと変わりすぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "うどん",
+            "text": "そんなに変わったんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "おにぎり",
+            "text": "うちは高1なんですけど、もう志望校決めろとか言われ、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "うどん",
+            "text": "えー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ちくわぶ",
+            "text": "はやー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "おにぎり",
+            "text": "何がなんだか笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "うどん",
+            "text": "そんなに早く決まらんですよね...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "おにぎり",
+            "text": "やっと高校入ったのに。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "うどん",
+            "text": "変わるだろうし...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ちくわぶ",
+            "text": "決まってれば楽なのはわかるんですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "うどん",
+            "text": "慌ただしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "おにぎり",
+            "text": "@ちくわぶ オープンキャンパスとか結構行きましたか？",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ちくわぶ",
+            "text": "うちはまだ中3なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "おにぎり",
+            "text": "中３ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ちくわぶ",
+            "text": "高校受験でした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "おにぎり",
+            "text": "前期とかあるのですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "うどん",
+            "text": "高校受験も大変そう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ちくわぶ",
+            "text": "今年で終わりみたいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "うどん",
+            "text": "公立か私立かでやきもきしてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ちくわぶ",
+            "text": "来年からは面接と試験があるみたいで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "おにぎり",
+            "text": "え？高校入試で全員面接？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ちくわぶ",
+            "text": "そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "おにぎり",
+            "text": "公立ですよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "うどん",
+            "text": "うちも公立高校、面接あります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@おにぎり そうです！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "おにぎり",
+            "text": "え！うどんさんも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ちくわぶ",
+            "text": "私立も前期面接あります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うどん",
+            "text": "さらーっとした簡単な面接ですが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "おにぎり",
+            "text": "地域差あるのかな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ありそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "うどん",
+            "text": "地域で制度だいぶ違うみたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "おにぎり",
+            "text": "面接は、嫌ですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "うどん",
+            "text": "いや！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@おにぎり 嫌ですねー",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "おにぎり",
+            "text": "話すの得意なお子さんはいいけど。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "うどん",
+            "text": "ほんとですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "うどん",
+            "text": "あがり症だとつらい...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ちくわぶ",
+            "text": "吐いちゃいそうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "うどん",
+            "text": "緊張で体調悪くなりますもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "おにぎり",
+            "text": "今週末、子供の英検の面接なんですけど、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ちくわぶ",
+            "text": "英検に面接あるんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "おにぎり",
+            "text": "練習不足だし、緊張しやすい子なので、心配です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "うどん",
+            "text": "緊張は、いかんともしがたいですよね...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "おにぎり",
+            "text": "英検は、3級から2次試験として面接あるんです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "うどん",
+            "text": "へー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@おにぎり そうなんですね！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "おにぎり",
+            "text": "皆さんは、最近緊張する事なんかありました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "うどん",
+            "text": "ピアノの発表会が緊張しました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "おにぎり",
+            "text": "@うどん うどんさんの？",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "うどん",
+            "text": "そうなんです〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@うどん それは緊張する！",
+            "mention_to": [
+                "うどん"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おにぎり",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ちくわぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "うどん",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

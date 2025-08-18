@@ -1,0 +1,679 @@
+{
+    "dialogue_id": "A04203",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "こまつな",
+        "ちくわぶ",
+        "つぶあん"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "こまつな",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ちくわぶ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つぶあん",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "こまつな",
+            "text": "今年はオリンピックですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "こまつな",
+            "text": "興味ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つぶあん",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@こまつな そうなんですね！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ちくわぶ",
+            "text": "興味なかったです…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "こまつな",
+            "text": "@ちくわぶ パリです",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "つぶあん",
+            "text": "見ちゃいますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ちくわぶ",
+            "text": "見る派なんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つぶあん",
+            "text": "何をってのはないのですが。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "こまつな",
+            "text": "結構好きなんですよ見るのは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ちくわぶ",
+            "text": "いつも知らない間に終わってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "つぶあん",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "こまつな",
+            "text": "@ちくわぶ そうなんですね",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ちゃんと見れば良かったと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ちくわぶ",
+            "text": "後悔はするんですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "つぶあん",
+            "text": "はいはい。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "こまつな",
+            "text": "東京も終わってました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ちくわぶ",
+            "text": "終わってましたねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "こまつな",
+            "text": "あはは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ちくわぶ",
+            "text": "テレビを一切つけないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ニュースもわからない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "つぶあん",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "こまつな",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ちくわぶ",
+            "text": "堂本剛の結婚も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ちくわぶ",
+            "text": "最近知りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "つぶあん",
+            "text": "それは気づかず終わりますね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "こまつな",
+            "text": "それは私も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ちくわぶ",
+            "text": "人づてに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "こまつな",
+            "text": "そういう話題には疎いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ちくわぶ",
+            "text": "取り残されてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "つぶあん",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "こまつな",
+            "text": "@つぶあん 詳しい？",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つぶあん",
+            "text": "@こまつな 詳しくはないです。",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ドラマはみるんですけどねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "つぶあん",
+            "text": "どちらかというと疎い方です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "つぶあん",
+            "text": "ドラマは見るんですか？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "こまつな",
+            "text": "あはは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ワンシーズン前のやつとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ちくわぶ",
+            "text": "撮り溜めてみる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つぶあん",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ちくわぶ",
+            "text": "いっきみです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "こまつな",
+            "text": "あまり見ないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ちくわぶ",
+            "text": "一気に見ないと話がわからない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こまつな",
+            "text": "たまに当たります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "つぶあん",
+            "text": "その方がストレスないかも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "こまつな",
+            "text": "一気見いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ちくわぶ",
+            "text": "どっと疲れますけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "こまつな",
+            "text": "続きが気になるタイプなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@こまつな そうなんですよ",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ちくわぶ",
+            "text": "待てない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "こまつな",
+            "text": "一週間が長くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "こまつな",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つぶあん",
+            "text": "そうですよね。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ちくわぶ",
+            "text": "長い長い笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "こまつな",
+            "text": "ここで終わり？？？って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つぶあん",
+            "text": "@こまつな たしかに！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こまつな",
+            "text": "それで！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ちくわぶ",
+            "text": "予告ですら楽しくなるやつ〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つぶあん",
+            "text": "気になってしょうがない。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "こまつな",
+            "text": "ってなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ちくわぶ",
+            "text": "で、1週間で忘れる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ちくわぶ",
+            "text": "前なんだっけ？って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "つぶあん",
+            "text": "あはは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "こまつな",
+            "text": "映画みたいに一気に完結させたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つぶあん",
+            "text": "確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ちくわぶ",
+            "text": "そうなんですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "こまつな",
+            "text": "かといって毎日はそれも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つぶあん",
+            "text": "うんうん。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こまつな",
+            "text": "朝ドラとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "こまつな",
+            "text": "はまった時は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ちくわぶ",
+            "text": "朝ドラねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つぶあん",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ちくわぶ",
+            "text": "見出すとはまる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "こまつな",
+            "text": "朝時間見て",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "こまつな",
+            "text": "あ、始まっちゃった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "こまつな",
+            "text": "みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ちくわぶ",
+            "text": "朝ドラの時間帯に母に電話すると怒られる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つぶあん",
+            "text": "なるほど、なるほど。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こまつな",
+            "text": "あるあるですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ちくわぶ",
+            "text": "15分待てと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つぶあん",
+            "text": "朝ドラ中ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "こまつな",
+            "text": "わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ちくわぶ",
+            "text": "えーってなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "こまつな",
+            "text": "田舎はみんな見てる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ちくわぶ",
+            "text": "見てる笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "つぶあん",
+            "text": "見てる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ちくわぶ",
+            "text": "99%みてる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "こまつな",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "つぶあん",
+            "text": "高っ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "こまつな",
+            "text": "朝暇なんですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つぶあん",
+            "text": "朝早いんですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こまつな",
+            "text": "私はバタバタで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ちくわぶ",
+            "text": "15分ってのがいいんでしょーね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つぶあん",
+            "text": "バタバタです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ほどよく頭使わない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ちくわぶ",
+            "text": "朝なんて忙しいですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "こまつな",
+            "text": "そうか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つぶあん",
+            "text": "なるほど。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ちくわぶ",
+            "text": "YouTubeとかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "こまつな",
+            "text": "ええ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ショート動画ですよね！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "こまつな",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ちくわぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つぶあん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

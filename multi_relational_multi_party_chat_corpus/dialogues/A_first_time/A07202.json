@@ -1,0 +1,717 @@
+{
+    "dialogue_id": "A07202",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "しじみ",
+        "くらげ",
+        "しらす"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "しじみ",
+            "text": "みなさんは？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "くらげ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらす",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "しじみ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "くらげ",
+            "text": "小学生の娘が先週インフルにかかってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "しじみ",
+            "text": "あらまー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しらす",
+            "text": "えー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "くらげ",
+            "text": "今日、やっと学校に行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "しじみ",
+            "text": "@くらげ 大変でしたね",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くらげ",
+            "text": "@しじみ そうなんです",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "しらす",
+            "text": "@くらげ 大変でしたね",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "しじみ",
+            "text": "高熱でましたか？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くらげ",
+            "text": "１日だけ39度でました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "しじみ",
+            "text": "ありゃ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "くらげ",
+            "text": "@しらす しんどかったです",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "しじみ",
+            "text": "娘さんおつらかったでしょうね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "くらげ",
+            "text": "けど、発熱は１日だけでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "しじみ",
+            "text": "@くらげ 看病お疲れ様でした",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "しらす",
+            "text": "@くらげ しんどいですよね",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "くらげ",
+            "text": "@しじみ ２日目からピンピンしてました",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "しじみ",
+            "text": "親もぐったりですよねぇ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "しじみ",
+            "text": "ピンピンしたらしたで、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "しらす",
+            "text": "お母さんもお子さんもつらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "くらげ",
+            "text": "@しじみ １番ぐったりです",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "しじみ",
+            "text": "大変さもありますよねぇ笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "くらげ",
+            "text": "@しじみ そのとおり",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "しじみ",
+            "text": "元気な子供と、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "くらげ",
+            "text": "幸い、誰にもうつらなかったのでよかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "しじみ",
+            "text": "一日中家の中はつらい笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "くらげ",
+            "text": "@しじみ 隔離してました",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "しらす",
+            "text": "@しじみ 分かります",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "しじみ",
+            "text": "@くらげ それは何よりです！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しじみ",
+            "text": "今年は、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しらす",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "しじみ",
+            "text": "年間通してインフルエンザ流行ってますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "しらす",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "くらげ",
+            "text": "うつらなかったらうつらないで、最後は絶対うつしたくなかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "しじみ",
+            "text": "@しらす かからなかったですか？",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くらげ",
+            "text": "@しじみ そうですね",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "しらす",
+            "text": "マスクの規制減ったからかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "しじみ",
+            "text": "かもしれない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "くらげ",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しじみ",
+            "text": "こちらでは、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "くらげ",
+            "text": "アルコール",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "しじみ",
+            "text": "溶連菌も流行りましたねぇ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "くらげ",
+            "text": "除菌もへってますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "しじみ",
+            "text": "あー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くらげ",
+            "text": "@しじみ はやってましたね",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "しじみ",
+            "text": "お店とかに除菌減りましたよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "しらす",
+            "text": "たしかに減りましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "しじみ",
+            "text": "ないとないで、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "しじみ",
+            "text": "ソワソワしちゃう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "しらす",
+            "text": "分かります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "くらげ",
+            "text": "@しじみ わかります",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しじみ",
+            "text": "ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "くらげ",
+            "text": "私、マスクはしないんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "しらす",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "くらげ",
+            "text": "除菌は持ち歩いてしょちゅうしてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "しじみ",
+            "text": "おー！えらいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "しらす",
+            "text": "すごいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しじみ",
+            "text": "私、忘れがちになりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "しじみ",
+            "text": "コロナ禍は絶対持ってたのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "しじみ",
+            "text": "気が緩みますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "くらげ",
+            "text": "@しじみ わあｋります",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "くらげ",
+            "text": "ゆるみますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "しらす",
+            "text": "緩みます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "しじみ",
+            "text": "@くらげ スプレータイプですか？ジェルタイプ？",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "しじみ",
+            "text": "アルコール",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "くらげ",
+            "text": "@しじみ どちらもです",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "しじみ",
+            "text": "えー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "しらす",
+            "text": "すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "しじみ",
+            "text": "めちゃくちゃえらいですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "くらげ",
+            "text": "ある方を使ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "しじみ",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "しじみ",
+            "text": "たまに、お店によっては",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しじみ",
+            "text": "いい香りのハンドジェル置いてありません？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くらげ",
+            "text": "鞄２こあったら両方にいれて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "しじみ",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "くらげ",
+            "text": "@しじみ そうなんですね！",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "しらす",
+            "text": "いい香りのありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "くらげ",
+            "text": "いいなぁ、そういうお店",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "しらす",
+            "text": "私匂いがダメで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しじみ",
+            "text": "いい香りのあるとラッキーです！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "しじみ",
+            "text": "@しらす あら、そうなんですね",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "しらす",
+            "text": "匂い付きは使えません笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "くらげ",
+            "text": "余分に使ってしまいそう　笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しじみ",
+            "text": "あら！それは、つらいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "しらす",
+            "text": "@しじみ お腹壊したことあります笑",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くらげ",
+            "text": "@しらす そうなんだ",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "しじみ",
+            "text": "え！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "くらげ",
+            "text": "え！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "しじみ",
+            "text": "匂いでお腹ですか？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "しらす",
+            "text": "そうなんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "しらす",
+            "text": "大丈夫と思ったら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "しじみ",
+            "text": "@しらす えー！めちゃくちゃつらい！",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "くらげ",
+            "text": "じゃぁ、柔軟剤もしんどいですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "しらす",
+            "text": "鼻に残って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "しじみ",
+            "text": "ほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "くらげ",
+            "text": "@しらす かわいそう",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "しらす",
+            "text": "@くらげ 柔軟剤は大丈夫です",
+            "mention_to": [
+                "くらげ"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "しじみ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "くらげ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらす",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 2,
+            "satisfaction": 2
+        }
+    ]
+}

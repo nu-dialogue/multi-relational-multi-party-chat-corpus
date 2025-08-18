@@ -1,0 +1,734 @@
+{
+    "dialogue_id": "B13107",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "くじら",
+        "つくね",
+        "しらたき"
+    ],
+    "relationship": [
+        "つくね",
+        "しらたき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くじら",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つくね",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらたき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くじら",
+            "text": "連休は出かけましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つくね",
+            "text": "出かけてないですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "しらたき",
+            "text": "仕事で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "つくね",
+            "text": "旦那が仕事だったので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "しらたき",
+            "text": "連休ではありません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "くじら",
+            "text": "そうだったんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くじら",
+            "text": "お仕事お疲れ様です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "つくね",
+            "text": "今度出かけるのはGWですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "しらたき",
+            "text": "ありがとうございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つくね",
+            "text": "その前に春休みがくる…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね え！どこどこー？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "くじら",
+            "text": "@つくね GWには出かけられると良いですね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき え！？名古屋行くよね?",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "くじら",
+            "text": "春休みもありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "つくね",
+            "text": "@くじら そうですね！楽しみです",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 運転手は？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つくね",
+            "text": "@くじら 春休みはお弁当が大変です",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "くじら",
+            "text": "名古屋に行くんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき しらたきでしょ？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "つくね",
+            "text": "なぜ私？笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "つくね",
+            "text": "@くじら その予定です！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね ほーい！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "つくね",
+            "text": "まだ確定ではないですが笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 頼みまーす！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "くじら",
+            "text": "名古屋は家族で？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "つくね",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "くじら",
+            "text": "家も何回か行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つくね",
+            "text": "どこに行かれましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "くじら",
+            "text": "名古屋城とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しらたき",
+            "text": "東京より名古屋の方が近いからよく名古屋行くね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "つくね",
+            "text": "@くじら あ！いいですね！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 確かにそっちの方が近いよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "くじら",
+            "text": "リニアモーターカー館？に行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "くじら",
+            "text": "名古屋城も綺麗になりましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "くじら",
+            "text": "1度車中泊で行きましたけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "しらたき",
+            "text": "この前はレゴランドとか行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つくね",
+            "text": "@くじら リニア！うちは今回トヨタ自動車博物館へ行く予定です",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "つくね",
+            "text": "@くじら 名古屋城綺麗になったんですか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "くじら",
+            "text": "レゴランドも気になります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つくね",
+            "text": "昔1回だけ行きましたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "つくね",
+            "text": "@くじら レゴランドよかったですよー",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 楽しかったよね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "くじら",
+            "text": "@つくね 本丸だったか、すごい綺麗で",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "くじら",
+            "text": "写真たくさん撮りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 楽しかったー",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つくね",
+            "text": "@くじら いいですね！名古屋城は",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "くじら",
+            "text": "レゴランドはアトラクションがあるのですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "つくね",
+            "text": "シャチホコのイメージ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "しらたき",
+            "text": "@くじら 結構ありますね",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "くじら",
+            "text": "@つくね 確かにシャチホコのイメージ",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "しらたき",
+            "text": "絶叫系とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "くじら",
+            "text": "@しらたき 何が面白かったですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しらたき",
+            "text": "ポップコーンも売ってた！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "しらたき",
+            "text": "@くじら 覚えた無い！笑",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "つくね",
+            "text": "@くじら 水族館も近いので",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つくね",
+            "text": "マリンの乗り物がよかったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つくね",
+            "text": "13人で行ったんですが全員で乗りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "くじら",
+            "text": "水族館もあるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "しらたき",
+            "text": "レゴランドの後の居酒屋が楽しかったなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つくね",
+            "text": "@くじら レゴランドの向かいに水族館があります！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "くじら",
+            "text": "１３人ですごい大人数ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "つくね",
+            "text": "@くじら そうなんです！友達家族と行きました",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "くじら",
+            "text": "近くにあると両方行きたくなりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 楽しかったよね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "くじら",
+            "text": "大人数で楽しそうです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "つくね",
+            "text": "お酒いっぱい飲めて！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くじら",
+            "text": "@つくね お酒強いのですね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 車2台が疲れたね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "つくね",
+            "text": "@くじら 行きたかったんですが、閉園時間が早くて笑",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "つくね",
+            "text": "@くじら お酒割と飲む方です",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 2台は疲れたねー",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つくね",
+            "text": "今度は1台がいいな！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "くじら",
+            "text": "なるほど閉まるのが早いのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "しらたき",
+            "text": "そだねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "つくね",
+            "text": "@くじら そうなんですよ！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "つくね",
+            "text": "ディズニーとかと同じだと思ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くじら",
+            "text": "なるほど、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くじら",
+            "text": "ディズニーは遅くまでやっていますしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "つくね",
+            "text": "@くじら そうですよね！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "くじら",
+            "text": "ディズニーは行きますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つくね",
+            "text": "@くじら いきますー",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "くじら",
+            "text": "最近、全然行ってなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しらたき",
+            "text": "でもディズニー最後まで居たこと無いよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つくね",
+            "text": "@くじら うちも最近は全然です！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき いた事ないよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "つくね",
+            "text": "子供が飽きる笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くじら",
+            "text": "そうでしたか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "くじら",
+            "text": "家はぎりぎりまでいる方かと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くじら",
+            "text": "車で１時間もかからないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "しらたき",
+            "text": "羨ましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つくね",
+            "text": "ギリギリまでいたいですー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くじら",
+            "text": "ディズニーのホテルも泊まりたいけれど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "しらたき",
+            "text": "うちは車で4時間くらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つくね",
+            "text": "でも子供のまだぁ？に結構イラッときます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "くじら",
+            "text": "近いから泊まる必要ないねって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "くじら",
+            "text": "車で４時間はたいへんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "しらたき",
+            "text": "@くじら トイストーリーホテル泊りたいです",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 泊まりたい！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "つくね",
+            "text": "予約が取れるなら",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くじら",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,722 @@
+{
+    "dialogue_id": "B12206",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ばなな",
+        "てばさき",
+        "えのき"
+    ],
+    "relationship": [
+        "てばさき",
+        "えのき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ばなな",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "てばさき",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "えのき",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ばなな",
+            "text": "今日も暖かかで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ばなな",
+            "text": "コート着ていたら暑いぐらいでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "えのき",
+            "text": "そんなにですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "てばさき",
+            "text": "@ばなな 私は今日外でてないですね",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "えのき",
+            "text": "ひきこもり？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ばなな",
+            "text": "@てばさき お家にいたのですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 違うもん…多分",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ばなな",
+            "text": "明日から雨みたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 用事がなくてもお外に出ないと",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "えのき",
+            "text": "運動不足になるよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "えのき",
+            "text": "@ばなな 明日からもう雨なんですね！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 明日雨ならお家で運動するしかない…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ばなな",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 家でどんな運動するの？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ばなな",
+            "text": "@てばさき 家でも出来ますね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき バランスボールとか…？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ばなな",
+            "text": "ラジオ体操とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "えのき",
+            "text": "旦那はよく室内用トランポリンぽよんぽよんしてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ばなな",
+            "text": "トランポリンあるのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき あの跳躍でこの間は不幸な事故が…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "えのき",
+            "text": "室内用の、クッションみたいなやつです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "えのき",
+            "text": "もしかしてそれは、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ばなな",
+            "text": "事故ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "えのき",
+            "text": "三女がトランポリンにぶつかって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ばなな",
+            "text": "怪我したとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "えのき",
+            "text": "足の親指ナマヅメハーガス事件？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき　全治半年でしたね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "えのき",
+            "text": "大変だった・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ばなな",
+            "text": "@えのき 痛そうです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ばなな",
+            "text": "辛かったですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "えのき",
+            "text": "足の爪ってなかなかのびないから…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ばなな",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "えのき",
+            "text": "整形外科にも通って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "てばさき",
+            "text": "私も家でよく小指ぶつけるから気をつけないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "えのき",
+            "text": "一時期松葉づえまで…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ばなな",
+            "text": "松葉杖はたいへん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき あれを使う人が身内から出るとは思わなんだ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "えのき",
+            "text": "松葉づえ、筋肉痛になるんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "普段使わない筋肉を使うから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ばなな",
+            "text": "私は松葉杖は使ったことなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "えのき",
+            "text": "私もないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 意外と筋トレにいいのか…？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ばなな",
+            "text": "筋肉痛になるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "えのき",
+            "text": "三女的には体育が見学になってやや嬉しそうでしたが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "てばさき",
+            "text": "私はないですね、松葉杖使用経験",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "えのき",
+            "text": "@ばなな さんは、体育は好きなほうでしたか？",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ばなな",
+            "text": "@えのき 苦手なんです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "えのき",
+            "text": "私もです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ばなな",
+            "text": "ほんとひどくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "てばさき",
+            "text": "私もです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "えのき",
+            "text": "この話はよしましょう…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ばなな",
+            "text": "皆、苦手なんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "てばさき",
+            "text": "@ばなな 学校生活で逆に好きな教科はありました？",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ばなな",
+            "text": "@てばさき 英語と国語です",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "えのき",
+            "text": "文系ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ばなな",
+            "text": "でも英語話せません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "てばさき",
+            "text": "@ばなな 英語は苦手でしたね…",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "えのき",
+            "text": "私も話せません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "てばさんは少し話せるのでは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "てばさき",
+            "text": "little",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "えのき",
+            "text": "現役大学生だから！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "えのき",
+            "text": "課題で英作文やってるよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ばなな",
+            "text": "それは話せそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "てばさき",
+            "text": "やってた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "えのき",
+            "text": "何故過去形",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ばなな",
+            "text": "英作文",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ばなな",
+            "text": "確かに過去形",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てばさき",
+            "text": "deepleやgoogleという偉大な先生方が現代社会にはいらっしゃるので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "英語は話せないんですが、洋楽はよく聞きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "えのき",
+            "text": "AURORAとか、siaとか…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "えのき",
+            "text": "YouTubeで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "てばさき",
+            "text": "shape of youとか聞いてなかった？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ばなな",
+            "text": "@えのき 洋楽好きなのですね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "えのき",
+            "text": "結構好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "えのき",
+            "text": "何を言っているかはわかりませんが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ばなな",
+            "text": "すみません、わかってないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ばなな",
+            "text": "メロディーが良いのですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "えのき",
+            "text": "メロディが好きですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "えのき",
+            "text": "歌詞を調べるとたいていたいしたこと言ってないので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私英語の歌歌えるやつあるよ！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "えのき",
+            "text": "歌で覚えるのいいね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ばなな",
+            "text": "すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "てばさき",
+            "text": "ドヤァ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "ボカロの歌？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ばなな",
+            "text": "確かに歌で覚えるの良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき そうそう、ECHOっていう歌",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "てばさき",
+            "text": "かっこいいよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "えのき",
+            "text": "ボカロで覚える的な…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ばなな",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "てばさき",
+            "text": "ボカロで覚えるシリーズはそれはそれとしてあるよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "てばさき",
+            "text": "the clock stop",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "あ、歌わなくていいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "てばさき",
+            "text": "ticking",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "えのき",
+            "text": "わからないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ばなな",
+            "text": "@てばさき 何の教科が得意ですか",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "てばさき",
+            "text": "@ばなな 国語です！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "えのき",
+            "text": "私も国語です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "てばさき",
+            "text": "あとは音楽とか理科とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ばなな",
+            "text": "国語ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "ばなな",
+            "text": "えのきさんも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "えのき",
+            "text": "日本語がやや不自由ですが…",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ばなな",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

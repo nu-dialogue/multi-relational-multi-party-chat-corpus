@@ -1,0 +1,730 @@
+{
+    "dialogue_id": "B10110",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "うさぎ",
+        "たまねぎ",
+        "にんじん"
+    ],
+    "relationship": [
+        "たまねぎ",
+        "にんじん"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うさぎ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまねぎ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "にんじん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うさぎ",
+            "text": "お子さん、いらっしゃいますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "たまねぎ",
+            "text": "@うさぎ いますよー",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "うさぎ",
+            "text": "@たまねぎ おいくつですか？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たまねぎ",
+            "text": "@うさぎ 15.4.1です！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "にんじん",
+            "text": "3人です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "うさぎ",
+            "text": "@たまねぎ うわーたくさん！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "うさぎ",
+            "text": "まだ今ってアンパンマン流行ってます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たまねぎ",
+            "text": "@うさぎ 流行ってますがうちはハマってないです！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "うさぎ",
+            "text": "昔、アンパンマンミュージアム行った時の懐かしいグッズが出てきて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "うさぎ",
+            "text": "高校生の娘と思い出話しちゃったんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまねぎ",
+            "text": "@うさぎ この前行ったんですが",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "うさぎ",
+            "text": "@たまねぎ 行かれましたか？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "たまねぎ",
+            "text": "懐かしいグッズですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "うさぎ",
+            "text": "横浜の？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "たまねぎ",
+            "text": "そうです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "うさぎ",
+            "text": "うちは四国にも住んでたので高知のにも行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "にんじん",
+            "text": "@うさぎ そっちにもあるんですね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "うさぎ",
+            "text": "はい、ガチのミュージアムですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "うさぎ",
+            "text": "横浜の方が楽しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "たまねぎ",
+            "text": "違うんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "うさぎ",
+            "text": "あとは高松からアンパンマン列車も乗りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "にんじん",
+            "text": "@うさぎ アンパンマン好きだったんですね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "うさぎ",
+            "text": "今思うと怖いくらいアンパンマンのみの列車でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "たまねぎ",
+            "text": "今洋服とかもおしゃれですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "うさぎ",
+            "text": "@たまねぎ 洋服？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "たまねぎ",
+            "text": "アンパンマンの服",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "うさぎ",
+            "text": "アンパンマンデザイン？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "うさぎ",
+            "text": "えーそんなのあるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "たまねぎ",
+            "text": "そー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "うさぎ",
+            "text": "よく見るとどきんちゃんとか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "たまねぎ",
+            "text": "ドキンちゃん可愛くなってる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "うさぎ",
+            "text": "えー最近は見てないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "うさぎ",
+            "text": "進化してますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "にんじん",
+            "text": "@うさぎ 戦隊モノもオシャレになってます",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "にんじん",
+            "text": "昔はブリーフにプリントだったのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "うさぎ",
+            "text": "@にんじん イケメン多そう",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "うさぎ",
+            "text": "あっ、パジャマとか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "にんじん",
+            "text": "@うさぎ 母向けですよね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "にんじん",
+            "text": "あのイケメンたちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "うさぎ",
+            "text": "@にんじん ですです！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "にんじん",
+            "text": "仮面ライダー好きでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "うさぎ",
+            "text": "子育て中のオアシス？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "にんじん",
+            "text": "あーわかるー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "うさぎ",
+            "text": "@にんじん そちらも今どきですよね",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "にんじん",
+            "text": "見出すとハマりますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "うさぎ",
+            "text": "最近大人プリキュア見て驚きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "たまねぎ",
+            "text": "@うさぎ 大人のプリキュア？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "うさぎ",
+            "text": "昔、プリキュアだった子達のその後みたいな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "にんじん",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "にんじん",
+            "text": "楽しそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "うさぎ",
+            "text": "NHKでやってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "うさぎ",
+            "text": "みんなお姉さん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "にんじん",
+            "text": "へーー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "うさぎ",
+            "text": "社会人なのにプリキュア？みたいな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "にんじん",
+            "text": "@うさぎ コスプレだ！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たまねぎ",
+            "text": "@うさぎ 設定おもしろい",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "うさぎ",
+            "text": "主人はお尻探偵好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "うさぎ",
+            "text": "恥ずかしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "たまねぎ",
+            "text": "@うさぎ え！わかります！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "にんじん",
+            "text": "@うさぎ 私も好きー",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "にんじん",
+            "text": "ついついおしり探しちゃう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "うさぎ",
+            "text": "@たまねぎ 土曜の朝から間違え探し押してますよ",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "にんじん",
+            "text": "リアルタイムじゃないとダメなんですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "うさぎ",
+            "text": "@にんじん えーにんじんさんも？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "にんじん",
+            "text": "@うさぎ はい！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "にんじん",
+            "text": "子供からリモコン取ってやってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "うさぎ",
+            "text": "娘と生温かい目で見てたけどダメですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "にんじん",
+            "text": "一緒に楽しまないと！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "にんじん",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "うさぎ",
+            "text": "でも迷路はついつい見ちゃう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "たまねぎ",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "うさぎ",
+            "text": "意外とこけたり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "うさぎ",
+            "text": "漢字ドリルとかすごいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "たまねぎ",
+            "text": "大人向けか？ってなりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "うさぎ",
+            "text": "そうそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "にんじん",
+            "text": "おもしろいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "にんじん",
+            "text": "妖怪ウォッチとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "うさぎ",
+            "text": "あー懐かしい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "にんじん",
+            "text": "あれ完全に大人向けです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "うさぎ",
+            "text": "妖怪メダル",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "たまねぎ",
+            "text": "集めてましたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "うさぎ",
+            "text": "@にんじん 昭和ネタありましたよね？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "にんじん",
+            "text": "@うさぎ ありまくりですね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "うさぎ",
+            "text": "それこそ金八先生もどきとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "にんじん",
+            "text": "そーそー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "うさぎ",
+            "text": "子供知らないし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "うさぎ",
+            "text": "大人が笑ってましたよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "にんじん",
+            "text": "ウィスパーかわいすぎます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "うさぎ",
+            "text": "かわいい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "たまねぎ",
+            "text": "確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "うさぎ",
+            "text": "フブキ姫好きでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "にんじん",
+            "text": "あ、かわいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまねぎ",
+            "text": "あの人可愛い！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "うさぎ",
+            "text": "女の子キャラ意外といましたよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "たまねぎ",
+            "text": "多かったですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "うさぎ",
+            "text": "妖怪メダルもレアモノとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "たまねぎ",
+            "text": "みんな可愛い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "にんじん",
+            "text": "普通が嫌だという主人公",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "うさぎ",
+            "text": "近くのヨーカドーで並んでましたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "たまねぎ",
+            "text": "そして闇に堕ちていく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "にんじん",
+            "text": "面白すぎ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "うさぎ",
+            "text": "闇落ちですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "にんじん",
+            "text": "うちはジャスコでした笑",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うさぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまねぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "にんじん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,770 @@
+{
+    "dialogue_id": "B14409",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "いるか",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "いるか",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "いるか",
+            "text": "今、無性にサムゲタンが食べたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか さ、さむ…？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "いるか",
+            "text": "胃にやさしいものが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "えのき",
+            "text": "食べたことないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき 鳥の、おかゆみたいなやつです！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "いるか",
+            "text": "中華がゆもいいな・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか 辛そうな名前ですが胃に優しいんですか…",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "えのき",
+            "text": "確かに…いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "えのき",
+            "text": "辛くはなさそう…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき 辛くないです！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "いるか",
+            "text": "白湯系かな・・・どちらかというと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "てばさき",
+            "text": "タンタンつく料理は辛いイメージがありました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき てばさんは、おかゆ食べないよね？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき わかる気がします笑",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "えのき",
+            "text": "若いから？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "いるか",
+            "text": "あら、そうなんですね？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 食べなくはないよ、七草粥とか",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "えのき",
+            "text": "年イチ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "いるか",
+            "text": "七草がゆはそうかもしれない笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "えのき",
+            "text": "伝統行事としてのおかゆのみ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 味薄いし熱いから食べるのに時間かかるのです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "いるか",
+            "text": "猫舌ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "えのき",
+            "text": "風邪ひいてもおかゆ食べない派だよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 冷めたら冷めたで美味しくないし…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか かもです",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "いるか",
+            "text": "私、意外と冷めたおかゆ好きかもしれないです・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "いるか",
+            "text": "お弁当の冷たいおにぎりも好きです・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "えのき",
+            "text": "@いるか 冷めたのが好き、って方いますよね",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "えのき",
+            "text": "冷めたピザとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか お弁当のおにぎりは好きです",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "えのき",
+            "text": "冷めた手羽先とか…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "いるか",
+            "text": "@えのき ピザはあったかいのがいいですね！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "てばさき",
+            "text": "手羽先",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "いるか",
+            "text": "さめたてばさきさん・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "えのき",
+            "text": "手羽先の唐揚げって美味しいよね…！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき まあ美味しいけども",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "いるか",
+            "text": "@えのき そうですね！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "てばさき",
+            "text": "おにぎりは母がよく作ってくれるのですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "えのき",
+            "text": "おつまみメニューっぽいですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "いるか",
+            "text": "最近てばさきの唐揚げ作ってないですね・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "てばさき",
+            "text": "大きいおにぎりが圧縮されて終わりが見えない食べ物になったことがあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "えのき",
+            "text": "母はいつもおにぎりを作らされています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき こわい",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "えのき",
+            "text": "お父さんが…1合でおにぎりを作れって…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "えのき",
+            "text": "てばさんのはそれよりだいぶ小さいよ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "いるか",
+            "text": "@えのき 規模がレベチですね？？？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 食べても食べても減らぬ…味に飽きてきた…けど減らぬ…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "えのき",
+            "text": "@いるか 旦那は、1合おにぎりじゃないとダメなんです",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "えのき",
+            "text": "会社行けないって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "えのき",
+            "text": "泣いちゃうんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "いるか",
+            "text": "一合でおにぎりはやばい・・・それを握るえのきさんもやばい・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "えのき",
+            "text": "技術を要します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 泣いちゃうんは初耳…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "いるか",
+            "text": "ないちゃう・・・笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "いるか",
+            "text": "絶対に大変じゃないですか・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "えのき",
+            "text": "ふて寝するときもあります…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき シンプルに引きました",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "いるか",
+            "text": "一合握るの・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "いるか",
+            "text": "@えのき 結構いじけちゃう・・・",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "平日は6時起きで毎日作らされます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "いるか",
+            "text": "え！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "いるか",
+            "text": "エブリデイ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "えのき",
+            "text": "おにぎりを作ることを…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "えのき",
+            "text": "強いられているんです…っ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "いるか",
+            "text": "@えのき 強制労働者みたいに笑",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "えのき",
+            "text": "@いるか いるかさんはお弁当とか作りますか？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 成人で独特の幼さが許されるのは二次元だけだと思います",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき てばさんにはまだ早かった？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 強いられている…！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "いるか",
+            "text": "@えのき 前は作っていましたが、最近はとんと作ってませんね・・・",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "えのき",
+            "text": "強いられてる。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "てばさき",
+            "text": "早いかもー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "えのき",
+            "text": "@いるか お弁当不要の生活、いいですよね",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき ひどい",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "いるか",
+            "text": "@えのき はい！強制労働無しは、天国！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "えのき",
+            "text": "私も天国の住人になりたい…！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 両親の与太話を聞かされる娘の身にもなれや",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき てへぺろ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき 仲がいいのは良いことですよ！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 古い",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "えのき",
+            "text": "ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "いるか",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "いるか",
+            "text": "@えのき ですです！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 円満に越したことはないですけどね…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "年だから…ちょっと流行おくれなんだ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 周回遅れなまではある",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "えのき",
+            "text": "リビングに集合しる。とか言っちゃう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "いるか",
+            "text": "流行の遅延笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか 実際に使う人いたんだ…？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "吉野家とか行っちゃう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 某コピペ？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "いるか",
+            "text": "あ～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "ゴノレゴ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき お母さん、私大盛チャレンジしてみる！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 逆に最新の流行はどうなってるんですかね？現役JDとして",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき んー",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "いるか",
+            "text": "気になるところ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき オーバーライドのMADが流行ってる",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "てばさき",
+            "text": "あとネッコミーム",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "えのき",
+            "text": "全くわからなかった。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "えのき",
+            "text": "ジェネレーションギャップを感じる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "てばさき",
+            "text": "少し前は弱虫モンブランのひろゆきアレンジが流行ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "いるか",
+            "text": "@えのき 私も冒頭がわからなかったです",
+            "mention_to": [
+                "えのき"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "いるか",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

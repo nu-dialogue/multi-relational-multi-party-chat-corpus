@@ -1,0 +1,727 @@
+{
+    "dialogue_id": "A08503",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "くまのみ",
+        "ししとう",
+        "みたらし"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くまのみ",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ししとう",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "みたらし",
+            "text": "こんばんは～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くまのみ",
+            "text": "この冬からお白湯を飲むようになったんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "みたらし",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "くまのみ",
+            "text": "飲まれますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ししとう",
+            "text": "白湯！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ししとう",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "みたらし",
+            "text": "@くまのみ のみます！",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くまのみ",
+            "text": "@みたらし 同じですね",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "みたらし",
+            "text": "昔から好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ししとう",
+            "text": "@くまのみ ときどきですね",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くまのみ",
+            "text": "すごい！　歴が長いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし 昔から好きなんですね",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "くまのみ",
+            "text": "お水よりまろやかというか丸いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "みたらし",
+            "text": "1回目はお茶で飲んで2回目以降は白湯になりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし 朝飲むんですか？",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "みたらし",
+            "text": "@くまのみ 口当たりいいですよね",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くまのみ",
+            "text": "@みたらし いいですよね",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "みたらし",
+            "text": "朝はコーヒー派なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "みたらし",
+            "text": "夜です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし 夜なんですね！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くまのみ",
+            "text": "私は結構１日中です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "みたらし",
+            "text": "おお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ししとう",
+            "text": "@くまのみ 1日中！",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "くまのみ",
+            "text": "コーヒー飲みすぎるんでお白湯にしてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "みたらし",
+            "text": "@くまのみ たしかに",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ししとう",
+            "text": "@くまのみ 大事な心がけですね",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "みたらし",
+            "text": "私もコーヒー飲みすぎちゃうので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "くまのみ",
+            "text": "富永愛ちゃんもお白湯飲んでるそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "みたらし",
+            "text": "気を付けてお茶にしたのが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "みたらし",
+            "text": "きっかけですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし 同じくコーヒー飲み過ぎちゃう",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "くまのみ",
+            "text": "@みたらし わかります",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ししとう",
+            "text": "私も白湯ライフしてみようかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "みたらし",
+            "text": "@ししとう いいですよ",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "みたらし",
+            "text": "おすすめです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "くまのみ",
+            "text": "@ししとう みんなコーヒーすきですね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ししとう",
+            "text": "@くまのみ カフェインとりまくってるかも…",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "みたらし",
+            "text": "コーヒーも紅茶も好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "くまのみ",
+            "text": "富永愛ちゃんは、鉄瓶でお白湯作ってるそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "みたらし",
+            "text": "カフェインすごいかも。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "みたらし",
+            "text": "鉄瓶",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ししとう",
+            "text": "@くまのみ 鉄瓶で！",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "くまのみ",
+            "text": "私もカフェインが心配で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "みたらし",
+            "text": "通ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ししとう",
+            "text": "お二人はどのように作ってますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "くまのみ",
+            "text": "@ししとう ポットです",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ししとう",
+            "text": "@くまのみ ポットなんですね！",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "みたらし",
+            "text": "ティファールで沸かして冷ましてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "くまのみ",
+            "text": "鉄瓶欲しいですが、機会がなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし なるほどー！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "みたらし",
+            "text": "鉄瓶の管理って難しそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "くまのみ",
+            "text": "お茶をわかす時はキティちゃんの鉄いれてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "みたらし",
+            "text": "すぐに錆びないのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "くまのみ",
+            "text": "@みたらし かもしれないですね",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ししとう",
+            "text": "@くまのみ 鉄分補給ですね",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "くまのみ",
+            "text": "@みたらし 考えた事なかったです",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "くまのみ",
+            "text": "@ししとう そうなんです",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "みたらし",
+            "text": "@くまのみ 鉄入れるっていいですね",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ししとう",
+            "text": "いろんな楽しみ方あるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "くまのみ",
+            "text": "@みたらし 小さい事からコツコツと　です",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "みたらし",
+            "text": "おお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "くまのみ",
+            "text": "@ししとう そう考えるといいですね。結構義務感ありました",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "みたらし",
+            "text": "今度やってみようかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "くまのみ",
+            "text": "@みたらし おすすめしますよ",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "みたらし",
+            "text": "@くまのみ ありがとうございます",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "くまのみ",
+            "text": "鉄の味しないし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "くまのみ",
+            "text": "@みたらし いえいえ、そんな",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "みたらし",
+            "text": "おお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ししとう",
+            "text": "@くまのみ 鉄の味しないんですね！？",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ししとう",
+            "text": "イメージ的に何かするのかと思ってた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "くまのみ",
+            "text": "@ししとう うちはしてないです。入れてる時間によるかもしれませんが",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ししとう",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "みたらし",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "くまのみ",
+            "text": "@ししとう お茶の色は濃くなりますよ",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "みたらし",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ししとう",
+            "text": "おぉ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "みたらし",
+            "text": "今までやったことなかったので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "みたらし",
+            "text": "いいこと知りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くまのみ",
+            "text": "ぜひ試してみてください",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "みたらし",
+            "text": "やってみます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ししとう",
+            "text": "私も白湯の魅力感じました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "くまのみ",
+            "text": "@ししとう よかったです",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ししとう",
+            "text": "明日から早速白湯ライフをです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "みたらし",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "みたらし",
+            "text": "鉄瓶買ってみようかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "くまのみ",
+            "text": "昔、ジュリエットビノシュが、５つ星ホテルでお白湯のんでおいしいっていってるのが意味わかんなかったんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "くまのみ",
+            "text": "やっとわかりました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "みたらし",
+            "text": "ホテルでも提供しているんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "みたらし",
+            "text": "それにもびっくりです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ししとう",
+            "text": "5つ星ホテルの白湯…！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "くまのみ",
+            "text": "ビノシュはフランスの女優さんなので、彼女が欲したら持ってくるのかもですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "くまのみ",
+            "text": "エビアンのお白湯だったそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "みたらし",
+            "text": "硬度が高い水もおいしそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "くまのみ",
+            "text": "@ししとう 普通他の物飲みますよね。５つ星やけど、エビアンだし。お白湯だし",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ししとう",
+            "text": "うんうん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "みたらし",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "くまのみ",
+            "text": "@みたらし 便秘にいいですよね",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "みたらし",
+            "text": "コーヒー飲みたいかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "みたらし",
+            "text": "ホテルなら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "くまのみ",
+            "text": "@みたらし わかります",
+            "mention_to": [
+                "みたらし"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くまのみ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ししとう",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "みたらし",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

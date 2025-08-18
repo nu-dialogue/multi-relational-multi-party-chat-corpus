@@ -1,0 +1,679 @@
+{
+    "dialogue_id": "A01702",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "ねぎとろ",
+        "てんぷら",
+        "きなこ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ねぎとろ",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てんぷら",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "きなこ",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "てんぷら",
+            "text": "明日の朝ごはん、何にしよう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ねぎとろ",
+            "text": "今日は寒かったですが、いかがでした？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "てんぷら",
+            "text": "散歩がてら買い物に行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "きなこ",
+            "text": "@てんぷら うちは朝はパンです",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "てんぷら",
+            "text": "パン大好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@てんぷら わたしもパンです。大好き",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "てんぷら",
+            "text": "寒い中、配偶者と手をつないで買い物しました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "てんぷら",
+            "text": "きゃー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "きなこ",
+            "text": "あらー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ステキ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "きなこ",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "てんぷら",
+            "text": "パンは買いましたが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ねぎとろ",
+            "text": "何パン？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "てんぷら",
+            "text": "食パンなので、何にしよう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ねぎとろ",
+            "text": "クロックムッシュとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "きなこ",
+            "text": "食パンかあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "てんぷら",
+            "text": "@ねぎとろ クロックムッシュ食べたいです",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "てんぷら",
+            "text": "誰かが作ったやつを食べたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@てんぷら おいしいですよね。",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "きなこ",
+            "text": "@てんぷら そうですね",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "きなこ",
+            "text": "作ってもらいたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "てんぷら",
+            "text": "クロックマダムとクロックムッシュの区別がつきません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "きなこ",
+            "text": "クロックマダム？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたしもです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "きなこ",
+            "text": "初めて聞きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "てんぷら",
+            "text": "クロックマダム",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ねぎとろ",
+            "text": "最近、記事読んだばかりだけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "てんぷら",
+            "text": "どちらかがホワイトソース、どちらかが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ねぎとろ",
+            "text": "思い出せない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "てんぷら",
+            "text": "教えてGoogle",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "きなこ",
+            "text": "あははは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ねぎとろ",
+            "text": "調べてくださってるんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "きなこ",
+            "text": "ありがたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "てんぷら",
+            "text": "調べてきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ねぎとろ",
+            "text": "あざーす",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "きなこ",
+            "text": "知りたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "てんぷら",
+            "text": "ムッシュに目玉焼きを載せたものらしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ほーなるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ねぎとろ",
+            "text": "では、マダムの方がゴージャスなんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "きなこ",
+            "text": "私が想像していたのはマダムだったんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "てんぷら",
+            "text": "ハムチーズとホワイトソースがムッシュ、マダムが目玉焼き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "てんぷら",
+            "text": "たぶんあと100回調べても覚えられない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ねぎとろ",
+            "text": "どちらも美味しそう、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ねぎとろ",
+            "text": "食べたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ねぎとろ",
+            "text": "たしかに、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ねぎとろ",
+            "text": "どっちだったっけとなる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "きなこ",
+            "text": "本当そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "てんぷら",
+            "text": "皆さんは朝ごはん決まっていますか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "てんぷら",
+            "text": "日曜の朝ごはんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "きなこ",
+            "text": "@てんぷら うちはトースト",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "きなこ",
+            "text": "目玉焼き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "てんぷら",
+            "text": "まねさせていただきます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "きなこ",
+            "text": "簡単ですから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ねぎとろ",
+            "text": "朝はフルーツヨーグルト",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "てんぷら",
+            "text": "ヨーグルトも真似させていただきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ねぎとろ",
+            "text": "具だくさんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "てんぷら",
+            "text": "カスピ海ヨーグルトがあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "きなこ",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ねぎとろ",
+            "text": "もしかして、ご結婚間もない感じですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "てんぷら",
+            "text": "私ですか？結婚15年目です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てんぷら",
+            "text": "あれ、16年かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "きなこ",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ねぎとろ",
+            "text": "新婚さんかと思いました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "てんぷら",
+            "text": "仲いいと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "きなこ",
+            "text": "それが一番ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ステキ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てんぷら",
+            "text": "長男が今年16歳になるから、17年目かも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "てんぷら",
+            "text": "曖昧です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "きなこ",
+            "text": "うちも同じくらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@てんぷら 仲良しの秘訣って何ですか？",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "きなこ",
+            "text": "知りたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "てんぷら",
+            "text": "何だろう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "てんぷら",
+            "text": "話が面白いんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ねぎとろ",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ねぎとろ",
+            "text": "確かに大事",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "てんぷら",
+            "text": "今朝の話は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "きなこ",
+            "text": "重要ポイントですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ねぎとろ",
+            "text": "話は？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "てんぷら",
+            "text": "彼の会社、通販なんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ねぎとろ",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "きなこ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "てんぷら",
+            "text": "テレビに出る社員さんがいるんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "てんぷら",
+            "text": "商品を紹介する人ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ねぎとろ",
+            "text": "よく放送されてるみたいなのですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "てんぷら",
+            "text": "で、プロフィール写真を撮るじゃないですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ねぎとろ",
+            "text": "はいはい、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てんぷら",
+            "text": "一応それなりに加工してから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "てんぷら",
+            "text": "これでいいでしょうかとお伺いを立てるんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "きなこ",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "てんぷら",
+            "text": "全然ダメ！って突っ返されるらしいんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ねぎとろ",
+            "text": "あらら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "てんぷら",
+            "text": "自分の顔に全然ダメ！って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "きなこ",
+            "text": "え！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "きなこ",
+            "text": "そこですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "てんぷら",
+            "text": "シミけしや皺消しだけじゃだめで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "てんぷら",
+            "text": "削ったり盛ったりするから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "てんぷら",
+            "text": "OKが出るころには、親戚かな？というくらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "てんぷら",
+            "text": "かけ離れたプロフィール写真になるそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "きなこ",
+            "text": "わあ・・",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ねぎとろ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てんぷら",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "きなこ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

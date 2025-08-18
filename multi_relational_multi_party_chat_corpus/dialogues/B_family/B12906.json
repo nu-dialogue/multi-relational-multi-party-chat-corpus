@@ -1,0 +1,766 @@
+{
+    "dialogue_id": "B12906",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "いるか",
+        "つみれ",
+        "たまご"
+    ],
+    "relationship": [
+        "つみれ",
+        "たまご"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "いるか",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つみれ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "たまご",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "いるか",
+            "text": "今日も寒いですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "いるか",
+            "text": "今年はお花見の予定とかありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つみれ",
+            "text": "寒いですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たまご",
+            "text": "すごい寒いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "たまご",
+            "text": "まだ考えてないですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "つみれ",
+            "text": "お花見の予定、特に決めてはないですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "たまご",
+            "text": "けど行きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "つみれ",
+            "text": "時間があれば行きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "いるか",
+            "text": "確かに、行きたい気持ちはありますよね・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "いるか",
+            "text": "人気の場所だと込みますし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまご",
+            "text": "そうですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "たまご",
+            "text": "桜見るとなんか落ちつきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "いるか",
+            "text": "@たまご わかる気がします！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "たまご",
+            "text": "@いるか 毎年行ってますか？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "いるか",
+            "text": "桜の飲み物とかも落ち着く気がします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "たまご",
+            "text": "しかもピンクで綺麗です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "いるか",
+            "text": "@たまご 毎年は行けてないですが、時たま都内の方まで足を伸ばしたりします",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "つみれ",
+            "text": "桜湯とかいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ 桜湯！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "たまご",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "いるか",
+            "text": "素敵ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "つみれ",
+            "text": "@いるか お祝い事でした飲んだ事ないですが",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "たまご",
+            "text": "桜湯めっちゃ綺麗そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ 飲み物！温泉かと思いました・・・！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "つみれ",
+            "text": "お湯に塩漬けした桜を入れたものです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "いるか",
+            "text": "絶対に素敵じゃないですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たまご",
+            "text": "ぼくもお風呂かと思いました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "いるか",
+            "text": "お祝い事関係の飲み物って素敵なの多いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "いるか",
+            "text": "金粉とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "つみれ",
+            "text": "勘違いさせちゃいましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "いるか",
+            "text": "@たまご 私もです笑",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "たまご",
+            "text": "桜餅的な",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つみれ",
+            "text": "特別な飲み物って感じがしましすよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "いるか",
+            "text": "桜餅、皆さんどっちの方ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ ですね～！時たまにしか飲めないもの！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "いるか",
+            "text": "関西の方だと、あのつぶつぶのやつですよね？確か",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "たまご",
+            "text": "何種類かあるんですか？ @いるか ",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たまご",
+            "text": "つぶつぶの方です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つみれ",
+            "text": "皮タイプと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つみれ",
+            "text": "つぶつぶタイプ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ ですです！！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "つみれ",
+            "text": "私はつぶつぶ派です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "いるか",
+            "text": "私もつぶつぶのがすきです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つみれ",
+            "text": "@いるか どちらがお好きですか？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たまご",
+            "text": "ぼくもつぶつぶ派",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つみれ",
+            "text": "つぶつぶですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "いるか",
+            "text": "あのもちもちつぶつぶした感じが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "たまご",
+            "text": "食感と味が美味しい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つみれ",
+            "text": "桜の葉の塩漬けとも合いますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "たまご",
+            "text": "あったかいお茶と合います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "いるか",
+            "text": "ですね～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "いるか",
+            "text": "食べたくなってきました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "たまご",
+            "text": "ダブル桜〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "つみれ",
+            "text": "桜餅って一年中ありますけど、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "たまご",
+            "text": "和菓子は美味しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つみれ",
+            "text": "春の食べ物ってイメージですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "たまご",
+            "text": "わかるー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "いるか",
+            "text": "確かに・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 和菓子、美味しいね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "たまご",
+            "text": "和菓子大好き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "いるか",
+            "text": "お二人は、和菓子何が好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "たまご",
+            "text": "羊羹好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "つみれ",
+            "text": "私は洋菓子派でしたけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "いるか",
+            "text": "@たまご 羊羹！美味しい！ノーマルなやつです？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つみれ",
+            "text": "歳を重ねたら和菓子が好きになりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "たまご",
+            "text": "暖かいお茶と合う",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ めちゃくちゃわかります・・・",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 温かいお茶必須！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "たまご",
+            "text": "@いるか ノーマルタイプです",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "いるか",
+            "text": "生クリーム沢山食べられなくなってきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "いるか",
+            "text": "@たまご 美味しい・・・羊羹！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "たまご",
+            "text": "生クリーム食べすぎると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たまご",
+            "text": "うえってなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "いるか",
+            "text": "そういえば、羊羹にも粒あんタイプってあるんですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "いるか",
+            "text": "@たまご とてもよくわかります・・・！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "いるか",
+            "text": "えぷっ・・・ってなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "たまご",
+            "text": "見たことないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つみれ",
+            "text": "生クリーム食べ過ぎは胃にきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "たまご",
+            "text": "油だからそれがくる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つみれ",
+            "text": "つぶあん入った羊羹ありますよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ そう・・・胃への負担が・・・！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ え！ほんとですか！知らなかった！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "つみれ",
+            "text": "きんつばみたいな感じですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "いるか",
+            "text": "あ～～～～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "たまご",
+            "text": "あるんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "つみれ",
+            "text": "もう少し羊羹に近いですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "たまご",
+            "text": "食ってみたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "いるか",
+            "text": "なるほど！きんつばみたいなかんじ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "つみれ",
+            "text": "私は塩羊羹が好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "たまご",
+            "text": "羊羹好きとしては",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "いるか",
+            "text": "@たまご 羊羹好きとしては、見過ごせないですね！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "たまご",
+            "text": "見過ごせないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "いるか",
+            "text": "塩羊羹！甘じょっぱい感じですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "いるか",
+            "text": "塩大福なら知ってるんですが・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つみれ",
+            "text": "@いるか ほんのりしょっぱい感じです",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たまご",
+            "text": "相性よさそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つみれ",
+            "text": "甘すぎなくて食べやすです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ 私絶対に好きなやつです！塩大福も好きなので！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "つみれ",
+            "text": "塩大福も美味しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "いるか",
+            "text": "どうして塩分と甘味って合うんでしょう・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "つみれ",
+            "text": "真逆なものなのに合いますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "たまご",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ 塩大福美味しいですよね～！見た目もかわいくて・・・ころんとしてもちもち・・・",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "たまご",
+            "text": "謎に合います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "つみれ",
+            "text": "大福食べたくなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "いるか",
+            "text": "ずっと食べてられますもんね・・・塩味、甘味・・・塩味、甘味・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 109,
+            "interlocutor_id": "つみれ",
+            "text": "もちもち・・・甘々・・・塩味",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 110,
+            "interlocutor_id": "つみれ",
+            "text": "想像で美味しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 111,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ とてもわかります笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "いるか",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

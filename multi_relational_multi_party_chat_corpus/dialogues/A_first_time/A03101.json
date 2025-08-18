@@ -1,0 +1,659 @@
+{
+    "dialogue_id": "A03101",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "なると",
+        "ちくわぶ",
+        "こまつな"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "なると",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ちくわぶ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "こまつな",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "なると",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "こまつな",
+            "text": "はじめまして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ちくわぶ",
+            "text": "よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "なると",
+            "text": "最近在宅勤務が多くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "なると",
+            "text": "運動不足を感じていますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "なると",
+            "text": "何か運動されてますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@なると サウナですね！",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こまつな",
+            "text": "@なると 私も運動不足です",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ちくわぶ",
+            "text": "手っ取り早く！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "なると",
+            "text": "サウナですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "こまつな",
+            "text": "サウナって運動？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ちくわぶ",
+            "text": "汗かくので笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "なると",
+            "text": "サウナってなんでしょう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "こまつな",
+            "text": "ああ、そういう意味で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ちくわぶ",
+            "text": "スポーツと思って行ってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "なると",
+            "text": "汗は毎日かきたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "こまつな",
+            "text": "かいてないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "こまつな",
+            "text": "冬だし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "なると",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "なると",
+            "text": "私はストレッチぐらいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "こまつな",
+            "text": "えらい！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ストレッチ大事ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "なると",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "こまつな",
+            "text": "三日坊主でした私",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ちくわぶ",
+            "text": "あら！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "なると",
+            "text": "そうなりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "こまつな",
+            "text": "たまーにしますけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "なると",
+            "text": "明日でいいやってなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "こまつな",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "こまつな",
+            "text": "ダメですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ダイエットなど目標があればいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "なると",
+            "text": "目標がないとですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "こまつな",
+            "text": "目標ですか・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "こまつな",
+            "text": "老化防止か",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ちくわぶ",
+            "text": "楽しむだけでも目標だし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "なると",
+            "text": "楽しみたいんですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "こまつな",
+            "text": "楽しい目標はいいかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "なると",
+            "text": "スポーツがしたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ちくわぶ",
+            "text": "誰かとやると続きますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "こまつな",
+            "text": "@なると 何かありますか？",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "なると",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "こまつな",
+            "text": "楽しいスポーツ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "なると",
+            "text": "球技がしたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こまつな",
+            "text": "球技もいろいろありますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ちくわぶ",
+            "text": "なおさら誰かとですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "なると",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "こまつな",
+            "text": "手ごろに出来るのって何？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "なると",
+            "text": "なかなかスケジュールが合わせられなそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ちくわぶ",
+            "text": "コロナもおさまりましたし！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "なると",
+            "text": "手頃なのがいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ちくわぶ",
+            "text": "やっているところに入るのは？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ちくわぶ",
+            "text": "人脈も広がりますし！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "こまつな",
+            "text": "ああ、なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "なると",
+            "text": "それも良いかもですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "なると",
+            "text": "ピラティスとか流行ってますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ちくわぶ",
+            "text": "どーゆーやつですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こまつな",
+            "text": "ヨガみたいなの？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "なると",
+            "text": "そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ほーほー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "こまつな",
+            "text": "何が違うのか今一つ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "なると",
+            "text": "私もです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ちくわぶ",
+            "text": "わかりません笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "なると",
+            "text": "ホットヨガもありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "こまつな",
+            "text": "暑いのですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "なると",
+            "text": "それは汗をかくようです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ちくわぶ",
+            "text": "誰も詳しくない笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "こまつな",
+            "text": "あらま",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "なると",
+            "text": "そうですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こまつな",
+            "text": "看板は見ます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ちくわぶ",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "なると",
+            "text": "見ますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ちくわぶ",
+            "text": "よく見かけるけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ちくわぶ",
+            "text": "入りずらい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "なると",
+            "text": "確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "こまつな",
+            "text": "ヨガマット持ってる人とかいますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "なると",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ちくわぶ",
+            "text": "マットはもってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "なると",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ちくわぶ",
+            "text": "お尻痛くなくていい感じです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "こまつな",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "なると",
+            "text": "運動するのですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ダイエットを少々",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "なると",
+            "text": "へー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ストレッチするのに買いました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "こまつな",
+            "text": "効果あります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ちくわぶ",
+            "text": "4キロ痩せました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "なると",
+            "text": "すごいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ちくわぶ",
+            "text": "食事改善もありますけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "こまつな",
+            "text": "すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "なると",
+            "text": "食事が大事ですものね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ちくわぶ",
+            "text": "代謝がよくなったような",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こまつな",
+            "text": "食事かあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "こまつな",
+            "text": "何食べるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ちくわぶ",
+            "text": "普通ですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ちくわぶ",
+            "text": "食べ方変えただけです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こまつな",
+            "text": "タイシャよくなるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ちくわぶ",
+            "text": "なります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "なると",
+            "text": "代謝よくなりそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "こまつな",
+            "text": "へえ",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "なると",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ちくわぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "こまつな",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,802 @@
+{
+    "dialogue_id": "B13702",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ぺんぎん",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ぺんぎん",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "えのき",
+            "text": "もうすぐ桜の季節ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ぺんぎん",
+            "text": "そうですね！楽しみ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "えのき",
+            "text": "お花見とか行かれますか？\n",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき いくます！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "えのき",
+            "text": "@ぺんぎん いいですね！",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 逆に母はお花見のご予定は？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ぺんぎん",
+            "text": "毎年母と山の方にいってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき あえて行かなくても行動範囲内でそのへんに咲いているので…",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "えのき",
+            "text": "@ぺんぎん そうなんですね",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "えのき",
+            "text": "お母様といっしょに行かれるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき そう言えば近所の公園にすごい桜が見事な場所あったね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき そうなんです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 公園には桜多いですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 山いいですね",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 結構ヤマザクラは綺麗ですよー",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "えのき",
+            "text": "@ぺんぎん 家から結構遠いんですか？",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 山桜はあまり見る機会ないですね",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき 1時間くらいですね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "えのき",
+            "text": "ちょっとした旅行感覚でいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん それは車とかでですか？",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "えのき",
+            "text": "私はいつもご近所で済ませてしまいます…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき そうなんですよ、母が気に入っていたので毎年いってます",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 車でいってます",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき 近所にも桜公園ってあってそこも行きますよ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき さんは、今年は実家にお花見行くの？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ひな祭りに肝試しには行こうと思ってるけど…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 実家はどこですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 埼玉の外れの方です",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "えのき",
+            "text": "ひなまつりの日は1泊でおばあちゃん家に行くって言ってたよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 菜の花に挑みに行きます！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき いいですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 勝ちに行きます！",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき いらぬ戦いをしに行かなきゃいいのに…",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 菜の花！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "えのき",
+            "text": "@ぺんぎん 一面の菜の花畑なんですよ～",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 菜の花素敵ー！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "えのき",
+            "text": "菜の花、すごくいい匂いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき 一緒には行かないんですか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 菜の花は多分私の敵ですよ…",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "私は仕事なので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "えのき",
+            "text": "おうちにいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 親の仇です",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 私がいつ菜の花に？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 父の仇",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "えのき",
+            "text": "そっちか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 仇？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 私と父は菜の花の花粉症でして",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき なるほどー！！！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "えのき",
+            "text": "近寄るだけでやばい感じです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん そのせいで毎春父の実家に行けないのです",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 一面菜の花はやばいですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "えのき",
+            "text": "菜の花って、実は1月頃から咲きはじめるんで大変です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき たしかにお散歩の時にあります",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 咲き始めるの早いですよね",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 意外と早くてびっくりですよね\nお散歩で一月に見ました！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "えのき",
+            "text": "@ぺんぎん 花粉症とかありますか？",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 私もお散歩で鼻でます、花粉症なのかな？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき 考えたくないけど",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 可能性はありますね",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "自覚なく花粉症の時ありそうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@やっぱり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき 風邪なのかなーと思っていると花粉症かも",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 一度検査に行ってみてもいいかもしれないですね",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "えのき",
+            "text": "温度差で鼻水が出るときもありますけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき これから5月くらいまでは大変ですよね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "えのき",
+            "text": "季節の変わり目…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき 検査ってどんな感じですか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき すぐわかるんですか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "えのき",
+            "text": "@ぺんぎん 血液検査でいろいろわかるらしいですよ",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "近所の病院に、検査のポスター貼ってあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき 血液検査なんだ！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私もいい加減怒られに行った方が…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 検査したんですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 検査してないので",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん シュレディンガーのにゃんこです",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "えのき",
+            "text": "調べて結果が出るまではアレルギーではない的な…？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき そうなんだー",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 観測してないから実はアレルギーじゃないかもしれない",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "えのき",
+            "text": "そうやって、てばさんはすぐ現実から目を背ける…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "えのき",
+            "text": "3日後に試験なことからも…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 認めたくないよねー",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 違います、現実と目が合わないだけ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 試験ですか！学生さんですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "えのき",
+            "text": "目を合わせてあげて！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき 色々心配ありますね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき やっぱもういつかくらい伸ばせないかな…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 延長は認めません",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさきできないそうです",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "えのき",
+            "text": "@ぺんぎん てばさんは特にひどいんです",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 昨日別のプラットフォームで模試やったらちょっと点数がガクッと落ちて…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき 心配になりますよね、つい言っちゃう",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "えのき",
+            "text": "@ぺんぎん 本当ですよ…",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 今頃は模試で9割取ってないといけない時期では？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 言い過ぎちゃうけど心配なんですよー",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき こないだ5割取れたよ！一瞬",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "えのき",
+            "text": "これは…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "えのき",
+            "text": "落ちるフラグ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "えのき",
+            "text": "泣いてもいいですか…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私の墓の前で泣かないでください",
+            "mention_to": [
+                "えのき"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ぺんぎん",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

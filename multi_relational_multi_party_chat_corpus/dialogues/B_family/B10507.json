@@ -1,0 +1,710 @@
+{
+    "dialogue_id": "B10507",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "りんご",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "りんご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "えのき",
+            "text": "来週、雪予報ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "てばさき",
+            "text": "また雪ですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "りんご",
+            "text": "また雪？やだー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "えのき",
+            "text": "寒くなりそうです…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "えのき",
+            "text": "私、自転車通勤なので、雪だと厳しい…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "りんご",
+            "text": "本当、春に体なってる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 寒いの苦手ですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "りんご",
+            "text": "すごい苦手です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "りんご",
+            "text": "雪とか無理なんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 冬って朝布団から出られないですよね…",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "りんご",
+            "text": "でれない！二度寝すき",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 二度寝は至高",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "りんご",
+            "text": "本当だよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "えのき",
+            "text": "二度寝教の信者だらけ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "りんご",
+            "text": "でもわんちゃんが起こすの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき もふもふ布団にくるまりたいじゃん…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "えのき",
+            "text": "わんちゃんは朝早そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 犬飼ってるんですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "りんご",
+            "text": "ホフホフ気持ちいいからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "りんご",
+            "text": "そうなんですよー、柴犬です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "えのき",
+            "text": "知り合いも、朝からにゃんこが大運動会って言ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 柴いいですねー",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "えのき",
+            "text": "柴犬可愛いですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "りんご",
+            "text": "朝早くてストーブの前いくんですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "てばさき",
+            "text": "まろまゆの模様が好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "えのき",
+            "text": "旦那が柴犬大好きで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "りんご",
+            "text": "ストーブつけてーって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "えのき",
+            "text": "ストーブあるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "りんご",
+            "text": "本当ですか？柴犬かわいいんですよ、うちもメロメロです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご ストーブって石油とかのですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "えのき",
+            "text": "めろめろになっちゃいますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "りんご",
+            "text": "ストーブは柴犬の為にあります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "えのき",
+            "text": "柴犬様がいちばん大事ですしね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "りんご",
+            "text": "ガスストーブなんですよ、都市ガスだから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 柴犬はあのくるりんしっぽ好きです",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "えのき",
+            "text": "あったかそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "えのき",
+            "text": "しっぽっていろいろ種類あるんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "りんご",
+            "text": "@てばさき でもうちたぬきっぽい",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき そうなの？くるりんだけかと",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "えのき",
+            "text": "たぬき…まるっこい？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 短い感じですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "りんご",
+            "text": "色々ありますよ、しっぽ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "りんご",
+            "text": "うちはくるりんだったんですけど、事故は真っ直ぐです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "えのき",
+            "text": "しっぽにも個性が出ますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご ちなみに麻呂眉の模様はありますか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "えのき",
+            "text": "まろまゆに興味津々",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "てばさき",
+            "text": "色も気になります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "りんご",
+            "text": "まろなのかな、色は茶色ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "えのき",
+            "text": "うちは、ペット飼ったことないんですよね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "りんご",
+            "text": "黒ならまろっぽいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "りんご",
+            "text": "@えのき ペット大変ですよね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "えのき",
+            "text": "子どものお世話だけでいっぱいいっぱいで…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "てばさき",
+            "text": "インコはいたじゃん、メスのプー太郎",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "りんご",
+            "text": "うちは子供が成人してからかいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき あれは、おばあちゃんのインコだから",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "りんご",
+            "text": "ぷーちゃん、かわいい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき おばあちゃんの場合は別カウントだったか…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "りんご",
+            "text": "なかなか動物って大変ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき たまに遊んでもらってたよね、インコに",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "てばさき",
+            "text": "体温高かった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "えのき",
+            "text": "妹は、インコグッズ大好きだよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "りんご",
+            "text": "へえー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "てばさき",
+            "text": "鳥類はあざとい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "えのき",
+            "text": "そうなんだ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "りんご",
+            "text": "インコって体温たかいんですね、あざとい？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "りんご",
+            "text": "笑えるね、どんなとこが？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "てばさき",
+            "text": "いやだって確実に人間を魅了しにいくビジュアル",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てばさき",
+            "text": "シマエナガとか、スズメとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "それじゃあ猫は…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "りんご",
+            "text": "なるほどね！色きれいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "えのき",
+            "text": "お猫様が最高にあざといのでは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "りんご",
+            "text": "猫ちゃんかわいいよね！本当は猫派です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "てばさき",
+            "text": "猫の頭に小鳥が乗ってたら可愛さの二乗ということです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "えのき",
+            "text": "@りんご わんちゃんだと、毎日お散歩大変じゃないですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "りんご",
+            "text": "@えのき そうなんです！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき お散歩か…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "えのき",
+            "text": "何キロくらい歩くんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "りんご",
+            "text": "今日もいきました、1時間",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "えのき",
+            "text": "すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "えのき",
+            "text": "運動になる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "りんご",
+            "text": "でも車椅子わんちゃんだから短めかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 毎日時間帯とか決めてるんですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "りんご",
+            "text": "@てばさき だいたい決めてますよ、というかわんちゃんが決めてます",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "えのき",
+            "text": "せがんでくるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "りんご",
+            "text": "お散歩行きたいって玄関いきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "えのき",
+            "text": "お利口ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てばさき",
+            "text": "可愛いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "りんご",
+            "text": "こっちが忙しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "えのき",
+            "text": "大変ですが可愛いから…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "りんご",
+            "text": "朝晩いきますからねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "朝晩行くんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "りんご",
+            "text": "私の運動ってことで頑張ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "てばさき",
+            "text": "1日2回は大変そうですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "えのき",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "りんご",
+            "text": "でも雨の時は休みです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "えのき",
+            "text": "雨の日は危ないですしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "えのき",
+            "text": "雨が続いたらどうされるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "えのき",
+            "text": "お家の中で遊んだりしますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "りんご",
+            "text": "ホームセンターいってます、そこで散歩です",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "りんご",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

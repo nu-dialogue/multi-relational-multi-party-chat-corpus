@@ -1,0 +1,700 @@
+{
+    "dialogue_id": "B13501",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "くじら",
+        "こんぶ",
+        "ちくわ"
+    ],
+    "relationship": [
+        "こんぶ",
+        "ちくわ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くじら",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "こんぶ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ちくわ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くじら",
+            "text": "雨になりましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "くじら",
+            "text": "寒いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "こんぶ",
+            "text": "こちらは雪でしたが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ちくわ",
+            "text": "こっちは雪でした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "こんぶ",
+            "text": "今は少し降ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "くじら",
+            "text": "ほう、雪が降っていますか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ちくわ",
+            "text": "前みたいにたくさんではないのでよかったですけど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こんぶ",
+            "text": "朝はぼたぼた降ってました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "くじら",
+            "text": "@こんぶ 雪は積もりそうですか？",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ちくわ",
+            "text": "雪は降ってても意外に外は寒くないんですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "こんぶ",
+            "text": "@くじら 道路はとけてて、このままなら大丈夫そうです！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "くじら",
+            "text": "そうなんですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "こんぶ",
+            "text": "車に積もった雪もとけつつあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ 道路大丈夫だったからマクド行ってきたもんね！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "こんぶ",
+            "text": "雪かきはしなくて良さそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くじら",
+            "text": "雪降るとかなり寒い感じがします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "こんぶ",
+            "text": "そう！お昼はマックでした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ちくわ",
+            "text": "@くじら 雨でも気持ちがさがりますよへ！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "くじら",
+            "text": "マックいいですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "こんぶ",
+            "text": "本当気持ちはさがります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ちくわ",
+            "text": "寒いのかな？と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ちくわ",
+            "text": "おもったけれどあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ちくわ",
+            "text": "意外に寒くなかったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "くじら",
+            "text": "寒すぎて今日はまだ外には出ていなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "こんぶ",
+            "text": "お腹もいっぱいなって眠いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ちくわ",
+            "text": "@くじら 家の近くにマクドがあるからよく行っちゃいます！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ちくわ",
+            "text": "それな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ちくわ",
+            "text": "クソ眠くなってきた時間帯！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "こんぶ",
+            "text": "そうなんですよ！近くにあるので、つい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "くじら",
+            "text": "@こんぶ 確かに眠いです",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ちくわ",
+            "text": "@くじら お昼は何食べました？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "くじら",
+            "text": "近くにあれば行きたくなりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "こんぶ",
+            "text": "車社会なので、こーいう寒い時の車は便利です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "くじら",
+            "text": "@ちくわ 今日は残り物でした",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "こんぶ",
+            "text": "そうなんですよ、つい、つい行っちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ちくわ",
+            "text": "車で2、3分のとこにマクドあるしね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "こんぶ",
+            "text": "そうそう！すぐね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ちくわ",
+            "text": "残り物でも休みの日は楽ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "くじら",
+            "text": "鮭のちゃんちゃん焼きみたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "こんぶ",
+            "text": "残り物で賄えるなんて素敵です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ちくわ",
+            "text": "おいしそー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "こんぶ",
+            "text": "あ！美味しそう！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "こんぶ",
+            "text": "いいですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ちくわ",
+            "text": "ご飯めちゃくちゃ食いたくなる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "こんぶ",
+            "text": "わかるわかる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "こんぶ",
+            "text": "ご飯が、進みそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "くじら",
+            "text": "誰も食べないので私だけ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ちくわ",
+            "text": "そうだったんですねーー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "くじら",
+            "text": "息子はカップ麺",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ちくわ",
+            "text": "なるほどー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "こんぶ",
+            "text": "息子さんいらっしゃるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ちくわ",
+            "text": "休日あるあるですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "くじら",
+            "text": "子供はカップ麺好きですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "こんぶ",
+            "text": "カップ麺食べたくなるやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ちくわ",
+            "text": "最近カップ麺食ってないなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "こんぶ",
+            "text": "私は、この間食べました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "くじら",
+            "text": "お湯入れて食べてねって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ちくわ",
+            "text": "食べたくなりますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ちくわ",
+            "text": "すぐにできるし。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "こんぶ",
+            "text": "夫のいぬまに。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "くじら",
+            "text": "カップ麺も色々種類ありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "こんぶ",
+            "text": "簡単だし、いいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ シンクにあったの見ました！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "こんぶ",
+            "text": "ありますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ちくわ",
+            "text": "僕は、焼きそばが好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ ば、ばれてた",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くじら",
+            "text": "カップヌードル食べたくなる時あります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ちくわ",
+            "text": "あとは、どんべいのうどん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こんぶ",
+            "text": "わかります〜そうなんですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "こんぶ",
+            "text": "無性に食べたくなる時があって！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ちくわ",
+            "text": "食べたくなるのわかるなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "くじら",
+            "text": "@ちくわ 息子も焼きそば好きです。",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "こんぶ",
+            "text": "私も、カップ焼きそば好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ちくわ",
+            "text": "あ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ちくわ",
+            "text": "一緒ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ちくわ",
+            "text": "男あるあるなんかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "こんぶ",
+            "text": "@くじら どのメーカーお好みですか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ちくわ",
+            "text": "みんなペヤングとか食べてるイメージ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こんぶ",
+            "text": "私は、バゴーンが好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ちくわ",
+            "text": "でも俺は日清のUFOとかかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "くじら",
+            "text": "ペヤングかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ちくわ",
+            "text": "でた！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ちくわ",
+            "text": "バゴーーーーーン！！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "くじら",
+            "text": "焼きそばも色々あるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "こんぶ",
+            "text": "やはり、ペヤングですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ちくわ",
+            "text": "色々ありますよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "こんぶ",
+            "text": "あとは、量が欲しい時は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ちくわ",
+            "text": "味薄いやつとかあるから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ちくわ",
+            "text": "それは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "こんぶ",
+            "text": "ゴツ盛りてやつです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ちくわ",
+            "text": "あんま好きではない！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こんぶ",
+            "text": "味も違うし、麺のかんじもぜんぜん違いますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ちくわ",
+            "text": "でも大盛りたべたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "くじら",
+            "text": "それ、家でも買ってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ それなー！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ちくわ",
+            "text": "味濃いのがいいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "くじら",
+            "text": "大盛でないと足りないみたいで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "こんぶ",
+            "text": "ペヤングの大きいサイズもありますよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ちくわ",
+            "text": "でも、どんべいのうどんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ちくわ",
+            "text": "関西風が好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "くじら",
+            "text": "ありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "こんぶ",
+            "text": "カップ麺一個じゃ足りない時もありますよね",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くじら",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "こんぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ちくわ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

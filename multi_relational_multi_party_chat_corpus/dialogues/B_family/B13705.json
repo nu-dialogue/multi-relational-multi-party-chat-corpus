@@ -1,0 +1,792 @@
+{
+    "dialogue_id": "B13705",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ぺんぎん",
+        "てばさき",
+        "えのき"
+    ],
+    "relationship": [
+        "てばさき",
+        "えのき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ぺんぎん",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "てばさき",
+            "text": "お昼ご飯どうしますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "どうしよう～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ぺんぎん",
+            "text": "うちは昨日の残りかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 何好きなんですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 私は肉と魚が好きです",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "えのき",
+            "text": "うちも、昨日の生姜焼きかな…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき まじかよ母…あれ生姜強いやつじゃん",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 魚！いいですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "えのき",
+            "text": "父作です生姜焼き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 笑そんなに？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき おのれ父上",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "えのき",
+            "text": "身体が温まるように…生姜を…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "えのき",
+            "text": "多分",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 強くすぎてもはや辛かったです",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "えのき",
+            "text": "まじかー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのきなるほど！でも料理するんですね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "えのき",
+            "text": "@ぺんぎん 旦那がします",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "えのき",
+            "text": "私は適当にします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ぺんぎん",
+            "text": "えー、すごいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 父は料理うまいです、母もうまいですが焦がします",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "えのき",
+            "text": "ひどい…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "えのき",
+            "text": "ちょっと待てないだけなんだ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 笑でも美味しいんだ！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 強火はダメだとあれほど",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "えのき",
+            "text": "@ぺんぎん 料理はされますか？",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき いいですね、両方から作ってもらえて",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき ほぼ毎日しますね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 恩恵を享受してます！",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "えのき",
+            "text": "@ぺんぎん すごいですね！！",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "えのき",
+            "text": "私は適当にさぼりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 毎日って大変そうですね",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき サボりたい",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "えのき",
+            "text": "子供たちももう大きいので、サバイバルしてもらいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "えのき",
+            "text": "買物だけはします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき そうなんですよ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき サバイバルさせられます",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "えのき",
+            "text": "食材を切らさないようにだけ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき がんばってー！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "えのき",
+            "text": "たくましく育って！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき でも家族で作るのはいいですね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 肉があれば焼いて食べれるので大丈夫です多分",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき たくましい！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき てばさんは、結構お料理するよね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき そうだね、しないのは妹",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "えのき",
+            "text": "味付けがちょっとしょっぱいけども…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき そうなんですね！得意なのあるんですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 塩分ってつまりは幸せじゃん？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "えのき",
+            "text": "えー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 得意料理は…ニクヲヤイターノですね",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 笑なるほど、そーゆー考え！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "えのき",
+            "text": "なにそのソーセージマルメターノみたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき おー、それが一番ですよー",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ニクヲヤイテシオコショウカケターノもありますよ！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき ネーミングサイコー！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "ソーセージマルメターノは実在します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき そーなんですか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私が言ったのも創作料理として存在しますが？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "えのき",
+            "text": "スーパーとかで売ってるらしいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 今ここに",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 創作てばさん",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき そうそう！なんでも創作よ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "えのき",
+            "text": "己を捜索しに旅に出たほうがいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき テキトーに作ればなんとかなるものよ！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ぺんぎん",
+            "text": "いつもテキトーにつくってます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき そして気づく、己とは常に身のうちにあるものだと、まるで青い鳥のように…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "えのき",
+            "text": "深い…ように見える言葉をありがとう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき マリアナ並みに深い言葉ですがー？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき さすが言語がどんどんでてくる",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "えのき",
+            "text": "でも自分でごはんを作って食べてくれるので、助かりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "妹分の分もついでに焼いてくれるし…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "えのき",
+            "text": "おねえちゃんえらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ぺんぎん",
+            "text": "そうですよね、うちなんて男の子だからカップ麺ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 妹がなぜか肉を焼かない上にお願いお姉ちゃんって棒読みで…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "えのき",
+            "text": "でも最近のカップ麺美味しいですからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん カップ麺はご馳走です",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき さすが！妹さんのも作るなんて！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "えのき",
+            "text": "御馳走扱いだねうちでは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 普段食べれないから",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき 最近のは味が凝ってるからね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "えのき",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ぺんぎん",
+            "text": "ラーメンとかすごいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 企業努力を味わうわけですよ",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "えのき",
+            "text": "@ぺんぎん カップ麺買い置きとかしてあげてるんですか？",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき それはある。たゆまぬ努力",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき すごい努力してもらってる",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@えのき そうですね、買って置きます、でもいつのまにかない！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "えのき",
+            "text": "災害時の備蓄もかねてカップ麵買い置きしたいんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん 最近まで加薬を火薬だと思ってました、やりようによっては爆発しないかな？と",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "意外と期限が短いんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 勘違いあるある",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 爆発しなかった…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@てばさき なんとなくわかる笑",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "えのき",
+            "text": "したら大変だよ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ぺんぎん",
+            "text": "確かに賞味期限短いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "えのき",
+            "text": "半年くらいで買い換えていかないとで…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "てばさき",
+            "text": "@ぺんぎん そのため多分我が家の備蓄はアルファ米です",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "えのき",
+            "text": "だね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ぺんぎん",
+            "text": "そうなんです！だからたべているのか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "えのき",
+            "text": "あんまりカップ麺食べないと気が付きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "えのき",
+            "text": "@ぺんぎん ローリングストックが身についているんですね！",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "ぺんぎん",
+            "text": "その方がいいですよ",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ぺんぎん",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

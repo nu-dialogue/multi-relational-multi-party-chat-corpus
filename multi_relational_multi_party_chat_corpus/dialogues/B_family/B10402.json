@@ -1,0 +1,764 @@
+{
+    "dialogue_id": "B10402",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "うさぎ",
+        "しらたき",
+        "つくね"
+    ],
+    "relationship": [
+        "しらたき",
+        "つくね"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うさぎ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "しらたき",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つくね",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うさぎ",
+            "text": "今週バレンタインありましたね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つくね",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "しらたき",
+            "text": "もらえなかった…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "うさぎ",
+            "text": "買ったり作ったりしましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つくね",
+            "text": "娘と一緒にチョコ作りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき うわ、本当ですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ そうなんです",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね うちも作りました！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "しらたき",
+            "text": "息子に全部食べられました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ お子さんと一緒にですか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき きゃー一つくらいほしかったですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "しらたき",
+            "text": "本当に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "しらたき",
+            "text": "ちょっと寂しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね はい、ただ高校生なので、ほとんど1人で作ってました",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 明日アルフォート買ってくるね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき 来年こそは！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ だんだん作るものが",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね アルフォート好きです！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つくね",
+            "text": "凝ってきて大変です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 来年こそは",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "しらたき",
+            "text": "まだまだ長い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね お嬢様、誰かにあげたとか？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ アルフォート美味しいですよね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "うさぎ",
+            "text": "うちは友チョコでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "つくね",
+            "text": "娘は友達にあげてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね やはり友チョコですね！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ ですね！娘のクラスは",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つくね",
+            "text": "男子が6人なんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 男子とかには？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 俺の分も",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "うさぎ",
+            "text": "ろ、6人！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "しらたき",
+            "text": "欲しいなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 6人なんです！笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき きっと来年こそは！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ おねだりしておきます！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 何クラスですか？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つくね",
+            "text": "1クラスが20人未満でして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "うさぎ",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つくね",
+            "text": "全校で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つくね",
+            "text": "100人です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "うさぎ",
+            "text": "みんな顔見知りですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "うさぎ",
+            "text": "アットホーム",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき ホワイトデー楽しみにしてるね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね え？なんで？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ そうなんです！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 私もいまなんで？と思いました笑",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "うさぎ",
+            "text": "間違えました、しらたきさんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ あ！先にもらっておこうかと笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね おもしろすぎます！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ そう思いますよね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "うさぎ",
+            "text": "お二人仲良さそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 来年はあげようと思います！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 仲はいい方です",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "しらたき",
+            "text": "喧嘩もしますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 特大のハートでもぜひ！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき お年は近いんですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 来年も忘れてるかもですね笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 俺の方が3つ下です",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "うさぎ",
+            "text": "そんなこと言わずにぜひ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しらたき",
+            "text": "尻に敷かれてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 娘と頑張ります！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき うちも妹のところが2歳年上です",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ さんのうちは夫婦仲良しですか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "うさぎ",
+            "text": "うちは同級生です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ そうなんですね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "しらたき",
+            "text": "姉さん女房！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね はい、誕生日5日違いなので",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 5日違いってすごいですね",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "うさぎ",
+            "text": "兄弟姉妹みたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "しらたき",
+            "text": "すごっ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "うさぎ",
+            "text": "しかも間に結婚記念日",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つくね",
+            "text": "それは確かに兄弟姉妹みたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "うさぎ",
+            "text": "たまたまですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つくね",
+            "text": "たまたまと言う名の運命ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "しらたき",
+            "text": "凄い偶然ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね ですかね？会社の同期なので",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "うさぎ",
+            "text": "全然ロマンティックではないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 会社の同僚なんですね",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "つくね",
+            "text": "いやいや！社内恋愛",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね はい、お二人は出会いは？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つくね",
+            "text": "ちょっと憧れます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 友人の知人です",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "うさぎ",
+            "text": "えー隠すの大変でしたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ それもドキドキで楽しそう！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき ビビビときました？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 飲み会で知り合って",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しらたき",
+            "text": "つくねはめっちゃ酔ってました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき いいですね！一目惚れですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "つくね",
+            "text": "ベロベロでした笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね お酒お強い？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ そう言うことにしておきます！笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき おい！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 結構飲みます！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき それが仲良しの秘訣ですね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき そこは一目惚れでしょ！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ そうですかね？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 何が好きですか？ビール？ワイン？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね これからもよろしくー！",
+            "mention_to": [
+                "つくね"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うさぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

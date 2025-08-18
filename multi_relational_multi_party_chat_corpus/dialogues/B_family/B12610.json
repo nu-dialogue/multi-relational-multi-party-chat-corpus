@@ -1,0 +1,746 @@
+{
+    "dialogue_id": "B12610",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "くじら",
+        "てばさき",
+        "えのき"
+    ],
+    "relationship": [
+        "てばさき",
+        "えのき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くじら",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くじら",
+            "text": "海外で行きたい国ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら海外に行きたくないです",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "えのき",
+            "text": "しいて言えば…ふらんす？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "えのき",
+            "text": "エッフェル塔に登ってみたいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき そうなんですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら あ、九州行ってみたいです！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "てばさき",
+            "text": "海外",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 海外",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "くじら",
+            "text": "@えのき 私もフランスは行きたいです。",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くじら",
+            "text": "モンサンミッシェルに行きたくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "えのき",
+            "text": "へー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "えのき",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき 国内でもOKです！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら ミッシェルって何でしたっけ？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "くじら",
+            "text": "九州も良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くじら",
+            "text": "海に浮かぶ教会だったような",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 九州の長崎とかでお魚をたくさん食べたいです",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき グルメツアーか",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 食い倒れ！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "えのき",
+            "text": "食一辺倒",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "くじら",
+            "text": "それは絶対美味しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき たまには景色も見て！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "くじら",
+            "text": "九州もお魚美味しそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "くじら",
+            "text": "海も綺麗ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 三大欲求の１柱を侮ってはならぬのだよお母様",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 睡眠欲は普段から満たしまくってるから…",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき すやぁ…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "くじら",
+            "text": "九州はほぼ行った気がします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "えのき",
+            "text": "@くじら すごい！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "くじら",
+            "text": "修学旅行で長崎に行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 行ってない都道府県はありますか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "くじら",
+            "text": "ただ、中国地方は全く",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "えのき",
+            "text": "私はほぼほぼどこの県も行ったことないです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "えのき",
+            "text": "関東引きこもり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "くじら",
+            "text": "@えのき どこか行きたい県ありますか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら あそこの砂丘も景色良さそうですね",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "くじら",
+            "text": "鳥取ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "えのき",
+            "text": "@くじら しいて言えば…北海道ですかね！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "くじら",
+            "text": "鳥取はまだです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 連れてけ〜",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "くじら",
+            "text": "北海道も良いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "えのき",
+            "text": "北海道、車がないので移動が大変そうですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき え～",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 連れてかー",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "えのき",
+            "text": "でも最近はいろいろ値上がりで、旅行代金がお高そう…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くじら",
+            "text": "富良野・美瑛が良かったですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 無念",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "えのき",
+            "text": "@くじら いいですね！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "くじら",
+            "text": "確かに旅行代金が高くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "えのき",
+            "text": "昔より絶対高くなってますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "くじら",
+            "text": "沖縄にもまた行きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "えのき",
+            "text": "沖縄も行ってみたいです！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "くじら",
+            "text": "行ったあと首里城が燃えてしまったのはショックでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら お給料もインフレすればいいですよね",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "@くじら 沖縄、どうでしたか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "えのき",
+            "text": "ソーキそばとか食べるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "くじら",
+            "text": "海が綺麗で癒されました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 美ら海水族館行きました！あと西表島",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "てばさき",
+            "text": "姉が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "くじら",
+            "text": "ソーキそば食べましたよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "えのき",
+            "text": "いいですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てばさき",
+            "text": "西表島は適当抜かしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "えのき",
+            "text": "南の島のお日様に当たるだけでも癒されそう…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "くじら",
+            "text": "私も西表行きました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "えのき",
+            "text": "絶海の孤島って感じします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら ヤマネコ見れました？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき ヤマネコは見れなかったです",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "くじら",
+            "text": "なかなか会えなさそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "ドクターコトーのロケ地とか行きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき あの分厚い漫画？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "くじら",
+            "text": "ドクターコトーがそうなのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 現実よりのブラックジャック",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "えのき",
+            "text": "与那国島にあるらしいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "くじら",
+            "text": "見てなかったですけど、良さそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "えのき",
+            "text": "最近また映画やってましたよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くじら",
+            "text": "与那国島も良さそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くじら",
+            "text": "誰が出てましたかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "くじら",
+            "text": "俳優さん？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "えのき",
+            "text": "吉岡秀隆さんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "くじら",
+            "text": "ああ、わかりました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "えのき",
+            "text": "最初のドラマ版はかなり昔ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私あそこに一度行きたい、にゃんこパラダイス",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "えのき",
+            "text": "にゃんこパラダイスどこ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "てばさき",
+            "text": "猫しかいない島",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "えのき",
+            "text": "どこ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くじら",
+            "text": "どこでしょ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "てばさき",
+            "text": "いや猫以外にもいるけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てばさき",
+            "text": "名前は忘れたけど…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "てばさき",
+            "text": "猫島と呼ばれる島があるらしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "くじら",
+            "text": "猫しかいない島があるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき 猫好きですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "猫好きの聖地と言われるところが各地にあるらしいね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 好きです！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "くじら",
+            "text": "家の近くの谷中にも猫がたくさんいた気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき いくら猫好きでもみずからすすんで20時間眠らなくてもいいんですよ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "てばさき",
+            "text": "人口より猫の方が多い島がこの世にあるのです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "くじら",
+            "text": "20時間も！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "くじら",
+            "text": "そんなに眠れるなんて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "くじら",
+            "text": "羨ましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 二十時間睡眠は至福だけど起きると頭痛くなるのが難点",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "えのき",
+            "text": "私が見ている時はほぼほぼ寝てますよてばさん",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くじら",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

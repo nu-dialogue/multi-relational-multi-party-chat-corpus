@@ -1,0 +1,780 @@
+{
+    "dialogue_id": "B14308",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "コアラ",
+        "てばさき",
+        "えのき"
+    ],
+    "relationship": [
+        "てばさき",
+        "えのき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "コアラ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "コアラ",
+            "text": "よくいくファミレスまたはファーストフードってありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "てばさんは、マクドナルド大好きじゃない？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "えのき",
+            "text": "あとコメダ珈琲",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 昨日行ってきたよ、マクドナルドは",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき コメダ！いいですよね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき やっぱり…",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "てばさき",
+            "text": "コメダはまだ2回しか行ってないけど！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき まさか星のカービィー？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ コメダ珈琲、シロノワールとか食べたいです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "コアラ",
+            "text": "噂になってましたよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき どれも好き！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ カービィはもう終了したらしいです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき 転売すごかったみたいですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "えのき",
+            "text": "そんな、やってたんですね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ ",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "えのき",
+            "text": "ちょっと欲しかったカービィ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき わかる！転売しないから売ってみたいな",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ コメダはビーフシチューが好きです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき えー美味しい？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき お高いメニュー",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "コアラ",
+            "text": "食べたことないかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 美味しいですよ、とろとろでバゲットがついてて",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき あっ、やはり！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき きゃー行きたくなる",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "コアラ",
+            "text": "うちは娘がサイゼリア好きでよく行きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ サイゼ好きです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき 何が好きですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "コアラ",
+            "text": "サイゼで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 生ハム頼んで、プチフォッかと一緒に食べるの好きです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "コアラ",
+            "text": "娘はグリーピースサラダがマストです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "えのき",
+            "text": "サイゼなのに2人で7000円食べたことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき 美味しそう！ワインに合う！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "えのき",
+            "text": "てばさんとふたりで…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ほらステーキリーズナブルだったし",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき えええええー",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "コアラ",
+            "text": "2人で？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "コアラ",
+            "text": "すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "コアラ",
+            "text": "ワインは飲みましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 未成年なので…すいません",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "お酒は飲みませんね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "てばさき",
+            "text": "成年はしてた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "コアラ",
+            "text": "飲まずに7000円だとメニュー多め？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": "20歳以下だとね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "てばさき",
+            "text": "20歳以下なので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき あっ、そうですね、18歳と混ざります",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "コアラ",
+            "text": "ややこしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "えのき",
+            "text": "エスカルゴとか、ここぞとばかりに注文しました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき エスカルゴ美味しいですよね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき せっかくだから普段頼まない料理を！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "えのき",
+            "text": "でも、外食全般値上がりしていますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき その気持ちはわかるかな？そんなにしょっちゅうは行かない？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "えのき",
+            "text": "外食だけじゃないですが…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき ほんとそれ！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "えのき",
+            "text": "1.5倍位になっている気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "もっとかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "コアラ",
+            "text": "スーパーだとすぐ5000円は超えますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 最寄り駅前に有るのでつい寄ってしまうことはあります",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "コアラ",
+            "text": "ちょっと買うと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき 駅前は寄りたくなる！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "えのき",
+            "text": "こないだ家族５人、ファミレスで18000円でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき あははははは",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "えのき",
+            "text": "15000円のお食事券を持っていたので行ったんですが…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "えのき",
+            "text": "足りなかった…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき おおおおーちょっとした外食ですね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ごちになりました！！！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき お食事券あると逆に気が大きくなりません？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "えのき",
+            "text": "ファミレスに貢いできてしまった…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ わかります",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ そうなんですよね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき どちらのファミレスですか？ロイホとか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 和食レストランです、天狗っていう",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき うわー知らない",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "コアラ",
+            "text": "でもちゃんとしてそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 大衆食堂版になると足が生えます",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "えのき",
+            "text": "関東ローカルですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "てんぐ大ホールかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき 神奈川ですが、知らないです、あるのかな？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "コアラ",
+            "text": "あっ、天狗？チェーンの？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 東京にはありました",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "えのき",
+            "text": "そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ チェーンですn",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき そうなんだ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "てばさき",
+            "text": "サイコロステーキ美味しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "ステーキ美味しいね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき サイコロステーキ！最近食べてないかも",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "コアラ",
+            "text": "あさくまは近くにあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "えのき",
+            "text": "うちはお肉ばかりですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ステーキと大根おろしの相性に最近価値を見出し始めました",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "コアラ",
+            "text": "ハングリータイガーとか、知ってます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき そうなんだ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき 美味しいかも",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 知りませんね…どんなお店ですか？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき 神奈川中心のチェーンであつあつ鉄板にジュージューお肉です",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "えのき",
+            "text": "いいですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ それこそローカルのお店な気がします",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "コアラ",
+            "text": "ステーキやらハンバーグ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "コアラ",
+            "text": "こちら横浜とかだと知らない人はいないかなー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "えのき",
+            "text": "うちの近所だと、ブロンコビリーかなあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "コアラ",
+            "text": "でも店舗数は少ないかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき あっ、なんか聞いたことある！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき なに？ブロンコビリーに連れて行ってくれるって？",
+            "mention_to": [
+                "えのき"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "コアラ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

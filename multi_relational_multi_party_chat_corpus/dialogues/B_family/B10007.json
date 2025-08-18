@@ -1,0 +1,760 @@
+{
+    "dialogue_id": "B10007",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "うさぎ",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うさぎ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うさぎ",
+            "text": "今日はお昼メニュー決まってますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "特に決めてないですね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "えのき",
+            "text": "あるものを食べます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "えのき",
+            "text": "買物行きたくないので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき わかります！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ 冷蔵庫にハンバーグあったのでそれかもしれません",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき 美味しそう！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき なんでも好きにお食べなさい",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "うさぎ",
+            "text": "朝とかはご飯ですか？パンですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 妹から美味しかったってわざわざ報告きました",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "えのき",
+            "text": "私はごはんでした。もつ煮とともに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "えのき",
+            "text": "もつ煮が余ってて…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ さっきたらこパスタ食べました",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき モツ煮！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき たらこスパ美味しいですよねー",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "えのき",
+            "text": "@うさぎ 何を食べましたか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "うさぎ",
+            "text": "うちはパン派なのでオムレツとクロワッサンです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "えのき",
+            "text": "おしゃれですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ そんなシャレおつな",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "うさぎ",
+            "text": "お昼悩んでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "えのき",
+            "text": "優雅",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "えのき",
+            "text": "悩みますよね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ こういう時にツナ缶とか備蓄があると便利ですよね",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき 買い物行けば書いますけどね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき ツナ缶使えますよね！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "えのき",
+            "text": "私は、ブリカマかな。余ってるので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "えのき",
+            "text": "酒蒸し予定",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 換気扇ちゃんと回してね…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "えのき",
+            "text": "はい…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき 和食多いですか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "えのき",
+            "text": "半々ですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "えのき",
+            "text": "でもうちはご飯派が多いので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "うさぎ",
+            "text": "気分ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき 健康にいいです！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ この間胡桃のひねりパン？食べてましたよ母",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "えのき",
+            "text": "くるみのツオッブ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき ひねりパン？美味しそう",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "うさぎ",
+            "text": "胡桃好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "えのき",
+            "text": "スーパーで買ってきたやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "最近ハマっているんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 一駅隣のパン屋さんのパンも好きだよね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき アンデルセンというパン屋のクルミパン好きです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "うさぎ",
+            "text": "チェーンですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "えのき",
+            "text": "クルミパン大好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき わかります！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "えのき",
+            "text": "べーカーリー巡りも結構好きなんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "うさぎ",
+            "text": "つい買います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき おいしいパン屋さんとかお近くに？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき カレーパン食べ比べはしたいです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき 主人が大好きです！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "えのき",
+            "text": "@うさぎ 結構広範囲で回りますよ、自転車ですが",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "えのき",
+            "text": "うちの旦那もカレーパン好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "えのき",
+            "text": "男の人に人気なんですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "うさぎ",
+            "text": "わかります！困るとお昼カレーパンにします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "うさぎ",
+            "text": "カリカリの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "えのき",
+            "text": "そういう鉄板があると楽ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 母半径10キロは自転車圏内とかのたまうから…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "うさぎ",
+            "text": "楽ですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "うさぎ",
+            "text": "半径10キロ？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "車がないので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき うちもないです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "うさぎ",
+            "text": "手放しました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "えのき",
+            "text": "断捨離ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき というか、引越ししたら駅近で駐車場代ばか高くて",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "えのき",
+            "text": "あー。高いですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "うさぎ",
+            "text": "その前は車必須のところでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "てばさき",
+            "text": "自転車置き場も困りますしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "えのき",
+            "text": "田舎住からすると、家賃かってくらい高い…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき 意外と探しますよね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき 家賃かも？！笑笑",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "えのき",
+            "text": "札幌に住んでた頃は、家賃が3万円でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき まあお安い",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "えのき",
+            "text": "こっちでは、駐車場代が3万円。みたいな…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "うさぎ",
+            "text": "えーっ？！札幌今度いきます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "うさぎ",
+            "text": "旅行で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うさぎ",
+            "text": "一泊2日ですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "寒くて半年雪が積もってますからね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "えのき",
+            "text": "住むのは大変です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "てばさき",
+            "text": "北海道旅行の時は白い恋人パーク楽しかったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "うさぎ",
+            "text": "4月もですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき いいなー行こうかしら？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "えのき",
+            "text": "冬場は、越冬手当とか出るんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "うさぎ",
+            "text": "おー出そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ 今は知りませんがハート型のでかい白い恋人作れますよ！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "全てストーブ代に消えますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき 娘と行くので調べてみます！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 小さいころ行ったよね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき うちも仙台住んでた時寒冷地手当ついてました",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 楽しかった",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "@うさぎ 娘さんはおいくつですか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき 高2です！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "えのき",
+            "text": "大きいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ 妹もそろそろ高校生ですね",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "うさぎ",
+            "text": "@てばさき 中学卒業ですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ そうです",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "うさぎ",
+            "text": "おめでとうございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ ありがとうございます！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "うさぎ",
+            "text": "でばさきさんは学生さんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "てばさき",
+            "text": "@うさぎ 大学生です",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "えのき",
+            "text": "@うさぎ 札幌は、家族旅行ですか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "うさぎ",
+            "text": "@えのき はい、ただ主人は繁忙期で行けなくて娘と2人です",
+            "mention_to": [
+                "えのき"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うさぎ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

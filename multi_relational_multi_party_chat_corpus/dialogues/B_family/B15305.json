@@ -1,0 +1,750 @@
+{
+    "dialogue_id": "B15305",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "カンガルー",
+        "にんじん",
+        "たまねぎ"
+    ],
+    "relationship": [
+        "にんじん",
+        "たまねぎ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "カンガルー",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "にんじん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "たまねぎ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "カンガルー",
+            "text": "海外旅行とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "カンガルー",
+            "text": "行った事ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "にんじん",
+            "text": "@カンガルー 私飛行機のったことない",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たまねぎ",
+            "text": "ないですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "カンガルー",
+            "text": "行きたい国とかありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "にんじん",
+            "text": "まだ日本制覇してないからなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまねぎ おお！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たまねぎ",
+            "text": "行きたいとは思うけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "カンガルー",
+            "text": "@にんじん 海外より日本！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "たまねぎ",
+            "text": "北海道と沖縄行きたいよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまねぎ なるほど！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "にんじん",
+            "text": "@たまねぎ いきたーい",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "カンガルー",
+            "text": "最近、円安だし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "カンガルー",
+            "text": "海外も中々行きづらいですしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "たまねぎ",
+            "text": "@カンガルー ですねー",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "カンガルー",
+            "text": "国内沢山いいとこある！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "にんじん",
+            "text": "美味しいもの食べたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "カンガルー",
+            "text": "ちょっと前までは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "たまねぎ",
+            "text": "旅行貯金しないと！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "カンガルー",
+            "text": "高校の修学旅行が海外とかあったのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "にんじん",
+            "text": "@カンガルー あったあったー！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "にんじん",
+            "text": "私立はそうだったなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "たまねぎ",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "カンガルー",
+            "text": "今はだんだん少なくなっているらしいですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "たまねぎ",
+            "text": "オーストラリア行ってた気がする",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "にんじん",
+            "text": "すごいよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "にんじん",
+            "text": "飛行機怖いなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "たまねぎ",
+            "text": "わかるー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "カンガルー",
+            "text": "私も何度も飛行機乗ってますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "カンガルー",
+            "text": "怖いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "たまねぎ",
+            "text": "@カンガルー おー",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "にんじん",
+            "text": "やっぱ怖いんだー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "カンガルー",
+            "text": "特に離陸",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "にんじん",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "たまねぎ",
+            "text": "離陸",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "カンガルー",
+            "text": "飛行機乗る前は必ず夢見ます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "たまねぎ",
+            "text": "じーがかかる？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "にんじん",
+            "text": "@カンガルー 夢？？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "カンガルー",
+            "text": "飛行機が離陸して5分後に落ちる夢",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "にんじん",
+            "text": "はやー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たまねぎ",
+            "text": "やだーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "カンガルー",
+            "text": "あとパスポート忘れる夢",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "にんじん",
+            "text": "怖い…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "カンガルー",
+            "text": "かなり緊張しているみたいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たまねぎ",
+            "text": "何回も乗ってるのに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "にんじん",
+            "text": "私無理だー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "にんじん",
+            "text": "墜落しそうだもん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "にんじん",
+            "text": "そうゆうくじひきそうだもん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "たまねぎ",
+            "text": "ジャック的なやつとかね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "カンガルー",
+            "text": "年に一回は乗るかなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "にんじん",
+            "text": "宝くじは当たらないくせに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "カンガルー",
+            "text": "今でも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "たまねぎ",
+            "text": "@カンガルー 旅行？？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "カンガルー",
+            "text": "旅行ではなく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "たまねぎ",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "にんじん",
+            "text": "仕事？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "カンガルー",
+            "text": "北海道に用事があって〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "にんじん",
+            "text": "おーいいなぁー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "たまねぎ",
+            "text": "ついでに観光だー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "カンガルー",
+            "text": "仕事みたいなものです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "たまねぎ",
+            "text": "ついでにカニだー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "たまねぎ",
+            "text": "いいなぁー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "カンガルー",
+            "text": "観光しませんよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "にんじん",
+            "text": "カニ食べたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "たまねぎ",
+            "text": "@カンガルー えー",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "カンガルー",
+            "text": "カニも高いし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "たまねぎ",
+            "text": "もったいない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "にんじん",
+            "text": "やっぱ高いのか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "にんじん",
+            "text": "でも、おいしいだろーなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たまねぎ",
+            "text": "絶対うまいよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "たまねぎ",
+            "text": "海無し県だから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "たまねぎ",
+            "text": "憧れるー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "カンガルー",
+            "text": "美味しいのは確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "にんじん",
+            "text": "わかるわかるー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "カンガルー",
+            "text": "海無し県！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "にんじん",
+            "text": "知り合いが先週北海道行ってきて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "カンガルー",
+            "text": "逆に山の幸ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "カンガルー",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "にんじん",
+            "text": "50万使ったいってたなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "たまねぎ",
+            "text": "@カンガルー 山の幸ですなー",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "カンガルー",
+            "text": "50万！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "たまねぎ",
+            "text": "@カンガルー ほぼ飲み歩き",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "カンガルー",
+            "text": "山の幸って言えば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "にんじん",
+            "text": "@カンガルー はい",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "カンガルー",
+            "text": "行者にんにく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "にんじん",
+            "text": "幸ではない…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "にんじん",
+            "text": "うちの庭に生えてる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "カンガルー",
+            "text": "幸ではないか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "たまねぎ",
+            "text": "生えてる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "カンガルー",
+            "text": "えー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "カンガルー",
+            "text": "えー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "カンガルー",
+            "text": "羨ましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまねぎ",
+            "text": "引っこ抜いて捨ててる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "カンガルー",
+            "text": "す、捨てる？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "にんじん",
+            "text": "うん。捨ててる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "カンガルー",
+            "text": "食べないんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "にんじん",
+            "text": "生えまくるから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "にんじん",
+            "text": "食べません笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "たまねぎ",
+            "text": "食べないね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "カンガルー",
+            "text": "笑えます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "たまねぎ",
+            "text": "子供の頃は食べたけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "にんじん",
+            "text": "うん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "カンガルー",
+            "text": "餃子に入れたり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "にんじん",
+            "text": "食べた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "カンガルー",
+            "text": "にんにく醤油にしたり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "カンガルー",
+            "text": "羨ましい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 109,
+            "interlocutor_id": "にんじん",
+            "text": "なんせ料理苦手で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 110,
+            "interlocutor_id": "カンガルー",
+            "text": "あと何が生えてます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 111,
+            "interlocutor_id": "にんじん",
+            "text": "大葉！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 112,
+            "interlocutor_id": "たまねぎ",
+            "text": "大葉は使うよねー",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "カンガルー",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "にんじん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまねぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

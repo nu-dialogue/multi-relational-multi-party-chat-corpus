@@ -1,0 +1,685 @@
+{
+    "dialogue_id": "A01001",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "うどん",
+        "くらげ",
+        "いくら"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うどん",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "くらげ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "いくら",
+            "text": "こんにちはー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うどん",
+            "text": "お天気どうですかー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "くらげ",
+            "text": "もうすぐ降りそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "いくら",
+            "text": "すごい晴れてます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "くらげ",
+            "text": "いいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "うどん",
+            "text": "うちのとこも降りそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "いくら",
+            "text": "@くらげ 全然違うんですね！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くらげ",
+            "text": "洗濯物がこりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "くらげ",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "うどん",
+            "text": "不安定ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くらげ",
+            "text": "さっきとりこみました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "いくら",
+            "text": "わたしは東の方ですが、みなさんどちらですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "くらげ",
+            "text": "西です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "うどん",
+            "text": "私は東海です！まんなか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "くらげ",
+            "text": "＠うどん　それより西です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "いくら",
+            "text": "では明日とかこちらも天気崩れるかもしれませんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くらげ",
+            "text": "@うどん それ西です",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "くらげ",
+            "text": "@いくら 夜からかも",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "うどん",
+            "text": "雷なるかもしれないみたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "いくら",
+            "text": "雨降ると嫌ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くらげ",
+            "text": "えっ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "くらげ",
+            "text": "低気圧のせいか頭痛がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "いくら",
+            "text": "雷ってびっくりしますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "くらげ",
+            "text": "雨前はいつもです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "うどん",
+            "text": "雨だと気分下がりますね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "くらげ",
+            "text": "下がります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "うどん",
+            "text": "雷こわい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "いくら",
+            "text": "雨前頭痛重なるとさらにしんどいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "くらげ",
+            "text": "今　そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "いくら",
+            "text": "雷落ちるとこ見たことないけど落ちるんですよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "くらげ",
+            "text": "なので、この会話で気分あげたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "いくら",
+            "text": "薬とか飲まれてますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "うどん",
+            "text": "@くらげ 頭痛お大事になさってください",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "くらげ",
+            "text": "ありがとうございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "うどん",
+            "text": "話すと気分転換になりますね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "いくら",
+            "text": "雨の話でも気分あがりますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くらげ",
+            "text": "ひどい時はロキソニン飲んでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "いくら",
+            "text": "痛み止めいいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "くらげ",
+            "text": "@いくら あがりますよ",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "いくら",
+            "text": "こちらは風が凄いですね、音が、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "くらげ",
+            "text": "春一番！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "くらげ",
+            "text": "朝のニュースでいってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "うどん",
+            "text": "@いくら　風強いんですね！",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "いくら",
+            "text": "@くらげ でしたら嬉しいです！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "いくら",
+            "text": "春一番！それですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "うどん",
+            "text": "もう春一番か",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "うどん",
+            "text": "早いなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "いくら",
+            "text": "私も昨日ニュース見ましたそういえば！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "いくら",
+            "text": "なんだかあんまり寒くない冬でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "くらげ",
+            "text": "春一番がふいても春はこないっていってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "うどん",
+            "text": "まだしばらく寒いのか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "いくら",
+            "text": "そうなんですか？まだ冬続きますかね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "いくら",
+            "text": "春は花粉がすごいみたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "うどん",
+            "text": "早く暖かくなるといいなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "くらげ",
+            "text": "@いくら 寒暖さが強い冬ですね",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "うどん",
+            "text": "みなさん花粉症ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "くらげ",
+            "text": "ちがいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "いくら",
+            "text": "わたしは多分花粉症ではなさそうです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "うどん",
+            "text": "よかった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "うどん",
+            "text": "わたしもです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "くらげ",
+            "text": "けど、いつなるかわからないですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "いくら",
+            "text": "珍しいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "いくら",
+            "text": "花粉症とても多いですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "くらげ",
+            "text": "多いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "うどん",
+            "text": "花粉症のひと多いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "うどん",
+            "text": "つらそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "くらげ",
+            "text": "ある時発症するみたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "いくら",
+            "text": "風邪の鼻水しんどいのにそれ以外で鼻水しんどそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "くらげ",
+            "text": "目も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "くらげ",
+            "text": "くしゃみ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "いくら",
+            "text": "目も嫌ですね、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "うどん",
+            "text": "集中できなさそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "くらげ",
+            "text": "アスファルトが増えたからですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "いくら",
+            "text": "みんな違う大きさのキャパを超えるとっていいますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "うどん",
+            "text": "そうなんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "いくら",
+            "text": "アスファルトのせいなんですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うどん",
+            "text": "知らなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くらげ",
+            "text": "昔は土がすってくれてそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "うどん",
+            "text": "へー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "いくら",
+            "text": "せっかく過ごしやすい温度になったのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "うどん",
+            "text": "そんなとこにアスファルトの弊害が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "いくら",
+            "text": "外出れないのは嫌ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "うどん",
+            "text": "外でたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くらげ",
+            "text": "でたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "いくら",
+            "text": "花見とかされますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "うどん",
+            "text": "お花見行きますー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "いくら",
+            "text": "どなたと行かれるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くらげ",
+            "text": "しっかりとはいってないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "うどん",
+            "text": "1人でふらっと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くらげ",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "うどん",
+            "text": "京都でお花見とか好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "いくら",
+            "text": "@うどん おひとりで！いいですね！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くらげ",
+            "text": "近くですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "いくら",
+            "text": "京都で花見、最高ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "うどん",
+            "text": "1人旅で！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "うどん",
+            "text": "雰囲気いいですよね、京都",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "くらげ",
+            "text": "えっ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "いくら",
+            "text": "以前、窓から桜が見えたんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "くらげ",
+            "text": "京都LOVE",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "くらげ",
+            "text": "なんです！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "うどん",
+            "text": "@くらげ うれしい！！わたしも京都らぶです！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "いくら",
+            "text": "大人になってからの京都あこがれます",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うどん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "くらげ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "いくら",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

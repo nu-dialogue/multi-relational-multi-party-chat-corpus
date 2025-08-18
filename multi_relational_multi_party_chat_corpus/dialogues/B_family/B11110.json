@@ -1,0 +1,740 @@
+{
+    "dialogue_id": "B11110",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ポテト",
+        "にんじん",
+        "たまねぎ"
+    ],
+    "relationship": [
+        "にんじん",
+        "たまねぎ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ポテト",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "にんじん",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "たまねぎ",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ポテト",
+            "text": "もし、長期休みがあったら、どこに行きたいですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "にんじん",
+            "text": "@ポテト えーーどこだろ",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ポテト うーん",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ポテト",
+            "text": "暖かい地域に私は行きたいです・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "たまねぎ",
+            "text": "温泉！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ポテト",
+            "text": "沖縄とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "にんじん",
+            "text": "@ポテト あーいいですねー",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ポテト",
+            "text": "温泉！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "にんじん",
+            "text": "沖縄行ったことない〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ポテト",
+            "text": "@にんじん そうなんですね！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ポテト 長期だとふやけるか！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "にんじん",
+            "text": "いや、ずっと入らなくていいやん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ポテト",
+            "text": "@たまねぎ ずっと浸かっているわけじゃない笑",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ポテト あ、そーか",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "にんじん",
+            "text": "ばか…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ポテト",
+            "text": "しおしおたまねぎさんに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "たまねぎ",
+            "text": "いや、ほらサウナとか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "にんじん",
+            "text": "それ一人旅やん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "たまねぎ",
+            "text": "あ、たしかにー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ポテト",
+            "text": "確かに笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "たまねぎ",
+            "text": "じゃあダメだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ポテト",
+            "text": "みんなでいきましょ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "にんじん",
+            "text": "@ポテト ですよねー",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "にんじん",
+            "text": "沖縄いきたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "たまねぎ",
+            "text": "もう泳げるみたいだしねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ポテト",
+            "text": "@たまねぎ もう！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "にんじん",
+            "text": "そーなの？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ポテト",
+            "text": "はやい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "たまねぎ",
+            "text": "さすが沖縄！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ポテト",
+            "text": "海開きしてるんだ・・・沖縄・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "にんじん",
+            "text": "そんなにあったかいのかー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "たまねぎ",
+            "text": "あ、開いたかどうかは知らない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "にんじん",
+            "text": "え！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "たまねぎ",
+            "text": "勝手に泳ぐ式！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ポテト",
+            "text": "え！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "にんじん",
+            "text": "それ人によるんじゃ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "たまねぎ",
+            "text": "気合いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ポテト",
+            "text": "勝手に泳ぐ式？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "にんじん",
+            "text": "なんだそれ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ポテト そーそー",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たまねぎ",
+            "text": "俺ならいける！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "にんじん",
+            "text": "聞いてないわ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ポテト",
+            "text": "@たまねぎ あ～～～～",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "たまねぎ",
+            "text": "えー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ポテト",
+            "text": "おきゃくさま～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "たまねぎ",
+            "text": "怒られるやつ？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ポテト",
+            "text": "勝手な遊泳は困ります～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "たまねぎ",
+            "text": "俺また怒られる？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "にんじん",
+            "text": "恥ずかしいからやめてー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ポテト",
+            "text": "打ち上げられるたまねぎさん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ポテト こまる",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ポテト",
+            "text": "@たまねぎ また？！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "にんじん",
+            "text": "私が困る！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ポテト よく怒られますー",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ポテト",
+            "text": "@にんじん 笑",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ポテト",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "たまねぎ",
+            "text": "電気つけっぱなしとかー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ポテト",
+            "text": "最近起こられたのは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ポテト",
+            "text": "可愛いやつで怒られている",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "たまねぎ",
+            "text": "便座下げないとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "にんじん",
+            "text": "よくやるー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ポテト",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "にんじん",
+            "text": "家事スキルはあるのにー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "たまねぎ",
+            "text": "褒めて伸びるこ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "にんじん",
+            "text": "子供か！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ポテト",
+            "text": "@にんじん 家事スキルあるの良いですね！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "にんじん",
+            "text": "@ポテト そこは尊敬です！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "たまねぎ",
+            "text": "てへ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ポテト",
+            "text": "褒めてどんどん家事を！！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "にんじん",
+            "text": "ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "たまねぎ",
+            "text": "常に褒めて欲しい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "たまねぎ",
+            "text": "怒られるとへこむー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "にんじん",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "にんじん",
+            "text": "怒ってないけどね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ポテト",
+            "text": "やさしい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "にんじん",
+            "text": "でも、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "にんじん",
+            "text": "洗濯しようと思ったやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "にんじん",
+            "text": "ハンガーかけるのやめて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "にんじん",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ポテト",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "たまねぎ",
+            "text": "え！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "たまねぎ",
+            "text": "まじか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ポテト",
+            "text": "洗ってない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "たまねぎ",
+            "text": "しらなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "にんじん",
+            "text": "@ポテト そーそー",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "にんじん",
+            "text": "洗濯機の前に置いといたのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "にんじん",
+            "text": "ハンガーかかってた！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ポテト",
+            "text": "舞い戻ってしまう洗濯物笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ポテト",
+            "text": "どうしてなの・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "にんじん",
+            "text": "@ポテト 永遠に洗われない笑",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ポテト",
+            "text": "@にんじん 笑",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "たまねぎ",
+            "text": "また着るのかと…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ポテト",
+            "text": "やばい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "にんじん",
+            "text": "だから今着てる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ポテト",
+            "text": "洗ってあげてくださいませ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "にんじん",
+            "text": "もう干さないで笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ポテト",
+            "text": "でも、それ永遠ループしません？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "にんじん",
+            "text": "ループ笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "たまねぎ",
+            "text": "気をつけますー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "たまねぎ",
+            "text": "ちーん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "にんじん",
+            "text": "ありがたいから言わなかったけど笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "ポテト",
+            "text": "あ！へこんでしまった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "にんじん",
+            "text": "ループはやだー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "たまねぎ",
+            "text": "ちーん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "ポテト",
+            "text": "@にんじん やさしみ・・・",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "にんじん",
+            "text": "メンタル弱め！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ポテト",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "にんじん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまねぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

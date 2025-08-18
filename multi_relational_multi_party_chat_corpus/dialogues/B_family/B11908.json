@@ -1,0 +1,718 @@
+{
+    "dialogue_id": "B11908",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ばなな",
+        "しらたき",
+        "つくね"
+    ],
+    "relationship": [
+        "しらたき",
+        "つくね"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ばなな",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "しらたき",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つくね",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ばなな",
+            "text": "お子さんは何人いらっしゃいますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つくね",
+            "text": "2人いますー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "しらたき",
+            "text": "3人です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しらたき",
+            "text": "間違えた！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 3人？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "つくね",
+            "text": "誰？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "つくね",
+            "text": "もう1人…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "しらたき",
+            "text": "2人と一匹です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ばなな",
+            "text": "２人ですね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つくね",
+            "text": "@ばなな 2人です！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ばなな",
+            "text": "ねこちゃんがいるとか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "しらたき",
+            "text": "@ばなな 2人です！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "しらたき",
+            "text": "@ばなな 猫ちゃんいます！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "つくね",
+            "text": "猫飼ってます！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ばなな",
+            "text": "そうなんですね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ばなな",
+            "text": "詳しくないのですけれど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ばなな",
+            "text": "種類というのか、どんな猫ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "つくね",
+            "text": "キジトラです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つくね",
+            "text": "元々地域猫でして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "つくね",
+            "text": "縁あってお迎えしました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ばなな",
+            "text": "@つくね そうなのですね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "しらたき",
+            "text": "@ばなな 子供に負けた",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "しらたき",
+            "text": "子供が飼いたい飼いたい言うから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき ホントたまたま運よくだよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ばなな",
+            "text": "@しらたき そうなのですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ばなな",
+            "text": "お子さんはお世話しますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つくね",
+            "text": "@ばなな たまーにしてます！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つくね",
+            "text": "ほぼ猫の嫌がる事しかしてないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ばなな",
+            "text": "たまーになんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しらたき",
+            "text": "でも猫が相手しない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ばなな",
+            "text": "猫が相手してくれないのは寂しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つくね",
+            "text": "触られるの嫌がります笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "しらたき",
+            "text": "寝る時は布団に入ってきて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ばなな",
+            "text": "触られるのが嫌なんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "しらたき",
+            "text": "暖かいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ばなな",
+            "text": "暖かそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つくね",
+            "text": "子供から触られるの嫌がりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ばなな",
+            "text": "カイロの代わりになりそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "しらたき",
+            "text": "湯たんぽの代わり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つくね",
+            "text": "私のところには来ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しらたき",
+            "text": "@ばなな カイロ付けて寝るんですか！？",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "つくね",
+            "text": "湯たんぽ必要です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ばなな",
+            "text": "カイロでなくて、湯たんぽですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 冷え性",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ばなな",
+            "text": "何もしないで寝てます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 末端がね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つくね",
+            "text": "冷えるのよ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ばなな",
+            "text": "冷え性ですけれど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ばなな",
+            "text": "指も冷たいですし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つくね",
+            "text": "@ばなな 女性は冷え性多いですよね！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ばなな",
+            "text": "お店で体温測ったら34度とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "しらたき",
+            "text": "心が暖かいのかな？笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つくね",
+            "text": "34度！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "しらたき",
+            "text": "@ばなな 34度は低すぎ",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "つくね",
+            "text": "低いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ばなな",
+            "text": "壊れてますね体温計が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つくね",
+            "text": "きっと壊れてますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "しらたき",
+            "text": "絶対そうですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ばなな",
+            "text": "平熱は36度なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つくね",
+            "text": "大体そのくらいですよねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ばなな",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "つくね",
+            "text": "体温が低いと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "つくね",
+            "text": "代謝も悪くなりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "つくね",
+            "text": "あと、37度くらいで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つくね",
+            "text": "結構具合悪くなる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ばなな",
+            "text": "確かに代謝が悪くなりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "しらたき",
+            "text": "俺しょっちゅう体調悪いー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ばなな",
+            "text": "37度で具合が悪くなるのは辛いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 体弱いよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "しらたき",
+            "text": "風邪ひきやすい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ばなな",
+            "text": "@しらたき 体調崩しやすいのですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つくね",
+            "text": "@ばなな ちょっと熱が上がるとしんどいです",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "しらたき",
+            "text": "年始は必ず寝込む",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ばなな",
+            "text": "それはたいへん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ばなな",
+            "text": "ここ何年か寝込んでないかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しらたき",
+            "text": "素晴らしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ばなな",
+            "text": "@しらたき 疲れが溜まっているのですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つくね",
+            "text": "コロナとインフルにやられました笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "しらたき",
+            "text": "@ばなな そうですそうです！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ばなな",
+            "text": "そうなんですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき そんなことないら！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "つくね",
+            "text": "ゲームできる元気があるじゃん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 飲みすぎかな",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 禁酒で！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "しらたき",
+            "text": "やだよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ばなな",
+            "text": "お酒強いのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 買いませんー！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "つくね",
+            "text": "@ばなな 結構飲むんですが",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ばなな",
+            "text": "@しらたき 毎日飲んでますか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "つくね",
+            "text": "酔うとヤバめです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 買ってきますー",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "しらたき",
+            "text": "@ばなな 平日は禁酒してます！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ばなな",
+            "text": "酔うと陽気になるとか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つくね",
+            "text": "@ばなな そうです！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つくね",
+            "text": "笑いながら寝てます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ばなな",
+            "text": "陽気なら良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "しらたき",
+            "text": "酔うとトイレと仲良くなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つくね",
+            "text": "そこで大体寝てます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ばなな",
+            "text": "笑いながらは幸せそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ばなな",
+            "text": "それが風邪の原因では？",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ばなな",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

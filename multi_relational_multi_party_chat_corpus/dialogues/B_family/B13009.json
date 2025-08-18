@@ -1,0 +1,736 @@
+{
+    "dialogue_id": "B13009",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "にわとり",
+        "くま",
+        "じゃがいも"
+    ],
+    "relationship": [
+        "くま",
+        "じゃがいも"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "にわとり",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "くま",
+            "text": "こんばんわ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "じゃがいも",
+            "text": "こんばんはぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "にわとり",
+            "text": "さっきテレビでね、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "くま",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "じゃがいも",
+            "text": "テレビで、？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "にわとり",
+            "text": "おいしそうな海鮮丼をやっていて、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "くま",
+            "text": "海鮮丼！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "じゃがいも",
+            "text": "海鮮丼好きですよ〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "にわとり",
+            "text": "思わず食べたくなってしまいました・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "にわとり",
+            "text": "おお！海鮮丼お好きですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり 何のネタが好きですか？",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くま",
+            "text": "@にわとり いいですね",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "じゃがいも",
+            "text": "寿司ネタ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "にわとり",
+            "text": "私はエビかな！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "くま",
+            "text": "海鮮丼嫌いな人はあまりいない気がしますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "じゃがいも",
+            "text": "まさかの私エビ食べれない、アレルギーじゃないのにw",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "くま",
+            "text": "苦手な人もいるか、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "にわとり",
+            "text": "@じゃがいも えっ！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "じゃがいも",
+            "text": "あの独特な味がねダメなんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "にわとり",
+            "text": "そうか、そうなんですね？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "じゃがいも",
+            "text": "カニは平気なのに笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "にわとり",
+            "text": "確かに、においは結構強いですよね～。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "にわとり",
+            "text": "カニもいいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "くま",
+            "text": "@にわとり だからエビの店行きづらいんですよ",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり 食べれないことはないです！",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "じゃがいも",
+            "text": "そう、絶対海老の店は行かない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "じゃがいも",
+            "text": "断固反対",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "くま",
+            "text": "やはりサーモンですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "にわとり",
+            "text": "なるほどなるほど、でもエビがっつりのところは無理ですよね・・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "じゃがいも",
+            "text": "マグロです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも おいしいエビの見せあるのに",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "くま",
+            "text": "店",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "にわとり",
+            "text": "あっサーモン！マグロ！両方いいな！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり どっちがお好きですか？",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "くま",
+            "text": "色々のってるのもいいとこですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "にわとり",
+            "text": "お寿司食べたくなってきましたね.",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "にわとり",
+            "text": "サーモンがいいかなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "じゃがいも",
+            "text": "負けた...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "くま",
+            "text": "2票だ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "にわとり",
+            "text": "わははは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "くま",
+            "text": "やはりサーモンは世界を救う",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "にわとり",
+            "text": "サーモン、あぶらのってておいしいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "じゃがいも",
+            "text": "マグロはね、もう大トロとか油がすごいのが私は好きなんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "じゃがいも",
+            "text": "サーモンは焼いて欲しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "にわとり",
+            "text": "うわおーーー　大トロ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 若さを感じる",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "にわとり",
+            "text": "確かに・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "じゃがいも",
+            "text": "はま寿司の炙りチーズサーモンはめちゃ好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "にわとり",
+            "text": "醤油をつけたら、油うくぐらいのね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "にわとり",
+            "text": "わーーーー　はま寿司好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも エンガワも良いよね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "にわとり",
+            "text": "昔よくいったなあ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり ただ絶対的に量は食べれない",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま わかる！えんがわマジで好きになった",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "にわとり",
+            "text": "@くま えんがわいいですねー！私もすきです！",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "くま",
+            "text": "@にわとり はま寿司からカリフォルニアロールが消えてしまったんですよ",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "くま",
+            "text": "悲しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "じゃがいも",
+            "text": "それな笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "にわとり",
+            "text": "あらら・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "にわとり",
+            "text": "結構な有名メニューなのに。なんでだろー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 日本の誰よりも君が悲しんでたよ",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "くま",
+            "text": "唯一回転ずしであったのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "くま",
+            "text": "@にわとり なんか材料不足らしいですよ",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり とびこ？の輸入量が追いつかなくなったんじゃなかったかな",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "にわとり",
+            "text": "そうですね、確かに他だとあんまりみない・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも そう。とびこ",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "にわとり",
+            "text": "@くま とびこですかー",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "にわとり",
+            "text": "確かに最近あんまりみかけない・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "じゃがいも",
+            "text": "一回消えると復活しないからなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "くま",
+            "text": "きっと子供にも大人気なのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "にわとり",
+            "text": "あれおいしいのに！とびこ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり あ、やっぱそうなんだ！",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "くま",
+            "text": "@にわとり とびこいいですよね",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "にわとり",
+            "text": "昔は普通にあちこちでみましたけどね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも ほんとに人気かはしらん",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "じゃがいも",
+            "text": "海鮮じゃないけど？ないかもしれないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "にわとり",
+            "text": "スーパーの寿司にも入ってたような気がします。プチプチ感がいい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "じゃがいも",
+            "text": "私はほんとうに白子大好きで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くま",
+            "text": "@にわとり あの頃に戻ってほしいですね",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "じゃがいも",
+            "text": "毎冬絶対に食べます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "にわとり",
+            "text": "おおっ！！しぶい！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 白子もいいね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "じゃがいも",
+            "text": "とびこはね、よくわからないので話を飛ばします笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "じゃがいも",
+            "text": "白子好きなんだよなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くま",
+            "text": "天ぷら食べたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "にわとり",
+            "text": "白子かー！！！わはは、白子で！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま おいこの時間に天ぷらとかは流石にギルティ",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "にわとり",
+            "text": "私はめったに食べる機会ないけど、おいしいですよねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "にわとり",
+            "text": "あっ　ギルティ―w",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも どっちもプリン体すごそう",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "じゃがいも",
+            "text": "なんかね、うちの近くにあるヤオコーで売ってるんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "じゃがいも",
+            "text": "割と良い頻度で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "にわとり",
+            "text": "へー！！そうなんですね！？　",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くま",
+            "text": "@にわとり たまに食べたくなりますね",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり 親が近くに住んでるんで買ってもらいます",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "にわとり",
+            "text": "あんまり売ってないですよね。スーパーで白子。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも ヤオコーは全国展開してるのか？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "じゃがいも",
+            "text": "女パワーで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "じゃがいも",
+            "text": "ヤオコーを知らない！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "にわとり",
+            "text": "女パワー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "くま",
+            "text": "関東だけな気もする",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "じゃがいも",
+            "text": "娘パワーw",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "にわとり",
+            "text": "ヤオコーは聞いたことはありますが、当方西日本ですけど、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "にわとり",
+            "text": "ないような気がしますね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "じゃがいも",
+            "text": "お母さんに女パワー使っても意味ないです笑",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "にわとり",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "くま",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "じゃがいも",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

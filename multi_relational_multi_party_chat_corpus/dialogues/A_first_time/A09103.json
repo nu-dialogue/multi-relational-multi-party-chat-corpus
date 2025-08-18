@@ -1,0 +1,733 @@
+{
+    "dialogue_id": "A09103",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "はまち",
+        "あざらし",
+        "くまのみ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "はまち",
+            "text": "こんばんは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "あざらし",
+            "text": "こんばんはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "くまのみ",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "はまち",
+            "text": "我が家、子どもがいるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "はまち",
+            "text": "もうすぐ春休みがあります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "くまのみ",
+            "text": "うちもいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "くまのみ",
+            "text": "うちもです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "あざらし",
+            "text": "うちもです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "あざらし",
+            "text": "始まりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "はまち",
+            "text": "お仲間ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "くまのみ",
+            "text": "さっきあと何日で春休みと数えてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "あざらし",
+            "text": "@くまのみ そうでしたか",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くまのみ",
+            "text": "@あざらし タイムリーですね",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "はまち",
+            "text": "@あざらし 同じく、あと何日と報告してきました。",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "くまのみ",
+            "text": "春休みは宿題がないから嬉しいらしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "あざらし",
+            "text": "@くまのみ それは嬉しい",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "はまち",
+            "text": "子どもはウキウキですが、親は大変ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "あざらし",
+            "text": "うちはありますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くまのみ",
+            "text": "@はまち 報告ってわかります！　そんな感じでした",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "くまのみ",
+            "text": "@あざらし えっ、あるんですか？",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "あざらし",
+            "text": "@はまち 親は大変です",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "あざらし",
+            "text": "@くまのみ ありますあります",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "はまち",
+            "text": "@あざらし 宿題あるんですね！",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "くまのみ",
+            "text": "@はまち 大変です",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "くまのみ",
+            "text": "@あざらし どんな宿題ですか？",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "あざらし",
+            "text": "春休み",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "あざらし",
+            "text": "春休みのとも的なやつです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "あざらし",
+            "text": "中学生の娘は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "くまのみ",
+            "text": "そんなのあるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "はまち",
+            "text": "@あざらし 問題集的なものですか？",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "くまのみ",
+            "text": "初めてききました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "あざらし",
+            "text": "新聞書いたりするらしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "はまち",
+            "text": "私も初耳です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "あざらし",
+            "text": "おそらくそんな感じです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "くまのみ",
+            "text": "@あざらし 夏休みの宿題みたいですね",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "あざらし",
+            "text": "そうなんですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "はまち",
+            "text": "@あざらし 新聞を書くんですね！",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "あざらし",
+            "text": "長い休みじゃないのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くまのみ",
+            "text": "確かに春休みは冬休みより長いけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "あざらし",
+            "text": "@はまち 可哀想ですよね",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "くまのみ",
+            "text": "かわいそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "くまのみ",
+            "text": "新聞って結構大変ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "あざらし",
+            "text": "親も憂鬱です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "はまち",
+            "text": "子どもも大変な春休みなんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "あざらし",
+            "text": "全然遊べない笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "くまのみ",
+            "text": "うちはうきうきしてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "はまち",
+            "text": "親はごはん問題が大変です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "くまのみ",
+            "text": "@はまち ですよね",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "あざらし",
+            "text": "同じく！ご飯問題ありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "くまのみ",
+            "text": "三食ですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "はまち",
+            "text": "1日3食か…。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "あざらし",
+            "text": "毎日毎日大変ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "あざらし",
+            "text": "気が重い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "はまち",
+            "text": "本当重いです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "くまのみ",
+            "text": "重いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "くまのみ",
+            "text": "横でダラダラされるとよけいにイラっとしますしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "はまち",
+            "text": "下の子は4月から小学生なので準備も大変です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "あざらし",
+            "text": "給食がありがたすぎる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "あざらし",
+            "text": "@はまち おめでとうございます",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "くまのみ",
+            "text": "@はまち それは忙しいですね",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "はまち",
+            "text": "@あざらし 給食は本当にありがたいです。",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "あざらし",
+            "text": "忙しいですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "あざらし",
+            "text": "でも楽しみだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "はまち",
+            "text": "何も準備ができてなくてソワソワしています。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "くまのみ",
+            "text": "準備は着々とですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "あざらし",
+            "text": "まだ時間はあるんでね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "くまのみ",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "あざらし",
+            "text": "うちはもう大きいので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "あざらし",
+            "text": "懐かしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くまのみ",
+            "text": "@はまち 何が必要か忘れました",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "くまのみ",
+            "text": "小学一年生はかわいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "はまち",
+            "text": "@くまのみ 粘土とかクーピーとか絵具道具とか",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "あざらし",
+            "text": "うん。かわいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "はまち",
+            "text": "こまごましたものがいっぱいで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "あざらし",
+            "text": "そっかー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "くまのみ",
+            "text": "@はまち 自分で用意ですか？",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "あざらし",
+            "text": "学校で買う感じですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "くまのみ",
+            "text": "学校で一括購入とかありましたよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "あざらし",
+            "text": "ありましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "はまち",
+            "text": "@くまのみ 学校でも注文できますが、可愛いものがいいそうで…。",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "あざらし",
+            "text": "@はまち 好みがあるんだ",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "くまのみ",
+            "text": "@はまち そんなリクエストが！　大変ですね",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "はまち",
+            "text": "あとおばあちゃんが買ってくれるとかで甘えたり。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "あざらし",
+            "text": "優しい、おばあちゃん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "くまのみ",
+            "text": "@はまち それはランドセルには？",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "はまち",
+            "text": "@くまのみ ランドセルも買ってもらいました。",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "くまのみ",
+            "text": "@はまち やさしいおばあちゃん認定ですね",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "あざらし",
+            "text": "ありがたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "くまのみ",
+            "text": "よかったですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "はまち",
+            "text": "ひいおばあちゃんも健在で何かを買ってあげたいらしく、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "あざらし",
+            "text": "おお！素晴らしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "はまち",
+            "text": "行く度にこまごまおねだりしています。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "くまのみ",
+            "text": "@はまち お子さん、たくさんお財布あっていいですね",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "あざらし",
+            "text": "ランドセルは何色ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "はまち",
+            "text": "ありがたい話です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "はまち",
+            "text": "@あざらし ランドセルは水色です。",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "くまのみ",
+            "text": "@はまち よかったですね",
+            "mention_to": [
+                "はまち"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "くまのみ",
+            "text": "最近はカラフルですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "あざらし",
+            "text": "素敵な色ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "あざらし",
+            "text": "カラフル",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "はまち",
+            "text": "ピンクを選ぶのかと思っていましたがまさかの水色！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "あざらし",
+            "text": "いっぱいあるしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "はまち",
+            "text": "選びたい放題の時代です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "くまのみ",
+            "text": "選択肢が多いと悩みますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "あざらし",
+            "text": "うちは無難に赤でした",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "はまち",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "あざらし",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "くまのみ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

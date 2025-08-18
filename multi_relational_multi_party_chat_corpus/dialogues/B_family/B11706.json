@@ -1,0 +1,716 @@
+{
+    "dialogue_id": "B11706",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ぱんだ",
+        "にんじん",
+        "たまねぎ"
+    ],
+    "relationship": [
+        "にんじん",
+        "たまねぎ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ぱんだ",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "にんじん",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "たまねぎ",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ぱんだ",
+            "text": "こちらは東京なのですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ぱんだ",
+            "text": "今朝は寒いです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "にんじん",
+            "text": "やっと晴れてきました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たまねぎ",
+            "text": "でも寒いですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ぱんだ",
+            "text": "まだまだ寒さが続きますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "たまねぎ",
+            "text": "そちらは降りましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ぱんだ",
+            "text": "雪ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぱんだ はい",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "にんじん",
+            "text": "@ぱんだ 昨夜めちゃふりましたー",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ぱんだ",
+            "text": "@たまねぎ えー！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "にんじん",
+            "text": "積もってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "たまねぎ",
+            "text": "雨混じりだから重い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ぱんだ",
+            "text": "@にんじん どちらですか？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "たまねぎ",
+            "text": "長野です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ぱんだ",
+            "text": "長野！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "にんじん",
+            "text": "今は晴れて溶けそうです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ぱんだ",
+            "text": "2週間後に小淵沢に行きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぱんだ アウトレット？？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ぱんだ",
+            "text": "子供の遠征です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "にんじん",
+            "text": "@ぱんだ スポーツ？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ぱんだ",
+            "text": "@にんじん そうなんです！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぱんだ なんのスポーツですか？？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ぱんだ",
+            "text": "@たまねぎ アイスホッケー ！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "にんじん",
+            "text": "@ぱんだ えー！すごい！",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ぱんだ",
+            "text": "まだまだスタッドレス外せないかなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぱんだ 確かにー",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たまねぎ",
+            "text": "こっちに来ること多いですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ぱんだ",
+            "text": "軽井沢にはよく行きます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "にんじん",
+            "text": "スタッドレス外せないですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ぱんだ",
+            "text": "小淵沢は年に一回くらいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "たまねぎ",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ぱんだ",
+            "text": "まだまだスタッドレス外せないか…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "にんじん",
+            "text": "まだダメですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ぱんだ",
+            "text": "長野は広いですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "にんじん",
+            "text": "@ぱんだ 広いです！",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "にんじん",
+            "text": "長野だけでも降るところと降らないところあります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "たまねぎ",
+            "text": "こっちはあんまし降らないんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "にんじん",
+            "text": "去年と今年はすごい降りましたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ぱんだ",
+            "text": "長野市内でしょうか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ぱんだ",
+            "text": "今年は暖冬とかいいつつ、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "にんじん",
+            "text": "@ぱんだ 長野の田舎の方です！",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ぱんだ",
+            "text": "一気に来ましたね。寒さが。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ぱんだ",
+            "text": "@にんじん 田舎！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ぱんだ",
+            "text": "私は練馬区ですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "にんじん",
+            "text": "寒かったりあたかかったり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "にんじん",
+            "text": "風邪ひきそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ぱんだ",
+            "text": "畑に囲まれた田舎ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "たまねぎ",
+            "text": "そうなんですか？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "たまねぎ",
+            "text": "都会なイメージ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ぱんだ",
+            "text": "@にんじん 寒暖差は辛いですね",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "にんじん",
+            "text": "@ぱんだ 幸いインフルは逃れました",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ぱんだ",
+            "text": "@たまねぎ 練馬の田舎の方！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ぱんだ",
+            "text": "@にんじん そうなんですね！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "たまねぎ",
+            "text": "ほー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ぱんだ",
+            "text": "@にんじん 実は娘がインフル中です！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "にんじん",
+            "text": "え！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "にんじん",
+            "text": "絶賛流行りにのってるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぱんだ うつってないですか？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ぱんだ",
+            "text": "@にんじん 10月にＡになり、今回はＢです！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "にんじん",
+            "text": "コンプリート！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ぱんだ",
+            "text": "@たまねぎ うつってないですね！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ぱんだ",
+            "text": "@にんじん コンプリートです！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "にんじん",
+            "text": "インフル最悪ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "にんじん",
+            "text": "胃腸炎もやだけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "たまねぎ",
+            "text": "コロナはかるかったー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ぱんだ",
+            "text": "@にんじん 息子もいるんですが、",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "にんじん",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ぱんだ",
+            "text": "@にんじん 息子も今シーズンコンプリート！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ぱんだ",
+            "text": "親だけ無事です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぱんだ おー",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "たまねぎ",
+            "text": "親強！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ぱんだ",
+            "text": "感染対策してませんが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ぱんだ",
+            "text": "移らないですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "たまねぎ",
+            "text": "さすが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "にんじん",
+            "text": "コロナは一緒にうつったほうがいいみたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ぱんだ",
+            "text": "インフルは移る時は移る！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "たまねぎ",
+            "text": "子供からのは基本貰っちゃうのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ぱんだ",
+            "text": "@にんじん コロナの時は",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "にんじん",
+            "text": "AとB症状違いますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "たまねぎ",
+            "text": "@にんじん コロナは移ったほうがいいんですか？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ぱんだ",
+            "text": "娘だけ移りませんでしたよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "にんじん",
+            "text": "@ぱんだ え！逆に？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "たまねぎ",
+            "text": "Aが熱でBが咳ってききます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ぱんだ",
+            "text": "@にんじん Ａの方が高熱でした！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "にんじん",
+            "text": "症状違うんだー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "たまねぎ",
+            "text": "らしいですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "たまねぎ",
+            "text": "今年はどっちもなりました笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ぱんだ",
+            "text": "@たまねぎ Ａの時は辛そうでしたね",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ぱんだ",
+            "text": "Ｂはまぁまぁ元気です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "にんじん",
+            "text": "今年始まって2ヶ月笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ぱんだ",
+            "text": "@たまねぎ さんもコンプリート？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "たまねぎ",
+            "text": "普段そういうのならないので死にそうでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまねぎ",
+            "text": "ちなみにA",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ぱんだ",
+            "text": "@たまねぎ あーわかります！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "たまねぎ",
+            "text": "ですよねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たまねぎ",
+            "text": "天井ぐるぐるしてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ぱんだ",
+            "text": "私もインフルＡになった時は死ぬかとおもいまか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "にんじん",
+            "text": "かわいそー",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ぱんだ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "にんじん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまねぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

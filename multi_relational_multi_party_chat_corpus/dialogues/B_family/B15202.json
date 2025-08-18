@@ -1,0 +1,750 @@
+{
+    "dialogue_id": "B15202",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ぺんぎん",
+        "にんじん",
+        "たまねぎ"
+    ],
+    "relationship": [
+        "にんじん",
+        "たまねぎ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ぺんぎん",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "にんじん",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "たまねぎ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ぺんぎん",
+            "text": "三月ですね、何か行事とかあります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "にんじん",
+            "text": "ひな祭りはおわりましたねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たまねぎ",
+            "text": "3月かー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たまねぎ",
+            "text": "なんかあるかなー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん あられとかたべました？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぺんぎん 食べなかったー",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ 桜もちは？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "にんじん",
+            "text": "@ぺんぎん 毎年作るけど今年ダメだったー",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "にんじん",
+            "text": "@ぺんぎん 食べてない〜",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "たまねぎ",
+            "text": "そういえば食べてないね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん えーつくるんですか？すごい！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "にんじん",
+            "text": "@ぺんぎん ちらし寿司とか",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "にんじん",
+            "text": "手巻きとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "にんじん",
+            "text": "去年は3食のババロア作りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん おー、うちは作ってないです",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "にんじん",
+            "text": "あ、3色の！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "にんじん",
+            "text": "でも給食で食べてくるから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ぺんぎん",
+            "text": "三色？なんですか？それー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "たまねぎ",
+            "text": "白とピンクと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "たまねぎ",
+            "text": "あとなんだっけ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "にんじん",
+            "text": "そーそー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん きゃーなんかかわいい！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "にんじん",
+            "text": "そー見た目可愛い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ 美味しかったですか？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "たまねぎ",
+            "text": "美味しかったー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん お子さんよろんだでしょ？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たまねぎ",
+            "text": "あとそぼろちらし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "にんじん",
+            "text": "@ぺんぎん 給食で食べるからなー",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ すきなやつーでしょ",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぺんぎん 間違いない！",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "にんじん",
+            "text": "一応姫が2人",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 給食も最近のはすごいのかな？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "たまねぎ",
+            "text": "お祝いしないとね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "にんじん",
+            "text": "凝ってますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 姫、かわいいですね",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん いいなぁ",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "にんじん",
+            "text": "いや、喧嘩ばかり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たまねぎ",
+            "text": "男どもたじたじ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "にんじん",
+            "text": "激しいよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 女の子は口がすごいよね",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "にんじん",
+            "text": "歳の差姉妹なので特に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "にんじん",
+            "text": "10個離れてるんだけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "にんじん",
+            "text": "常に喧嘩",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん でもお手伝いする？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "にんじん",
+            "text": "子守はしてくれます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "たまねぎ",
+            "text": "助かってるよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "たまねぎ",
+            "text": "小さいお母さん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん たすかってるね",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "にんじん",
+            "text": "姉ちゃんいないと子育てできない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ かわいいでしょ、女の子？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "たまねぎ",
+            "text": "頼りまくり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "たまねぎ",
+            "text": "かわいいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "たまねぎ",
+            "text": "息子はライバルです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "にんじん",
+            "text": "ライバル笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "にんじん",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ わかるわ！うちも張り合ってる笑",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "にんじん",
+            "text": "ばちばちしてるね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "たまねぎ",
+            "text": "母をでしょ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん やきもちやくよね",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "たまねぎ",
+            "text": "取り合い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "にんじん",
+            "text": "かわいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "にんじん",
+            "text": "まだ1歳なのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ えー一歳？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "たまねぎ",
+            "text": "そー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 一歳なんですか？すごいね",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "たまねぎ",
+            "text": "言ってることがわかるから喧嘩になる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ すごい一歳！！！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "たまねぎ",
+            "text": "わざと俺に見せつけてママにチューする！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "たまねぎ",
+            "text": "ドヤ顔で！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ 将来天才か！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "にんじん",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "にんじん",
+            "text": "可愛いよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ やられてるね笑",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "たまねぎ",
+            "text": "いや、ダメですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん そんな一歳かわいいでしょう？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "たまねぎ",
+            "text": "やり返すと殴られる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "にんじん",
+            "text": "@ぺんぎん 可愛すぎる",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "にんじん",
+            "text": "息子やばい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "にんじん",
+            "text": "殴られてるねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ その息子大きくなるのが楽しみ！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "にんじん",
+            "text": "全力で振りかぶって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "たまねぎ",
+            "text": "早くスポーツ一緒にやりたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 振りかぶって？やばいじゃないですか！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "にんじん",
+            "text": "結構強め笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "たまねぎ",
+            "text": "噛まれるしね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ ですね、そのエネルギーをスポーツにね",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "たまねぎ",
+            "text": "傷だらけ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぺんぎん そー",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ ねこか！笑",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "にんじん",
+            "text": "前世猫かも笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "たまねぎ",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 楽しそうな家族ね笑",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまねぎ",
+            "text": "間違いない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "にんじん",
+            "text": "賑やかですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "にんじん",
+            "text": "みんな機嫌悪いと最悪だけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たまねぎ",
+            "text": "朝からやられると特に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "たまねぎ",
+            "text": "ひどいよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん ですね、朝はやばい",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "にんじん",
+            "text": "怒る気力もない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ぺんぎん",
+            "text": "1日台無し",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "たまねぎ",
+            "text": "せっかくお出かけ行くのにーみたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん そうなりますね",
+            "mention_to": [
+                "にんじん"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ぺんぎん",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "にんじん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまねぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

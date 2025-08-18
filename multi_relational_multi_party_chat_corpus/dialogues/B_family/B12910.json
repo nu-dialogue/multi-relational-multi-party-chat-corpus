@@ -1,0 +1,732 @@
+{
+    "dialogue_id": "B12910",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "いるか",
+        "たまご",
+        "つみれ"
+    ],
+    "relationship": [
+        "たまご",
+        "つみれ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "いるか",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまご",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つみれ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "いるか",
+            "text": "お二人とも、花粉症は大丈夫な人ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "たまご",
+            "text": "花粉症やばいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "いるか",
+            "text": "私、鼻にくるタイプなんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "いるか",
+            "text": "@たまご たまごさんも！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "たまご",
+            "text": "今もう鼻かゆいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "いるか",
+            "text": "あ～～～わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "たまご",
+            "text": "一昨日くらいから一気にきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たまご",
+            "text": "目と鼻に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つみれ",
+            "text": "花粉症ひどい人は大変ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "いるか",
+            "text": "目にもくる感じですか！大変・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまご",
+            "text": "目が痒すぎて大変です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ つみれさん大丈夫ですか？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "いるか",
+            "text": "目にも鼻にもこないです？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "つみれ",
+            "text": "@いるか 年に１回くらい喉が痒くなる程度です",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "たまご",
+            "text": "えー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "たまご",
+            "text": "いいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "いるか",
+            "text": "@たまご 開けていられないくらいになっちゃうみたいですね・・・",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "つみれ",
+            "text": "本当に軽度な感じです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "たまご",
+            "text": "なります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ え～！いいですね～！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "たまご",
+            "text": "昨日もやばかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "いるか",
+            "text": "あわわ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "つみれ",
+            "text": "たまご、試合後のボクサーみたいになります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "いるか",
+            "text": "ここのところ猛威をふるってますからね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "たまご",
+            "text": "鼻も年中むずむずして大変です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ それはヤバいですね！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つみれ",
+            "text": "びっくりします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "たまご",
+            "text": "試合したあとみたいになります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "いるか",
+            "text": "@たまご 鼻もつらいですよね～きがつくと垂れてたりして",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "たまご",
+            "text": "そうなんですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "つみれ",
+            "text": "何か対策してますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "たまご",
+            "text": "鼻にティッシュ入れて防いでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "たまご",
+            "text": "目薬と薬飲むしか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ 薬飲むと眠くなるしで、マスクとスプレーで予防するしか・・・！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "たまご",
+            "text": "目が痒すぎたら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "いるか",
+            "text": "@たまご 最近の薬眠くないって聞くんですが、どうですか？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "たまご",
+            "text": "ゴーグルつけます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "いるか",
+            "text": "@たまご ゴーグル・・・？？？？？？？？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つみれ",
+            "text": "@いるか 薬もむやみに飲めないですね",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "たまご",
+            "text": "けどちょっと眠くなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たまご",
+            "text": "水泳の！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "たまご",
+            "text": "あれつけると少しはマシに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ そうなんですよ～。息子さんゴーグルを・・・？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 服きてゴーグル笑",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "いるか",
+            "text": "@たまご 日常生活でゴーグル？？？です？？？？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つみれ",
+            "text": "一緒に歩きたくないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "たまご",
+            "text": "家の中だけです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ 笑歩いてあげてください笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "たまご",
+            "text": "外でゴーグルは怖すぎる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "いるか",
+            "text": "@たまご ちょっとおしゃれかもしれないですよ",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "いるか",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "たまご",
+            "text": "一周回ってですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つみれ",
+            "text": "新しいファッション！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "いるか",
+            "text": "原宿とかなら違和感ないかもです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "いるか",
+            "text": "でも、隣は歩きたくないかなぁ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たまご",
+            "text": "最近のファッションはすごいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つみれ",
+            "text": "きっと、自分の周りだけ人が近づかないとかありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "たまご",
+            "text": "自分も周りにいたら遠ざけます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ ですね笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "いるか",
+            "text": "みんな避けていく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "たまご",
+            "text": "怖いですもん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "いるか",
+            "text": "あのひと、ゴーグル着けてる・・・って二度見します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "つみれ",
+            "text": "完全に二度見ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "たまご",
+            "text": "みんな2、3回は見ます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "いるか",
+            "text": "それでマスクしてるわけですからね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "いるか",
+            "text": "顔全然見えない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "たまご",
+            "text": "弱い仮面ライダーみたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つみれ",
+            "text": "そうか！マスクでゴーグル",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "いるか",
+            "text": "@たまご 笑",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たまご",
+            "text": "低予算の",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "いるか",
+            "text": "弱い仮面ライダー笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "いるか",
+            "text": "首にマフラー巻いて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "つみれ",
+            "text": "弱小制作会社の新ヒーロー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "たまご",
+            "text": "弱そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "いるか",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "つみれ",
+            "text": "手編みのマフラーにしましょう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "たまご",
+            "text": "低予算だ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ 温かみがすごい笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "つみれ",
+            "text": "編みますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "いるか",
+            "text": "人情溢れるヒーロー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つみれ",
+            "text": "お母さんの手編みのマフラーを巻いたヒーロー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "たまご",
+            "text": "家族制作",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "いるか",
+            "text": "あ、ちなみにライダーはたまごさんですよ？？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つみれ",
+            "text": "プラス、マスクにゴーグル",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "つみれ",
+            "text": "もちろん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "たまご",
+            "text": "優しさのみでやってるタイプのヒーロー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "つみれ",
+            "text": "たまごですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "いるか",
+            "text": "@たまご ですです！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "たまご",
+            "text": "強さも必要",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "いるか",
+            "text": "人情に訴えかけます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "いるか",
+            "text": "強さか～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "つみれ",
+            "text": "説得するタイプの闘い方",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまご",
+            "text": "ちょっとおもしろそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "いるか",
+            "text": "涙脆さが強さです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "いるか",
+            "text": "説得しながら泣く笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たまご",
+            "text": "ださいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つみれ",
+            "text": "人情深い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つみれ",
+            "text": "もともとダサいんだからいいんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "たまご",
+            "text": "テレ東系の",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "つみれ",
+            "text": "深夜枠で！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "たまご",
+            "text": "深夜人形やってそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "たまご",
+            "text": "深夜に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "つみれ",
+            "text": "これは地味に視聴率取れそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "いるか",
+            "text": "人気になってゴールデン進出ですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "たまご",
+            "text": "すごい！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "いるか",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

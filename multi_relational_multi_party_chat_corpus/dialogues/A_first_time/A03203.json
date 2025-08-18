@@ -1,0 +1,671 @@
+{
+    "dialogue_id": "A03203",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "まりも",
+        "きなこ",
+        "うどん"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "まりも",
+            "text": "よろしくお願いします～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "きなこ",
+            "text": "こちらこそよろしくお願いします～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "うどん",
+            "text": "お願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "まりも",
+            "text": "お休みの日何してますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "きなこ",
+            "text": "@まりも 私はドライブ行ったりします",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "うどん",
+            "text": "ピアノ弾いてます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "まりも",
+            "text": "@きなこ ドライブ！",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "きなこ",
+            "text": "@うどん 素敵！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "まりも",
+            "text": "@うどん ピアノ！いいですね～",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "まりも",
+            "text": "どっちも気になる～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "うどん",
+            "text": "@きなこ ドライブ楽しいですよね！",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "うどん",
+            "text": "@きなこ 運転なさるんですか？",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "きなこ",
+            "text": "楽しいです～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "まりも",
+            "text": "@きなこ 結構遠出します？",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "きなこ",
+            "text": "運転します！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "きなこ",
+            "text": "そして、結構遠くも行きます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "うどん",
+            "text": "遠くすごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "まりも",
+            "text": "@うどん クラシックピアノですか？",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "うどん",
+            "text": "@まりも JPOPをピアノで弾いてます！",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "まりも",
+            "text": "かっこい～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "きなこ",
+            "text": "いいですね～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "うどん",
+            "text": "ストリートピアノとかあるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "うどん",
+            "text": "最近は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "きなこ",
+            "text": "テレビで見たことあります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "うどん",
+            "text": "モチベ維持しやすいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "まりも",
+            "text": "駅に置いてあるような？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "きなこ",
+            "text": "ストリートピアノ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "まりも",
+            "text": "いやめっちゃいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "まりも",
+            "text": "ピアノずっと習ってたけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "まりも",
+            "text": "もうずっと弾いてないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "まりも",
+            "text": "ずっとがかぶってしまった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "きなこ",
+            "text": "私も子供の時習いたかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "まりも",
+            "text": "子供の頃はイヤイヤでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "うどん",
+            "text": "ピアノの音きれいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "きなこ",
+            "text": "ピアノできるお友達みんなうらやましかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "うどん",
+            "text": "@まりも 同じく！",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "うどん",
+            "text": "嫌だったなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "うどん",
+            "text": "子どもの頃",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "まりも",
+            "text": "@うどん そうなんですか！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "まりも",
+            "text": "練習嫌いで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "まりも",
+            "text": "親が習わせたがって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "まりも",
+            "text": "私はスイミングやりたかったという",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "きなこ",
+            "text": "確かに、友達も練習が嫌だとよく言っていました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "まりも",
+            "text": "サボって怒られるんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "うどん",
+            "text": "親のやらせたい習い事になりがちですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "まりも",
+            "text": "ですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "うどん",
+            "text": "そう！怒られる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "まりも",
+            "text": "@きなこ 習い事してました？",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "うどん",
+            "text": "泣いて帰ってたなぁよく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "きなこ",
+            "text": "私はそろばんとサッカーでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "きなこ",
+            "text": "古い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "まりも",
+            "text": "そんなことないですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "うどん",
+            "text": "サッカーかっこいい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "きなこ",
+            "text": "ピアノ憧れます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "きなこ",
+            "text": "今からでも習いたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "まりも",
+            "text": "スポーツ系の習い事いいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "まりも",
+            "text": "やりたいと思ったときが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "うどん",
+            "text": "@きなこ 今からでも間に合います！",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "まりも",
+            "text": "スタートですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "うどん",
+            "text": "ピアノサークル入ってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "きなこ",
+            "text": "間に合います！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "うどん",
+            "text": "大人で始める人も！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "まりも",
+            "text": "多いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "きなこ",
+            "text": "@うどん 本当に？",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "うどん",
+            "text": "うんうん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "うどん",
+            "text": "いけますいけます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "まりも",
+            "text": "弾きたい曲とかあるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "きなこ",
+            "text": "これは・・春から始めようかな！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "まりも",
+            "text": "おぉ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "まりも",
+            "text": "すばらしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "きなこ",
+            "text": "何でもチャレンジしてみたいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "うどん",
+            "text": "春は新しいこと始めやすいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "まりも",
+            "text": "ぜひ楽しんでほしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "きなこ",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "うどん",
+            "text": "楽しんでください！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "きなこ",
+            "text": "ピアノは・・購入すべきですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "まりも",
+            "text": "私もピアノたまには弾こうか…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "まりも",
+            "text": "あったほうがもちろんいいですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "きなこ",
+            "text": "@まりも 弾いてあげてください！",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "うどん",
+            "text": "電子ピアノか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "きなこ",
+            "text": "電子？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "うどん",
+            "text": "それか、練習OKのストリートピアノで練習するか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "うどん",
+            "text": "本物のピアノ買ってもいいですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "まりも",
+            "text": "予算とかお家の事情次第？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "うどん",
+            "text": "なかなかハードル高いお買い物なので！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "うどん",
+            "text": "そうですね！予算や家の事情次第で！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "きなこ",
+            "text": "そうですよね・・マンションなので置き場が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "まりも",
+            "text": "電子もいいのあるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "うどん",
+            "text": "うんうん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "きなこ",
+            "text": "電子ピアノをまず調べてみます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "うどん",
+            "text": "ぜひぜひ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "まりも",
+            "text": "試奏とかもありますし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "うどん",
+            "text": "弾いてから決めた方が安心かも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "きなこ",
+            "text": "し・・試奏なんて言葉初めて聞きました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "きなこ",
+            "text": "なるほど～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "うどん",
+            "text": "ぜひ楽器屋さんで弾いてみてください！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "まりも",
+            "text": "試さず買うにはちょっとお高いてすよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "うどん",
+            "text": "ですです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "きなこ",
+            "text": "お値段は・・ピンキリですよね？",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "まりも",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "きなこ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "うどん",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

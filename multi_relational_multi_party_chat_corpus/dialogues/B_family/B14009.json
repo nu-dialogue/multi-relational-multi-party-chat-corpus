@@ -1,0 +1,702 @@
+{
+    "dialogue_id": "B14009",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "カンガルー",
+        "たまご",
+        "つみれ"
+    ],
+    "relationship": [
+        "たまご",
+        "つみれ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "カンガルー",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つみれ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "カンガルー",
+            "text": "私には娘がおりまして〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つみれ",
+            "text": "娘さんがいらっしゃるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たまご",
+            "text": "はいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "カンガルー",
+            "text": "まだ小5なんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "カンガルー",
+            "text": "絶賛ファッションに目覚めております！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "たまご",
+            "text": "良いです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "カンガルー",
+            "text": "メイクとかすごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "カンガルー",
+            "text": "カラコン欲しいとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つみれ",
+            "text": "おお！今小学生もおしゃれですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つみれ",
+            "text": "カラコン！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまご",
+            "text": "小さい頃から興味示してると詳しくなりそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "カンガルー",
+            "text": "髪の毛カラーしたいとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "たまご",
+            "text": "凄いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "カンガルー",
+            "text": "私より女子力高くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "たまご",
+            "text": "みんな大人っぽいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "カンガルー",
+            "text": "夜の肌のお手入れ半端ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー 小学生で？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "カンガルー",
+            "text": "顔中ベッタベタ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つみれ",
+            "text": "保湿大事！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ そうそう！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "たまご",
+            "text": "早いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "たまご",
+            "text": "意識が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "カンガルー",
+            "text": "そのままでも充分なのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "カンガルー",
+            "text": "パックしながら白湯を飲んでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "つみれ",
+            "text": "今はきっと何もしなくても肌綺麗ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "たまご",
+            "text": "大人すぎる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つみれ",
+            "text": "女子力高すぎですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "カンガルー",
+            "text": "そして短めの丈の服を着て",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "つみれ",
+            "text": "OLなみ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "つみれ",
+            "text": "お腹見せちゃう感じ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "カンガルー",
+            "text": "寒そうな格好してランドセル背負って学校へ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "たまご",
+            "text": "凄いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つみれ",
+            "text": "ギャップが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ そうそう！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "たまご",
+            "text": "時代だ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "カンガルー",
+            "text": "今、グッチの上着が欲しいと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "カンガルー",
+            "text": "騒いでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たまご",
+            "text": "えー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "カンガルー",
+            "text": "六本木クラスみてました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つみれ",
+            "text": "グッチ？？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たまご",
+            "text": "自分の時はいなかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "カンガルー",
+            "text": "アオイ役の子が着てました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つみれ",
+            "text": "みてなかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまご 最近の子は",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たまご",
+            "text": "見てないですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "カンガルー",
+            "text": "小学生は校則ないんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "たまご",
+            "text": "そうなんですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "カンガルー",
+            "text": "髪の毛カラーしてても怒られません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つみれ",
+            "text": "小学生は校則ないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "たまご",
+            "text": "すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "カンガルー",
+            "text": "いますよ、インナーカラー入れてる子とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "つみれ",
+            "text": "でも、カラーしたら痛んじゃうからもったいない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ 大人はそう思っちゃいますよねー",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "つみれ",
+            "text": "思っちゃいますけど、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "つみれ",
+            "text": "この思い子供たちには伝わらないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たまご",
+            "text": "はいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "カンガルー",
+            "text": "もう来年の卒業式のヘアスタイルとか考えてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "たまご",
+            "text": "早い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つみれ",
+            "text": "早い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "カンガルー",
+            "text": "ブレイズヘアにしたいらしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "たまご",
+            "text": "大人すぎる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "カンガルー",
+            "text": "もしくは盛り髪？でティアラつけるって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "カンガルー",
+            "text": "もうぶっ倒れそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "カンガルー",
+            "text": "自由にやりたいなら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つみれ",
+            "text": "すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "たまご",
+            "text": "知識も豊富",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "つみれ",
+            "text": "でもその頃、また流行りも変わってるでしょうね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "カンガルー",
+            "text": "それなりにやる事やらなきゃダメ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "カンガルー",
+            "text": "って言ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たまご",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ そうそう！コロコロ変わるし！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "カンガルー",
+            "text": "なので、娘は物につられる感じ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "つみれ",
+            "text": "うちの娘も、髪の色元々すごくいい色だったのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "カンガルー",
+            "text": "人参ぶら下げ作戦です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "つみれ",
+            "text": "にんじん大事！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "たまご",
+            "text": "良い作戦です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "カンガルー",
+            "text": "テストで95点以上なら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "たまご",
+            "text": "がんばれます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "カンガルー",
+            "text": "ゲーム課金してあげるとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "カンガルー",
+            "text": "で、グッチの上着なんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "たまご",
+            "text": "報酬があるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "つみれ",
+            "text": "それで頑張れるなら！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "たまご",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つみれ",
+            "text": "でた！グッチの上着",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "カンガルー",
+            "text": "小学校卒業迄に英検二級か、受験特待合格なら買ってあげる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "カンガルー",
+            "text": "と言ったら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "カンガルー",
+            "text": "やる気満々！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "たまご",
+            "text": "すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "つみれ",
+            "text": "こりゃ、合格するんじゃないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "カンガルー",
+            "text": "公立の中高一貫か、私立の特待か英検二級",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "たまご",
+            "text": "僕は報酬じゃなく何点以下取ったら坊主だった時ありました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまご それ！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご どんなことありました？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "カンガルー",
+            "text": "ウチの息子が赤点なら坊主！って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つみれ",
+            "text": "そんなこと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "カンガルー",
+            "text": "部活で決められていて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "たまご",
+            "text": "あった @つみれ ",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー 部活で",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "カンガルー",
+            "text": "今人生初の坊主を経験してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "カンガルー",
+            "text": "昭和です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "つみれ",
+            "text": "経験したんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "たまご",
+            "text": "@つみれ に言われた",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "つみれ",
+            "text": "昭和だ・・・",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "カンガルー",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

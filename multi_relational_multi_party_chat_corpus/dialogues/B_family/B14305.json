@@ -1,0 +1,788 @@
+{
+    "dialogue_id": "B14305",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "コアラ",
+        "てばさき",
+        "えのき"
+    ],
+    "relationship": [
+        "てばさき",
+        "えのき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "コアラ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "コアラ",
+            "text": "ここぞというときのご馳走って何ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "御馳走ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ お魚とお肉です",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき なに？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "コアラ",
+            "text": "はい、自宅に人呼ぶとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ お家にお招きできないです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "えのき",
+            "text": "すみません…自宅にお招きできない家で…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき シンプルだ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "コアラ",
+            "text": "えっ？、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "コアラ",
+            "text": "誰も？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "コアラ",
+            "text": "親戚とかもですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 親戚って、あんまいないよね？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 私がおばあちゃんちに遊びに行くことはあります！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "コアラ",
+            "text": "あー行く方？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "えのき",
+            "text": "おばあちゃんは高齢で、あまり出歩けないので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "えのき",
+            "text": "行く一方ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 家にあげるほどの人はいないと思う、なんなら顔も知らない",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき 確かにそうなると行きますよね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "えのき",
+            "text": "親戚も全てかなり高齢なので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき か、顔も！笑笑",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき なるほど、みなさん離れている？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "えのき",
+            "text": "私は関東に住んでいるんですが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "えのき",
+            "text": "親戚は北海道です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき 北海道は遠いですねー",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "えのき",
+            "text": "コロナもあり、交流がほぼないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "えのき",
+            "text": "お墓参りとか、行きたいけど行けないみたいな…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき おじいちゃん関係には択捉島からの人もいなかった？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "コアラ",
+            "text": "北海道は方弁とかあります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 樺太じゃなかった？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 樺太かー",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき え、択捉島？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ 知らない間に使ってますね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "コアラ",
+            "text": "樺太？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ おじいちゃん樺太出身ですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "コアラ",
+            "text": "今映画やってません？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "てばさき",
+            "text": "混ざりますね、択捉と樺太",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "コアラ",
+            "text": "ゴールデンカムイの世界？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ 今映画何やってるんですか？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "コアラ",
+            "text": "アイヌかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "えのき",
+            "text": "ゴールデンカムイ、見たことないんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき その漫画はそういえば一気読みしました",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": "見に行きました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ ゴールデンカムイは黄金を探すということと、ラッコ鍋のくだりしか知りません",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "コアラ",
+            "text": "結構すごい話でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 情報が錯綜している",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ ラッコ鍋のくだり知ってますか？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき いや、あの映像かってすごそうで",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ どんな話なんですか？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき なんとなく覚えてます",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "コアラ",
+            "text": "かなりすごいですよね、熊との格闘とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "コアラ",
+            "text": "命は全ていただくみたいな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "えのき",
+            "text": "ちょっと見たいかも…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ くまと戦うのか…",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "えのき",
+            "text": "すごそう…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき かなり忠実な映像化らしく評判いいみたいです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "えのき",
+            "text": "最近熊の被害も多いですよね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "そんな時に戦える人がいたら…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "えのき",
+            "text": "頼もしい…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "えのき",
+            "text": "リアルでもあったらしいですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "コアラ",
+            "text": "北海道いたときって熊の被害とかありましたか？周りに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 逃げようか、非戦闘民は",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "えのき",
+            "text": "きいたことないですが、クマ牧場はよくいきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき なんか背中見せない方がいいってほんとかしら？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "えのき",
+            "text": "普通の動物園ののりで行きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき みんなおとなしい？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 北海道のくまは知りませんがメロンのくまは怖かったです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ 多分おとなしいと思います",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき メロンのくま？？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき メロン熊か",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "コアラ",
+            "text": "メロンを食べる？ではなく？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ きもいですよ、メロンぐま",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ なんかグッズ化してるキャラです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "コアラ",
+            "text": "えーっ、知らない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "メロンにつっこんでる熊？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "コアラ",
+            "text": "ご当地キャラ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 多分メロンにくまが生えてる",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "コアラ",
+            "text": "調べてみます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき ど、どういうこと？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "えのき",
+            "text": "ご当地キャラなのかなあ？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 多分ご当地ですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "コアラ",
+            "text": "きもキャラ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "微妙に造詣がリアルできもいんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "コアラ",
+            "text": "せんとくんとかも微妙でしたよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "えのき",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 確か夕張メロンの熊です",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "コアラ",
+            "text": "話題になる分にはいいのかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "夕張負債…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき あっ、なるほど",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "コアラ",
+            "text": "破産してませんでした？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "夕張夫妻っていうキャラもいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ せんとくんはなんか人気あるのでいいと思います",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "えのき",
+            "text": "夫妻と負債をかけて…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "コアラ",
+            "text": "そのキャラで負債を返す？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき せんとくん推しいたこれ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき あー！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ そうなるといいですよね…",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき いや推してはいない",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "コアラ",
+            "text": "せんとくんは好き嫌い分かれるかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "えのき",
+            "text": "ばっさり。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき 推しいます？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "コアラ",
+            "text": "誰か",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ さいたまっちあざとくてすきです",
+            "mention_to": [
+                "コアラ"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "コアラ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,700 @@
+{
+    "dialogue_id": "B13505",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "くじら",
+        "こんぶ",
+        "ちくわ"
+    ],
+    "relationship": [
+        "こんぶ",
+        "ちくわ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くじら",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "こんぶ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ちくわ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くじら",
+            "text": "もう少しで三時ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "こんぶ",
+            "text": "おやつの時間です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "くじら",
+            "text": "好きなお菓子ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ちくわ",
+            "text": "おやつの時間だー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ちくわ",
+            "text": "スルメです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "こんぶ",
+            "text": "私は、ほんとにスナック系大好き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "こんぶ",
+            "text": "チョコも！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こんぶ",
+            "text": "@くじら 食べられますか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "くじら",
+            "text": "スルメ、体に良さそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くじら",
+            "text": "@こんぶ チョコが好きです",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ ほんとスルメすきだよねーー",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ちくわ",
+            "text": "@くじら 体にええんすか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "こんぶ",
+            "text": "おすすめのチョコありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ちくわ",
+            "text": "チョコも時々食うと美味いよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "こんぶ",
+            "text": "やっぱり、チョコって食べたくなるよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くじら",
+            "text": "@ちくわ よく噛むので良さそうだなと",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "こんぶ",
+            "text": "たしかに！噛むのは健康にいいっていいますもんね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "くじら",
+            "text": "コーヒー飲むときにチョコを食べます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ちくわ",
+            "text": "@くじら なるほど！でも昨日グミたべてたら",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "こんぶ",
+            "text": "コーヒーとチョコ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ちくわ",
+            "text": "銀歯取れました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "こんぶ",
+            "text": "最高な組み合わせです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "くじら",
+            "text": "@ちくわ銀歯が！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "こんぶ",
+            "text": "１５時にはそれを？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "くじら",
+            "text": "たいへんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ちくわ",
+            "text": "大人のおやつですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ちくわ",
+            "text": "はめにいってきます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "こんぶ",
+            "text": "グミで銀歯がとれるなんて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ちくわ",
+            "text": "爆笑でしたけどね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "こんぶ",
+            "text": "１５時娘が起きる頃なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ちくわ",
+            "text": "アフタヌーンティーとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "くじら",
+            "text": "グミでとれるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ちくわ",
+            "text": "流行ってますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "こんぶ",
+            "text": "一緒におやつタイムです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ よくそんなの知ってるね！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "こんぶ",
+            "text": "でも、このへんじゃ、アフタヌーンティーもなにも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ちくわ",
+            "text": "@くじら まさか取れるとは思いませんでした！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "こんぶ",
+            "text": "オシャレな場所が近くにありません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "くじら",
+            "text": "私、子供のころはミルキーでぐらぐらした歯を取っていました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ テレビで見て！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "こんぶ",
+            "text": "ミルキー！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "こんぶ",
+            "text": "久しぶりに食べたい！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ちくわ",
+            "text": "あー！聞いたことある！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ちくわ",
+            "text": "ミルキーおいしいすよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "こんぶ",
+            "text": "私は、いちごを食べててそのまま歯が抜けました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くじら",
+            "text": "ミルキーはずっとあるお菓子ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "こんぶ",
+            "text": "今でもありますよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ちくわ",
+            "text": "包んでる雨の紙にマークが10個あったら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "こんぶ",
+            "text": "なんか、最近見ない気が、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ちくわ",
+            "text": "幸せになるとか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "こんぶ",
+            "text": "いや、自分が探さないだけか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "くじら",
+            "text": "@ちくわ 知らなかったです。",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ちくわ",
+            "text": "多分あると思うよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "こんぶ",
+            "text": "あー！それね！よく探してた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "くじら",
+            "text": "探すの楽しそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "くじら",
+            "text": "コアラのマーチとかもありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ やっぱあるよね！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "こんぶ",
+            "text": "食べてないと、もう一個ってなるやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "くじら",
+            "text": "顔が違うとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "こんぶ",
+            "text": "コアラのマーチ！\n旦那が好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ちくわ",
+            "text": "そして、黄色のカバーのやつ選ぶとかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ちくわ",
+            "text": "コアラのマーチ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "こんぶ",
+            "text": "つい、顔を見ずにぱくぱく食べちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "くじら",
+            "text": "私も顔は見てません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "こんぶ",
+            "text": "今度からは、顔も見るようにします！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ちくわ",
+            "text": "コアラのマーチは耳から食べる派です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くじら",
+            "text": "レアが出てくるかも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "こんぶ",
+            "text": "あー！わたしも、角っこから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こんぶ",
+            "text": "レアなんてあるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ちくわ",
+            "text": "レアが出るかもですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "くじら",
+            "text": "顔から食べますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "こんぶ",
+            "text": "今は、小袋のコアラのマーチもあるから、食べやすいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ちくわ",
+            "text": "いきなり半分食べるやつですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "こんぶ",
+            "text": "あとは、あれが好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ちくわ",
+            "text": "なに？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "こんぶ",
+            "text": "あれ！あれ！あれ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くじら",
+            "text": "きのことたけのこはどちらが好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "こんぶ",
+            "text": "チョコレートのお菓子で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こんぶ",
+            "text": "私は、たけのこです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ちくわ",
+            "text": "キノコです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "こんぶ",
+            "text": "アルフォート！！！も好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "こんぶ",
+            "text": "おっ！われた！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ちくわ",
+            "text": "アルフォートもうまいね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "くじら",
+            "text": "これもよく皆に聞くんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "こんぶ",
+            "text": "@くじら さんはどちら？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "くじら",
+            "text": "きのこ派が多くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くじら",
+            "text": "私はきのこです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ちくわ",
+            "text": "いぇーーーい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くじら",
+            "text": "アルフォートも好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "こんぶ",
+            "text": "そうなんですかーー！！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "こんぶ",
+            "text": "きのこ派多いんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ちくわ",
+            "text": "なんでキノコが多いんだろ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ちくわ",
+            "text": "食べやすさ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "こんぶ",
+            "text": "さっくりビスケットな感じがいいんでしょうか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "くじら",
+            "text": "私の周りだけかも・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こんぶ",
+            "text": "残念。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "こんぶ",
+            "text": "でも、きのこも好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "くじら",
+            "text": "たけのこも美味しいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ちくわ",
+            "text": "全国の話ではないんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "こんぶ",
+            "text": "フォローありがとうございます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "ちくわ",
+            "text": "あと、カールもすきです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "ちくわ",
+            "text": "チーズ味の！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くじら",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "こんぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ちくわ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

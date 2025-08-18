@@ -1,0 +1,755 @@
+{
+    "dialogue_id": "A01006",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "うどん",
+        "いくら",
+        "くらげ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うどん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "いくら",
+            "text": "こんにちはー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "くらげ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うどん",
+            "text": "皆さんはお昼ご飯食べましたかー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "くらげ",
+            "text": "まだです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "いくら",
+            "text": "スパゲティをたべました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "くらげ",
+            "text": "バタバタしてて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "くらげ",
+            "text": "おいしそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "うどん",
+            "text": "@くらげ 同じくです！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "うどん",
+            "text": "おなかすいちゃいますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "いくら",
+            "text": "@くらげ  これから食べられるんですか？",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "うどん",
+            "text": "@いくら おいしそう！",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くらげ",
+            "text": "このあと、たぶん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "いくら",
+            "text": "うどんさんも！\n@うどん これからですか？",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "うどん",
+            "text": "@いくら これからなんですー！",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "いくら",
+            "text": "お昼遅くなると夕方も微妙に遅くなってしまいますよね、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "いくら",
+            "text": "これからなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "くらげ",
+            "text": "@いくら そうなんです",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "いくら",
+            "text": "何食べられる予定ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "うどん",
+            "text": "@いくら わかる！",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "くらげ",
+            "text": "未定です　涙",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "いくら",
+            "text": "おなかいっぱいの時に、ご飯作る気になれなくて、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くらげ",
+            "text": "朝から娘が発熱して",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "うどん",
+            "text": "わたしも未定です...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "いくら",
+            "text": "発熱！それはバタバタですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "くらげ",
+            "text": "病院は夕方いくのでそのかねあいで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "うどん",
+            "text": "@くらげ 娘さん心配ですね...",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "いくら",
+            "text": "とりあえず冷蔵庫とにらめっこですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "くらげ",
+            "text": "息子が定期テストで昼かえり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "いくら",
+            "text": "病院予約すぐに取れないですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "くらげ",
+            "text": "その前に買物いって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "うどん",
+            "text": "バッタバタだぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "いくら",
+            "text": "ほんとバタバタ、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "くらげ",
+            "text": "などなどで、自分の事はにのつぎなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "いくら",
+            "text": "ご飯食べれないと倒れちゃいますね、！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "うどん",
+            "text": "@くらげ お疲れ様です　泣",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "いくら",
+            "text": "つまめる時なにかつまんでくださいね、！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "くらげ",
+            "text": "インフルかもしれないので、夕方なんです、病院",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くらげ",
+            "text": "@いくら ありがとうございます",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "くらげ",
+            "text": "@うどん ありがとうございます",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "うどん",
+            "text": "@くらげ ご自愛くださいね",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "くらげ",
+            "text": "スパゲッティいいな！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "いくら",
+            "text": "夕方限定なんですね！それは他の患者さんとかにいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "うどん",
+            "text": "スパゲッティ好き！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "いくら",
+            "text": "検診とかで同じ時間帯に発熱の方とか混ぜ混ぜの病院もあって、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "くらげ",
+            "text": "発熱後、8時間たたないと検査できないんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "くらげ",
+            "text": "早朝発熱してたので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "いくら",
+            "text": "@くらげ なるほどです！それで時間をおくので夕方なんですね！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "いくら",
+            "text": "スパゲティ、何が好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "いくら",
+            "text": "わたしはトマトが大好きで！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "うどん",
+            "text": "8時間たたないとだめなんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "うどん",
+            "text": "トマト好きー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "くらげ",
+            "text": "@いくら なんでもすきです",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "うどん",
+            "text": "わたしジェノベーゼ好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "いくら",
+            "text": "せっかく検査して意味無いじゃしんどいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "くらげ",
+            "text": "@うどん おいしいですよね",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "いくら",
+            "text": "ジェノベーゼも最高です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "くらげ",
+            "text": "@いくら そうなんです",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "いくら",
+            "text": "ペペロンチーノとか辛いのダメなんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "くらげ",
+            "text": "パスタって種類が多いのでまよいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "いくら",
+            "text": "@くらげ なんでも好きわかります！なんでも美味しいですよね！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "くらげ",
+            "text": "@いくら そうなんですね",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "うどん",
+            "text": "@いくらペペロンチーノからい...！",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "いくら",
+            "text": "タラコも美味しいですし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "うどん",
+            "text": "最近はボンゴレも捨てがたいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "いくら",
+            "text": "ジェノベーゼとボンゴレが頭の中で同じになってました！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "くらげ",
+            "text": "すごい！　どんどんでてきますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "いくら",
+            "text": "ジェノベーゼは大葉？なんでしたっけ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "いくら",
+            "text": "ボンゴレがアサリですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "うどん",
+            "text": "@いくら ジェノベーゼはバジルですね！",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "くらげ",
+            "text": "今までで一番おいしかったのはイタリア人がつくったカルボナーラかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "うどん",
+            "text": "@いくら ですです！",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "いくら",
+            "text": "@うどん バジル！！いいですね〜おしゃれ！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "くらげ",
+            "text": "昔、バジルソースつくりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "うどん",
+            "text": "@くらげ おいしそう〜！！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "うどん",
+            "text": "いいなぁ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "うどん",
+            "text": "本格派",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "いくら",
+            "text": "@くらげ イタリア人が作ったって凄いですね！本場！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うどん",
+            "text": "@くらげ 手作りいいですね！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くらげ",
+            "text": "生クリームつかわないんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くらげ",
+            "text": "卵黄だけでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "いくら",
+            "text": "バジルソース、ミキサー？とかで作るの見ましたが挑戦できずです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "うどん",
+            "text": "ほー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "いくら",
+            "text": "牛乳はつかいますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "くらげ",
+            "text": "@いくら すりばちですりましたよ",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くらげ",
+            "text": "@いくら 覚えてないなー",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "いくら",
+            "text": "すりばちで！！すごいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "うどん",
+            "text": "すりばち！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "くらげ",
+            "text": "なんかね、ずっとまぜまぜしてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "うどん",
+            "text": "気軽にできていいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "いくら",
+            "text": "残念です。カルボナーラ美味しいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "いくら",
+            "text": "もうほんとなんでも好きかもしれない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "うどん",
+            "text": "@くらげ 手間暇かけたぶん美味しいですね！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "くらげ",
+            "text": "家でバジルソースは手間のわりに少量しかできませんでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "うどん",
+            "text": "@いくら なんでも好き、それです！",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "いくら",
+            "text": "子達はパスタのバター醤油炒めに、納豆をかけた納豆パスタが好きなんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "くらげ",
+            "text": "@いくら おいしそう",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "うどん",
+            "text": "@くらげ なるほどです...！大変",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "くらげ",
+            "text": "納豆いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "いくら",
+            "text": "@くらげ そうなんですか！それはしんどいですね",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "いくら",
+            "text": "納豆ってなんにでもあいますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "くらげ",
+            "text": "毎日食べてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "うどん",
+            "text": "納豆からだによさそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "くらげ",
+            "text": "納豆とたまご",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "いくら",
+            "text": "パンにも合うらしいですよ、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "くらげ",
+            "text": "@いくら そうなんですね",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "うどん",
+            "text": "パンに納豆！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "うどん",
+            "text": "今度やってみます！！！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うどん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "いくら",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "くらげ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

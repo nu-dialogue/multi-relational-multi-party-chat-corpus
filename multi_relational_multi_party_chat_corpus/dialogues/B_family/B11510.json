@@ -1,0 +1,720 @@
+{
+    "dialogue_id": "B11510",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ぱんだ",
+        "つくね",
+        "しらたき"
+    ],
+    "relationship": [
+        "つくね",
+        "しらたき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ぱんだ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つくね",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらたき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ぱんだ",
+            "text": "幸せを感じる瞬間ってどんな時ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ぱんだ",
+            "text": "最近ありましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つくね",
+            "text": "@ぱんだ 美味し物食べてる時ですかね？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ぱんだ",
+            "text": "@つくね やっぱりそれですね！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つくね",
+            "text": "@ぱんだ さんもですか！？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ぱんだ",
+            "text": "私も食べてる時が一番幸せです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "しらたき",
+            "text": "アプリのガチャでいい物が出た時！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ぱんだ",
+            "text": "@しらたき ゲームですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つくね",
+            "text": "@ぱんだ 食は大事ですよね！",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき ほどほどに！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "しらたき",
+            "text": "@ぱんだ ゲームです！",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ぱんだ",
+            "text": "@つくね そうです！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ぱんだ",
+            "text": "大事！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ぱんだ",
+            "text": "@しらたき 携帯ゲームですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "しらたき",
+            "text": "@ぱんだ そうです！",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ぱんだ",
+            "text": "@つくね 最近食べた美味しいものって何ですか？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "しらたき",
+            "text": "@ぱんだ はやってます？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ぱんだ",
+            "text": "@しらたき 携帯ゲーム肩こりそう",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つくね",
+            "text": "@ぱんだ 12月末にカニを食べました！",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ぱんだ",
+            "text": "@しらたき 今はやってません",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ぱんだ",
+            "text": "@しらたき やると止まらなくて！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ぱんだ",
+            "text": "@つくね カニですか！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "しらたき",
+            "text": "@ぱんだ 嫁にすごい怒られてます",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ぱんだ",
+            "text": "毛蟹？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "つくね",
+            "text": "@ぱんだ タラバですね！",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ぱんだ",
+            "text": "@しらたき 私も携帯ばかりいじってると主人に怒られます",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つくね",
+            "text": "カニじゃない？笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "しらたき",
+            "text": "タラバはカニじゃ無いはず",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ぱんだ",
+            "text": "@つくね タラバはカニではなくヤドカリ？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しらたき",
+            "text": "そうそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ぱんだ",
+            "text": "でも食べ応えあって美味しいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つくね",
+            "text": "ヤドカリなの！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "しらたき",
+            "text": "タラバは高すぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "つくね",
+            "text": "初耳！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ぱんだ",
+            "text": "私は年末にタラバも毛蟹も食べました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ぱんだ",
+            "text": "タラバ高いんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つくね",
+            "text": "年末のカニはいいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "つくね",
+            "text": "カニしゃぶとか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ぱんだ",
+            "text": "毛蟹ってそんないい物じゃないですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "しらたき",
+            "text": "蟹しゃぶいーなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ぱんだ",
+            "text": "食べるとこ少ないし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ぱんだ",
+            "text": "蟹しゃぶ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ぱんだ",
+            "text": "食べたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つくね",
+            "text": "確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ぱんだ",
+            "text": "近所にカニ道楽ってお店があるんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ぱんだ",
+            "text": "全然行ってないので行こうかな！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つくね",
+            "text": "カニ道楽行ったことないです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "しらたき",
+            "text": "カニ道楽高いですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ぱんだ",
+            "text": "@つくね カニ道楽知ってますか？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つくね",
+            "text": "数年前大阪行った時に見ました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ぱんだ",
+            "text": "あれってどこにでもあるのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ぱんだ",
+            "text": "大阪！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つくね",
+            "text": "長野にはないです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ぱんだ",
+            "text": "長野にしかないチェーン店ってありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "しらたき",
+            "text": "外見の蟹が有名",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つくね",
+            "text": "テンホウ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ぱんだ",
+            "text": "@しらたき そうそう！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "つくね",
+            "text": "ラーメン屋です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ぱんだ",
+            "text": "テンホウ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つくね",
+            "text": "肉揚げ担々麺がオススメです！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ぱんだ",
+            "text": "ラーメン屋さんなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "しらたき",
+            "text": "テンホウ美味しいよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ぱんだ",
+            "text": "肉揚げ！初めて聞きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "つくね",
+            "text": "今度長野に来た際にはぜひ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ぱんだ",
+            "text": "長野は広いですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ぱんだ",
+            "text": "軽井沢にあるかな…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ぱんだ",
+            "text": "ちょっと探してみよう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ぱんだ",
+            "text": "最近、美味しいもの食べてないかもなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ぱんだ",
+            "text": "あ、カキ！食べました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "つくね",
+            "text": "北信の方は詳しくないのでアレですが…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "しらたき",
+            "text": "今日の夕飯はマックです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つくね",
+            "text": "探してみてください！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ぱんだ",
+            "text": "探してみます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つくね",
+            "text": "カキ食べれるんですか！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "しらたき",
+            "text": "@ぱんだ 生牡蠣ですか？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ぱんだ",
+            "text": "@しらたき 夕飯マック？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ぱんだ",
+            "text": "はい！生牡蠣！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ぱんだ",
+            "text": "一斗缶で買いまして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ぱんだ",
+            "text": "友達と牡蠣パーティーしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "しらたき",
+            "text": "え！うらやましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つくね",
+            "text": "@ぱんだ 牡蠣パーティー！",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "つくね",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "つくね",
+            "text": "楽しそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ぱんだ",
+            "text": "最近、ニュースで牡蠣に当たる方が多いと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "しらたき",
+            "text": "牡蠣小屋行きたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ぱんだ",
+            "text": "でも当たらなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "つくね",
+            "text": "さすがです！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ぱんだ",
+            "text": "カキが大好きなんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ぱんだ",
+            "text": "飲み物？くらいの勢いで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ぱんだ",
+            "text": "牡蠣を飲み込みます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つくね",
+            "text": "生牡蠣飲むんですか！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ぱんだ",
+            "text": "飲みますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "しらたき",
+            "text": "味わいたいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つくね",
+            "text": "喉越しが苦手です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つくね",
+            "text": "カキフライなら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "しらたき",
+            "text": "クリーミーな感じを",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つくね",
+            "text": "食べられます!",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ぱんだ",
+            "text": "でも数年前に牡蠣にあたりまして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ぱんだ",
+            "text": "暫くは食べれませんでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ぱんだ",
+            "text": "でも復活しました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "ぱんだ",
+            "text": "復活できて良かったです！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ぱんだ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

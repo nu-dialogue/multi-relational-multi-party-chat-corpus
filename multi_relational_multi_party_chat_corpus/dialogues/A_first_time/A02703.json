@@ -1,0 +1,751 @@
+{
+    "dialogue_id": "A02703",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "こまつな",
+        "まりも",
+        "ししとう"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "こまつな",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "まりも",
+            "text": "こんにちは～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ししとう",
+            "text": "こんにちは～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ししとう",
+            "text": "週末は連休ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "まりも",
+            "text": "あ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "こまつな",
+            "text": "連休だ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "まりも",
+            "text": "言われるまで忘れていました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも あるあるです～",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "まりも",
+            "text": "2月祝日が多いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "こまつな",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも 多いですよね！",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ししとう",
+            "text": "子どもが喜んでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "まりも",
+            "text": "@ししとう 何かご予定がありますか？",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも 実家に行こうかなと～",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ししとう",
+            "text": "車で1時間半なんですけど。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "まりも",
+            "text": "@ししとう なるほど！",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "こまつな",
+            "text": "@ししとう 結構近いですかね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな そうですね！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "こまつな",
+            "text": "@ししとう よく帰られますか？",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ししとう",
+            "text": "月1回帰るか帰らないかです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "こまつな",
+            "text": "多いかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ししとう",
+            "text": "みなさんはご実家近いですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "まりも",
+            "text": "私はもう実家ないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも そうなんですね！",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "こまつな",
+            "text": "地図だとそうでもないけど時間かかるんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "まりも",
+            "text": "あれば場所的には近かったですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "こまつな",
+            "text": "田舎なので不便で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "まりも",
+            "text": "@こまつな あるあるですね～",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "まりも",
+            "text": "直線なら近いのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "こまつな",
+            "text": "乗り継ぎとかが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "こまつな",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "まりも",
+            "text": "思ったように経路とれない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな 移動が大変そう～",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "こまつな",
+            "text": "遠くのほうが飛行機とかで早いんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "こまつな",
+            "text": "電車でも車でもダメ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "まりも",
+            "text": "飛行機の距離だとちょっとしんどいですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "まりも",
+            "text": "時間的には早いのか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "こまつな",
+            "text": "どっちみち時間かかる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな おお～そうなんですね！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "こまつな",
+            "text": "料金はかかりますけどね飛行機",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "まりも",
+            "text": "そうですよね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ししとう",
+            "text": "帰省となると荷物もあるし大変ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "こまつな",
+            "text": "今は私一人で帰るんですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "こまつな",
+            "text": "子ども連れたら車でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな 大人1人だったらラクですね！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "まりも",
+            "text": "車だとどれぐらいですか？時間",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こまつな",
+            "text": "ほんと楽です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "こまつな",
+            "text": "５～６時間",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "まりも",
+            "text": "お子さん連れての移動は大変そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "こまつな",
+            "text": "でも休憩するともっとかかる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな わ～大変！！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "まりも",
+            "text": "あ～　かかりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "こまつな",
+            "text": "高速乗るまでが時間かかるんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "こまつな",
+            "text": "渋滞とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "まりも",
+            "text": "移動でくたくたになりそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "こまつな",
+            "text": "子どもがけんかしてたりとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも 本当ですね！体力勝負！",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "こまつな",
+            "text": "疲れましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな 子どものケンカ…あるあるですね",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こまつな",
+            "text": "今は特急で寝てます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "まりも",
+            "text": "子どもは5～6時間耐えられないでしょうね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "こまつな",
+            "text": "お菓子食べほうだいとかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな お菓子食べ放題！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ししとう",
+            "text": "いろいろ工夫されてたんですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "こまつな",
+            "text": "いい思い出です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "こまつな",
+            "text": "もう大人になってしまったので・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "まりも",
+            "text": "そうなんですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "まりも",
+            "text": "淋しいような？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "こまつな",
+            "text": "まあ、大人になっても子どもは子どもですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ししとう",
+            "text": "わ～まだ想像できない未来だ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "まりも",
+            "text": "一緒に出かけたりします？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こまつな",
+            "text": "なかなか子離れできません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "こまつな",
+            "text": "男子なのでないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "まりも",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "こまつな",
+            "text": "@ししとう お子さん小さいですか？",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな 小学生と幼稚園児です～",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "こまつな",
+            "text": "いいなあ、かわいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "こまつな",
+            "text": "@まりも お子さんいます？",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "まりも",
+            "text": "@こまつな いないですね～",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも そうなんですね！",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "こまつな",
+            "text": "これは失礼しました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "まりも",
+            "text": "いえいえ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "こまつな",
+            "text": "手がかかるころは大変ですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "まりも",
+            "text": "友達の子が今2歳ぐらいで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "まりも",
+            "text": "大変そうだなって思って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "まりも",
+            "text": "話聞いてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "こまつな",
+            "text": "2歳はかわいいけど大変だ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ししとう",
+            "text": "2歳！大変な時期ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "まりも",
+            "text": "自我が芽生えてきて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "こまつな",
+            "text": "イヤイヤとかですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "まりも",
+            "text": "イヤイヤしてるらしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "こまつな",
+            "text": "その時期ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "まりも",
+            "text": "いないいないばあしてる動画見せてもらいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "まりも",
+            "text": "家族一人一人にやってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "まりも",
+            "text": "かわいかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ししとう",
+            "text": "カワイイ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "こまつな",
+            "text": "機嫌いいとかわいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "まりも",
+            "text": "機嫌次第ですか～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こまつな",
+            "text": "しゃべるしね2歳は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "まりも",
+            "text": "どれぐらいおしゃべりします？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ししとう",
+            "text": "魔の2歳児っていいますよね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "まりも",
+            "text": "魔の…笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも うちは下の子はペラペラでした",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "こまつな",
+            "text": "魔って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "こまつな",
+            "text": "結構しゃべりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "こまつな",
+            "text": "害のない言葉",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "まりも",
+            "text": "@ししとう 下の子は真似るから早いんですかね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも ですかね！",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "こまつな",
+            "text": "真似ますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 109,
+            "interlocutor_id": "ししとう",
+            "text": "知り合いの1歳児は",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "こまつな",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "まりも",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "ししとう",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

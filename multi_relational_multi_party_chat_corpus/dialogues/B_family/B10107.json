@@ -1,0 +1,730 @@
+{
+    "dialogue_id": "B10107",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "うさぎ",
+        "たまねぎ",
+        "にんじん"
+    ],
+    "relationship": [
+        "たまねぎ",
+        "にんじん"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うさぎ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまねぎ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "にんじん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うさぎ",
+            "text": "お花見って行かれますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "にんじん",
+            "text": "行きますよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たまねぎ",
+            "text": "@うさぎ 行きますよ",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "うさぎ",
+            "text": "@にんじん お気に入りの場所とか？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "たまねぎ",
+            "text": "ありますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "にんじん",
+            "text": "@うさぎ 地元が有名です",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "たまねぎ",
+            "text": "有名なところです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "うさぎ",
+            "text": "@にんじん きゃーいいなー",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "にんじん",
+            "text": "夜桜が特に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "うさぎ",
+            "text": "@たまねぎ 素敵ー",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまねぎ",
+            "text": "たしかに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "にんじん",
+            "text": "写真うまくとれませんが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "うさぎ",
+            "text": "私は大の桜好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "たまねぎ",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "うさぎ",
+            "text": "ちなみに娘は4月1日生まれですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "たまねぎ",
+            "text": "屋台もいっぱい出ますしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "にんじん",
+            "text": "@うさぎ おー",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "にんじん",
+            "text": "エイプリルフール！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "うさぎ",
+            "text": "桜の咲いているときに生まれて、退院と　のときはさくら吹雪でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "うさぎ",
+            "text": "@にんじん よく言われます！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "たまねぎ",
+            "text": "@うさぎ とっても素敵です",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "にんじん",
+            "text": "@うさぎ うちの娘も4月産まれです！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "うさぎ",
+            "text": "@たまねぎ それだけが思い出です",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "にんじん",
+            "text": "29日ですが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "うさぎ",
+            "text": "@にんじん おーGW？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "たまねぎ",
+            "text": "肉の日だー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "うさぎ",
+            "text": "肉の日！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "にんじん",
+            "text": "昭和の日！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "うさぎ",
+            "text": "盛大にお祝いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "うさぎ",
+            "text": "@にんじん そっちもありましたね！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "たまねぎ",
+            "text": "間違いないです！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "うさぎ",
+            "text": "お休みだしいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "にんじん",
+            "text": "4月唯一の祝日です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "にんじん",
+            "text": "本人は嫌みたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "たまねぎ",
+            "text": "みんなでパーっと！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "うさぎ",
+            "text": "あっ、そう言われてみると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "うさぎ",
+            "text": "バーベキューも良さそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "にんじん",
+            "text": "学校休みだから友達にお祝いして貰えないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "にんじん",
+            "text": "@うさぎ BBQいいですねー",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "うさぎ",
+            "text": "@にんじん うちの娘もです！春休み中",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たまねぎ",
+            "text": "@うさぎ バーベキューならお任せを",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "うさぎ",
+            "text": "@たまねぎ きゃー名人ですか？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "うさぎ",
+            "text": "もしかして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "たまねぎ",
+            "text": "@うさぎ もちのろんです！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "にんじん",
+            "text": "@たまねぎ 私食べる専門",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "うさぎ",
+            "text": "いやーいいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "たまねぎ",
+            "text": "グリルの前が似合います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "うさぎ",
+            "text": "お邪魔したい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "うさぎ",
+            "text": "@たまねぎ グリルもある？！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "うさぎ",
+            "text": "本格的ですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "たまねぎ",
+            "text": "いや、ありません笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "にんじん",
+            "text": "ないよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "にんじん",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "うさぎ",
+            "text": "でもいいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "たまねぎ",
+            "text": "そこは雰囲気で笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "うさぎ",
+            "text": "楽しそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "にんじん",
+            "text": "一日のご飯それで終わりますよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "うさぎ",
+            "text": "よくやられるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "うさぎ",
+            "text": "バーベキュー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "たまねぎ",
+            "text": "毎日やってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "うさぎ",
+            "text": "ま、毎日？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "にんじん",
+            "text": "お肉余るので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "うさぎ",
+            "text": "おーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "にんじん",
+            "text": "何かしら焼きます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "うさぎ",
+            "text": "毎日ご馳走だわ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "にんじん",
+            "text": "スーパーも激近で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "うさぎ",
+            "text": "@にんじん そんなに？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "にんじん",
+            "text": "でも、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "たまねぎ",
+            "text": "そんなにです！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "にんじん",
+            "text": "おにぎり多めです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "うさぎ",
+            "text": "おにぎりもいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "にんじん",
+            "text": "肉少なめ笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たまねぎ",
+            "text": "ちなみにおにぎりも焼きます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "うさぎ",
+            "text": "焼きおにぎり！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "たまねぎ",
+            "text": "なんでも焼いちゃいます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うさぎ",
+            "text": "好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "にんじん",
+            "text": "@たまねぎ こげまくり",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "うさぎ",
+            "text": "こ、こげまくり笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "たまねぎ",
+            "text": "それも食べちゃいます！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "にんじん",
+            "text": "焼くのに必死で笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "うさぎ",
+            "text": "でも美味しいんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "にんじん",
+            "text": "外でのご飯はいいですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "うさぎ",
+            "text": "急においしさ増しまし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "たまねぎ",
+            "text": "この季節でもタンクトップでやります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "うさぎ",
+            "text": "タンクトップーーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "うさぎ",
+            "text": "@たまねぎ お若い！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "にんじん",
+            "text": "@うさぎ 今は半袖です",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "たまねぎ",
+            "text": "雰囲気からということで！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "にんじん",
+            "text": "みてて寒そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "うさぎ",
+            "text": "お若いんですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "うさぎ",
+            "text": "エネルギーが余る",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "にんじん",
+            "text": "確かにー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまねぎ",
+            "text": "健康にいいですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "うさぎ",
+            "text": "代謝良さそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "たまねぎ",
+            "text": "風邪ひかなくなります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "にんじん",
+            "text": "寒いと肩が痛くなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "うさぎ",
+            "text": "@たまねぎ よく半袖男子いましたよね？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "にんじん",
+            "text": "@うさぎ いたいた！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "たまねぎ",
+            "text": "いましたね！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "うさぎ",
+            "text": "小学生のとき、みんな元気で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "にんじん",
+            "text": "一年中の子供！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "うさぎ",
+            "text": "真冬でも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "たまねぎ",
+            "text": "そのころのまんまです！笑",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うさぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "たまねぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "にんじん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,662 @@
+{
+    "dialogue_id": "B10101",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "うさぎ",
+        "にんじん",
+        "たまねぎ"
+    ],
+    "relationship": [
+        "にんじん",
+        "たまねぎ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うさぎ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "にんじん",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "たまねぎ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うさぎ",
+            "text": "うさぎです。よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "にんじん",
+            "text": "にんじんです。よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たまねぎ",
+            "text": "たまねぎです！よろしくお願いします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "うさぎ",
+            "text": "こちらは関東ですが冬晴れです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "にんじん",
+            "text": "こっちも晴れていますよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "うさぎ",
+            "text": "ちょっと花粉が気になりますが。。お二人は大丈夫ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "たまねぎ",
+            "text": "花粉症です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "うさぎ",
+            "text": "たまねぎさん、お辛いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "たまねぎ",
+            "text": "毎年目が痒くなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "うさぎ",
+            "text": "お薬のまれてますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまねぎ",
+            "text": "今年は飲もうかなと…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "うさぎ",
+            "text": "病院のですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "たまねぎ",
+            "text": "はい！市販のは効かなくて…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "うさぎ",
+            "text": "私はアレジオンたまに飲みます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "うさぎ",
+            "text": "にんじんさんは大丈夫ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "にんじん",
+            "text": "僕は花粉症知らずです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "にんじん",
+            "text": "苦しそうだなと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "うさぎ",
+            "text": "うわー羨ましい！うちも主人は大丈夫です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "たまねぎ",
+            "text": "男性だから？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "うさぎ",
+            "text": "知り合いで男性でひどい方もいるからどうでしょうね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "うさぎ",
+            "text": "コップがあるんですよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "たまねぎ",
+            "text": "コップ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "うさぎ",
+            "text": "身体の中？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "たまねぎ",
+            "text": "聞いたことありますー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "うさぎ",
+            "text": "一人一人あってある日突然あふれると花粉症になるらしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "にんじん",
+            "text": "まだ油断できませんね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "うさぎ",
+            "text": "私はまだ完全に溢れてませんが怪しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "うさぎ",
+            "text": "娘もなんとか大丈夫です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "たまねぎ",
+            "text": "4月までだから長いです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "うさぎ",
+            "text": "本当ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "にんじん",
+            "text": "子供がなると可哀想ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "うさぎ",
+            "text": "そうですよね、怖いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "うさぎ",
+            "text": "とはいえもう高校生なので、薬も飲めそうですが。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "たまねぎ",
+            "text": "いちご狩り行っても味がわからないです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "うさぎ",
+            "text": "いちご狩り！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "うさぎ",
+            "text": "行きたいですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "うさぎ",
+            "text": "行かれましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たまねぎ",
+            "text": "今年はまだ行けてないです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "うさぎ",
+            "text": "毎年行かれるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "にんじん",
+            "text": "毎年行きます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "うさぎ",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "たまねぎ",
+            "text": "100個目指して！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "うさぎ",
+            "text": "お近くにあるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "たまねぎ",
+            "text": "車で15分くらいに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "うさぎ",
+            "text": "いちご100個！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "うさぎ",
+            "text": "夢みたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "うさぎ",
+            "text": "15分！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "たまねぎ",
+            "text": "100個食べてやっと元がとれます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "うさぎ",
+            "text": "いつでもいけますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "にんじん",
+            "text": "混んでますが…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "うさぎ",
+            "text": "あっ、あれってそんなに食べないと元取れないんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "たまねぎ",
+            "text": "そうですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "たまねぎ",
+            "text": "計算しました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "うさぎ",
+            "text": "梨狩りとかしか行ったことないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "うさぎ",
+            "text": "計算！素晴らしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たまねぎ",
+            "text": "梨狩りは食べ放題ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "にんじん",
+            "text": "みかんとか気になる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "うさぎ",
+            "text": "いや時間がありました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "たまねぎ",
+            "text": "まるごと？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "うさぎ",
+            "text": "結局、そんなに食べられなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "うさぎ",
+            "text": "上限もあったと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "うさぎ",
+            "text": "むいて食べるのですが、時間かかるし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "にんじん",
+            "text": "むく時間とかもったいない気が笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "うさぎ",
+            "text": "ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "うさぎ",
+            "text": "お車はお二人とも運転されるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "たまねぎ",
+            "text": "梨はお腹いっぱいになりそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "にんじん",
+            "text": "運転しますよー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "たまねぎ",
+            "text": "私の方がうまいかな！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "うさぎ",
+            "text": "もしかして2台ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "にんじん",
+            "text": "あります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "うさぎ",
+            "text": "今は神奈川ですが、その前に千葉にいたときは必須だったので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "うさぎ",
+            "text": "車1人一台みたいな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たまねぎ",
+            "text": "私も千葉にいましたー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "うさぎ",
+            "text": "ほんとですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "うさぎ",
+            "text": "千葉も広いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "たまねぎ",
+            "text": "はい！少しだけだけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "うさぎ",
+            "text": "うちがいたのは市原市です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "たまねぎ",
+            "text": "あ、都会のとこ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "うさぎ",
+            "text": "うちも半年ちょっとでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "たまねぎ",
+            "text": "私は市川でした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "うさぎ",
+            "text": "えっ？あそこで都会？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "うさぎ",
+            "text": "いや、市川の方が都会じゃないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "たまねぎ",
+            "text": "今の所から考えたら都会です笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "うさぎ",
+            "text": "田んぼたくさんありましたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "にんじん",
+            "text": "こっちは自然だらけ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "うさぎ",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "うさぎ",
+            "text": "アウトドアとかされてますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "にんじん",
+            "text": "恥ずかしながらあんまり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "うさぎ",
+            "text": "グランピング興味あります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "にんじん",
+            "text": "寒いから家にこもります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "うさぎ",
+            "text": "かえってわざわざ外に泊まらなくても？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "うさぎ",
+            "text": "とは思います笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "にんじん",
+            "text": "そーです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "うさぎ",
+            "text": "こたついいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "たまねぎ",
+            "text": "うちは冬が暑いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "うさぎ",
+            "text": "うちはないのですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "うさぎ",
+            "text": "えっ？冬が暑い？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "にんじん",
+            "text": "うちもこたつないですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "うさぎ",
+            "text": "もしかして全館暖房？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "にんじん",
+            "text": "薪ストーブなので暑くなりすぎて",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うさぎ",
+            "informativeness": 2,
+            "comprehension": 2,
+            "familiarity": 2,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "にんじん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまねぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

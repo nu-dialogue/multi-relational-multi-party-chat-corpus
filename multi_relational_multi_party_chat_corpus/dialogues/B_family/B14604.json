@@ -1,0 +1,718 @@
+{
+    "dialogue_id": "B14604",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "カンガルー",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "カンガルー",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "カンガルー",
+            "text": "夕飯何食べるか決めてますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 夕飯はなんだろう？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "えのき",
+            "text": "しゃぶしゃぶ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "えのき",
+            "text": "昨日お肉を買ってきたので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき やったぜ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "カンガルー",
+            "text": "もー毎日毎日考えるのめんどくさくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "えのき",
+            "text": "ゆでるだけ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "えのき",
+            "text": "本当めんどくさいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "カンガルー",
+            "text": "箸持ってえのき家に行きたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "えのき",
+            "text": "買物もめんどくさいですが…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき この間おろしポン酢を買ったので楽しみです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "えのき",
+            "text": "おいでませ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "カンガルー",
+            "text": "買い物！わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき そういえばおろしポン酢買ってたね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 魅力的に見えたのよ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "カンガルー",
+            "text": "特に、買い物終わった後に冷蔵庫にしまう作業がイヤー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "えのき",
+            "text": "うちはこどもたちにやらせています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "えのき",
+            "text": "帰ってきたら、呼ぶ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき それいい！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ポン酢2本牛乳4本コーヒー牛乳1本プッチンプリン一個",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "カンガルー",
+            "text": "私もそうします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "えのき",
+            "text": "そして有無を言わさず手渡す。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "てばさき",
+            "text": "重かった…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "カンガルー",
+            "text": "牛乳4本？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "えのき",
+            "text": "買物…うちは牛乳の消費量がすごくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "えのき",
+            "text": "1日1～2本消えます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 1日に一本以上消費されてます",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "カンガルー",
+            "text": "えー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "カンガルー",
+            "text": "何でだろ？ただ飲む？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "えのき",
+            "text": "三女がぐびぐびいってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "てばさき",
+            "text": "最近は寒いので寝る前とかにあっためて呑んでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "カンガルー",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "えのき",
+            "text": "熱燗みたいだな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 変換間違えた…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "カンガルー",
+            "text": "呑んでって書くとね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "えのき",
+            "text": "のんべえみたいな変換…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "てばさき",
+            "text": "牛乳系飲兵衛…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "えのき",
+            "text": "@カンガルー 牛乳好きですか？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "カンガルー",
+            "text": "三姉妹ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "うちは三姉妹です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき 好きですよー",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "てばさき",
+            "text": "真ん中です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "カンガルー",
+            "text": "三姉妹！楽しそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "えのき",
+            "text": "三姉妹はうるさいですよ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "カンガルー",
+            "text": "仲良しですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 姦しいらしいです！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 多分良好な方だと思います！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "てばさき",
+            "text": "ギスギスはしてないから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "えのき",
+            "text": "寝る時間がかちあうと、ずっとしゃべっててなかなか寝ませんし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "カンガルー",
+            "text": "女の子ってこんなにも喋るんだ！ってくらいずーっと話してますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "えのき",
+            "text": "修学旅行か？みたいになってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "カンガルー",
+            "text": "仲良し三姉妹！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 母もいたら混ざるくせに何を",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "カンガルー",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "じつはえのき家の長女は私です？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "カンガルー",
+            "text": "4姉妹！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "カンガルー",
+            "text": "羨ましい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 永遠の18歳らしいもんね！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "えのき",
+            "text": "実の長女は21歳なのに…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 時空間を超越して生まれてきてる…！？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "えのき",
+            "text": "時空が歪んでいるえのき家。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 何そのscp",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "カンガルー",
+            "text": "長女18歳次女21歳！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "えのき",
+            "text": "だんだんおかしくなってきた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "てばさき",
+            "text": "三女18歳…？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "カンガルー",
+            "text": "scpって何？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "カンガルー",
+            "text": "何の略？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー なんか変なものを確保収容保護するところです",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "カンガルー",
+            "text": "私も使いたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "@カンガルー お子さんはいらっしゃいますか？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "てばさき",
+            "text": "架空の組織の名前ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "カンガルー",
+            "text": "scp？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき います！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "えのき",
+            "text": "娘さんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき 長男、長女",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "カンガルー",
+            "text": "1人ずつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "えのき",
+            "text": "男の子もいるといいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "えのき",
+            "text": "うちは男の子いないので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 我が家に兄弟はおりませんね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "カンガルー",
+            "text": "長女は見た目ギャル中身オッサンです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "えのき",
+            "text": "おっさん！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "カンガルー",
+            "text": "なのでウチには女子は私しかいません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 意外とそんな感じですよ",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "カンガルー",
+            "text": "おっさんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "えのき",
+            "text": "女子！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "カンガルー",
+            "text": "女子！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー ジョスィーとも呼ばれるらしいです",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "カンガルー",
+            "text": "部屋はいつも汚くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "あるあるー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "えのき",
+            "text": "片づけて欲しい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "えのき",
+            "text": "ちらっ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "カンガルー",
+            "text": "@てばさき ジョスゥィー",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 私も一人暮らしの時やばかったです",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "カンガルー",
+            "text": "いや汚さ半端なくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "えのき",
+            "text": "そうだった…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 目をそらす",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "カンガルー",
+            "text": "ゴミの中で暮らしてて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "えのき",
+            "text": "思い出したくない…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私も…",
+            "mention_to": [
+                "えのき"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "カンガルー",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

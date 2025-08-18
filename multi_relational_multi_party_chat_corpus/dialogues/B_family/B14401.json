@@ -1,0 +1,758 @@
+{
+    "dialogue_id": "B14401",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "いるか",
+        "てばさき",
+        "えのき"
+    ],
+    "relationship": [
+        "てばさき",
+        "えのき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "いるか",
+            "text": "おはようございます～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "えのき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "てばさき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "いるか",
+            "text": "今日も寒そうですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "えのき",
+            "text": "今朝地震があったらしいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "いるか",
+            "text": "みたいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "いるか",
+            "text": "気が付きませんでした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "えのき",
+            "text": "家族はみんな地震に気付いている中",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "てばさき",
+            "text": "寒い上に地震か…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "えのき",
+            "text": "私だけがぐっすりでした…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "えのき",
+            "text": "私も気が付きませんでした…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき かなり揺れた？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 長かったし揺れた",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "いるか",
+            "text": "私も家族に、結構おっきかったと言われましたが、気付かず・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "えのき",
+            "text": "知らなかった・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき そうなんですね・・・気付かなかった・・・",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "えのき",
+            "text": "私、東日本大震災の時ですら気が付かなかったですよ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "えのき",
+            "text": "自転車にのっていたので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "いるか",
+            "text": "@えのき え、それは凄いですね？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "いるか",
+            "text": "あ！自転車に！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "えのき",
+            "text": "揺れを感じませんでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 自転車と睡眠中は話違う気がする",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "えのき",
+            "text": "どちらにしろ鈍い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "いるか",
+            "text": "確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "いるか",
+            "text": "自転車は自身の揺れもあるから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "えのき",
+            "text": "@いるか 東日本大震災の時は何をしていましたか？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "いるか",
+            "text": "気付くの難しそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "いるか",
+            "text": "@えのき 仕事してました！９階で！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 東日本か…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "いるか",
+            "text": "社員で避難誘導してましたね・・・トランシーバーで・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか ９階で！？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "えのき",
+            "text": "えっ。9階？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "いるか",
+            "text": "ですです・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "えのき",
+            "text": "階段で避難ですよね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか 私は妹とアンパンマンの録画見てました",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "いるか",
+            "text": "そうです・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき ほっこりしちゃいました笑",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "えのき",
+            "text": "てばさんはまだ幼稚園で\n",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "えのき",
+            "text": "帰りのバスのお迎えをした直後に大地震が！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "えのき",
+            "text": "みたいな感じでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "いるか",
+            "text": "@えのき え～怖い・・・！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "一番バスだったのでもう帰宅してて本当に良かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "いるか",
+            "text": "でも、お迎え直後で良かったですね。本当に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか ハンガーラックが妹を囲うように倒れて妹泣き喚いてましたよ",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": "遅い便の子たちは大変だったみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "えのき",
+            "text": "ていうか、お父さんがたまたま家にいてよかったよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき あわわ・・・それは怖い思いを・・・！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき そういえばあの時お父さんいたけどなんで？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "えのき",
+            "text": "通常時だったら帰宅難民になってた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "いるか",
+            "text": "@えのき お父さん家にいたの大きいですね！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき めちゃくちゃ昼寝してたよね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 前日が徹夜仕事だったので、昼に帰ってた",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "えのき",
+            "text": "そしてお風呂に入った直後だった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "いるか",
+            "text": "私もあの時歩いて帰りましたね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき そんなことが…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "いるか",
+            "text": "電車が動かず・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "@いるか 普通はやっぱりそうなりますよね…",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "えのき",
+            "text": "お父さんは本当にたまたま家にいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "いるか",
+            "text": "@えのき そしてお風呂に入ってさっぱりした後で良かったですね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか しばらくは停電とかあって大変でしたよね",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "えのき",
+            "text": "@いるか 何時間くらい歩きましたか？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "@いるか 本当ですよ",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "いるか",
+            "text": "@えのき そうっとう歩きましたね・・・近くの友人の家に泊めてもらいました",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき あの時は不安定でしたね～電気とかも",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "えのき",
+            "text": "ご近所にお友達がいて良かったですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 計画停電…",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "いるか",
+            "text": "そうなんです。本当に助かりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 東日本の反省を踏まえ、長時間歩けるローファーが開発されてようですよ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "いるか",
+            "text": "計画停電！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "えのき",
+            "text": "こどもたちを昼間のうちにお風呂にいれたり、で大変だった…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき そんな？！でも、歩かない方法でいきたいですね・・・",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 普段から歩きやすい靴しかはいてない",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき でかい懐中電灯を明かりにするのワクワクした",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "えのき",
+            "text": "10kmくらいならなんとか…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき そんな時代もあったね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "いるか",
+            "text": "@えのき お風呂とかも大変ですよね・・・え？１０キロ？！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 母上１０キロ強い",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "えのき",
+            "text": "@いるか 普段歩きますか？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "いるか",
+            "text": "@てばさき 懐中電灯ワクワクするのわかります！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 最近ドラクエウォークやってるから。",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "えのき",
+            "text": "ほいほい歩くよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "えのき",
+            "text": "コインに釣られて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき それかぁ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "えのき",
+            "text": "それです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "いるか",
+            "text": "@えのき 昔はよく歩いてましたが、最近は全くです！今は絶対に歩けない・・・",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "えのき",
+            "text": "@いるか ウォーキング楽しいですよ",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "コインにつられて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "いるか",
+            "text": "ゲーム、一役かってますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "えのき",
+            "text": "本当です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "えのき",
+            "text": "強い動機付けが必要です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てばさき",
+            "text": "@いるか ポケモンGOとかも人気ですよね",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "いるか",
+            "text": "前はポケモンのやっていましたが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "いるか",
+            "text": "最近はそちらもめっきり・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "えのき",
+            "text": "常に鼻先ニンジンな位置にコインが落ちてるんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "いるか",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "えのき",
+            "text": "続けるの、なかなか大変ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "えのき",
+            "text": "私はまだ始めて4か月くらいなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "えのき",
+            "text": "まだハマってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "いるか",
+            "text": "そうなんですよね～持ち物がいっぱいになっちゃったり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 継続isぱわあ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "えのき",
+            "text": "持ち物枠増やすのに要課金とか・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "えのき",
+            "text": "無課金ですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "いるか",
+            "text": "ポケモンも持てる上限があって、手放すの悲しくて・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "えのき",
+            "text": "ありますよね～",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "いるか",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,754 @@
+{
+    "dialogue_id": "B12908",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "いるか",
+        "たまご",
+        "つみれ"
+    ],
+    "relationship": [
+        "たまご",
+        "つみれ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "いるか",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまご",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つみれ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "いるか",
+            "text": "長期のお休み取れたら行きたいところ、ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "いるか",
+            "text": "温泉とか・・・温泉とか・・・温泉とか・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たまご",
+            "text": "旅行とか行きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たまご",
+            "text": "温泉とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "いるか",
+            "text": "@たまご どこ行きます？！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "つみれ",
+            "text": "@いるか 温泉一択ですね笑",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "いるか",
+            "text": "温泉笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たまご",
+            "text": "京都とか行きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "たまご",
+            "text": "京都の雰囲気好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "いるか",
+            "text": "@たまご 京都！桜の時期いいじゃないですか・・・",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "いるか",
+            "text": "幻想的で・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "たまご",
+            "text": "たしかに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "たまご",
+            "text": "建物も良くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "つみれ",
+            "text": "京都でのんびり寺院巡りしたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "いるか",
+            "text": "これからまたシーズンですよね！京都！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "たまご",
+            "text": "街並みも綺麗",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ 寺院巡り、良いですね～！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "いるか",
+            "text": "そうそう、街並みも素敵ですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "いるか",
+            "text": "新しいものも、古いものも存在していて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "たまご",
+            "text": "いろんな寺巡りたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "つみれ",
+            "text": "素敵ですよね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "たまご",
+            "text": "なんか落ちつくし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "つみれ",
+            "text": "長野から日帰りで行ったことがあるんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "たまご",
+            "text": "清水寺とかも好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ 日帰りですか？！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "つみれ",
+            "text": "弾丸すぎて・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たまご",
+            "text": "すご",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "いるか",
+            "text": "清水寺も良いですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 一緒に行きましたよ",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "いるか",
+            "text": "弾丸でお二人で？？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "たまご",
+            "text": "一緒に行ったやつか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つみれ",
+            "text": "家族で行きました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "いるか",
+            "text": "家族皆さんで！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "つみれ",
+            "text": "私の誕生日に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "たまご",
+            "text": "1日でも京都はいいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ え！素敵！でも、弾丸・・・！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つみれ",
+            "text": "主人にどこに行きたい？って聞かれたので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "つみれ",
+            "text": "京都って言ったら、じゃあ行こうって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "たまご",
+            "text": "行き帰りで時間かかるけど良かった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つみれ",
+            "text": "楽しかったでしけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ TVCMを地で行くパターン・・・！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "いるか",
+            "text": "そうだ、京都に行こう・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つみれ",
+            "text": "@いるか まさにです",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "いるか",
+            "text": "@たまご え、何時間くらいでしたか？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "つみれ",
+            "text": "でも、泊まりで行きたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "たまご",
+            "text": "結構かかった気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ それは、そう・・・ゆっくり過ごしたいですね・・・京都なら・・・",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "つみれ",
+            "text": "片道５時間くらいで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "たまご",
+            "text": "長野県からなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ ひぇ・・・",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "いるか",
+            "text": "片道５時間？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "つみれ",
+            "text": "ほぼ往復で終わる感じです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "いるか",
+            "text": "滞在時間何時間ですか？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "たまご",
+            "text": "往復10時間",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ ですよね？？？？！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "いるか",
+            "text": "２４時間しかないのに、一日",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つみれ",
+            "text": "でも３箇所寺院みて、ご飯食べて帰ってきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "つみれ",
+            "text": "弾丸で！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "たまご",
+            "text": "三十三間堂だっけ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ けっこうぎゅっといってますね？！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "つみれ",
+            "text": "お抹茶もいただきましたし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "いるか",
+            "text": "@たまご 聞いたことあります！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "いるか",
+            "text": "しっかり堪能してるの凄すぎます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "たまご",
+            "text": "1000体くらい人形いるとこです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "いるか",
+            "text": "私、行きかえりで疲れてしまいそう・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 人形でなく観音です",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "いるか",
+            "text": "@たまご あ～～～！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "たまご",
+            "text": "見てて圧巻です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "いるか",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たまご",
+            "text": "@つみれ それだ",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "いるか",
+            "text": "人形ではなく観音笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "いるか",
+            "text": "訂正されちゃいましたね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たまご",
+            "text": "言い方がわからなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つみれ",
+            "text": "大人なのに・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "いるか",
+            "text": "人形って言い方がなんともかわいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "たまご",
+            "text": "また見たいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "いるか",
+            "text": "突然単語出てこなくなることありますからね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "たまご",
+            "text": "あります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "たまご",
+            "text": "いっぱい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つみれ",
+            "text": "最近そんなことばっかりです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "いるか",
+            "text": "あの～あれあれ！みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "いるか",
+            "text": "結局出てこない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "たまご",
+            "text": "出ないこと多いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つみれ",
+            "text": "友達との会話、大半アレです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "いるか",
+            "text": "のどまで出てるんだよ？でもわっかんない！あれ～みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "たまご",
+            "text": "そこで止まっちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ そう、でもなんとなく通じてる不思議",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "つみれ",
+            "text": "誰だっけ？と思いながら話してる人とかいますよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "つみれ",
+            "text": "友達ってすごいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ 笑確かにありますね！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "たまご",
+            "text": "モヤモヤするやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "たまご",
+            "text": "それで話せるからすごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "いるか",
+            "text": "@たまご 思い出せなくて、後から調べたりします笑",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つみれ",
+            "text": "突っ込んだ話はできないし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "いるか",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "つみれ",
+            "text": "名前も呼べないやつです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "たまご",
+            "text": "@いるか 分かります",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ 声出して笑うとこでした！そうそう。深堀せず、話を合せる・・・",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "たまご",
+            "text": "全然話せてない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "つみれ",
+            "text": "逆に名前呼んで話してたら別人だったことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "いるか",
+            "text": "@つみれ だめだ、おもしろい笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "つみれ",
+            "text": "気まずいにも程がある",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "たまご",
+            "text": "話がすれ違ってる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "たまご",
+            "text": "アンジャッシュ状態",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "いるか",
+            "text": "@たまご でも、なんとなく合っちゃったりする",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "いるか",
+            "text": "そうそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 109,
+            "interlocutor_id": "つみれ",
+            "text": "ずっと相手が不思議な顔してるので気づきました",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "いるか",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

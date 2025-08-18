@@ -1,0 +1,699 @@
+{
+    "dialogue_id": "A01905",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "ねぎとろ",
+        "うどん",
+        "がんも"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ねぎとろ",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "うどん",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "がんも",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うどん",
+            "text": "皆さんは好きな季節ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ねぎとろ",
+            "text": "秋と冬が好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "がんも",
+            "text": "春と秋です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "うどん",
+            "text": "秋すてきですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "うどん",
+            "text": "紅葉とか見に行かれます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "がんも",
+            "text": "紅葉行きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ねぎとろ",
+            "text": "最近は行ってないです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "うどん",
+            "text": "そうだったんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "うどん",
+            "text": "@がんも 好きな紅葉スポットありますか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@がんも 近くにいいところがあるんですか＞",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "うどん",
+            "text": "お！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "うどん",
+            "text": "わたしは高尾山に！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "がんも",
+            "text": "近くにもみじ湖ってあって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "うどん",
+            "text": "@がんも もみじ湖素敵そう！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ねぎとろ",
+            "text": "おふたりとも、お気に入りスポットがあるんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "うどん",
+            "text": "湖ともみじいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@がんも もみじ湖ってかわいい。",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "うどん",
+            "text": "なかなか気づいたら紅葉終わっちゃってたりするんですけどね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "うどん",
+            "text": "あっという間で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "がんも",
+            "text": "じゃらんで１位になってるスポットがあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "うどん",
+            "text": "1位すごーい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@がんも おーーー",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "うどん",
+            "text": "有名なのですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "がんも",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "うどん",
+            "text": "桜もいいけど、紅葉はまた、別の良さがありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ですね、派手さはないけど、季節の移り変わりを感じられる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "うどん",
+            "text": "@ねぎとろ ほんとですね！",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "がんも",
+            "text": "長野は山しかないので紅葉の方が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "うどん",
+            "text": "派手さがないところが、また好きかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "がんも",
+            "text": "なじみがあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ねぎとろ",
+            "text": "もっと四季を楽しまなければ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "うどん",
+            "text": "@がんも なるほどです！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "うどん",
+            "text": "@ねぎとろ ほんとですね、私も",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@うどん 派手さがないところがいい、、正にそうです。",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "うどん",
+            "text": "七十二候とか学んでみたのですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "うどん",
+            "text": "日常生きてると、慌ただしさに追われて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "うどん",
+            "text": "忘れちゃうんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@うどん わかります。心の余裕、持ちたいですよね。",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "がんも",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "うどん",
+            "text": "心の余裕、まさにです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ただ時間に追われている自分を反省反省",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "うどん",
+            "text": "人生最後に、慌ただしい人生だったなって、思わないようにしたいなって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "うどん",
+            "text": "@ねぎとろ そうなっちゃいますよねー！",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたしは、書道をまた始めたいと思っています！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "うどん",
+            "text": "皆さんが安らぐ時間はどんなときですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "うどん",
+            "text": "@ねぎとろ 書道！！！",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "うどん",
+            "text": "わたしも書道好きです！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "がんも",
+            "text": "書道！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "うどん",
+            "text": "色がついてる墨とか買って、1人で書いてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "がんも",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "うどん",
+            "text": "最近の墨はラメ入りとかもあって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ねぎとろ",
+            "text": "学生の頃は、いやいややっていましたが、最近は積極的にやりたいと思うようになりました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ねぎとろ",
+            "text": "墨にラメ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "うどん",
+            "text": "@ねぎとろ そうなんですよねー！学校のとき嫌々だった",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "がんも",
+            "text": "ラメ入り！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "うどん",
+            "text": "ラメ、びっくりしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そういうのが、作品に幅や自由度を持たせたりして、いいかもです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "うどん",
+            "text": "@ねぎとろ ほんとですね。",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "うどん",
+            "text": "学校だと縛りがあるから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "がんも",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ねぎとろ",
+            "text": "門が広がりますね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "うどん",
+            "text": "もう大人だし、のびのびと、楽しみたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そうそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "うどん",
+            "text": "ねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "うどん",
+            "text": "@ねぎとろ どんな言葉を書こうとか、決めてるんですか？",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@うどん はい、決めている言葉はあります！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "うどん",
+            "text": "お！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "うどん",
+            "text": "言葉、好きなので、興味深いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "うどん",
+            "text": "素敵ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたし、念ずれば花ひらくが座右の銘なので、それを書きたいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "うどん",
+            "text": "教えてくださってうれしい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "うどん",
+            "text": "聴いて大丈夫か迷ったので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ねぎとろ",
+            "text": "有言実行笑い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "うどん",
+            "text": "優しく強い言葉ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "うどん",
+            "text": "念ずれば花ひらく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ねぎとろ",
+            "text": "はい。すべては、本人のやる気ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "うどん",
+            "text": "書いたら、有言実行に近づきそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "うどん",
+            "text": "@ねぎとろ ですね！",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ねぎとろ",
+            "text": "みなさんは、これから始めたいことありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "うどん",
+            "text": "わたし、アーユルヴェーダはじめたいんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "がんも",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@うどん すごい！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "うどん",
+            "text": "まだ本を読んでみただけなのですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "うどん",
+            "text": "インドの伝統医学で、保険適用されてる国もあると聞いて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ねぎとろ",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "うどん",
+            "text": "有用性が気になってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "がんも",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ねぎとろ",
+            "text": "本当ですね。海外にも、門戸が広がりそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "うどん",
+            "text": "自分と家族の健康に活かせそうだなと思って！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "うどん",
+            "text": "@ねぎとろ たしかに！わたしも海外視野に入れられるよう頑張ります！",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ねぎとろ",
+            "text": "癒やしって、大事ですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "がんも",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "うどん",
+            "text": "癒やし、ほんと、求めてます、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ねぎとろ",
+            "text": "癒やされたい。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "うどん",
+            "text": "ねー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@うどん 頑張ってくださいね！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "うどん",
+            "text": "@ねぎとろ 癒される時間どんなときですか？",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "うどん",
+            "text": "@ねぎとろ ありがとうございます！",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@うどん 好きな音楽を聴きながら、お部屋でまったりかな。",
+            "mention_to": [
+                "うどん"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ねぎとろ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "うどん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "がんも",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

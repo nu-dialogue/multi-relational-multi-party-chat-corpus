@@ -1,0 +1,762 @@
+{
+    "dialogue_id": "B11306",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ポテト",
+        "つくね",
+        "しらたき"
+    ],
+    "relationship": [
+        "つくね",
+        "しらたき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ポテト",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つくね",
+            "text": "こんばんは〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらたき",
+            "text": "こんばんは、。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ポテト",
+            "text": "お花見、どこか行く予定ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ポテト",
+            "text": "近場でも、遠くとかでも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つくね",
+            "text": "@ポテト 今のところ旦那の実家の方に",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "つくね",
+            "text": "見に行きますー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つくね",
+            "text": "有名なんですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ポテト",
+            "text": "@つくね 旦那さんの実家に！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね え！行くの？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ポテト",
+            "text": "混みそうな予感ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき え？行かないの？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ポテト",
+            "text": "あれっ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "つくね",
+            "text": "行く気満々だよ？笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ポテト",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 屋台行きたい",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ポテト",
+            "text": "屋台の話に笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "つくね",
+            "text": "@ポテト しらたき結構出不精で…笑",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ポテト",
+            "text": "でも、屋台のごはんってなんであんなに美味しいんでしょう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "しらたき",
+            "text": "@ポテト 高遠こひがん桜知ってますか？",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ポテト",
+            "text": "@つくね あ～そういうことでしたか！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つくね",
+            "text": "確かに！屋台飯は美味しいですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ポテト",
+            "text": "@しらたき 知ってます！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "しらたき",
+            "text": "地元なんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ポテト",
+            "text": "@つくね おいしい・・・！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "しらたき",
+            "text": "混むから春は嫌いです！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ポテト",
+            "text": "@しらたき 長野の方でしたよね？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "つくね",
+            "text": "@ポテト ですよねー！いいお値段しますが",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "しらたき",
+            "text": "@ポテト そうです",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つくね",
+            "text": "買っちゃいますよねー笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ポテト",
+            "text": "あ～アジサイの時期の鎌倉みたいな・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ポテト",
+            "text": "@つくね そう！肉の入ってないやきそばとか",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しらたき",
+            "text": "@ポテト そんなに有名なんですか！？",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "つくね",
+            "text": "@ポテト 肉の入ってないやきそば！笑",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つくね",
+            "text": "確かに！言われてみれば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つくね",
+            "text": "入ってないですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ポテト",
+            "text": "結構聞く気がします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ポテト",
+            "text": "@つくね そうそう、あってもちいちゃい！たこ焼きも！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 結局花より屋台！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき で、結局行かないの?",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "つくね",
+            "text": "行くよね？笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ポテト",
+            "text": "戻ってきた笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 休みならー",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "つくね",
+            "text": "@ポテト たこ焼きのタコもちっちゃい！笑",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ポテト",
+            "text": "ひっぱっていきましょ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 休みでしょ！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つくね",
+            "text": "@ポテト 引っ張って行きます！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ポテト",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つくね",
+            "text": "子供たちも楽しみにしてるよ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ポテト",
+            "text": "あらあら！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "しらたき",
+            "text": "どうせ運転俺でしょ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき いこーよー笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ポテト",
+            "text": "これは這ってでもいかないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ポテト",
+            "text": "@しらたき 飲めないパターンですね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ポテト",
+            "text": "屋台でも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つくね",
+            "text": "@ポテト あ！言っちゃいましたね笑",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "しらたき",
+            "text": "呑めるなら！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ポテト",
+            "text": "あ～～～笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 飲みたいの？笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ポテト",
+            "text": "失言だった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "しらたき",
+            "text": "帰りは運転して！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "しらたき",
+            "text": "@ポテト ナイス！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つくね",
+            "text": "@ポテト 知らなければ飲まないはずだった…笑",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ポテト",
+            "text": "@つくね イーン！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき えー、、、善処します笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね いや！それは無い！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "しらたき",
+            "text": "絶対呑む！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ポテト",
+            "text": "どのみち飲む気満々だった・・・と！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "つくね",
+            "text": "そー言うことか…1杯だけね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "しらたき",
+            "text": "花よりビールです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ポテト",
+            "text": "結構車でかかりますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "つくね",
+            "text": "30分くらいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ポテト",
+            "text": "ちかい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "つくね",
+            "text": "そうなんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つくね",
+            "text": "なので別に運転してもいいんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "しらたき",
+            "text": "道がすいてればね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つくね",
+            "text": "やっぱり人が多いとしたくないですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ポテト",
+            "text": "あ～～～！なるほど、そっか・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "つくね",
+            "text": "車も多いと割り込みとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ポテト",
+            "text": "運転不慣れな方も出てきますしね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つくね",
+            "text": "すっごい嫌です！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ポテト",
+            "text": "@つくね そうそう",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つくね",
+            "text": "@ポテト そうなんですよ…",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "しらたき",
+            "text": "田舎で道が少ないもので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "つくね",
+            "text": "お年寄りとか…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しらたき",
+            "text": "大渋滞",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき たしかにー、、渋滞やだよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ポテト",
+            "text": "それは確かに運転したくない気持ちもわかります・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ポテト",
+            "text": "イライラしたりするタイプですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しらたき",
+            "text": "渋滞になるとなぜか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ポテト",
+            "text": "渋滞の時",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "しらたき",
+            "text": "トイレ近くなる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "つくね",
+            "text": "@ポテト あんまりならないですが、",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ポテト",
+            "text": "@しらたき めっちゃわかる気がします",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "つくね",
+            "text": "子供がぐずるとイラってきます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ポテト",
+            "text": "@つくね あ～～～～～～～",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき なんでだろうね？不思議だよねー",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つくね",
+            "text": "@ポテト 進まないの仕方ないじゃんって！笑",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 前もってトイレ行くのにねー",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ポテト",
+            "text": "悪循環に陥るやつ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき そうだよねー謎に行きたくなる笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ポテト",
+            "text": "行けないとなると行きたくなる不思議・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "つくね",
+            "text": "@ポテト は渋滞イライラしますか？",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "しらたき",
+            "text": "渋滞だとコンビニも寄りたく無いしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "ポテト",
+            "text": "@つくね 私はしないですが、旦那は無理ですね！",
+            "mention_to": [
+                "つくね"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ポテト",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

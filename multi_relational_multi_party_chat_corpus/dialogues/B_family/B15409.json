@@ -1,0 +1,788 @@
+{
+    "dialogue_id": "B15409",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "おおかみ",
+        "ちくわ",
+        "こんぶ"
+    ],
+    "relationship": [
+        "ちくわ",
+        "こんぶ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おおかみ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ちくわ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "こんぶ",
+            "text": "こんばんは！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おおかみ",
+            "text": "お二人のこと聞いてしまうんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "こんぶ",
+            "text": "はいはい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "おおかみ",
+            "text": "どこで出会われたりとか聞いてもいいですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おおかみ",
+            "text": "仲が良いかどうか気になりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "こんぶ",
+            "text": "私たちは、私の地元で！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ちくわ",
+            "text": "そうそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "こんぶ",
+            "text": "友達の紹介で知り合いましたよー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "おおかみ",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "おおかみ",
+            "text": "ご紹介なんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "こんぶ",
+            "text": "まさか、付き合うとは笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "こんぶ",
+            "text": "そうですそうです〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ どこにでもある感じの話しですが笑",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ そんな感じなんですかw",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ 本当そう笑",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ え？付き合うとは思ってなかったの？笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "おおかみ",
+            "text": "2人で会って話して〜、、という感じですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "こんぶ",
+            "text": "面白い人紹介するーって言われてきたのが旦那でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ ご主人様が拗ねますよ笑",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "こんぶ",
+            "text": "友達カップルの紹介で！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "おおかみ",
+            "text": "そのイメージはすでにありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "おおかみ",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ 私のこと好きだとは思わなかったから笑",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ 面白い人！笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ そうそう！面白い人って言われたよ！笑",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ そうかぁ…笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "おおかみ",
+            "text": "縁ってありますからねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "こんぶ",
+            "text": "私は、まあ、適当な格好で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ それはありますね！",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ なんと言われたかったんですか？笑",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "こんぶ",
+            "text": "行ってしまって笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "おおかみ",
+            "text": "おお、適当な格好で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "おおかみ",
+            "text": "ちくわさんはどうだったんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "こんぶ",
+            "text": "気合いとかいれずに、、笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ そりゃあかっこいい！とか素敵ーって！",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ちくわ",
+            "text": "言われたかったです！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "こんぶ",
+            "text": "まあね！まあね！素敵な人とは思ったよ！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ 言ってあげましょう",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "こんぶ",
+            "text": "すぐにうちとけられる感じが！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ でしょ？素敵でしょ？笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "おおかみ",
+            "text": "でも結局そういうところな気がしますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ うんうんうんうん笑",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ フィーリングとかもありますよねー！",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "おおかみ",
+            "text": "お笑い芸人がモテる理由がよくわかるというか、この歳になると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こんぶ",
+            "text": "そうそう！フィーリングか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ マジでありますね",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "こんぶ",
+            "text": "あーーなるほど。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "こんぶ",
+            "text": "話も上手いんですよね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ちくわ",
+            "text": "確かに！話がうまい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ 場を盛り上げるのがうまいというか！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "こんぶ",
+            "text": "あ！あなたのことね！！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ よかったですね",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "おおかみ",
+            "text": "褒められてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "こんぶ",
+            "text": "そう！！褒めてます！！！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ ありがとー！泣いて喜ぶわ！笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ 褒められるの少なくて笑",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ 泣いてくれんのかい笑",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "おおかみ",
+            "text": "でも人間そういうところだと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ それは悲しい",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ それはごめんて〜〜笑",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ ダーダー泣くね笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ ほめて、デレてあげましょう",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "こんぶ",
+            "text": "ダーダーはらめて笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "こんぶ",
+            "text": "やめて！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "こんぶ",
+            "text": "@おおかみ そうですねーたまには、大事ですよね〜",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "こんぶ",
+            "text": "そういうのも〜〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ 飴と鞭ですね",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "こんぶ",
+            "text": "飴と鞭でうまいことやってかないとー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ えー！ありったけの涙を出すよ！笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こんぶ",
+            "text": "@おおかみ 本当そうですー！笑",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ 鞭少なめで！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ いま、ここで、つかうなーー笑",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ が、頑張りまーーす",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "おおかみ",
+            "text": "2人の時に泣いてあげましょう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "こんぶ",
+            "text": "@おおかみ は結婚されてます？",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ はい！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ そーですね！笑貴重な涙ですね！",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "おおかみ",
+            "text": "もう5年とかですね、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "こんぶ",
+            "text": "よければ、馴れ初めを！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こんぶ",
+            "text": "おお！私たちより長い！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "おおかみ",
+            "text": "大学の先輩後輩でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "こんぶ",
+            "text": "どちらが？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ 先輩後輩！",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "おおかみ",
+            "text": "私が先輩で向こうが後輩",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "こんぶ",
+            "text": "ということは！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ちくわ",
+            "text": "おー！姉さん女房！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "こんぶ",
+            "text": "姉さん女房ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "おおかみ",
+            "text": "たまたまお互い元彼元カノと別れて、付き合いました笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "おおかみ",
+            "text": "まぁそんな感じ全然ないですけどそうなりますw",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "こんぶ",
+            "text": "おお！それは運命！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ たまたま、、、笑",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "こんぶ",
+            "text": "同じサークルとか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ びっくりするほどたまたまでした",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "おおかみ",
+            "text": "同じサークルです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "こんぶ",
+            "text": "ではなく、知り合ったんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "こんぶ",
+            "text": "あ！やはり！サークル仲間ですな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ すごい偶然！",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "おおかみ",
+            "text": "出会いサーでしたからね...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ちくわ",
+            "text": "出会いサークル！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "こんぶ",
+            "text": "出会いサーなんてあるんですか！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "おおかみ",
+            "text": "そういういいかたよくないんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "ちくわ",
+            "text": "みんなでキャンプとかそーいう感じのですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "おおかみ",
+            "text": "元彼元カノがたくさんいる感じでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "ちくわ",
+            "text": "集まってワイワイ系の！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "こんぶ",
+            "text": "それも、すごい！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ よくわかりましたね",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ わおっ！",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 109,
+            "interlocutor_id": "おおかみ",
+            "text": "そうです",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おおかみ",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 2
+        },
+        {
+            "interlocutor_id": "ちくわ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "こんぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

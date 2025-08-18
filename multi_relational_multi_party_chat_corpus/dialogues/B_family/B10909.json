@@ -1,0 +1,704 @@
+{
+    "dialogue_id": "B10909",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ポテト",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ポテト",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "てばさき",
+            "text": "@ポテト 最近なんか夢見ました？",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "夢・・・見たような見ていないような・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "えのき",
+            "text": "覚えてないな～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ポテト",
+            "text": "@てばさき おばあちゃんが・・・知らないおばあちゃんが勝手に家に入ってくる夢をみました",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "えのき",
+            "text": "ええ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "てばさき",
+            "text": "私は今日、姉が木の棒を白滝のつもりで鍋に突っ込んで鰹出汁取ろうとしている夢見ました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "えのき",
+            "text": "どんな夢？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "てばさき",
+            "text": "@ポテト それは本当に知らないおばあちゃんでしたか？",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ポテト",
+            "text": "@てばさき 食べられないよ・・・",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ポテト",
+            "text": "@てばさき えっ！怖い！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ポテト",
+            "text": "知らないおばあちゃんです！可愛らしい感じの！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ポテト",
+            "text": "迷っちゃったんだねぇ、お家へお帰りってした夢です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "えのき",
+            "text": "@ポテト 夢診断とか信じますか？",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "てばさき",
+            "text": "@ポテト 可愛いおばあちゃんならいい気もします",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ポテト",
+            "text": "@てばさき 夢見た時、必ずします",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "えのき",
+            "text": "今日の夢も調べました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ポテト",
+            "text": "調べました！いい夢だった気がします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "えのき",
+            "text": "いろいろ書いてあって興味深いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "てばさき",
+            "text": "@ポテト その夢実は、家に入ってきたのはおばあちゃんではなく、ポテトさんの方では？",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ポテト",
+            "text": "夢占い上は！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "えのき",
+            "text": "いい印象だといい夢の時が多いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ポテト",
+            "text": "@てばさき まって、ヤバい！家主追い出しちゃった！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "えのき",
+            "text": "追い出しちゃった…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ポテト",
+            "text": "@えのき ですよね～",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "てばさき",
+            "text": "姉が木の棒を煮込む話は夢的にどうなんだろう…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "えのき",
+            "text": "わからない・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ポテト",
+            "text": "木の棒を、なんで白滝と・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "てばさき",
+            "text": "何度も木の棒って言ったのに、妹も母も姉もみんなこれは白滝で鰹出汁が取れるって…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "てばさき",
+            "text": "味方がいなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ポテト",
+            "text": "@てばさき こ、怖い・・・",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "えのき",
+            "text": "見方になれないよ・・・ごめんね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "えのき",
+            "text": "味方か…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ポテト",
+            "text": "しかも、白滝でかつおだし出ない・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "えのき",
+            "text": "そういえば、私、中島みゆきさんが好きなんですけど、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "てばさき",
+            "text": "現実の母も白滝から鰹出汁が出ると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "えのき",
+            "text": "みゆきさんが夢の中で、にこにこしながら朱色の花を抱きしめていた夢を、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき みゆきさん？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "えのき",
+            "text": "初夢で見た年に主人と出会って結婚しました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ポテト",
+            "text": "@えのき 意味深な夢・・・！わ！すごい！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "いい夢でした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき それ因果関係ある？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "えのき",
+            "text": "ないよ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": "夢だからね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ポテト",
+            "text": "あっ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "えのき",
+            "text": "夢だったんだね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ポテト",
+            "text": "でも、夢占い、気になりますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ポテト",
+            "text": "特に怖い夢見た時とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "てばさき",
+            "text": "@ポテト ですね〜",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "えのき",
+            "text": "都合のいいところだけしか拾いませんけども！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ポテト",
+            "text": "@えのき めちゃくちゃわかります",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ポテト",
+            "text": "悪い結果は読み飛ばします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "えのき",
+            "text": "いいところだけ信じて生きていきたい・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ポテト",
+            "text": "占いもそうです・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "てばさき",
+            "text": "怖い夢なら、貞子さんに追いかけられて花子さんに助けられる夢とか見たことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "怖い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ポテト",
+            "text": "@てばさき コラボ感がすごい・・・",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "てばさき",
+            "text": "花子さん強かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "えのき",
+            "text": "花子さんがいい人に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "えのき",
+            "text": "小学生のアイドルっぽい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ポテト",
+            "text": "@えのき 小学生のアイドル！はなこさん！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "えのき",
+            "text": "そういう話ありそうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てばさき",
+            "text": "花子さん実際将来おかっぱ美人の気配はしますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "えのき",
+            "text": "でもこないだ読んだ漫画は、花子さんが介護されてる漫画でした・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "えのき",
+            "text": "小学生に忘れられて、花子さんが年老いて・・・みたいな・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ポテト",
+            "text": "@えのき え？？？？？？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "てばさき",
+            "text": "最近は花子くんになったりもしてますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "えのき",
+            "text": "怪異の介護",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ポテト",
+            "text": "花子くん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 男の子設定もいいね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "なんでもありですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ポテト",
+            "text": "@えのき 突然のラップかと思いました・・・怪異の介護・・・",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "てばさき",
+            "text": "子供の頃読んだ小説では、花子さんのライバルに闇子さんがいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "えのき",
+            "text": "闇子さん？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "てばさき",
+            "text": "武器は黒いチューリップらしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ポテト",
+            "text": "闇子さんって何か読んだかも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "えのき",
+            "text": "小学生向けの小説？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ポテト",
+            "text": "黒いチューリップは分からない・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "てばさき",
+            "text": "多分。児童書だったのでは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "えのき",
+            "text": "小学生の頃は怪談の本ばかり借りてなかった？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ポテト",
+            "text": "花子さん、けっこう戦っているなぁ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 図書館で狂ったようにスレイヤーズとかフォーチュンクエストとか魔術師オーフェンを借りた記憶はある",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ポテト",
+            "text": "今も怪談もの好きだったり？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "えのき",
+            "text": "全然怪談じゃないけど、まあ、そうね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ポテト",
+            "text": "@てばさき なんか懐かしいのが沢山出てきました・・・",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "スレイヤーズは鉄板ね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ポテト",
+            "text": "詠唱・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "てばさき",
+            "text": "ドラグスレイブ言えますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "えのき",
+            "text": "私は言えない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てばさき",
+            "text": "まだ覚えてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ポテト",
+            "text": "んっふ・・・好きな人みんな言えるやつですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "えのき",
+            "text": "すごいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "てばさき",
+            "text": "黄昏よりも昏きもの…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "てばさんが詠唱しだしたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ポテト",
+            "text": "始まってしまった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "えのき",
+            "text": "小学生のころ、読書ページ数を競っていたので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "えのき",
+            "text": "スレイヤーズとかページ数稼ぎにすごくよかったんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "えのき",
+            "text": "さくさく読める",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "てばさき",
+            "text": "ああいう詠唱…神坂先生曰く帰りの自転車で考えてたらしいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "えのき",
+            "text": "へー",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ポテト",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

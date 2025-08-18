@@ -1,0 +1,736 @@
+{
+    "dialogue_id": "B12606",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "くじら",
+        "てばさき",
+        "えのき"
+    ],
+    "relationship": [
+        "てばさき",
+        "えのき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くじら",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "えのき",
+            "text": "今日はせっかくの三連休なのに雪ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "くじら",
+            "text": "今日も雨です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "くじら",
+            "text": "@えのき そちらは雪なんですね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "てばさき",
+            "text": "お外は寒いので出ない所存です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "えのき",
+            "text": "ぼたぼた降ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "えのき",
+            "text": "今は雨かも…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき 今日は外に出たくないですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら ぼた雪冷たいです…",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "えのき",
+            "text": "積もらないといいですよね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くじら",
+            "text": "積もるとたいへんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 今日のは積もっても遊べない雪だと予想",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "えのき",
+            "text": "連休中ずっと天気が悪そうで憂鬱です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき だね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "えのき",
+            "text": "雪だるまは作れなそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "くじら",
+            "text": "明日は晴れそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "えのき",
+            "text": "良かった、晴れるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "くじら",
+            "text": "久々に大きなものを洗いたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 明日何か予定ありますか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "くじら",
+            "text": "でも明日だけの様で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くじら",
+            "text": "明日は友達とランチです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "えのき",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 大きなもの…お布団とかですか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "くじら",
+            "text": "1年ぶりに会うかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "えのき",
+            "text": "え～お久しぶりですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき シーツを洗いたくて",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら いいですね！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "くじら",
+            "text": "なかなか会えないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "くじら",
+            "text": "会おうと思ったら用事が入ったり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "えのき",
+            "text": "お天気よくなりそうでよかったですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "くじら",
+            "text": "お出かけの時に晴れると嬉しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "えのき",
+            "text": "雨だとつらいですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "てばさき",
+            "text": "私も思い出してみると中学生来の親友に会えていません…連絡とろうかな…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "くじら",
+            "text": "@えのき 明日の予定は？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 取れるときに連絡とったほうがいいよ～",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "えのき",
+            "text": "@くじら お散歩に行きたいです！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき 私もそう思います。",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "くじら",
+            "text": "会える時に会った方が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 今度とってみます！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "くじら",
+            "text": "@えのき お散歩良いですね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "くじら",
+            "text": "梅もだいぶ咲いてきましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "えのき",
+            "text": "雨だと歩きに行けないので、晴れた日に！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき お散歩…？（自転車猛ダッシュでは？）",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": "お花もだいぶ咲きはじめましたよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "くじら",
+            "text": "確かに晴れた日でないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 明日は徒歩の予定です",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 徒歩の予定でしたか",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき いつも自転車だと思ったら大間違いですよ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "くじら",
+            "text": "@えのき いつもは自転車なのですね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "くじら",
+            "text": "昨年電動自転車壊れました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "えのき",
+            "text": "@くじら 遠くまで行きたいときは自転車ですね",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "えのき",
+            "text": "@くじら ええ～！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "くじら",
+            "text": "寿命だったようです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 電動が…それは悲しい",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "えのき",
+            "text": "電動だと修理も大変そう…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "寿命…だと買い替えですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "くじら",
+            "text": "充電しても動かなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "くじら",
+            "text": "買い換えました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 何年使ってたんですか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "えのき",
+            "text": "バッテリーの問題ですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "くじら",
+            "text": "普通の自転車に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "くじら",
+            "text": "10年は乗ったかと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "くじら",
+            "text": "お店でも10年で寿命ですと言われました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "えのき",
+            "text": "10年だと、防犯登録だったかもなくなっちゃうんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "えのき",
+            "text": "うちもそろそろ10年です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "くじら",
+            "text": "@えのき そうなんですか！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "えのき",
+            "text": "買い替え時期ですかね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くじら",
+            "text": "それは知らなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "くじら",
+            "text": "10年はよく乗っていますよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 買い替えの時期！ガタッ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "10年くらいなら普通に乗れちゃいますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "くじら",
+            "text": "突然動かなくなるのは辛い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "えのき",
+            "text": "突然死…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "くじら",
+            "text": "電動は動かないと重くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "えのき",
+            "text": "ただの重い自転車と化しますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 処分も大変そうですね…",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "くじら",
+            "text": "でも、電動は楽でした。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くじら",
+            "text": "処分はお店に頼みました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 新しい自転車買ったらお店でやってくれるかも",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私も母に追いつける電動自転車が増えることを希望します",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき そんなぁ…",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "くじら",
+            "text": "普通の自転車だと坂とか登り切れなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "えのき",
+            "text": "坂道きついですよね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くじら",
+            "text": "これが電動ならと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "えのき",
+            "text": "本当ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "くじら",
+            "text": "でも足腰が鍛えられるかしら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 電動自転車に乗ってる母は坂道でも容赦無く後続を振り落としますよ",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "えのき",
+            "text": "@くじら その前に疲れ果ててしまいます…",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 私は容赦ないよ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くじら",
+            "text": "私は子供の速さについていけず",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 母の辞書に容赦という言葉はないと…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき ないよ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くじら",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら こちらはその逆ですね…母の速さについていけません",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき お母さん、元気ですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら アグレッシブな母上です",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "えのき",
+            "text": "まだまだ若いもんには負けませんよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "くじら",
+            "text": "良い事です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 万年運動不足の若いもんに勝てた感想をどうぞ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 少し運動をしましょう",
+            "mention_to": [
+                "てばさき"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くじら",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

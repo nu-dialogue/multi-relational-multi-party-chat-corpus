@@ -1,0 +1,714 @@
+{
+    "dialogue_id": "B12203",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ばなな",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ばなな",
+            "text": "おはようございます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ばなな",
+            "text": "朝食は食べましたか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "食べました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "てばさき",
+            "text": "食べてないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "てばさき",
+            "text": "お腹減りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "えのき",
+            "text": "てばさん寝坊したから・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ばなな",
+            "text": "@えのき 何にしましたか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ばなな",
+            "text": "@てばさき これからですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 寝坊ではない、惰眠です",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "えのき",
+            "text": "私はくるみのツオッブと、鍼灸院の先生にもらったホットチョコレートにしましたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "えのき",
+            "text": "バレンタインでもらいました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ばなな",
+            "text": "美味しそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき そういえば昨日見せてくれてたね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "えのき",
+            "text": "くるみのツオッブ最近はまってるんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私も飲みたいホットチョコレート",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "えのき",
+            "text": "編みパン",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ばなな",
+            "text": "ツオップは？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき あとであげるね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき やったぜ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ばなな",
+            "text": "編みパンなのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "えのき",
+            "text": "編み込みっぽい形のパンです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "えのき",
+            "text": "です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ばなな",
+            "text": "クルミ入っていて美味しそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "えのき",
+            "text": "クルミパン大好きなんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "えのき",
+            "text": "ホットチョコレートは、生姜入りで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ばなな",
+            "text": "美味しいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "えのき",
+            "text": "ちょっと辛いですがあったまります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ばなな",
+            "text": "生姜入り",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ばなな",
+            "text": "体に良さそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ばなな",
+            "text": "@てばさき 好きなパンは？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "てばさき",
+            "text": "私は冷蔵庫に牛肉の生ハムが残ってるので、フランスパンが欲しいですね（ちらっ）",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "えのき",
+            "text": "有機な材料ばかりを使ったお高いのをいただいてしまいました・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "えのき",
+            "text": "フランスパン好きだよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ばなな",
+            "text": "生ハム良いなあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "てばさき",
+            "text": "昔は硬くて好きじゃなかったけど、今は好き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "えのき",
+            "text": "生ハム・・・半額で買ってきたやつですみませんが…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ばなな",
+            "text": "フランスパンと合いそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "てばさき",
+            "text": "クリームチーズとかもあれば最高です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ばなな",
+            "text": "それはさらに美味しくなりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "えのき",
+            "text": "キリのクリームチーズならうちにあるよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ばなな",
+            "text": "私はあんバターが好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "てばさき",
+            "text": "あとなんだっけ…ビーフの缶",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "えのき",
+            "text": "コンビーフ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき それだ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ばなな",
+            "text": "コンビーフも美味しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "てばさき",
+            "text": "@ばなな あんバターは挑戦したことないですね",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "えのき",
+            "text": "@ばなな 餡バター、食べたことないんです",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ばなな",
+            "text": "ないですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "えのき",
+            "text": "カロリーが気になって…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "てばさき",
+            "text": "どら焼きで一回食べてみたいですね、あんバター",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "えのき",
+            "text": "美味しそうではあるんですが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ばなな",
+            "text": "カロリー確かに気になります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "えのき",
+            "text": "どら焼き餡バター美味しそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ばなな",
+            "text": "絶対美味しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ばなな",
+            "text": "あんこ好きなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "@ばなな 和菓子はお好きですか？",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "てばさき",
+            "text": "和菓子…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ばなな",
+            "text": "@えのき はい、好きです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "えのき",
+            "text": "そろそろ桜餅のシーズンですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "てばさき",
+            "text": "練り切りとか美味しいですよね、あんこの塊という背徳",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "それは背徳",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ばなな",
+            "text": "どちらも好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき そしてここで延暦寺でもらった落雁をまだ食べてないことを思い出した",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ばなな",
+            "text": "それにお抹茶があれば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "えのき",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ばなな",
+            "text": "延暦寺の落雁？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ばなな",
+            "text": "延暦寺に落雁があるのですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "てばさき",
+            "text": "延暦寺でご自由にどうぞしてたので貰いました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "えのき",
+            "text": "京都でもらってきたやつ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ばなな",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "ご自由にって配布してるんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "てばさき",
+            "text": "国宝館の中にあったので、入場料に対するおまけだったのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "えのき",
+            "text": "@ばなな さんは、京都とかご興味ありますか？",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ばなな",
+            "text": "@てばさき 京都に行ったのですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ばなな",
+            "text": "@えのき 京都、良いですよね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "てばさき",
+            "text": "@ばなな 大学の授業の一環で行きました。山道登るバスに乗るの楽しかったです",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ばなな",
+            "text": "そうでしたか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "10年くらい前に、紅葉のシーズンに行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ばなな",
+            "text": "私もだいぶ前です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "えのき",
+            "text": "夜の庭園もライトアップされてすごくきれいでしたよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 紅葉…渡月橋とか行ったの？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "えのき",
+            "text": "渡月橋行ってない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "えのき",
+            "text": "二条城に行ったのは覚えてる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "えのき",
+            "text": "かすかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "えのき",
+            "text": "二条城キティちゃんを買いました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 二条城！お父さんと行ったの？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ばなな",
+            "text": "二条城、行ってみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "えのき",
+            "text": "おばあちゃんと行ったんだけど…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "えのき",
+            "text": "てばさんは小さくて覚えてないかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ばなな",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ばなな",
+            "text": "家族旅行",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 多分覚えてる、舞妓キティを家でしばらく見かけた",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "えのき",
+            "text": "キティちゃんで覚えている",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "二条城　大政奉還したところですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "てばさき",
+            "text": "@ばなな 多分私は置いてかれてます",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "えのき",
+            "text": "置いていきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ばなな",
+            "text": "大政奉還の場所なんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ばなな",
+            "text": "桜の時期も行ってみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "えのき",
+            "text": "ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ばなな",
+            "text": "神社行くのは好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "えのき",
+            "text": "旦那が、近所の神社にはよく行ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "てばさき",
+            "text": "@ばなな 結構好きです。研修旅行で伏見稲荷も行きました！",
+            "mention_to": [
+                "ばなな"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ばなな",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 2,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

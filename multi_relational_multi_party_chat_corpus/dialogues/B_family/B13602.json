@@ -1,0 +1,696 @@
+{
+    "dialogue_id": "B13602",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "いるか",
+        "にんじん",
+        "たまねぎ"
+    ],
+    "relationship": [
+        "にんじん",
+        "たまねぎ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "いるか",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "にんじん",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "たまねぎ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "いるか",
+            "text": "朝ごはん、もう食べましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "たまねぎ",
+            "text": "今日はまだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "にんじん",
+            "text": "朝バタバタでまだです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "いるか",
+            "text": "あら！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "たまねぎ",
+            "text": "忙しかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "にんじん",
+            "text": "コーヒーは飲んでます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "いるか",
+            "text": "@たまねぎ バタバタだったんですね",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "いるか",
+            "text": "朝からコーヒーはゆっくりしているイメージが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "いるか",
+            "text": "強いです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "にんじん",
+            "text": "@いるか 確かに",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "いるか",
+            "text": "でも、確かに朝飲み物を一番に入れるかもです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "たまねぎ",
+            "text": "コーヒーなきゃ生きていけません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "にんじん",
+            "text": "@いるか 何飲みますか？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "いるか",
+            "text": "@たまねぎ お二人共ですか？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "いるか",
+            "text": "私は紅茶です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "たまねぎ",
+            "text": "いや僕だけです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "にんじん",
+            "text": "@いるか 私は甘めのコーヒーが好きです！",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "いるか",
+            "text": "最近カフェインがだめになってしまって・・・！悲しい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "にんじん",
+            "text": "寝れなくなるとか？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "たまねぎ",
+            "text": "とりすぎもよくないですからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "いるか",
+            "text": "気持ち悪くなるように・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "いるか",
+            "text": "@たまねぎ 結構飲んでる感じですね？？？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "にんじん",
+            "text": "@いるか え！それは悲しい",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "いるか",
+            "text": "そうなんです～甘めのコーヒー私も好きだったのに・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "たまねぎ",
+            "text": "コーヒーか水しか飲みません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "いるか",
+            "text": "@たまねぎ 極端・・・！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "にんじん",
+            "text": "妊娠とかで体質変わったとか？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "にんじん",
+            "text": "お酒も飲んでるけどね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "たまねぎ",
+            "text": "確かに笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "いるか",
+            "text": "あ～～いや、でも本当に最近だから、加齢・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "いるか",
+            "text": "お酒飲んでいた！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "にんじん",
+            "text": "@いるか そうなんですね",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "たまねぎ",
+            "text": "そういうことですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "いるか",
+            "text": "お酒は強い方ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "たまねぎ",
+            "text": "それなりにですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "にんじん",
+            "text": "私は飲めなくなりましたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "たまねぎ",
+            "text": "奥さんよりは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん 最近ですか？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "にんじん",
+            "text": "1人目妊娠してからですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "いるか",
+            "text": "@たまねぎ たしなむ程度ってやつですね！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たまねぎ",
+            "text": "そんな感じです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "いるか",
+            "text": "体質が変わったパターンですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "にんじん",
+            "text": "身体中まっかになりますー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "たまねぎ",
+            "text": "僕も普段は全く飲まないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "いるか",
+            "text": "わわ・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "たまねぎ",
+            "text": "すぐ酔っ払ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "にんじん",
+            "text": "@たまねぎ 安上がりー",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "いるか",
+            "text": "少量で酔える良い体質！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "にんじん",
+            "text": "飲み放題元取れないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "たまねぎ",
+            "text": "コスパはいい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん 確かに～でもそのくらいが良いと思います！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "にんじん",
+            "text": "ほろよい1缶飲めなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "いるか",
+            "text": "美味しく飲めるくらいが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "にんじん",
+            "text": "3日かけてのみます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん ３日？？？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たまねぎ",
+            "text": "いかれてますね！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "にんじん",
+            "text": "冷蔵庫に戻して",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "いるか",
+            "text": "アルコール残っている・・・？飛ばないのかな？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "にんじん",
+            "text": "炭酸はなくなりますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "たまねぎ",
+            "text": "多少飛ぶと思います！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "にんじん",
+            "text": "でもおいしいよ？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "いるか",
+            "text": "お、美味しい・・・？です・・・？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "いるか",
+            "text": "美味しいんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "たまねぎ",
+            "text": "もうジュースです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "にんじん",
+            "text": "はい！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "にんじん",
+            "text": "あ、そーそー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "にんじん",
+            "text": "ジュースみたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "いるか",
+            "text": "確かにジュースかも笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "にんじん",
+            "text": "捨てるの勿体なくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たまねぎ",
+            "text": "飲まない方がいいです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん その気持ちはわかります！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "にんじん",
+            "text": "お酒は2人で飲んだ方がおいしいから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たまねぎ",
+            "text": "食べ物も残ったら全部僕のところにきます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "にんじん",
+            "text": "付き合いたいなーって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "いるか",
+            "text": "素敵！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "たまねぎ",
+            "text": "嬉しいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "にんじん",
+            "text": "@たまねぎ 残さずだねー",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "いるか",
+            "text": "残さないのは偉いです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "たまねぎ",
+            "text": "大事なことです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "にんじん",
+            "text": "でも、コーンは食べない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "いるか",
+            "text": "え",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "いるか",
+            "text": "コーン・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "たまねぎ",
+            "text": "たしかに笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "にんじん",
+            "text": "ステーキとかの付け合せの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "たまねぎ",
+            "text": "付け合わせのやつです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "いるか",
+            "text": "食感ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "いるか",
+            "text": "あ～～～～～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "いるか",
+            "text": "確かに分かるかもです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "たまねぎ",
+            "text": "自分でもわからないけど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "たまねぎ",
+            "text": "なぜか食べません笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "にんじん",
+            "text": "嫌いじゃないのにねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "いるか",
+            "text": "かすかすになっている状態の子がたまにいますね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまねぎ",
+            "text": "そうなんですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "にんじん",
+            "text": "かすかす笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん そう、食べているこれは、コーン？みたいな子が",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たまねぎ",
+            "text": "たしかに笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "いるか",
+            "text": "皮・・・中身・・・どこ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "にんじん",
+            "text": "先に食べちゃえばいいんですけどねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "たまねぎ",
+            "text": "嫌いなものは先にやっつける！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "いるか",
+            "text": "そうか！鉄板にいるからかすかすに！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "いるか",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "にんじん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまねぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

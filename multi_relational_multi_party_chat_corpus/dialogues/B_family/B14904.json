@@ -1,0 +1,706 @@
+{
+    "dialogue_id": "B14904",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ぺんぎん",
+        "つみれ",
+        "たまご"
+    ],
+    "relationship": [
+        "つみれ",
+        "たまご"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ぺんぎん",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つみれ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "たまご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ぺんぎん",
+            "text": "趣味とかありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つみれ",
+            "text": "ドライブです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たまご",
+            "text": "映画とサウナです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@つみれ ドライブいいです！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つみれ",
+            "text": "暇さえあればフラフラと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "たまご",
+            "text": "ドライブいいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまご サウナもいいなぁ",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たまご",
+            "text": "サウナ気持ちいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@つみれ ふらっといきたいよね",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "たまご",
+            "text": "整います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまご 整うってまだわからない",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "つみれ",
+            "text": "@ぺんぎん 長野なので、山の中を走ってます",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つみれ",
+            "text": "@ぺんぎん 私も！整うわからない",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@つみれ 景色がきれいですね！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "たまご",
+            "text": "何回み回ればわかると思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまご どんな感じ？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "たまご",
+            "text": "山ドライブいいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ぺんぎん",
+            "text": "これからの季節山きれいだよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "たまご",
+            "text": "空気が気持ちくてぼーとなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ぺんぎん",
+            "text": "新緑なんて本当きれい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "たまご",
+            "text": "綺麗ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "つみれ",
+            "text": "これからの季節新緑が気持ちいいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "たまご",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@つみれ 雪が残る山も素敵",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "たまご",
+            "text": "ドライブシーズンだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "つみれ",
+            "text": "なんだかキラキラで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ぺんぎん",
+            "text": "いきたくなった〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つみれ",
+            "text": "@ぺんぎん 道に雪がなければ！",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "たまご",
+            "text": "雪が逆に綺麗になるかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@つみれ そうだったー",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "たまご",
+            "text": "雪かきは大変だけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@つみれ 道がなぁ、まだ油断できない",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つみれ",
+            "text": "もう少ししたら美ヶ原高原とか、霧ヶ峰とか気持ちいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "つみれ",
+            "text": "長野にドライブきてください",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@つみれ 綺麗そう！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "つみれ",
+            "text": "軽井沢とかもいいですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@つみれ 是非是非いきたいです",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たまご",
+            "text": "あと積もったら滑る",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つみれ",
+            "text": "激混みなので・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "たまご",
+            "text": "気持ちいい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ぺんぎん",
+            "text": "軽井沢でお買い物とお茶したい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ぺんぎん",
+            "text": "確かに混むなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "たまご",
+            "text": "混みそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@つみれ いい季節はみんなでてくるかなねー",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たまご",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つみれ",
+            "text": "アウトレット、到着までが渋滞で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つみれ",
+            "text": "@ぺんぎん 場所選べばいいかもですね",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ぺんぎん",
+            "text": "そうですね、軽井沢なら他にも色々あるからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ぺんぎん",
+            "text": "おすすめとかあります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つみれ",
+            "text": "犬といける神社があって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "つみれ",
+            "text": "わんちゃん飼ってますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ぺんぎん",
+            "text": "おー！いきたい！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ぺんぎん",
+            "text": "かってるんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "つみれ",
+            "text": "足形のスタンプとか押してもらえます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ぺんぎん",
+            "text": "かわいい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つみれ",
+            "text": "でもなんていう神社だったか。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまご 行ったことあります？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ぺんぎん",
+            "text": "後で検索します！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つみれ",
+            "text": "旧軽井沢の道をどんどん上がっていくんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "たまご",
+            "text": "いいねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "たまご",
+            "text": "ないです〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "たまご",
+            "text": "軽井沢はあります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "つみれ",
+            "text": "主人とワンコと行ってきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ぺんぎん",
+            "text": "今年の旅行は長野だ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つみれ",
+            "text": "近くに力もちっていうお餅が食べれる茶屋があって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "つみれ",
+            "text": "そこも素敵です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "たまご",
+            "text": "ワンちゃんと一緒いいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つみれ",
+            "text": "お餅美味しいし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ぺんぎん",
+            "text": "いいとこいっぱいありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 次回は一緒に",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@つみれ お餅好きです",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つみれ",
+            "text": "@ぺんぎん あるんですよー",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たまご",
+            "text": "お餅食べたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "たまご",
+            "text": "行きたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "つみれ",
+            "text": "うちのわんこ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "つみれ",
+            "text": "きなことあんこって名前なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つみれ",
+            "text": "きなことあんこのお餅を飼って帰りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ぺんぎん",
+            "text": "そうなんだ！かわいい名前",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "つみれ",
+            "text": "買って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ぺんぎん",
+            "text": "うちはダビーって言うんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つみれ",
+            "text": "わんちゃん、なんて名前ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "つみれ",
+            "text": "ダビー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ぺんぎん",
+            "text": "占いで決めてもらいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つみれ",
+            "text": "どういう意味ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "たまご",
+            "text": "ダビー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ぺんぎん",
+            "text": "主人が見てもらった占い師に、この名前がいいだろうって言われて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "つみれ",
+            "text": "占いで・・・ダビーて？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "たまご",
+            "text": "占い師すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ぺんぎん",
+            "text": "なんか変わっていてそういうのが多くて笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "たまご",
+            "text": "独特ですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つみれ",
+            "text": "旦那さん、お話ししたら楽しそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ぺんぎん",
+            "text": "主人の夢の中ではダビーも話すらしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "つみれ",
+            "text": "へぇ〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ぺんぎん",
+            "text": "電車とか一緒に乗ってるらしいですよ笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ぺんぎん",
+            "text": "しかもダビータメ口笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "つみれ",
+            "text": "それを鮮明に覚えているのもすごいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つみれ",
+            "text": "タメ口笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@つみれ そうですね！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "つみれ",
+            "text": "ドラえもんとかの世界",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまご 夢とか覚えてます？",
+            "mention_to": [
+                "たまご"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ぺんぎん",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

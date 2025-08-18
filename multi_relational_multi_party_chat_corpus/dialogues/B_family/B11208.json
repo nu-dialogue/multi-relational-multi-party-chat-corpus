@@ -1,0 +1,700 @@
+{
+    "dialogue_id": "B11208",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ポテト",
+        "つみれ",
+        "たまご"
+    ],
+    "relationship": [
+        "つみれ",
+        "たまご"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ポテト",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つみれ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "たまご",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ポテト",
+            "text": "親子で楽しんでいる事って何かありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つみれ",
+            "text": "親子でかぁ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たまご",
+            "text": "ドラマとかお笑いの番組見たりとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ポテト",
+            "text": "ドラマ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご そうだね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご 最近何見てますか？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "たまご",
+            "text": "不適切にもほどがある",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たまご",
+            "text": "と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "たまご",
+            "text": "春になったら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ポテト",
+            "text": "あーーーーー！阿部サダヲさんのだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまご",
+            "text": "っていうドラマを見てます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "つみれ",
+            "text": "不適切にもほどがあるは私も主人もハマってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ポテト",
+            "text": "春になったら、見てる人多いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "たまご",
+            "text": "@つみれ そうです！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ ご主人も！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "たまご",
+            "text": "阿部サダヲが面白いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つみれ",
+            "text": "春になったら見逃し続けてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ポテト",
+            "text": "急にミュージカル始まりません？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "たまご",
+            "text": "毎回急にミュージカルです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "つみれ",
+            "text": "主人と2人で毎週爆笑してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご そうそう！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "つみれ",
+            "text": "なんでミュージカル！って突っ込みながら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "たまご",
+            "text": "絶妙な歌で面白いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ポテト",
+            "text": "時たま見てるのですが、毎回ミュージカルシーンで何始まった？ってなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご わかります笑",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "つみれ",
+            "text": "あれは何度見ても慣れません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たまご",
+            "text": "毎回ミュージカルとは思わなかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つみれ",
+            "text": "面白いけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ めちゃくちゃわかります笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ポテト",
+            "text": "そう、お決まりのミュージカルだった！ってなりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ポテト",
+            "text": "さすがクドカン・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "たまご",
+            "text": "クドカン好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つみれ",
+            "text": "ほんとクドカン天才",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご たまごさんもしってた！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "たまご",
+            "text": "クドカンのドラマ結構見てます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ポテト",
+            "text": "どのあたりまで知ってるんだろう・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ポテト",
+            "text": "私、昔のしか・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たまご",
+            "text": "古いやつだと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つみれ",
+            "text": "小さい頃から観てたからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "たまご",
+            "text": "IWGPとか見ました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご 知ってた！！！！！！！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ 英才教育ですか？ドラマの・・・",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "たまご",
+            "text": "ごめんね青春とか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つみれ",
+            "text": "@ポテト 自然と英才教育でしたね笑",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ポテト",
+            "text": "ごめんね青春知らないやつだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "たまご",
+            "text": "錦戸くんが出てましたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つみれ",
+            "text": "満島ひかりとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ポテト",
+            "text": "錦戸君！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ポテト",
+            "text": "配信あるかな・・・探してみます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "たまご",
+            "text": "面白くてオススメです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ポテト",
+            "text": "ドラマ、今は配信もあるから便利ですよね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ポテト",
+            "text": "映画も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "たまご",
+            "text": "色々見れますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご そうそう！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "たまご",
+            "text": "映画もいっぱい見ちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ポテト",
+            "text": "昔のも今のも見れるの便利ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご 分かります！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "たまご",
+            "text": "昔から金曜ロードショーとか見てたので嬉しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご とてもよくわかります・・・！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つみれ",
+            "text": "洋画が好きな子供でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ポテト",
+            "text": "洋画が？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "たまご",
+            "text": "洋画ばっか見ます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "つみれ",
+            "text": "しっぶい洋画見てましたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご どんなのですか？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ポテト",
+            "text": "しっぶいやつ？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ポテト",
+            "text": "きになる・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "たまご",
+            "text": "ジュマンジとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ポテト",
+            "text": "あーーーーーーーー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ポテト",
+            "text": "好き！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ポテト",
+            "text": "どんどこどんどこ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "つみれ",
+            "text": "@ポテト わかるんですね！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "たまご",
+            "text": "小さい頃少林サッカーとか見てました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ポテト",
+            "text": "私も好きで良く見てました！ジュマンジ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "たまご",
+            "text": "ジュマンジ面白いです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "つみれ",
+            "text": "全然分かりません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "たまご",
+            "text": "すごろくが怖くなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ポテト",
+            "text": "少林サッカー！なつかしい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ 映画あまり見ないです？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "つみれ",
+            "text": "少林サッカーは分かります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ポテト",
+            "text": "燃えるサッカーボールのイメージが強すぎて・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "たまご",
+            "text": "少林サッカー馬鹿げてて面白いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "つみれ",
+            "text": "@ポテト ドラマ派なんです",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ なるほど！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ポテト",
+            "text": "好きな俳優さんとか女優さんとかいますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ポテト",
+            "text": "この人出ていたら必ず見る！みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ポテト",
+            "text": "それとも内容で見る感じかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "つみれ",
+            "text": "昔から好きなのは小栗旬です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ポテト",
+            "text": "おぐりん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ポテト",
+            "text": "ボーダー好きでした・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ポテト",
+            "text": "花男にいかないポテト",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "たまご",
+            "text": "ボーダーもカッコいいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "つみれ",
+            "text": "私も花男の小栗はそうでもないんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ポテト",
+            "text": "ボーダーめちゃくちゃすきでしたねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つみれ",
+            "text": "かっこよかった。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ お！そうなんですね？！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たまご",
+            "text": "スーツ系カッコいいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ おすすめおぐりんは・・・",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご たしかに！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "つみれ",
+            "text": "ボーダーは内容も好きでした",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ポテト",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

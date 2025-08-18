@@ -1,0 +1,756 @@
+{
+    "dialogue_id": "B14005",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "カンガルー",
+        "つみれ",
+        "たまご"
+    ],
+    "relationship": [
+        "つみれ",
+        "たまご"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "カンガルー",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つみれ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "たまご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "カンガルー",
+            "text": "コストコとか行きますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "たまご",
+            "text": "行ったことないですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たまご",
+            "text": "行ってみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "つみれ",
+            "text": "昔１回しか行ったことないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー 行かれますか？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまご 楽しいですよ最初は",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ 月に1回くらい行きます",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たまご",
+            "text": "@カンガルー 行きたいです",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー 楽しいのは最初だけですか？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "カンガルー",
+            "text": "洗剤とか買いに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまご",
+            "text": "すごい行ってる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ そうですね！最初だけかも",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "たまご",
+            "text": "大量に入ってるものがいっぱいあるイメージ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー 日用品をコストコで買ってるんですね",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "カンガルー",
+            "text": "海外旅行している気分でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "カンガルー",
+            "text": "匂いとかも外国！みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つみれ",
+            "text": "そんな感じだった気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ やすいと感じているもののみです",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "たまご",
+            "text": "味わってみたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "カンガルー",
+            "text": "行くと結構お金使うので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー いっぱい入っていて安かったらいいですね",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "カンガルー",
+            "text": "コスパ重視で！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ そうですね",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "たまご",
+            "text": "コスパ大事です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "つみれ",
+            "text": "私、いっぱい買っちゃいそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "カンガルー",
+            "text": "今物価高ですしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "カンガルー",
+            "text": "節約して生きていきたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つみれ",
+            "text": "少しでも安くって思いますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "つみれ",
+            "text": "最低限必要なものだけで生きていきたいと最近思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "カンガルー",
+            "text": "節約って何かされてますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ わかります",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つみれ",
+            "text": "結構浪費家なんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "カンガルー",
+            "text": "もう必要なものだけ買う",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "つみれ",
+            "text": "それを止めるところから始めないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "たまご",
+            "text": "買っちゃいますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "つみれ",
+            "text": "そう！必要なものだけでいいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "カンガルー",
+            "text": "終活ではないですが、物は増やしたく無いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "つみれ",
+            "text": "私の最近の口癖が、終活を始める！です笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ 浪費家…実は私も！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー 浪費家ですか？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ ええ！終活始める！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー まだ早いってみんなに言われます",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ 浪費家ですね…残念過ぎます",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "たまご",
+            "text": "早すぎる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー 本当に、自分の浪費癖が憎い",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ 早い…かも？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ 同じく！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー 半世紀生きた感じで",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つみれ",
+            "text": "ぼちぼち始める感じです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ 年齢同じくらいですね！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "つみれ",
+            "text": "この浪費癖を直さない限り、スッキリは生きれないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "カンガルー",
+            "text": "家、2階の上に屋根裏があるんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー 同じくらいですか？嬉しい！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "カンガルー",
+            "text": "結構広めの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "たまご",
+            "text": "治そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー いいですね",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "カンガルー",
+            "text": "屋根裏に荷物が増えるたびに怖くなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "たまご",
+            "text": "いいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "カンガルー",
+            "text": "あと何年かしたら屋根裏に登れなくなる！って焦ります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー 私も物置に荷物を積むたびにため息がでます",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "カンガルー",
+            "text": "だから荷物溜めないようにしないと！って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ わかりますー",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "たまご",
+            "text": "屋根裏ぱんぱんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー そうか、登れなくなるって事がありますね",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つみれ",
+            "text": "インスタとかで綺麗なおうち見ると焦ります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ そうなんです。登れても降りられないとか",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "たまご",
+            "text": "そんなに！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "カンガルー",
+            "text": "荷物下ろせないとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "たまご",
+            "text": "迷路見たいな！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "つみれ",
+            "text": "身の回りだけでなんとかなるようにしないとってなってきますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "カンガルー",
+            "text": "子供達が小さい頃のおもちゃとか全部箱ごとありますから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "たまご",
+            "text": "入ったら出て来れない可能性が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たまご",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つみれ",
+            "text": "うちにも残ってます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまご 忍者屋敷ではないです！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ そうなんですか！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご どんなイメージ？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "カンガルー",
+            "text": "孫の為にとか思ってとっておいちゃってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "たまご",
+            "text": "違うんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つみれ",
+            "text": "私、仕まうではなくもはや隠すな感じで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまご 違いますよー",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー わかります！子供服とかもつい取ってある感じす。",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "つみれ",
+            "text": "孫のためにって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "たまご",
+            "text": "わかるl",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ 娘のメルちゃんグッズ、息子の仮面ライダーベルト",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "カンガルー",
+            "text": "サブスクで買ってた絵本",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "たまご",
+            "text": "片付け難しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "カンガルー",
+            "text": "夏祭りの露天の風船類もあります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "たまご",
+            "text": "サブスクで本買えるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまご 片付かないんですよ",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー メルちゃん懐かし！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまご 絵本ですね！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまご",
+            "text": "風船懐かしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "カンガルー",
+            "text": "はらぺこアオムシとか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "たまご",
+            "text": "えー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たまご",
+            "text": "それは分かります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー だいぶ取ってありますね！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ そうなんですよー",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "カンガルー",
+            "text": "孫ができるかわからないのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "つみれ",
+            "text": "絵本は時代関係ないからいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "たまご",
+            "text": "いつか使うかもと思うと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "カンガルー",
+            "text": "あと、ちょっとお高めだった子供服とかもある",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "カンガルー",
+            "text": "抱っこ紐まで捨てれずにあります",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "カンガルー",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

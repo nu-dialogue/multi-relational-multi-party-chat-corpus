@@ -1,0 +1,710 @@
+{
+    "dialogue_id": "B11205",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ポテト",
+        "たまご",
+        "つみれ"
+    ],
+    "relationship": [
+        "たまご",
+        "つみれ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ポテト",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つみれ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ポテト",
+            "text": "お昼、何食べましょうかね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "たまご",
+            "text": "お腹空きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つみれ",
+            "text": "何にしましょうか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ ひとりだと適当になりません？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "たまご",
+            "text": "今にところラーメンとご飯になりそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "つみれ",
+            "text": "@ポテト ですね！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご ラーメンご飯！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ポテト",
+            "text": "わんぱく！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つみれ",
+            "text": "漬物と納豆とご飯とかで済ませたりします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ だれかに作って欲しい・・・",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまご",
+            "text": "週4くらいでラーメン食べてる気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "たまご",
+            "text": "@つみれ 美味しい",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つみれ",
+            "text": "@ポテト わかるー！！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご めっちゃラーメン！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "つみれ",
+            "text": "ラーメンばっかり食べてる息子です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ 自分じゃない誰かが作ったご飯食べたい・・・",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "たまご",
+            "text": "ラーメンとうどん大好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ポテト",
+            "text": "麺類！！！！！！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ポテト",
+            "text": "美味しいけども！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "つみれ",
+            "text": "@ポテト 人に作ってもらったご飯てなんであんなに美味しいんでしょうね",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ポテト",
+            "text": "これ週７麺類では・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "たまご",
+            "text": "そればっか食べちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ めっちゃくちゃわかります・・・",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "たまご",
+            "text": "朝昼晩の中に一回は麺がランクインしてきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ポテト",
+            "text": "ラーメン・・・美味しいけども・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "たまご",
+            "text": "パスタも好きなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つみれ",
+            "text": "美味しいけれどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ポテト",
+            "text": "麺類！！！！！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ポテト",
+            "text": "出てくるのが全部麺！！！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "たまご",
+            "text": "魚も好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ポテト",
+            "text": "魚出てきてくれた・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "たまご",
+            "text": "アジとかほっけ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つみれ",
+            "text": "@ポテト インスタントラーメンでも人に作ってもらうとおいしいですよね？",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "つみれ",
+            "text": "やっと魚出てきた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ そ～れ～！！！！！！！！！！ほんとそれですよ！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ポテト",
+            "text": "やっと魚出てきましたね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つみれ",
+            "text": "出てきたご飯を食べる幸せ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たまご",
+            "text": "インスタントラーメン作るの上手いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 作ってよ",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご 何か工夫してる感じです？！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ポテト",
+            "text": "そうだ！そうだ～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "たまご",
+            "text": "工夫ゼロなのに上手いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "たまご",
+            "text": "@つみれ いいよー",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 作り慣れているということだね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たまご",
+            "text": "ベテラン",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ なるほど！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つみれ",
+            "text": "毎日ラーメンだから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ポテト",
+            "text": "ベテランインスタントラーメンマスター",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ポテト",
+            "text": "長いな・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ポテト",
+            "text": "肩書・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "つみれ",
+            "text": "なんかすごい人に感じる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ 笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "たまご",
+            "text": "凄い肩書き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ポテト",
+            "text": "たまごさんはベテランインスタントラーメンマスター",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "つみれ",
+            "text": "いい肩書きいただいたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ポテト",
+            "text": "今度からそう名乗りましょ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "たまご",
+            "text": "それで食ってけそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "たまご",
+            "text": "名乗ります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ポテト",
+            "text": "俺、ベテランインスタントラーメンマスターなんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 名刺作ったら？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ポテト",
+            "text": "絶対に途中で噛む",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ 名刺笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "つみれ",
+            "text": "こう言う者です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "つみれ",
+            "text": "って！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ポテト",
+            "text": "やばい、おもしろい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ポテト",
+            "text": "ベテランインスタントラーメンマスターの名刺を出すたまごさん・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "たまご",
+            "text": "煮卵になっちゃう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つみれ",
+            "text": "おもしろすぎる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "たまご",
+            "text": "たまごから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ポテト",
+            "text": "んっふ笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ポテト",
+            "text": "味付いた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つみれ",
+            "text": "ラーメンお具材に！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ポテト",
+            "text": "格上げです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つみれ",
+            "text": "ベテランインスタントラーメンマスターの煮卵です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "たまご",
+            "text": "もう誰かわからない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ ツッコむ情報量が多すぎる",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ポテト",
+            "text": "なんて？って聞き返しちゃう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "たまご",
+            "text": "ラーメン食べたくなってきた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "つみれ",
+            "text": "どこから突っ込んでいいかわからず",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ 笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "たまご",
+            "text": "逆にスルーされそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "つみれ",
+            "text": "みんなポカンですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ポテト",
+            "text": "間違いない笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "たまご",
+            "text": "あたかも知ってる感だされそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ポテト",
+            "text": "かの有名な！みたいな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "つみれ",
+            "text": "あぁ！あのインスタントラーメンマスターですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "つみれ",
+            "text": "みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ポテト",
+            "text": "おもしろすぎません？笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "たまご",
+            "text": "なんかいけたーってなる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ポテト",
+            "text": "乗れるのか、このベテランインスタントラーメンマスターの波に・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ポテト",
+            "text": "その会話めっちゃ聞きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "つみれ",
+            "text": "聞きたい！聞きたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "つみれ",
+            "text": "いつか、子供たちのなりたい職業1位になれるか！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "たまご",
+            "text": "第三者で見てたらだいぶやばいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ 笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たまご",
+            "text": "そんなに！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご 確かに笑",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "たまご",
+            "text": "収入源はなに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "つみれ",
+            "text": "YouTuberを越えられるか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "たまご",
+            "text": "誰から金が発生するの",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ポテト",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

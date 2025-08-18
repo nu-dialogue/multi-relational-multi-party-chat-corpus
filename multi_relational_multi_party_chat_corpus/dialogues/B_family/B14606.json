@@ -1,0 +1,764 @@
+{
+    "dialogue_id": "B14606",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "カンガルー",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "カンガルー",
+            "text": "こんにちはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "えのき",
+            "text": "今日は朝ごはん、食べましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "カンガルー",
+            "text": "朝ごはんは菜の花のおひたしでーす",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 風流ですねぇ",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "カンガルー",
+            "text": "急いでて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "えのき",
+            "text": "朝は何時に起きましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 急ぎの朝ごはんが菜の花のおひたし…！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "カンガルー",
+            "text": "それしか食べてる暇がなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "えのき",
+            "text": "朝はいろいろ忙しいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 昨日の残りとかだったんですか？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき 七時です",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "カンガルー",
+            "text": "@てばさき 残り物です昨日ではなく２日前くらいの",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "カンガルー",
+            "text": "仕事に追われてて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "えのき",
+            "text": "朝は残り物で手早く済ませがちですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "えのき",
+            "text": "食べちゃわないといけないし…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 菜の花のおひたしが出てくる献立…雅…",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "カンガルー",
+            "text": "休日出勤前に家族の朝ごはん用意してたんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 大変ですね",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "えのき",
+            "text": "大変ですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "えのき",
+            "text": "うちだったら、各自で済ませてね！でおしまいですよ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき いつもサバイバルさせるじゃん",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "えのき",
+            "text": "サバイバル！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "カンガルー",
+            "text": "菜の花のお浸しに塩昆布あえるというレシピをみたので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき えのき家では生き残れないよ！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー クックパッドですか？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "カンガルー",
+            "text": "各自で済ませてくれたら楽なんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "えのき",
+            "text": "@カンガルー 塩昆布いいですよね",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき しぶとく生きてるもん！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき しぶとく生き残れるように教育しているのです",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "カンガルー",
+            "text": "@てばさき さん　サバイバルがんばれー",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 公式メニューの塩昆部長の焼肉弁当すきです",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "えのき",
+            "text": "部長！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき さんどうすればしぶとく生きれる子になりますかねー",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー お子さんはあまりしぶとくない感じなんですか？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "えのき",
+            "text": "@カンガルー やっぱりここはサバイバルで…！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "カンガルー",
+            "text": "@てばさき 塩昆布部長？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 塩昆布のキャラクターにそういうお方がいるのです",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "カンガルー",
+            "text": "@てばさき お金には貪欲でして",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 世に憚りそうですね、なんか",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "経済観念がしっかりしている",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "カンガルー",
+            "text": "でもしぶとくないかもなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "カンガルー",
+            "text": "すぐ諦める",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": "千尋の谷につき落とすしか・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "えのき",
+            "text": "母の愛として",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私は突き落とされていた…！？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "えのき",
+            "text": "這いあがってこれるように！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき それ私が突き落とされてみたいですね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "えのき",
+            "text": "という母の愛なのですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "えのき",
+            "text": "@カンガルー そうなんですか？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき 突き落としたら意外と生きていけるかなぁ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "えのき",
+            "text": "まあ、人生なんとかなりますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 甘やかしてくれても良いのよ？つけあがるけど",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "えのき",
+            "text": "生きてさえいれば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき なんか楽しそうじゃないですか！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "前向き！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "カンガルー",
+            "text": "ジブリ好きなんですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "えのき",
+            "text": "てばさんにも見習ってほしい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "えのき",
+            "text": "@カンガルー ジブリいいですよね！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ヤダァ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき びしばしいく！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "カンガルー",
+            "text": "@てばさき まぁ親は大抵子に甘いですけどね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "えのき",
+            "text": "ですねえ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー ジブリの美術館行ったことありますよ！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "えのき",
+            "text": "うちの旦那は、娘たちに激アマですよ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "カンガルー",
+            "text": "@てばさき そうなんですね！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 結構ちょろい",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 三鷹の森",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき お父さんかわいそう",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき そうそう三鷹の",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "カンガルー",
+            "text": "@てばさき 意外と近くに住んでるので私も何回か行きました",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "えのき",
+            "text": "あそこ、予約制ですよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "えのき",
+            "text": "チケットなかなか取れなそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー あそこ予約いるとこなのに何回もいけるんですか…！？相当近いですね！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき そうです！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "えのき",
+            "text": "@カンガルー チケット、スムーズに取れました？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "カンガルー",
+            "text": "昔はなかなか予約取れなかったけど今は取れるのかなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "えのき",
+            "text": "すぐに行けるならまた行きたいかも…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "えのき",
+            "text": "ハードル高いと思っていました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 昔と今だと違うの感じですかね",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "カンガルー",
+            "text": "ジブリ、愛知の方にもなかったでしたっけ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "えのき",
+            "text": "愛知のほうは知らないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 聞いたことあるようなないような…",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "カンガルー",
+            "text": "一時的なものだったのかなぁ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "アンパンマンミュージアムも、各地にありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 各地にあるんだ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "カンガルー",
+            "text": "アンパンありますよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "カンガルー",
+            "text": "私は横浜のアンパンに何度か行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "カンガルー",
+            "text": "懐かしいなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "@カンガルー お子さんとですか？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき 1人だったら怖い",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "てばさき",
+            "text": "@カンガルー 子供の頃行ったことないのでちょっと行ってみたいです",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "うちの長女はひとりで突撃していました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "えのき",
+            "text": "成人済みです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき もちろん子供とですよ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "カンガルー",
+            "text": "@えのき え！それ面白い！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "えのき",
+            "text": "すごいアウェイだった。って言ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "カンガルー",
+            "text": "ムーミンのとこにも行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき あの人ブランコで遊びために子供威嚇してるらしいから…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "えのき",
+            "text": "周り小さい子だらけ",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "カンガルー",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,756 @@
+{
+    "dialogue_id": "B15402",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "おおかみ",
+        "ちくわ",
+        "こんぶ"
+    ],
+    "relationship": [
+        "ちくわ",
+        "こんぶ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おおかみ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ちくわ",
+            "text": "こんばんは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "こんぶ",
+            "text": "こんばんは〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おおかみ",
+            "text": "天気が悪いせいか偏頭痛がすごいんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "おおかみ",
+            "text": "なんかそういうのお持ちだったりしますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "こんぶ",
+            "text": "偏頭痛もちなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "こんぶ",
+            "text": "大変とききます、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ちくわ",
+            "text": "そういう方多いすよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "おおかみ",
+            "text": "薬で抑えてる感じですね、なんとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ちくわ",
+            "text": "僕は、寒い時と雨の時は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こんぶ",
+            "text": "私は持ってませんが、天気悪いと気分がのりません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ちくわ",
+            "text": "古傷の膝が痛みます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "こんぶ",
+            "text": "病院に通われてるんです？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ 膝...どうしたんですか？",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ あー。痛がってるね",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ちくわ",
+            "text": "そして今は、右腰を痛めていて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ちくわ",
+            "text": "最悪です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ 薬もらいに病院に行っています",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ちくわ",
+            "text": "雨降りそうな時とか分かるんですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "おおかみ",
+            "text": "負傷しがちなんですね...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ちくわ",
+            "text": "膝痛むから笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "こんぶ",
+            "text": "@おおかみ やっぱり通院されてるんですね〜",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "こんぶ",
+            "text": "いたたた、、言ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ 天気予報として使えますねw",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ 膝はスポーツしてたときに怪我しました",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ そうすよ笑",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ そうですね、薬無くなる前に行かないと大変なので",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "こんぶ",
+            "text": "痛むと天気が、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "こんぶ",
+            "text": "それは便利！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ スポーツは何してたんですか？",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "こんぶ",
+            "text": "って、本人からしたらちがうかーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ちくわ",
+            "text": "薬を飲んで落ち着くならのみますよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ 奥さん的には助かりますね笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "こんぶ",
+            "text": "@おおかみ それは、大変だぁ。。",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ 球技をしてました笑",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ どういう原理かわかりませんが、本当に落ち着くので驚いています",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "おおかみ",
+            "text": "球技なんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ 便利ではない笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ し、失礼しました笑",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ 確かに体を痛めそうです",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ちくわ",
+            "text": "でも、痛み止めみたいなのを飲んで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ちくわ",
+            "text": "落ち着くならいいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ でも、大切な天気予報材料なので活用しましょう",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "こんぶ",
+            "text": "薬が効くだけでもよかった〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ 活用と言わないでください笑",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ そうなんです、きいてくれればなんとかなるので",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こんぶ",
+            "text": "@おおかみ そうですね！聞くはせずに",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ おっと失礼しました",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "こんぶ",
+            "text": "旦那の様子を観察することにします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "こんぶ",
+            "text": "痛がってる時は、天気がイマイチ、、かな？と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ そうしましょう",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "おおかみ",
+            "text": "洗濯物を外に干せるかわかりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "こんぶ",
+            "text": "@おおかみ はい笑笑",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ちくわ",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ 外に干すことないやん",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "こんぶ",
+            "text": "最近は室内干しに〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ あっそうなんですか？",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "おおかみ",
+            "text": "なかなか乾かないからですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "こんぶ",
+            "text": "薪ストーブがあって、乾燥しやすいので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ ベランダ作ってないので！",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "こんぶ",
+            "text": "加湿のかわりに！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ そうなんですね",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "こんぶ",
+            "text": "室内干しです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "おおかみ",
+            "text": "過失されますし良いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ちくわ",
+            "text": "2階のところに干してます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "おおかみ",
+            "text": "私は浴室乾燥機ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "こんぶ",
+            "text": "でも、ベランダも憧れでした〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ちくわ",
+            "text": "すぐ乾燥しちゃいますからね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "おおかみ",
+            "text": "一気に乾くので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ おー！いいですね！",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "こんぶ",
+            "text": "浴室乾燥！！私たちつけなかったんですよ〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ ベランダの掃除も大変ですね...",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ちくわ",
+            "text": "楽ちんなやつ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ちくわ",
+            "text": "掃除、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ あ、そうなんですね",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ちくわ",
+            "text": "そう考えればそうすね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "こんぶ",
+            "text": "@おおかみ たしかに、、掃除を考えたらつけなくてよかった笑",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ちくわ",
+            "text": "アパートのときとかベランダ汚れてました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ 全く同じで、今賃貸のベランダは大変なことになってます",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "おおかみ",
+            "text": "無駄に広くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ちくわ",
+            "text": "@おおかみ なんだかんだ溝とか汚れが溜まります？",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こんぶ",
+            "text": "でも、夏は、外に干しますよーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ちくわ",
+            "text": "やっぱり！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ ものすごく溜まります",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "おおかみ",
+            "text": "見て見ぬ振りです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "こんぶ",
+            "text": "広いと色々できそうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ あ、そうなんですね",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "こんぶ",
+            "text": "ベンチ？イス？とかおいて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ちくわ",
+            "text": "でも広いと片付けるのも嫌になりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "おおかみ",
+            "text": "外は外でいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "おおかみ",
+            "text": "@ちくわ そうなんです...",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "こんぶ",
+            "text": "家庭菜園もできそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ちくわ",
+            "text": "日当たりバッチしなんで！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "こんぶ",
+            "text": "プランターで！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ちくわ",
+            "text": "きゅうりとかミニトマトとか！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "こんぶ",
+            "text": "うんうん！良さそうー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "おおかみ",
+            "text": "@こんぶ 家庭菜園やってみたいなと思いつつやってないです",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ちくわ",
+            "text": "そーなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こんぶ",
+            "text": "@おおかみ あ、じゃあ、今年の夏はぜひ！！！",
+            "mention_to": [
+                "おおかみ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ちくわ",
+            "text": "まぁ色々買いに行ったり、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "こんぶ",
+            "text": "トマトはすぐになりやすいですよー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ちくわ",
+            "text": "しないとですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "おおかみ",
+            "text": "とはいえ結構すぐ枯らすんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "おおかみ",
+            "text": "なんでも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "ちくわ",
+            "text": "枯らす、、笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "こんぶ",
+            "text": "あー。でも、それもわかります。笑",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おおかみ",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ちくわ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "こんぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

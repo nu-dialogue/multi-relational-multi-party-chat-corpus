@@ -1,0 +1,676 @@
+{
+    "dialogue_id": "B12006",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ばなな",
+        "たまねぎ",
+        "にんじん"
+    ],
+    "relationship": [
+        "たまねぎ",
+        "にんじん"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ばなな",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまねぎ",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "にんじん",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ばなな",
+            "text": "風強くないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ばなな",
+            "text": "昨日からすごいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ばなな とても強いです！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "にんじん",
+            "text": "@ばなな 晴れてはいますが",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ばなな",
+            "text": "天気は良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ばなな",
+            "text": "やっと金曜になりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "たまねぎ",
+            "text": "昨日の雨が嘘みたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "にんじん",
+            "text": "明日から連休ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ばなな",
+            "text": "@たまねぎ 雨だったのですね",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ばなな そうなんです。",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまねぎ",
+            "text": "風も強くて傘が壊れました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ばなな",
+            "text": "@たまねぎ そんなに強かったのですね",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "にんじん",
+            "text": "@ばなな 夜中まで降ってました！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ばなな",
+            "text": "@にんじん お休みは何かされますか？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "にんじん",
+            "text": "@ばなな プチ旅行にいきます！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ばなな",
+            "text": "良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "にんじん",
+            "text": "はい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ばなな",
+            "text": "どちらに？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "にんじん",
+            "text": "アウトレットに行こうかなーと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ばなな",
+            "text": "@にんじん どちらのアウトレットですか？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "にんじん",
+            "text": "@ばなな 御殿場かなー",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ばなな",
+            "text": "御殿場、行ったことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "たまねぎ",
+            "text": "広いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ばなな",
+            "text": "広いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ばなな",
+            "text": "観覧車ありましたよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "にんじん",
+            "text": "一日でまわりきれるかなーって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "にんじん",
+            "text": "ありますあります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ばなな",
+            "text": "何か買いたいものは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "にんじん",
+            "text": "娘の服をみに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ばなな",
+            "text": "娘さんの服ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "にんじん",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "にんじん",
+            "text": "おしゃれに目覚めまして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ばなな",
+            "text": "娘さん、おいくつですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "にんじん",
+            "text": "中3です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ばなな",
+            "text": "同じ中学生です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ばなな",
+            "text": "家は男子です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "にんじん",
+            "text": "思春期ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ばなな",
+            "text": "はい、まさに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ばなな 仲良しですか？",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ばなな",
+            "text": "悪くはないかと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ばなな",
+            "text": "昨日は一緒にテニスしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "たまねぎ",
+            "text": "今の子は反抗期ないとききます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ばなな テニスいいですね！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ばなな",
+            "text": "@たまねぎ 反抗期がないなんて羨ましい",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たまねぎ",
+            "text": "うちはありました笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ばなな",
+            "text": "ありましたか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "たまねぎ",
+            "text": "はい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "たまねぎ",
+            "text": "見てわかるくらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ばなな",
+            "text": "どうしていましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "にんじん",
+            "text": "ほっときました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "にんじん",
+            "text": "イライラしちゃうのわかるし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ばなな",
+            "text": "@にんじん なるほど",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "にんじん",
+            "text": "私に当たるだけなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "にんじん",
+            "text": "主人がフォローを",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ばなな",
+            "text": "それは可哀想に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "にんじん",
+            "text": "女同士ですからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "たまねぎ",
+            "text": "見ててひやひや",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ばなな",
+            "text": "お母さんには言いやすいのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "にんじん",
+            "text": "そういうことですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ばなな",
+            "text": "わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "にんじん",
+            "text": "なので余計息子がかわいいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ばなな",
+            "text": "どちらもいらっしゃるのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "にんじん",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ばなな",
+            "text": "良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "にんじん",
+            "text": "きょうだいは仲良いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ばなな",
+            "text": "家は一人なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "にんじん",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ばなな",
+            "text": "きょうだいが仲良しは良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "にんじん",
+            "text": "見ててほっこりします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ばなな",
+            "text": "中3だと受験生ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "にんじん",
+            "text": "@ばなな そうです！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "にんじん",
+            "text": "前期で受けたのでもう終わりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ばなな",
+            "text": "@にんじん 良かったですね",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "にんじん",
+            "text": "はい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ばなな",
+            "text": "終わるとホッとしますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "たまねぎ",
+            "text": "そうなんですよ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "たまねぎ",
+            "text": "何度も面接練習付き合いました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ばなな",
+            "text": "面接たいへんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "にんじん",
+            "text": "本人が大変そうで！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "にんじん",
+            "text": "私達はのほほんとしてたかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ばなな",
+            "text": "緊張するので私は苦手でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "にんじん",
+            "text": "緊張しますよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "たまねぎ",
+            "text": "何質問されるかわからないし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ばなな",
+            "text": "娘さん、頑張りましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "にんじん",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "にんじん",
+            "text": "いい経験ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ばなな",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ばなな",
+            "text": "良い経験です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "にんじん",
+            "text": "自分のときを思い出します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ばなな",
+            "text": "どうだったかだいぶ忘れてしまって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ばなな",
+            "text": "だいぶ前なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "にんじん",
+            "text": "息子さんが面接練習になれば思い出しますよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ばなな",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "たまねぎ",
+            "text": "ドキドキですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ばなな",
+            "text": "今から緊張しちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "にんじん",
+            "text": "がんばれ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "たまねぎ",
+            "text": "がんばって！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ばなな",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "たまねぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "にんじん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

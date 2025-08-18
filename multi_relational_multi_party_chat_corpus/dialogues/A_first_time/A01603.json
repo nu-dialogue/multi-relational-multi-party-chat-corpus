@@ -1,0 +1,693 @@
+{
+    "dialogue_id": "A01603",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "くらげ",
+        "かにたま",
+        "がんも"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くらげ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "かにたま",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "がんも",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くらげ",
+            "text": "スポーツすきですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "くらげ",
+            "text": "私は全般的にすきです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "がんも",
+            "text": "あまりしないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "かにたま",
+            "text": "あまり得意じゃないかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "かにたま",
+            "text": "テニスだけやります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "くらげ",
+            "text": "@かにたま テニスいいですね",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くらげ",
+            "text": "最近はやりませんが、よくみます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "かにたま",
+            "text": "楽しいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "かにたま",
+            "text": "最近はやらないのですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くらげ",
+            "text": "息子がテニス部です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "くらげ",
+            "text": "体がついていかないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "かにたま",
+            "text": "私もテニス部でした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "くらげ",
+            "text": "息子の相手したら、肩がおかしくなりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "くらげ",
+            "text": "硬式ですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "かにたま",
+            "text": "強いのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くらげ",
+            "text": "@かにたま 肩が？",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "かにたま",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも テニスやりますか",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "くらげ",
+            "text": "@かにたま うらやましい",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "がんも",
+            "text": "軟式ならやってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "くらげ",
+            "text": "私は加齢のせいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも 息子、中学生なので軟式です",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "かにたま",
+            "text": "@がんも 中学は軟式でした！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "くらげ",
+            "text": "軟式から硬式は大変ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "がんも",
+            "text": "軟式でもハードですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "かにたま",
+            "text": "硬式と軟式、全然違いますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "くらげ",
+            "text": "ハードです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "くらげ",
+            "text": "高校生って硬式が多いですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "かにたま",
+            "text": "軟式はビュンビュン飛んじゃう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "がんも",
+            "text": "硬式やりましたけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "がんも",
+            "text": "全然ちがいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "くらげ",
+            "text": "体育館の上にとばしてるそうです、ボール",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "かにたま",
+            "text": "@くらげ 高校から硬式でした",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "くらげ",
+            "text": "そうなんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "くらげ",
+            "text": "どういうところが違いますか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くらげ",
+            "text": "肘をいためやすいってききますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "かにたま",
+            "text": "ラケットの構え方とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "くらげ",
+            "text": "へぇー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "かにたま",
+            "text": "ボールが重たいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "かにたま",
+            "text": "打った感覚も違うし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "くらげ",
+            "text": "大学のサークルでお遊びでやってただけなので、私",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "がんも",
+            "text": "スピードなんかが分かり易いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "かにたま",
+            "text": "全然違います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "くらげ",
+            "text": "へぇー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "かにたま",
+            "text": "音も違いますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くらげ",
+            "text": "なれるまで大変そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "くらげ",
+            "text": "どっちが好きですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "がんも",
+            "text": "軟式派です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "かにたま",
+            "text": "今は硬式が好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "くらげ",
+            "text": "音の違いはわかるかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "くらげ",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "くらげ",
+            "text": "どっちもよさそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "くらげ",
+            "text": "テニスは大人になっても出来るから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "かにたま",
+            "text": "@がんも 軟式から硬式に移ったときは",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "くらげ",
+            "text": "よいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "かにたま",
+            "text": "軟式がよかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "がんも",
+            "text": "誘われて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "かにたま",
+            "text": "スカッシュとかやりますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "くらげ",
+            "text": "経験者だからわかる感じですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "くらげ",
+            "text": "やったことないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "かにたま",
+            "text": "やったことありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "がんも",
+            "text": "ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "くらげ",
+            "text": "友達が大学でやってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "くらげ",
+            "text": "みたことはあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "くらげ",
+            "text": "@かにたま やるんですか",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "かにたま",
+            "text": "めちゃ、ハードです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くらげ",
+            "text": "ハードハード",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "かにたま",
+            "text": "@くらげ やってました",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "くらげ",
+            "text": "あたったらいたそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "かにたま",
+            "text": "コートが狭いので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "かにたま",
+            "text": "体力がもたない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "くらげ",
+            "text": "出来るところ限られてますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "かにたま",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "がんも",
+            "text": "確かに痛そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "くらげ",
+            "text": "スポーツクラブですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "かにたま",
+            "text": "@くらげ そうです！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くらげ",
+            "text": "かっこいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くらげ",
+            "text": "一式道具そろえました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "かにたま",
+            "text": "人気の先生がいて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "くらげ",
+            "text": "イケメン？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "かにたま",
+            "text": "@くらげ レンタルしました！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "かにたま",
+            "text": "@くらげ イケメン！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くらげ",
+            "text": "わぉ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "がんも",
+            "text": "イケメン！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "かにたま",
+            "text": "おばさま方に囲まれてましたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "くらげ",
+            "text": "テンション大事ですからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "がんも",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "くらげ",
+            "text": "想像できます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くらげ",
+            "text": "おばさまパワーありますもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "かにたま",
+            "text": "だからその先生にあたるのがイヤでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "かにたま",
+            "text": "おばさま怖い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くらげ",
+            "text": "スポーツの道具ってやらなくなるとこまるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "くらげ",
+            "text": "レンタルで十分ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "くらげ",
+            "text": "@かにたま そうなんだ",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "がんも",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "かにたま",
+            "text": "十分です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "かにたま",
+            "text": "高いし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "くらげ",
+            "text": "先生はかにたまさんがよかったかもですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "かにたま",
+            "text": "どうだろー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "くらげ",
+            "text": "機会があったらスカッシュやってみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "かにたま",
+            "text": "おばさま軍団が怖過ぎて",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くらげ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "かにたま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "がんも",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 5
+        }
+    ]
+}

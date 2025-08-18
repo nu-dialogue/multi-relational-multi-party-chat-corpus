@@ -1,0 +1,757 @@
+{
+    "dialogue_id": "A02702",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "こまつな",
+        "まりも",
+        "ししとう"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "こまつな",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "まりも",
+            "text": "こんにちは～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ししとう",
+            "text": "こんにちは～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "まりも",
+            "text": "最近グーグルマップで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "こまつな",
+            "text": "ちょっとあたたかくなってますね今日は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "まりも",
+            "text": "室蘭を見て友達と盛り上がりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも 室蘭！",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "まりも",
+            "text": "今日確かにあったかいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "こまつな",
+            "text": "@まりも 室蘭？",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "まりも",
+            "text": "天気悪いけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "まりも",
+            "text": "室蘭…そう、なぜか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "こまつな",
+            "text": "北海道ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "まりも",
+            "text": "そうそう、そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "こまつな",
+            "text": "盛り上がる？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "まりも",
+            "text": "港を中心にしてすごく区画が整ってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "まりも",
+            "text": "そうなんですよなぜか笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ししとう",
+            "text": "え～気になる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "こまつな",
+            "text": "開発されたっていう感じでしょうか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "まりも",
+            "text": "港って言っても製鉄所とかで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "まりも",
+            "text": "埋立地っぽい四角い感じの港で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "まりも",
+            "text": "黒い山とか茶色い山とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "こまつな",
+            "text": "ちょっと想像が出来ない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "まりも",
+            "text": "製鉄用の何か…鉱石？が積んであったり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "こまつな",
+            "text": "後で見てみよう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "まりも",
+            "text": "文字で言われてもわかんないですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ししとう",
+            "text": "へ～！調べてみます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "こまつな",
+            "text": "盛り上がりのツボが？？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "まりも",
+            "text": "私が参加したときすでに盛り上がっていて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "まりも",
+            "text": "観光スポットもありましたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "まりも",
+            "text": "日本っぽくない景色もあって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "こまつな",
+            "text": "@まりも 何があるのかしら",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ししとう",
+            "text": "室蘭ってどんな観光スポットが有名なんです？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "まりも",
+            "text": "上空写真おもしろいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "まりも",
+            "text": "みんなの水族館ってとこが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "こまつな",
+            "text": "行ったことあります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "まりも",
+            "text": "最初話題に上がってました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ししとう",
+            "text": "みんなの水族館！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "こまつな",
+            "text": "何か見ものがあるのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ししとう",
+            "text": "初めて聞きました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "まりも",
+            "text": "室蘭行ったことはないですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ししとう",
+            "text": "名前カワイイ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "まりも",
+            "text": "市立水族館で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "まりも",
+            "text": "今休館中だったはず",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "こまつな",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ししとう",
+            "text": "北海道といえば、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ししとう",
+            "text": "次のコナンの映画の舞台ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こまつな",
+            "text": "そうなんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "まりも",
+            "text": "そうなんですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ししとう",
+            "text": "函館？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "まりも",
+            "text": "函館かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ししとう",
+            "text": "だったかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "まりも",
+            "text": "やはり五稜郭が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "こまつな",
+            "text": "子どもが小さい時はコナン映画連れて行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "まりも",
+            "text": "へ～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "まりも",
+            "text": "コナン好きですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "こまつな",
+            "text": "結構好きなほうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "こまつな",
+            "text": "アニメ好きなんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ししとう",
+            "text": "私も好きです～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "まりも",
+            "text": "ユーチューブでたまに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こまつな",
+            "text": "映画がいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "まりも",
+            "text": "公式で配信してるの見ます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "こまつな",
+            "text": "ちゃんと公式",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも いろいろ出てますよね！",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "まりも",
+            "text": "赤井秀一スペシャル～みたいなやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "こまつな",
+            "text": "赤井さんいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな 映画、スケールでかくておもしろいですよね～",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "まりも",
+            "text": "@ししとう 公式で出してくれるのいいですよね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "こまつな",
+            "text": "京都が舞台のとかよかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな わかります～！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ししとう",
+            "text": "迷宮の十字路かな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "まりも",
+            "text": "見たことあるやつかな～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こまつな",
+            "text": "それもいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "こまつな",
+            "text": "かるたのやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "まりも",
+            "text": "あ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ししとう",
+            "text": "から紅の恋歌！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "まりも",
+            "text": "見たことあるやつ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "こまつな",
+            "text": "バイクで！無理やろ！って突っ込んだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "まりも",
+            "text": "毎回無茶してますね映画",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "こまつな",
+            "text": "音が大きくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ししとう",
+            "text": "あはは！わかる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "こまつな",
+            "text": "爆音上映ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こまつな",
+            "text": "子ども泣くって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ししとう",
+            "text": "爆発も多いですよね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "まりも",
+            "text": "やっぱり王道ですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "こまつな",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "まりも",
+            "text": "カーチェイスとかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "こまつな",
+            "text": "お約束ですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "まりも",
+            "text": "スケボーで並走してるの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "まりも",
+            "text": "笑ってしまう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ししとう",
+            "text": "お約束！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "こまつな",
+            "text": "あるある",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ししとう",
+            "text": "実際おこったら超大事件！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "こまつな",
+            "text": "事故るってば！って子どもが言ってた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "まりも",
+            "text": "子どもにも笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こまつな",
+            "text": "でも楽しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ししとう",
+            "text": "ツッコミが秀逸！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "こまつな",
+            "text": "大人だけで見に行ってもいいかなあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ししとう",
+            "text": "本当！楽しいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こまつな",
+            "text": "ちょっと浮くかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな 去年はひとりで見に行きました！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "こまつな",
+            "text": "なんと！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "まりも",
+            "text": "全然大丈夫ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "こまつな",
+            "text": "結構大人見に来てますかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな 多いですよ！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "こまつな",
+            "text": "前にデジモンはおとなばっかりだったけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "まりも",
+            "text": "コナンは年齢問わずファン多いイメージ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "まりも",
+            "text": "ほ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "ししとう",
+            "text": "確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "こまつな",
+            "text": "息子はハイキューみて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 109,
+            "interlocutor_id": "こまつな",
+            "text": "冊子をもらって来てくれました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 110,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな ハイキュー！今してますよね～！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 111,
+            "interlocutor_id": "こまつな",
+            "text": "冊子というか結構厚いやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 112,
+            "interlocutor_id": "まりも",
+            "text": "パンフではなく？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 113,
+            "interlocutor_id": "こまつな",
+            "text": "コミックス的な",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 114,
+            "interlocutor_id": "まりも",
+            "text": "へ～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 115,
+            "interlocutor_id": "こまつな",
+            "text": "入場者プレ",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "こまつな",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "まりも",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ししとう",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

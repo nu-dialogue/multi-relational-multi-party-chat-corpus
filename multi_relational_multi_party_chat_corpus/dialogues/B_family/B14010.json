@@ -1,0 +1,722 @@
+{
+    "dialogue_id": "B14010",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "カンガルー",
+        "たまご",
+        "つみれ"
+    ],
+    "relationship": [
+        "たまご",
+        "つみれ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "カンガルー",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つみれ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "カンガルー",
+            "text": "先程まで降っていた雨がやみました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "たまご",
+            "text": "よかったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つみれ",
+            "text": "長野も止みました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "カンガルー",
+            "text": "ちょっと嬉しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つみれ",
+            "text": "それだけで気分がいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "たまご",
+            "text": "気分も上がってきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "カンガルー",
+            "text": "花粉も今は少ない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "カンガルー",
+            "text": "ただ乾くと半端なさそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー 花粉症ですか？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "たまご",
+            "text": "最近やばかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ 花粉症です",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまご 私も〜！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つみれ",
+            "text": "辛いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "つみれ",
+            "text": "私はまだ平気なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "たまご",
+            "text": "目と鼻が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "カンガルー",
+            "text": "箱ティッシュサイズのティッシュ手放せません！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "たまご",
+            "text": "鼻水止まらないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "たまご",
+            "text": "くしゃみと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つみれ",
+            "text": "最近、すれ違う車の人が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "カンガルー",
+            "text": "鼻の下痛いですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "カンガルー",
+            "text": "ご飯も美味しく食べれない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "たまご",
+            "text": "痛いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "つみれ",
+            "text": "鼻ぼっちしてる確率が高いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "カンガルー",
+            "text": "鼻ぼっち？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "たまご",
+            "text": "してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "カンガルー",
+            "text": "鼻栓みたいなやつ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たまご",
+            "text": "そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つみれ",
+            "text": "テッシュはなに詰めてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "カンガルー",
+            "text": "花粉症用の！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "カンガルー",
+            "text": "あれ、どうです？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "カンガルー",
+            "text": "役に立ちます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "カンガルー",
+            "text": "長野も花粉すごそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "たまご",
+            "text": "止まってる感覚だけあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまご 痒みは変わらず？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "たまご",
+            "text": "帰省したとき凄いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "カンガルー",
+            "text": "東京なんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "たまご",
+            "text": "痒みも少し和らぎます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "カンガルー",
+            "text": "東京はアスファルトだらけなんで、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "カンガルー",
+            "text": "昼より夜の方が辛い気がするんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "カンガルー",
+            "text": "気のせいかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たまご",
+            "text": "そんな気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 長野の方が花粉ひどいの？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "たまご",
+            "text": "ひどい時ある",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまご さん長野と今住まわれているところどちらが酷い？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たまご",
+            "text": "同じくらいきついです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "カンガルー",
+            "text": "日本で花粉があまり酷くない地域ってどこなんだろう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "カンガルー",
+            "text": "@たまご 人によるのかなー",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "つみれ",
+            "text": "あるんですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "たまご",
+            "text": "どこなんですかねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "たまご",
+            "text": "どこかにオアシスが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "つみれ",
+            "text": "何に反応するかにもよりますかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "カンガルー",
+            "text": "花粉が酷くなくて、暑くないところ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "カンガルー",
+            "text": "だれか教えてください！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "つみれ",
+            "text": "まさにオアシス！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "カンガルー",
+            "text": "絶対に移住する！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "カンガルー",
+            "text": "暑くてもいいんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "たまご",
+            "text": "最高スポット",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "カンガルー",
+            "text": "東京の暑さってちょっと違うんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つみれ",
+            "text": "ここは花粉が少ないです！ってあまり聞かないですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "カンガルー",
+            "text": "不快指数高すぎ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "たまご",
+            "text": "聞かないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ 確かに！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "カンガルー",
+            "text": "沖縄とかどうなんだろ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "つみれ",
+            "text": "@カンガルー 湿気もあります？",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ 息苦しいくらいですよ！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "たまご",
+            "text": "きついですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "たまご",
+            "text": "沖縄なさそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "カンガルー",
+            "text": "真夏の日中に外に出たら死にますわ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "たまご",
+            "text": "北海道とかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "つみれ",
+            "text": "湿気があると暑さもより不快ですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "カンガルー",
+            "text": "杉花粉って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "たまご",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "カンガルー",
+            "text": "確か、緑を増やそう！って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "カンガルー",
+            "text": "昔誰か？政治家？が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "カンガルー",
+            "text": "杉を植えまくった結果なんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "たまご",
+            "text": "えー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "カンガルー",
+            "text": "地球温暖化対策？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つみれ",
+            "text": "そうなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "カンガルー",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "たまご",
+            "text": "なんてことを",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "カンガルー",
+            "text": "だから、40年くらい前って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "たまご",
+            "text": "けど地球温暖化対策も大事",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "カンガルー",
+            "text": "花粉症とか聞く事なかったですよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つみれ",
+            "text": "なぜ杉にしたんでしょう？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "たまご",
+            "text": "もっと良い植物ありそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "カンガルー",
+            "text": "杉の花粉が、花粉症につながるのは想定外だったんじゃないですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "つみれ",
+            "text": "昔は花粉症なんて話題にもならなかったですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "カンガルー",
+            "text": "杉が強いから？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "たまご",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "つみれ",
+            "text": "どこでも育ちやすいんですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "たまご",
+            "text": "花粉ない時代がいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "カンガルー",
+            "text": "あ、もしかしたら森林伐採し過ぎて樹木が減ったから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "つみれ",
+            "text": "その結果、国民が花粉に苦しむ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "カンガルー",
+            "text": "杉を植えてまた伐採して材料に？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つみれ",
+            "text": "なるほどー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "カンガルー",
+            "text": "だったかもしれませんが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "たまご",
+            "text": "そういうことですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "カンガルー",
+            "text": "花粉は想定外だったんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "カンガルー",
+            "text": "長野は白樺でも花粉症になりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "カンガルー",
+            "text": "私は白樺もダメなんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "つみれ",
+            "text": "こんなことになるなんてー！って感じですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "カンガルー",
+            "text": "綺麗なのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ ですです！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "つみれ",
+            "text": "白樺も花粉あるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "カンガルー",
+            "text": "だから伐採後は違う樹にして欲しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "カンガルー",
+            "text": "@つみれ ありますー",
+            "mention_to": [
+                "つみれ"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "カンガルー",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

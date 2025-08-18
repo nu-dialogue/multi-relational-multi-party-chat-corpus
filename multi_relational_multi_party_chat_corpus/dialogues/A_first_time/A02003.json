@@ -1,0 +1,665 @@
+{
+    "dialogue_id": "A02003",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "げんまい",
+        "いそべ",
+        "はくさい"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "げんまい",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "いそべ",
+            "text": "こんにちは～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "はくさい",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "げんまい",
+            "text": "甘いものは好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "いそべ",
+            "text": "好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "はくさい",
+            "text": "得意ではないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "はくさい",
+            "text": "たまに食べたくなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "げんまい",
+            "text": "おいしいですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "げんまい",
+            "text": "洋菓子？和菓子？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "いそべ",
+            "text": "洋菓子かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "はくさい",
+            "text": "洋菓子が多いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "はくさい",
+            "text": "疲れてるときなんか最高です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "げんまい",
+            "text": "疲れてるときは必要ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "げんまい",
+            "text": "先日、あんこ博覧会に行ってきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "いそべ",
+            "text": "え！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "げんまい",
+            "text": "デパートの催事場で、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "はくさい",
+            "text": "@げんまい あんこ博覧会ってなんですか？？",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "いそべ",
+            "text": "気になりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "げんまい",
+            "text": "全国のあんこのお菓子が並んでいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "げんまい",
+            "text": "隣でバレンタインのチョコレートやってたんですけど、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "げんまい",
+            "text": "あんこ博覧会のほうが人が多くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "はくさい",
+            "text": "ギャップ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "はくさい",
+            "text": "日本人はあんこですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "いそべ",
+            "text": "あんこ人気なんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "げんまい",
+            "text": "あんこ好きは多いみたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "はくさい",
+            "text": "つぶあん、こしあんどっち派ですか？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "げんまい",
+            "text": "つぶあんかなー。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "いそべ",
+            "text": "@はくさい どちらも好きで選べない・・",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "げんまい",
+            "text": "うんうん。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "げんまい",
+            "text": "どっちもおいしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "はくさい",
+            "text": "どっちもおいしいけど、私も粒あん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "げんまい",
+            "text": "あ、お菓子にもよるかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "げんまい",
+            "text": "どら焼きなら、つぶあんが好き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "いそべ",
+            "text": "私もです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "はくさい",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "げんまい",
+            "text": "羊羹はこしあんかな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "いそべ",
+            "text": "同意です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "はくさい",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "げんまい",
+            "text": "1時間以上も並んで買ったものもあります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "はくさい",
+            "text": "すご！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "いそべ",
+            "text": "すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "げんまい",
+            "text": "北海道の御勝手屋ロールです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "はくさい",
+            "text": "有名なんですか？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "げんまい",
+            "text": "一番人気でしたね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "いそべ",
+            "text": "おいしそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "げんまい",
+            "text": "フワフワのどら焼きみたいな感じで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "はくさい",
+            "text": "へー気になりますー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "げんまい",
+            "text": "その場で、生地を焼いてあんこを挟んでくれました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "げんまい",
+            "text": "後は、そんなに並んでなかったかな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "いそべ",
+            "text": "北海道でしか買えないのですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "げんまい",
+            "text": "たぶん。そうでしょうね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "はくさい",
+            "text": "北海道遠いなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "げんまい",
+            "text": "都内で売ってないから人気だったのかも。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "はくさい",
+            "text": "そういうのありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "げんまい",
+            "text": "最近、並んだ経験ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "いそべ",
+            "text": "近くに人気のだんごやがあって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "いそべ",
+            "text": "並びました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "げんまい",
+            "text": "有名なんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "げんまい",
+            "text": "みたらし？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "いそべ",
+            "text": "TVでとりあげられて・・急に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "いそべ",
+            "text": "みたらしも、色々です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "はくさい",
+            "text": "TV効果ってすごい！１",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "げんまい",
+            "text": "TVは、急にお客さん増えますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "いそべ",
+            "text": "びっくりしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "いそべ",
+            "text": "カメラもきてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "はくさい",
+            "text": "私も見てたら行きたくなっちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "げんまい",
+            "text": "おーカメラの撮影ですか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "いそべ",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "げんまい",
+            "text": "わかる、テレビで見ると行きたくなる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "いそべ",
+            "text": "買いにくくなって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "げんまい",
+            "text": "そして、長蛇の列。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "いそべ",
+            "text": "残念",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "はくさい",
+            "text": "残念過ぎる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "げんまい",
+            "text": "それじゃあ、しばらく、人が多いですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "いそべ",
+            "text": "１か月くらい混んでます・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "げんまい",
+            "text": "1ヶ月とは、、、リピーターになっちゃった人が多いのかな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "はくさい",
+            "text": "ほんとにおいしいんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "いそべ",
+            "text": "安いのもあるかもしれないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "いそべ",
+            "text": "みたらし50円",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "はくさい",
+            "text": "安くておいしかったらリピーターになる！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "げんまい",
+            "text": "それは行きたくなる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "はくさい",
+            "text": "やす！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "げんまい",
+            "text": "ご近所なら、ほとぼりが冷めが頃に行けますね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "げんまい",
+            "text": "しばらくかかるかな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "いそべ",
+            "text": "歩いて30秒なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "げんまい",
+            "text": "近い。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "はくさい",
+            "text": "うらやましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "いそべ",
+            "text": "空いたらまたいきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "いそべ",
+            "text": "最高です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "げんまい",
+            "text": "@はくさい 並んだりしないですか？",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "はくさい",
+            "text": "近くに店のない田舎なもので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "はくさい",
+            "text": "並ぶお店もなかなかないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "げんまい",
+            "text": "そうですか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "いそべ",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "げんまい",
+            "text": "私、並ぶのほんとに嫌いなのに、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "げんまい",
+            "text": "あんこは、よく1時間も並んだなと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "いそべ",
+            "text": "1時間すごいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "げんまい",
+            "text": "USJは並ばなくていいチケットを購入してお金で解決しました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "いそべ",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "はくさい",
+            "text": "USJうらやましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "げんまい",
+            "text": "行ったことありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "いそべ",
+            "text": "行ったことがないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "はくさい",
+            "text": "ないんです",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "げんまい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "いそべ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "はくさい",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

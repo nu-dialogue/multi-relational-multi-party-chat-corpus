@@ -1,0 +1,788 @@
+{
+    "dialogue_id": "B14307",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "コアラ",
+        "てばさき",
+        "えのき"
+    ],
+    "relationship": [
+        "てばさき",
+        "えのき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "コアラ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "コアラ",
+            "text": "明日ひな祭りですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "えのき",
+            "text": "忘れてました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "コアラ",
+            "text": "お祝いとかしますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ そういえばそうですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "コアラ",
+            "text": "あっ、うちは娘がいるので一応します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "コアラ",
+            "text": "といってもテスト中ですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき それ私も食べられるケーキ？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "コアラ",
+            "text": "ちらし寿司作るくらい？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "えのき",
+            "text": "とりあえずケーキを買ってきたい…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "えのき",
+            "text": "ちらし寿司いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "てばさき",
+            "text": "毎年のやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "えのき",
+            "text": "うちも娘3人なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき えっ？食べられないのもあるんですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "えのき",
+            "text": "なんかしたほうがいいのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき うわーたくさんいらっしゃる！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "えのき",
+            "text": "たくさんなんですよ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "えのき",
+            "text": "かしましいんです…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "コアラ",
+            "text": "かえって逆に日常なのかしら？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 今年は実家行くのでタイミング合わなければ食いっぱぐれる可能性が有るかもです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "てばさき",
+            "text": "父の",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき あーそれは大変",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "コアラ",
+            "text": "ケーキ確保",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ おひなさまは飾りますか？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき はい、もう飾ってあります",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "コアラ",
+            "text": "逆にいつしまおう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ もうですか！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "えのき",
+            "text": "そうですよね、もうとっくに出してないと…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき えっ？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき いや、明日だし",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ しまうの遅れると行き遅れるっていいますよね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 明日だもんね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "えのき",
+            "text": "明日すぐしまわないと！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "コアラ",
+            "text": "あっ、もったいないから一月末くらいから飾ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "えのき",
+            "text": "速攻でしまわないと！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 早いですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき なんだかそんなに急がなくてもいいって出てましたよ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "えのき",
+            "text": "むしろお昼くらいに！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "コアラ",
+            "text": "雑誌ですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "えのき",
+            "text": "すみません、生き急いでました…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき えっ，しまうのをですか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "コアラ",
+            "text": "そ、それは、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "えのき",
+            "text": "娘には、早く嫁にいって欲しいです…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "コアラ",
+            "text": "夜にちらし寿司食べながら見るつもりで、、、いきおくれるかしら？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 行き遅れの前に私たちの誰も結婚するつもりなさそうだけど",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "えのき",
+            "text": "最近は、結婚しないとか多いらしいので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき えっと学生さんですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 娘3人もいるけどごめんね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 大学生です",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき うちも高校生の娘いますが、彼氏とかも永遠にできないかもとか言ってます",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "コアラ",
+            "text": "結婚も興味ないとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "コアラ",
+            "text": "まあおませなのも困りますが、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "てばさき",
+            "text": "私まだ彼氏がいたことすらないので大丈夫ですよ、根拠のない自信",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "えのき",
+            "text": "今はそういう価値観ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "えのき",
+            "text": "まあ、人生なるようにしかならないので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき 今日のネットに、子供いらない、はじめて50%超えたらしいです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "コアラ",
+            "text": "若い人",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 人生諦めも大事ですよ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき 親としてはできればとは思いますが仕方ないですよね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 人生は、諦めることと見つけたり",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき いや、まだまだこれから！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ ですよね～",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ そこまでいくと少子高齢化が心配になってくるかも",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき ちなみに大学ではなにかサークルとか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 課題を大義名分に入ってません",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "えのき",
+            "text": "サークル入ればよかったのに…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "文芸部とか…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき 課題が忙しいんですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 知らない人って怖いじゃん",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ 課題はすごく忙しそうですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき サークルとか入られてましたか？学生時代",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 人見知りのふりをする",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 要領が良いとはいえないもので…",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ 微妙な感じですね…",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "えのき",
+            "text": "好き放題していました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "えのき",
+            "text": "どちらかと言えば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき うちも娘は一人っ子でのーんびりなのでよくわかりますよ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 好き放題？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "えのき",
+            "text": "若さゆえに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき 気になりますか？笑",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 気になりますね！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ ひとりだとのんびりな感じでいいですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "えのき",
+            "text": "うちは3人なので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき 私も女子大でしたが、他大学テニスサークル３つ入ってました",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "えのき",
+            "text": "常に騒々しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 真ん中でものんびり行きますよ！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "3つもですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき 楽しかったですよー",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "コアラ",
+            "text": "テニスも好きでしたが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ インカレってやつですか？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき それです！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "えのき",
+            "text": "バイタリティがすごいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ ３つもとなると時間が足りなさそう…",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "えのき",
+            "text": "毎日充実していそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき 古き良き時代でしたね、周りみんなそんな感じでした",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき だんだん淘汰されます",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "えのき",
+            "text": "今はみんな省エネな感じがします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "コアラ",
+            "text": "アルバイトも家庭教師だったので楽でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "えのき",
+            "text": "てばさんはだいぶスリープモードです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "てばさき",
+            "text": "@にわとり つまり淘汰されずに生き残りし猛者なんですか！すごいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき コスパとタイパ？",
+            "mention_to": [
+                "えのき"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "コアラ",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

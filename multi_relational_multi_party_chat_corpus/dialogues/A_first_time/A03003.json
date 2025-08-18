@@ -1,0 +1,705 @@
+{
+    "dialogue_id": "A03003",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おにぎり",
+        "ねぎとろ",
+        "こまつな"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おにぎり",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ねぎとろ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "こまつな",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おにぎり",
+            "text": "学生の時の、得意科目って何でした？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "こまつな",
+            "text": "音楽とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたしも音楽",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おにぎり",
+            "text": "お二人とも音楽！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "こまつな",
+            "text": "主要科目でない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "おにぎり",
+            "text": "楽器とかやっていました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こまつな",
+            "text": "学生時代はいろいろ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "おにぎり",
+            "text": "私はエレクトーンやってました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "こまつな",
+            "text": "エレクトーン！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ピアノ、トランペット、あと声楽かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "おにぎり",
+            "text": "@こまつな 色々！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "こまつな",
+            "text": "バンドやってた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "おにぎり",
+            "text": "@ねぎとろ 声楽！",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ねぎとろ",
+            "text": "バンド、かっこいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "おにぎり",
+            "text": "ミュージシャン揃いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "こまつな",
+            "text": "@ねぎとろ 声楽素敵",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "おにぎり",
+            "text": "バンド出来るかな笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "こまつな",
+            "text": "出来そう？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "おにぎり",
+            "text": "この三人で！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "こまつな",
+            "text": "3人いれば出来るよ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ねぎとろ",
+            "text": "できます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "こまつな",
+            "text": "ドラムやってたので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "おにぎり",
+            "text": "@こまつな 何の楽器やってたんですか？",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "おにぎり",
+            "text": "ほんとに出来そう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "こまつな",
+            "text": "メロディー系がいれば成立です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ドラム、かっこいい。。永遠の憧れ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "こまつな",
+            "text": "もう叩けない…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "おにぎり",
+            "text": "ドラム、私もあこがてます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そうなんですか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "こまつな",
+            "text": "やっぱ体力が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "おにぎり",
+            "text": "一度覚えてもダメですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ねぎとろ",
+            "text": "確かに、体力いりそう。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "こまつな",
+            "text": "4小節ぐらいならいけるかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "こまつな",
+            "text": "８ビートのみ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "おにぎり",
+            "text": "バンドのドラムってかっこいいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ねぎとろ",
+            "text": "かっこいいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "こまつな",
+            "text": "結構チェックします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "おにぎり",
+            "text": "私も、一番ドラムに目が行きます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "おにぎり",
+            "text": "娘がドラムやりたいって良く言うんですけど、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ねぎとろ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "おにぎり",
+            "text": "スクールとか通うのが良いんですかね？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こまつな",
+            "text": "独学でも出来るけどセットがないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "おにぎり",
+            "text": "そうなんですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "こまつな",
+            "text": "防音室とセットあれば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "おにぎり",
+            "text": "いきなり買うのも。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ねぎとろ",
+            "text": "基礎をちゃんと学ぶためにも、スクールがよさそう。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "こまつな",
+            "text": "練習用のとかあるけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "おにぎり",
+            "text": "うちには、防音室は無いですねぇ。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "こまつな",
+            "text": "@おにぎり 普通ないですよ",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "おにぎり",
+            "text": "いなかの為、近所にスクールとか無くって。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@おにぎり そうなんですね。",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "こまつな",
+            "text": "まあ、私も独学でしたから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "こまつな",
+            "text": "楽しむだけなら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "おにぎり",
+            "text": "独学で！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こまつな",
+            "text": "ドラムやってた人に教わったけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ねぎとろ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "こまつな",
+            "text": "最初に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "こまつな",
+            "text": "あとは頑張ってね～みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "おにぎり",
+            "text": "誰かいればいいですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "こまつな",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "おにぎり",
+            "text": "@ねぎとろ 声楽はどのように学んだんですか？",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@おにぎり 個人レッスンに通ってました。",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "こまつな",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "おにぎり",
+            "text": "趣味で？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ねぎとろ",
+            "text": "一応、音大入るために。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "こまつな",
+            "text": "すごいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "おにぎり",
+            "text": "専門的にですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "こまつな",
+            "text": "@ねぎとろ 音大ですか",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ねぎとろ",
+            "text": "入って卒業しましたが、今はまったく生かされてません。とほほ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "こまつな",
+            "text": "もったいない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "おにぎり",
+            "text": "仕事となると難しいのかな。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ねぎとろ",
+            "text": "だから、この歳になって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ねぎとろ",
+            "text": "思ったのは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ねぎとろ",
+            "text": "アマチュアのコンクールに出場してみようかなと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "こまつな",
+            "text": "コンクール！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "おにぎり",
+            "text": "ナイスアイディア！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "こまつな",
+            "text": "そういうのあるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ねぎとろ",
+            "text": "あるんですよ、これが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ねぎとろ",
+            "text": "自分で言うのもなんですが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "こまつな",
+            "text": "アマチュアでもすごそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "おにぎり",
+            "text": "生活に張りが出そう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ねぎとろ",
+            "text": "今でもけっこう歌えるような気がするので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ねぎとろ",
+            "text": "挑戦してみようかと！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "おにぎり",
+            "text": "そうですよ～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "こまつな",
+            "text": "@ねぎとろ 練習してるんですね",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "おにぎり",
+            "text": "あと、ねぎとろさんも教えたりとかしたらどうでしょ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ほぼ、終活の一環のような気もしますが。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "こまつな",
+            "text": "そんなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "おにぎり",
+            "text": "どうして笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "こまつな",
+            "text": "でもやりたい事やっときたいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@おにぎり 人様に教える自信はないので。",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "こまつな",
+            "text": "教えるのはまた違うんでしょうか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "おにぎり",
+            "text": "せっかくのスキル、生かせそう。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ねぎとろ",
+            "text": "教えるの、難しいです。よほど自信がないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ねぎとろ",
+            "text": "だから、教えている人って凄いと思います。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "こまつな",
+            "text": "なるほどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "おにぎり",
+            "text": "教えるのって、難しいですよね。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "ねぎとろ",
+            "text": "疑問を疑問と思っちゃいけないとか。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "こまつな",
+            "text": "どいうう事かな？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "おにぎり",
+            "text": "先生が？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "ねぎとろ",
+            "text": "以前、習っていたダンスの先生が、そんな感じの人だったので。",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おにぎり",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ねぎとろ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "こまつな",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,689 @@
+{
+    "dialogue_id": "A00801",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おでん",
+        "おにぎり",
+        "ねぎとろ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おでん",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "おにぎり",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "おでん",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ねぎとろ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "おにぎり",
+            "text": "よろしくお願いいたします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ねぎとろ",
+            "text": "よろしくお願いいたします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おでん",
+            "text": "暖かくなってきましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そうですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "おでん",
+            "text": "花粉とか大丈夫ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "おにぎり",
+            "text": "今朝は、暖かいですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ねぎとろ",
+            "text": "大丈夫です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "おにぎり",
+            "text": "花粉、ダメです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ねぎとろ",
+            "text": "大変ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "おにぎり",
+            "text": "風邪と花粉のダブルパンチです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "おでん",
+            "text": "@おにぎり どんな感じですか？",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "おにぎり",
+            "text": "鼻水が凄いです。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "おでん",
+            "text": "私は鼻水がやばいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "おにぎり",
+            "text": "一緒ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "おでん",
+            "text": "@ねぎとろ 大丈夫なんですね",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "おにぎり",
+            "text": "@おでん 薬飲んでますか？",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "おでん",
+            "text": "@ねぎとろ 羨ましいです",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "おでん",
+            "text": "薬飲んでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@おにぎりやっぱり花粉だめですか。",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "おでん",
+            "text": "もう、ズルズルです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "おにぎり",
+            "text": "私も、今年は飲まないとダメかもです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "おにぎり",
+            "text": "年々ひどくなってます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "おでん",
+            "text": "わかってるから、早めにって思うけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "おにぎり",
+            "text": "暖かいのは、嬉しいですけどね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ねぎとろ",
+            "text": "今はスギ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ねぎとろ",
+            "text": "よくわかりませんが。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "おにぎり",
+            "text": "スギだと思います。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "おでん",
+            "text": "なんだろ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "おにぎり",
+            "text": "栃木在住なんで、日光杉並木から大量に飛んできます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ねぎとろ",
+            "text": "治まる時期はありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "おでん",
+            "text": "私は春と秋です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "おにぎり",
+            "text": "一緒です。秋もあります。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "おにぎり",
+            "text": "腸活がいいと言いますが、何かしたりしてますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そうなんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "おでん",
+            "text": "@ねぎとろ ご家族も大丈夫なんですか？",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "おでん",
+            "text": "腸活！そうなんですか、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "おでん",
+            "text": "ヤクルト毎日飲んでますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ねぎとろ",
+            "text": "うちは、みんな大丈夫です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "おでん",
+            "text": "@ねぎとろ それは良いですね",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "おにぎり",
+            "text": "アレルギー系は、腸の状態が大事だとの事です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ねぎとろ",
+            "text": "腸活、ヨーグルトくらいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "おでん",
+            "text": "@おにぎり 勉強になります",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "おにぎり",
+            "text": "@おでん ヤクルト、良さそうですよね。",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@おでん はい。",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "おにぎり",
+            "text": "健康の為にしてる事とか、ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "おでん",
+            "text": "ヤクルトって、高いけど、いいのかな？と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "おにぎり",
+            "text": "ピルクルの方が安いですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "おでん",
+            "text": "安いですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "おにぎり",
+            "text": "でも、ヤクルトの方が効きそうな気がします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そうなんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "おでん",
+            "text": "@ねぎとろ 何かアレルギーにならない秘訣とかあるんでしょうか？",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ねぎとろ",
+            "text": "よくわからないです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "おにぎり",
+            "text": "私も聞きたいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "おでん",
+            "text": "ほんと、春は嬉しい反面、辛いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ねぎとろ",
+            "text": "でも、わたしも皮膚にアレルギーあります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ねぎとろ",
+            "text": "あと、お薬とか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "おでん",
+            "text": "皮膚に？それも辛そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "おにぎり",
+            "text": "@ねぎとろ アレルギーですか？",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "おにぎり",
+            "text": "薬アレルギー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ねぎとろ",
+            "text": "はい。乾燥とかゆみ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ねぎとろ",
+            "text": "市販薬だめなのあります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "おでん",
+            "text": "@ねぎとろ それもつらいですね",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ねぎとろ",
+            "text": "蕁麻疹",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ねぎとろ",
+            "text": "口内炎",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "おにぎり",
+            "text": "それは、気を付けないといけませんね。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "おでん",
+            "text": "何かしらアレルギーって持ってるのかもしれませんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ねぎとろ",
+            "text": "症状が出ます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "おにぎり",
+            "text": "昨今、アレルギー無い人の方が少ない気もします。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "おでん",
+            "text": "@ねぎとろ 季節は関係ないですか？",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ねぎとろ",
+            "text": "これがあるから、花粉はokかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "おにぎり",
+            "text": "なるほど。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ねぎとろ",
+            "text": "皮膚は冬",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "おでん",
+            "text": "乾燥ですね ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "おにぎり",
+            "text": "乾燥してますものね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ですです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "おにぎり",
+            "text": "今日は、雨が降りそうで、少し湿度があります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "おでん",
+            "text": "@ねぎとろ 口内炎は？いつもですか？",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "おでん",
+            "text": "@おにぎり 雨降りそうですか？",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ねぎとろ",
+            "text": "風邪薬でなります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "おにぎり",
+            "text": "風邪薬で口内炎が出来るとは。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "おでん",
+            "text": "@ねぎとろ えー、そうなんですか！",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "おにぎり",
+            "text": "今夜は、雨みたいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "おでん",
+            "text": "夜の間に降ってくれると良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@おでん なんでしょうね、これ。",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "おでん",
+            "text": "何かしら弱いところがあるんでしょうかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ねぎとろ",
+            "text": "だと思います。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "おにぎり",
+            "text": "腸活ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "おでん",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ねぎとろ",
+            "text": "腸活。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "おにぎり",
+            "text": "自分は、特にやってないんですけど。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "おにぎり",
+            "text": "食物繊維をしっかりとるとか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "おでん",
+            "text": "温めるとかも良さそうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたしもです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "おでん",
+            "text": "ヨーグルトもいいかもですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ねぎとろ",
+            "text": "温めるですね、いいかも。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "おにぎり",
+            "text": "冷えますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ヨーグルトはよさそう",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おでん",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "おにぎり",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "ねぎとろ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

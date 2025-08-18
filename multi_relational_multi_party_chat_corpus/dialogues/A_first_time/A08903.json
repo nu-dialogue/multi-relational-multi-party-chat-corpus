@@ -1,0 +1,716 @@
+{
+    "dialogue_id": "A08903",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "なると",
+        "こぐま",
+        "いそべ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "なると",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "こぐま",
+            "text": "こんばんわ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "いそべ",
+            "text": "こんばんわ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "なると",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "こぐま",
+            "text": "よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "いそべ",
+            "text": "よろしくです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "なると",
+            "text": "休みの日はでかけるのと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "こぐま",
+            "text": "うん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "なると",
+            "text": "家にいるのでは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "なると",
+            "text": "どちらが多いですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こぐま",
+            "text": "うーん、半々かなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "いそべ",
+            "text": "あまり外にでないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "いそべ",
+            "text": "インドアです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "なると",
+            "text": "私もその日に寄りますけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "こぐま",
+            "text": "うん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "なると",
+            "text": "どちらか言えば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "なると",
+            "text": "私もインドアですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "こぐま",
+            "text": "そなんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "こぐま",
+            "text": "@いそべ @なると 何してる？",
+            "mention_to": [
+                "なると",
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "いそべ",
+            "text": "ゲームで遊んだり、ゴロゴロしたり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "なると",
+            "text": "@こぐま 家だと動画みたりですかね",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "こぐま",
+            "text": "@いそべ ゴロゴロ笑笑",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "いそべ",
+            "text": "休日は休むことに集中しています！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "なると",
+            "text": "@いそべ ゲームいいですよね",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "こぐま",
+            "text": "@いそべ ゲームはテレビゲーム？",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "いそべ",
+            "text": "スマホかパソコンで遊んでいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "こぐま",
+            "text": "@なると ゲーム好き？",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "なると",
+            "text": "スマホではたまにやってますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "こぐま",
+            "text": "@いそべ ネットゲームってこと？",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "なると",
+            "text": "@こぐま 何してますか？",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "いそべ",
+            "text": "ネットゲームも遊びます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "なると",
+            "text": "今はネットでやる人多いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "こぐま",
+            "text": "私は休みの日は大型スーパーに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "なると",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "こぐま",
+            "text": "ウォーキングに行きます笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "いそべ",
+            "text": "近くにあるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "こぐま",
+            "text": "ゲームも進化してるんだろな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "なると",
+            "text": "歩きながらショッピングですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "なると",
+            "text": "ゲームで仲良くなる人とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "なると",
+            "text": "いますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "こぐま",
+            "text": "@いそべ そこそこの大きさのスーパーですけど、端から端まで見て歩く！",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "いそべ",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "いそべ",
+            "text": "います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "いそべ",
+            "text": "@こぐま いいですね！",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "なると",
+            "text": "スーパーもでかいですからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "こぐま",
+            "text": "私はもうスイッチになってからはついていけなくなった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "なると",
+            "text": "スイッチも楽しそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "こぐま",
+            "text": "@なると Switchする？",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "なると",
+            "text": "ファミコン世代です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "こぐま",
+            "text": "@なると 一緒ー！",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "いそべ",
+            "text": "ファミコン！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "なると",
+            "text": "@こぐま そうですか笑",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "こぐま",
+            "text": "パソコンでゲームしないやー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "いそべ",
+            "text": "ファミコンってマリオとかですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "こぐま",
+            "text": "@いそべ そうそう、ファミコン！",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "なると",
+            "text": "@いそべ そうです！",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "いそべ",
+            "text": "おおお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "なると",
+            "text": "ファミコンとスーファミと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "こぐま",
+            "text": "ドラクエね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "いそべ",
+            "text": "スーパーファミコンは家にあります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "なると",
+            "text": "スーファミあるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "こぐま",
+            "text": "@いそべ そなん？スーファミする？",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "なると",
+            "text": "ドラクエにははまりましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "こぐま",
+            "text": "@なると ハマったー",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "こぐま",
+            "text": "並んでソフト買ったもん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "いそべ",
+            "text": "スマホゲームに飽きたときに遊びますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "こぐま",
+            "text": "@いそべ そなんだ、どんなソフト有るん？",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "いそべ",
+            "text": "スト2があります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "いそべ",
+            "text": "あとマリオもありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "なると",
+            "text": "へえー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "こぐま",
+            "text": "ストリートファイター？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "いそべ",
+            "text": "そうです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "なると",
+            "text": "昔のは知ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "こぐま",
+            "text": "懐かしい！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "なると",
+            "text": "曲も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "こぐま",
+            "text": "うん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "なると",
+            "text": "どう違うんですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "こぐま",
+            "text": "@なると なんの曲？",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "なると",
+            "text": "ゲームの曲です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "こぐま",
+            "text": "あー、どなんだろ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "こぐま",
+            "text": "ゲームの曲も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "なると",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "こぐま",
+            "text": "すごくよくなって来てるよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "なると",
+            "text": "すごいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "いそべ",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "なると",
+            "text": "昔はピコピコした音楽でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "こぐま",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "こぐま",
+            "text": "ピコピコ笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "いそべ",
+            "text": "ゲームも音楽も楽しめるのはいいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "なると",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "いそべ",
+            "text": "ピコピコも良さがあります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "こぐま",
+            "text": "画像もピコピコ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "なると",
+            "text": "ぴこぴこが懐かしくなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "いそべ",
+            "text": "ドット絵も好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こぐま",
+            "text": "動き悪すぎですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "なると",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "こぐま",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "なると",
+            "text": "動き変な時ありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こぐま",
+            "text": "今は、画像素晴らしいもんな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "なると",
+            "text": "今はプレステが多いんですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "なると",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "いそべ",
+            "text": "プレステは兄弟が持っています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "いそべ",
+            "text": "映像が綺麗でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "こぐま",
+            "text": "ゲーム機も高いよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "いそべ",
+            "text": "高いですね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "なると",
+            "text": "高いです！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "なると",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "こぐま",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "いそべ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

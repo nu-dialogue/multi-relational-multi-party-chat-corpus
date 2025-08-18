@@ -1,0 +1,752 @@
+{
+    "dialogue_id": "B12608",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "くじら",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くじら",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くじら",
+            "text": "昨日始めてポケモンGOしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "くじら",
+            "text": "子供に付き合って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "えのき",
+            "text": "どうでした？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら ポケモンGO！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "えのき",
+            "text": "お子さんは何歳ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くじら",
+            "text": "なんかキャラクターたくさん集めてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "くじら",
+            "text": "中1です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "くじら",
+            "text": "やってみたかったようで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "えのき",
+            "text": "男の子ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "くじら",
+            "text": "はい男子です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 好きなポケモンとかできました？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "えのき",
+            "text": "親子でやると楽しそうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "くじら",
+            "text": "好きなポケモン・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "くじら",
+            "text": "いまだに何があるのかわかってなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "えのき",
+            "text": "@くじら 私、ピカチュウしか知らないです…",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "くじら",
+            "text": "たくさん種類ありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "えのき",
+            "text": "壮大な数がありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "くじら",
+            "text": "ピカチュウならわかります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら ニンフィアみたいな可愛い系からエルレイドみたいなかっこいい系まで幅が広いですよね",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 詳しいの？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 少なくとも母よりは",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "くじら",
+            "text": "そうなんですよ！可愛いのからかっこいいのまで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "えのき",
+            "text": "名前から姿がちっとも思い浮かばない…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "くじら",
+            "text": "横文字になると・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 色違いニンフィアの男の娘感すごいよ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "くじら",
+            "text": "覚えられないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき いやな解説",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "くじら",
+            "text": "色違いとかあるんですね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら ありますね",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "えのき",
+            "text": "@くじら ポケモンGOってどうやって遊ぶんですか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき 詳しいですね！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "えのき",
+            "text": "おでかけするんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "くじら",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "くじら",
+            "text": "昨日は近所を歩いて、色々キャラクター集めてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "えのき",
+            "text": "遠くまで行ったりもするんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 私はやったことありませんが、姉はやってましたね",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "くじら",
+            "text": "後でバトルするんだと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "くじら",
+            "text": "そのうち遠くへも行くかと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "集めてバトルするんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "くじら",
+            "text": "なんかそう聞きました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": "うちは親子でドラクエウォークやってますよ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "くじら",
+            "text": "@えのき それも楽しそう！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら ドラクエご存知ですか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき昔、ゲームで",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "くじら",
+            "text": "やってたことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "えのき",
+            "text": "今バレンタインのキャンペーン中で、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "えのき",
+            "text": "親子でメガモンスターなりゅうおう様退治とかやってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "えのき",
+            "text": "ドラクエ1のボスキャラです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら ドラクエのどれやりました？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき 初期の頃かと",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "くじら",
+            "text": "もうだいぶ前です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "えのき",
+            "text": "私は3～6がリアルタイム世代です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "くじら",
+            "text": "ファミコンで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私はそのリメイク版をひたすら！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "えのき",
+            "text": "私もただのファミコン時代",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "くじら",
+            "text": "ずっと続いているのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら １〜３あたりですか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき さんは、スーファミも知らないのでは？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "くじら",
+            "text": "たぶんそうだと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 存在は知ってるよ！存在は",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "えのき",
+            "text": "ジェネレーションギャップ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "くじら",
+            "text": "スーファミもありましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき さんは、DSから？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "くじら",
+            "text": "DSも懐かしい・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くじら",
+            "text": "脳トレやってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 母がPS破壊したせいでゲーム機はDS以外にないものだと思ってましたよ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "えのき",
+            "text": "@くじら 懐かしいですよね！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき この世に",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 私破壊したっけ？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "くじら",
+            "text": "@てばさき PSもあったのですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 初めてみたプレステは友のものでした",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "えのき",
+            "text": "何も覚えていない…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "くじら",
+            "text": "夫も持ってましたけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "くじら",
+            "text": "手入が悪くて壊れたとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "旦那さん、ゲームお好きなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "てばさき",
+            "text": "かつて家にあったが破壊されたと父に聞き驚きましたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 全く覚えていない…",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "くじら",
+            "text": "@えのき 好きみたいです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "えのき",
+            "text": "@くじら ふだんゲームされますか？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "くじら",
+            "text": "@えのき ゲームしなくなってしまって",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら 最近はパルワールドというちょっと怪しいゲームも話題ですよ",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "えのき",
+            "text": "@くじら 忙しいとやる時間ないですよね～",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき パルワールドとは？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "くじら",
+            "text": "初めて聞きました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くじら",
+            "text": "どんな感じなのですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき パルワールドではモンスター以外にも人間も捕まえられるようです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "えのき",
+            "text": "オープンワールドなの？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "てばさき",
+            "text": "@くじら ジャンルとしてはオープンワールとRPG？",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "くじら",
+            "text": "なんか難しそうなゲームですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "えのき",
+            "text": "自由度高くて逆に大変そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "次に何をしていいかわからなくなりそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "くじら",
+            "text": "たぶん上手く操作出来なさそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 時間泥棒の気配はしてます",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 勉強に時間を割こう",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "くじら",
+            "text": "時間があっという間に過ぎてしまいますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき そうします",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "くじら",
+            "text": "勉強もしないとですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 資格試験の勉強は進んでいますか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 本気出せばまだまさこんなものではないはず",
+            "mention_to": [
+                "えのき"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くじら",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

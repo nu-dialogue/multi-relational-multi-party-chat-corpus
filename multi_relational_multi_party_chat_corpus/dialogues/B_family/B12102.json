@@ -1,0 +1,710 @@
+{
+    "dialogue_id": "B12102",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ばなな",
+        "たまご",
+        "つみれ"
+    ],
+    "relationship": [
+        "たまご",
+        "つみれ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ばなな",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまご",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つみれ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ばなな",
+            "text": "お二人は花粉症ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "たまご",
+            "text": "花粉症です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つみれ",
+            "text": "私は大丈夫です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たまご",
+            "text": "最近ずっと鼻詰まりが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "たまご",
+            "text": "ひどいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ばなな",
+            "text": "私は最近花粉症と診断されて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "たまご",
+            "text": "目かゆいのは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たまご",
+            "text": "治ってきたんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ばなな",
+            "text": "目がかゆいのと喉がいがいがしています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "たまご",
+            "text": "鼻だけ治りません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまご",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "つみれ",
+            "text": "@ばなな 最近ですか？辛いですね",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ばなな",
+            "text": "ずっと花粉症でないと思い込んでいたのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "たまご",
+            "text": "辛いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ばなな",
+            "text": "とうとう花粉症になってしまいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "つみれ",
+            "text": "いつ発症するかわかりませんしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "たまご",
+            "text": "大体の人花粉症な気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ばなな",
+            "text": "急に来るものなのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つみれ",
+            "text": "認めたら終わりっていう感じありますよね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "たまご",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "たまご",
+            "text": "みんな症状が花粉なのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "つみれ",
+            "text": "@ばなな 急に来るみたいです！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "たまご",
+            "text": "自分は違うって言います笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つみれ",
+            "text": "てか、いつ出るか？って感じですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "たまご",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ばなな",
+            "text": "そうです。認めたらもう駄目だあとなります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たまご",
+            "text": "ここまでくるとそうなる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つみれ",
+            "text": "なる可能性は全員あるから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ばなな",
+            "text": "あとは上手く付き合っていくしかないですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "つみれ",
+            "text": "人生のどこで出るか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "たまご",
+            "text": "けど病院で薬貰った方が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "たまご",
+            "text": "1番効きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つみれ",
+            "text": "なったらうまく付き合ってくしかないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "たまご",
+            "text": "一生付いてきますもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "つみれ",
+            "text": "注射とかもあるみたいですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ばなな",
+            "text": "@たまご 確かに病院の薬が効きますね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "たまご",
+            "text": "そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ばなな",
+            "text": "@つみれ 注射もあるんですか？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "たまご",
+            "text": "診断されて病院でもらうのが1番です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つみれ",
+            "text": "@ばなな シーズンの始まる時に打つみたいな",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たまご",
+            "text": "注射はこわい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "たまご",
+            "text": "そんなのが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 注射嫌いだからだめだね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "たまご",
+            "text": "むりー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ばなな",
+            "text": "@つみれ なるほど、シーズン初めにですね",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "たまご",
+            "text": "診断されたとき",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "たまご",
+            "text": "出てきた植物が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "たまご",
+            "text": "一年中何かしらあるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "たまご",
+            "text": "シーズンとかなく一年中花粉症です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ばなな",
+            "text": "@たまご それはたいへんですね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "つみれ",
+            "text": "いくつか反応する植物があると、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "たまご",
+            "text": "逃げれないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "たまご",
+            "text": "ずっと鼻詰まってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ばなな",
+            "text": "私はまだ検査はしてないので何かわかっていないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "つみれ",
+            "text": "結局一年中になっちゃうから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たまご",
+            "text": "そうー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ばなな",
+            "text": "通年は辛いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "たまご",
+            "text": "スギとかブタクサとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つみれ",
+            "text": "@ばなな 何に反応するかはわからないんですね",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "たまご",
+            "text": "辛いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ばなな",
+            "text": "検査してみないとですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "たまご",
+            "text": "検査した方が良いです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "たまご",
+            "text": "植物をチェックした方が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ばなな",
+            "text": "でも、何かわかるのも怖い気も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "たまご",
+            "text": "回避できます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "つみれ",
+            "text": "私も年にほんと数日喉が痒くなるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "たまご",
+            "text": "案外多くてびっくりします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "たまご",
+            "text": "何かアレルギーあるのかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "つみれ",
+            "text": "花粉症なのかもですが・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "つみれ",
+            "text": "まだ認めたくない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ばなな",
+            "text": "@つみれ 何かのアレルギーかもですね",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "たまご",
+            "text": "年に数日なら大丈夫",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たまご",
+            "text": "認めたくないんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つみれ",
+            "text": "もう少し頻繁になったら病院行きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ばなな",
+            "text": "確かに年に数日なら問題なさそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "たまご",
+            "text": "耐えれなかったら行けば良いとおもうー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つみれ",
+            "text": "まだセーフです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "たまご",
+            "text": "花粉症じゃないのずるい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "つみれ",
+            "text": "金属アレルギーは持ってるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つみれ",
+            "text": "それは辛いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "たまご",
+            "text": "ずっと鼻がむずむずする",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ばなな",
+            "text": "@つみれ 私もです",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "たまご",
+            "text": "それはきつい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ばなな",
+            "text": "肌が弱いのでかぶれたことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "たまご",
+            "text": "逆に花粉以外はゼロです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "たまご",
+            "text": "辛そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ばなな",
+            "text": "皆さんそれぞれ何かしらありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "つみれ",
+            "text": "@ばなな ちょっと金属つけてるだけで痒くなっちゃうますよね",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "たまご",
+            "text": "食べ物とかも大変そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "たまご",
+            "text": "嫌だー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "たまご",
+            "text": "食べれないのあるときつい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ばなな",
+            "text": "アクセサリーでかぶれたり、あと洋服の素材でも駄目なのがあって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまご",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つみれ",
+            "text": "@ばなな わかります！",
+            "mention_to": [
+                "ばなな"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ばなな",
+            "text": "@たまご 食べ物もアレルギーあるとたいへんですよね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たまご",
+            "text": "身につけれるの減っちゃうの嫌ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "たまご",
+            "text": "食べ物は嫌です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つみれ",
+            "text": "娘がおそらく甲殻アレルギーだと思うんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "たまご",
+            "text": "果物とかなったら泣きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "つみれ",
+            "text": "病院嫌がっていかなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "たまご",
+            "text": "甲殻はきつい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "つみれ",
+            "text": "エビ食べると痒くなるみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "ばなな",
+            "text": "@つみれ それは心配ですね",
+            "mention_to": [
+                "つみれ"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ばなな",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 2,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

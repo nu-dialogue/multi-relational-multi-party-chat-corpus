@@ -1,0 +1,774 @@
+{
+    "dialogue_id": "B11603",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ぱんだ",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ぱんだ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ぱんだ",
+            "text": "ペットとかいますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "何も飼っていません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "てばさき",
+            "text": "@ぱんだ いないですね",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ぱんだ",
+            "text": "理由とかあります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ぱんだ",
+            "text": "アレルギーとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "えのき",
+            "text": "子どものお世話だけで精一杯で…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 我らをペットだと抜かしよるつもりか貴様",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ぱんだ",
+            "text": "わかります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 何か違いが？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ぱんだ",
+            "text": "面白い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 言葉が通じる…？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "えのき",
+            "text": "むしろペットより手がかかるであろう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ぱんだ",
+            "text": "子供のお世話大変",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ぱんだ",
+            "text": "喋るしね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 家事してくれるペットはいないでしょ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ぱんだ",
+            "text": "わがまま言うし！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "えのき",
+            "text": "意思疎通、できるようでできないし…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ぱんだ",
+            "text": "癒してくれませんか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ぱんだ",
+            "text": "ご家族が！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "えのき",
+            "text": "小さい頃はよかったんですけど…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "えのき",
+            "text": "もう全員大きくなっちゃったんで…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ぱんだ",
+            "text": "小さい頃は確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 小さい頃の私は森羅万象を魅了してたから…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ぱんだ",
+            "text": "今は大きい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "えのき",
+            "text": "小さかった頃は存在が天使だったんですけど…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "えのき",
+            "text": "てばさんは、生まれたとたんに可愛かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 今は俗世に染まっちゃったので",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ぱんだ",
+            "text": "もう成人されてるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "てばさき",
+            "text": "@ぱんだ 成人してます！お酒飲めないですけど",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ぱんだ",
+            "text": "ウチは小5の女子と高校生の男子がいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "えのき",
+            "text": "今成人年齢が変わったからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "えのき",
+            "text": "なかなか大変な時期ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ぱんだ",
+            "text": "18歳ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ぱんだ",
+            "text": "大変です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "えのき",
+            "text": "受験とかいかがですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ぱんだ",
+            "text": "お金かかって仕方ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "てばさき",
+            "text": "私と同い年ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ぱんだ",
+            "text": "娘ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ぱんだ",
+            "text": "あ、違います！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ぱんだ",
+            "text": "息子は16歳です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "えのき",
+            "text": "高校一年生ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "てばさき",
+            "text": "成人年齢の話でしたか、すみません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ぱんだ",
+            "text": "去年、形だけの受験しました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "えのき",
+            "text": "一貫校とかですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ぱんだ",
+            "text": "北海道の高校へアイスホッケーで進学したんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "えのき",
+            "text": "すごいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "てばさき",
+            "text": "@ぱんだ 北海道にわざわざ…",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ぱんだ",
+            "text": "お金かかりますけどね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "えのき",
+            "text": "スポーツ特待生とかですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ぱんだ",
+            "text": "そうです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ぱんだ",
+            "text": "特待といえどお金はかかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "えのき",
+            "text": "高校から家を出すとなると、お金も大変ですけど心配もありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "てばさき",
+            "text": "@ぱんだ もう息子さんは将来の夢とか決まってるんですか？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ぱんだ",
+            "text": "ありますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ぱんだ",
+            "text": "夢はやっぱりNHLの選手なんじゃないかと！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ぱんだ",
+            "text": "無理だと思いますが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "えのき",
+            "text": "すごい…！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "てばさき",
+            "text": "NHLとは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ぱんだ",
+            "text": "ナショナルホッケーリーグ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ぱんだ",
+            "text": "ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "えのき",
+            "text": "プロの選手になるのは何でも大変ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てばさき",
+            "text": "プロの道行く感じですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ぱんだ",
+            "text": "プロ選手になれてもアジアリーグだと稼げません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ぱんだ",
+            "text": "世界に行かないと稼げない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "えのき",
+            "text": "へー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "えのき",
+            "text": "もしかして、ゆくゆくは留学とかもされるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ぱんだ",
+            "text": "夢のないスポーツですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "てばさき",
+            "text": "@ぱんだ 息子さんの英語の成績はいかがですか？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ぱんだ",
+            "text": "留学させてあげたいけど無理ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "確かに、英語は必須…！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ぱんだ",
+            "text": "宝くじ当たったらすぐに行かせますけど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "えのき",
+            "text": "それだ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ぱんだ",
+            "text": "あ、勉強は全く出来ません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "えのき",
+            "text": "@ぱんだ 宝くじとか買うんですか？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ぱんだ",
+            "text": "宝くじあたらないかなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ぱんだ",
+            "text": "買わないです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "うちの旦那は良く買ってますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ぱんだ",
+            "text": "当たりますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "てばさき",
+            "text": "@ぱんだ 買わないと当たらないんですよ…",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "えのき",
+            "text": "当たらないのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "えのき",
+            "text": "夢を買うそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ぱんだ",
+            "text": "当たりませんよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ぱんだ",
+            "text": "中々",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ぱんだ",
+            "text": "周りで当たった人とかいますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "聞いたことないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ぱんだ",
+            "text": "サマーや年末とか年に数回、トトとか色々あるのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "てばさき",
+            "text": "@ぱんだ 机叩いたその手がすり抜ける確率らしいですね",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "えのき",
+            "text": "そんな…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ぱんだ",
+            "text": "当たった人聞いた事ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "確率低すぎない？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "えのき",
+            "text": "本当？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき どっかで読みました",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ぱんだ",
+            "text": "すり抜ける…やばいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "えのき",
+            "text": "そんな確率だと、当たった人いないってことでは…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ぱんだ",
+            "text": "たしかに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "えのき",
+            "text": "それでも旦那は買い続けています。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "えのき",
+            "text": "3000円で一か月あれこれ妄想する代金と考えると安い。とか言って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ぱんだ",
+            "text": "確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "えのき",
+            "text": "捕らぬ狸の皮算用好きすぎ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "てばさき",
+            "text": "あと有名なのは、東京ドームに新聞敷き詰めて、狙った一文字に針を指せる確率でしたっけ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "えのき",
+            "text": "無理…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "ぱんだ",
+            "text": "宝くじ当たったら！の話盛り上がりますよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "てばさき",
+            "text": "夢を買う。ディズニーと一緒か",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 宝くじ当たったら何をしたいの？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "ぱんだ",
+            "text": "針させる確率！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "てばさき",
+            "text": "回らない寿司にみんなでいく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 109,
+            "interlocutor_id": "えのき",
+            "text": "ささやか・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 110,
+            "interlocutor_id": "てばさき",
+            "text": "あと課金",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 111,
+            "interlocutor_id": "ぱんだ",
+            "text": "やはり庶民…ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 112,
+            "interlocutor_id": "えのき",
+            "text": "青天井課金",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 113,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき あとは父に預けておけば増える",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 114,
+            "interlocutor_id": "ぱんだ",
+            "text": "庶民だからしたない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 115,
+            "interlocutor_id": "えのき",
+            "text": "数百万つっこむ気だな",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ぱんだ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

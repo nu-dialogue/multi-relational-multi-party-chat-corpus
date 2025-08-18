@@ -1,0 +1,794 @@
+{
+    "dialogue_id": "B14303",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "コアラ",
+        "てばさき",
+        "えのき"
+    ],
+    "relationship": [
+        "てばさき",
+        "えのき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "コアラ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "コアラ",
+            "text": "今朝地震揺れましたよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "寝てました…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "えのき",
+            "text": "ぐっすりです…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ それで起きました！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "コアラ",
+            "text": "何か防災準備してますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "てばさき",
+            "text": "まだ眠いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "えのき",
+            "text": "うちは結構食料は備蓄してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき おー水だけでとかの？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ なんとかサイクルしてます多分",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ アルファ米あります",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "コアラ",
+            "text": "リュックとか用意してます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "えのき",
+            "text": "わかめごはん好きなんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ リュックはないです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき アルファ米",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "えのき",
+            "text": "持ち出しリュックは特にないんですよね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "えのき",
+            "text": "うちはマンションで頑丈なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "えのき",
+            "text": "うちが倒壊したら他所もダメだろう的な…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "えのき",
+            "text": "その時は諦める…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき 能登地震見てトイレ簡易型買い足しました",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ けど近所徒歩1分のとこに避難所がありますよ！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ トイレは大事ですよね！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき うちもマンションです！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "コアラ",
+            "text": "なるべく家にいたいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "えのき",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "えのき",
+            "text": "避難所とかって大変そう…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき とにかくトイレすごそうですよね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "コアラ",
+            "text": "女性には耐えられない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "えのき",
+            "text": "他所の人と共用だとつらそう…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき そもそも使えないくらいになるんですよね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 最近はダンボールハウスとかもあるらしいですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき あっ、意外とあたたかいとか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "コアラ",
+            "text": "ベッドもありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ それとプライベート空間が作れていいらしいです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "えのき",
+            "text": "避難所のプライベートは大事",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき ほんと日本はいつまでも体育館だし",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "コアラ",
+            "text": "地べたに薄いふとん？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "えのき",
+            "text": "体育館、床も固くてつめたそう…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ 東日本の反省から色々防災関連は充実してきてる気がします",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "えのき",
+            "text": "底冷えしそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき そうなんだ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき この間ウィグル？か何かの避難所みたらすごかったですよ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ニーズが炙り出せた感じします",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ どんな感じですか？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "コアラ",
+            "text": "ちゃんとベッドだし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "えのき",
+            "text": "すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "コアラ",
+            "text": "中国人たちがめちゃくちゃ大きな鍋でどんどん煮炊きしてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "えのき",
+            "text": "へー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ おおー",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "コアラ",
+            "text": "色々言われててもちゃんとやるんだなーって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "コアラ",
+            "text": "マスコミ対策かもだけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "てばさき",
+            "text": "ウイグルってなにがあったんでしたっけ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき なんだか地震があったらしく",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "えのき",
+            "text": "昔はラサール高校100人部屋だったらしいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "えのき",
+            "text": "平時で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "寮が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき えっ？！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 一部屋100人？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "コアラ",
+            "text": "もちろんプライベートなし？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "えのき",
+            "text": "最大約100人が同室で暮らす。みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき 嫌すぎる",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "えのき",
+            "text": "男子校なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき それはもはや蠱毒では？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき 鹿児島の名門ですよね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "えのき",
+            "text": "私は女子高だったので、やっぱ男子は違うね～みたいな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき すごい漢字がさらっと出てくる",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "えのき",
+            "text": "私が聞いたのは函館のほうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき てばさんのデフォルトです",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき 箱館",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "コアラ",
+            "text": "あっ、漢字が変",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "昔の字ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "コアラ",
+            "text": "変換が追いつかない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラありますよねそういうこと",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき すぐ出るんですか？そういう漢字",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ パソコン使ってるので",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "えのき",
+            "text": "普段から変換してる…？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき あーなるほど",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ スマホですか？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "コアラ",
+            "text": "登録してそう？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき はい今はスマホです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "えのき",
+            "text": "フリックできないのでPCです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "てばさき",
+            "text": "ちなみにこどくは蠱毒と孤独と古毒が最初に出ますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "コアラ",
+            "text": "PC意外と打ち込みがなかなか反映されなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "コアラ",
+            "text": "古いから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "孤独のグルメ。が出た私…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "えのき",
+            "text": "なんで…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき なんだか昔の小説読んでるみたいですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき いやー！笑える",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "コアラ",
+            "text": "お正月見ちゃいましたよ延々と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ てばさんは小説書くんですよ！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき えーすごい！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき なぜその話を…？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき どんなジャンルですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "えのき",
+            "text": "@コアラ てばさんすごいんですよ！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "てばさき",
+            "text": "いやこの変換はmacの仕様なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "コアラ",
+            "text": "いい親子だわ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "えのき",
+            "text": "エッセイ風フィクション？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "コアラ",
+            "text": "@てばさき 舞台は？日本？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 小説はフィクションだぜ母よ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "えのき",
+            "text": "100人の作家アンソロジーとかに、普通に載ってそうな話書きますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "えのき",
+            "text": "主観",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "コアラ",
+            "text": "@えのき おーー自慢の娘さんですね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "えのき",
+            "text": "寡作なのが欠点ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "えのき",
+            "text": "もっと書けばいいのに…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "てばさき",
+            "text": "@コアラ ファンタジー書きたいんですけど現代の方が書きやすいことが最近わかりました",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "えのき",
+            "text": "そらそうよ",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "コアラ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

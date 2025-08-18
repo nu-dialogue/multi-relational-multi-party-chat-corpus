@@ -1,0 +1,722 @@
+{
+    "dialogue_id": "B14805",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "カンガルー",
+        "つくね",
+        "しらたき"
+    ],
+    "relationship": [
+        "つくね",
+        "しらたき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "カンガルー",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つくね",
+            "text": "こんにちはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらたき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "カンガルー",
+            "text": "今夜の夕飯は何の予定ですか。ラン",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "カンガルー",
+            "text": "ランって…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つくね",
+            "text": "ラン？笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しらたき",
+            "text": "らん？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "カンガルー",
+            "text": "自分で突っ込んじゃいましたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "つくね",
+            "text": "夕飯はまだ考えてないですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "カンガルー",
+            "text": "ちょっと寝不足でして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "つくね",
+            "text": "ドンキ行きたいねって話してて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つくね",
+            "text": "@カンガルー あるあるですね！笑",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "しらたき",
+            "text": "これから買い物ー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "カンガルー",
+            "text": "ドンキ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね ドンキ？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つくね",
+            "text": "ドンキホーテ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき え？行くんじゃないの？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "カンガルー",
+            "text": "ドンキーホーテ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "つくね",
+            "text": "シャンプー買いに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 行きたいよー",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "カンガルー",
+            "text": "ドンキーホーテでご飯？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね ピンクジャンプを",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "カンガルー",
+            "text": "なんて食べれるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "つくね",
+            "text": "@カンガルー そこの油そばが",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "しらたき",
+            "text": "ピンクシャンプー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "つくね",
+            "text": "美味しいんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つくね",
+            "text": "ラーメン食べたいなと笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "しらたき",
+            "text": "食べたいねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 買ってください",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "カンガルー",
+            "text": "ピンクシャンプーって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "カンガルー",
+            "text": "何ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "カンガルー",
+            "text": "紫シャンプーなら知ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "つくね",
+            "text": "@カンガルー それのピンク版です！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しらたき",
+            "text": "@カンガルー 髪の色落ちを抑えるシャンプー",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つくね",
+            "text": "したらたき今髪の色が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "カンガルー",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "つくね",
+            "text": "ピンクでして笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "しらたき",
+            "text": "@カンガルー カネチー",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "カンガルー",
+            "text": "ドンキーホーテで売ってるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つくね",
+            "text": "@カンガルー そうなんです！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "カンガルー",
+            "text": "え！しらたきさんピンク？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "しらたき",
+            "text": "はい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つくね",
+            "text": "なのでついでに夕飯も食べてこようかと笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "カンガルー",
+            "text": "かねちか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "つくね",
+            "text": "かねちかピンクですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "しらたき",
+            "text": "ピンクで会社行ってます！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "カンガルー",
+            "text": "おお！みてみたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "つくね",
+            "text": "@カンガルー 私はブルーです！笑",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "カンガルー",
+            "text": "え！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "しらたき",
+            "text": "派手な夫婦です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "カンガルー",
+            "text": "@つくね さんはブルー！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つくね",
+            "text": "ですです！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つくね",
+            "text": "@カンガルー そうでーす！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "カンガルー",
+            "text": "いいですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "つくね",
+            "text": "子供がすぐ見つけられる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つくね",
+            "text": "親です！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "しらたき",
+            "text": "家の隣が美容室でして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "カンガルー",
+            "text": "因みにお子さんは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "しらたき",
+            "text": "仲良くしていて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つくね",
+            "text": "@カンガルー 子供はまだ小さいのでカラーはしてません！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "カンガルー",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "カンガルー",
+            "text": "私は白髪隠しのメッシュ入れてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つくね",
+            "text": "メッシュ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "しらたき",
+            "text": "あー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "しらたき",
+            "text": "メッシュ入れてもらおうかなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "つくね",
+            "text": "素敵ですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "カンガルー",
+            "text": "でも高い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つくね",
+            "text": "そうなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "カンガルー",
+            "text": "この間美容院いったら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "カンガルー",
+            "text": "20000超えました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つくね",
+            "text": "えー！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "しらたき",
+            "text": "やばー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "つくね",
+            "text": "高っ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "カンガルー",
+            "text": "だからあまり行けない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つくね",
+            "text": "20000万あったら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "つくね",
+            "text": "他に使いたい…笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つくね",
+            "text": "間違えた！2万！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "カンガルー",
+            "text": "ですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しらたき",
+            "text": "美容院の金額わからない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つくね",
+            "text": "こちは田舎なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つくね",
+            "text": "カラーカットで大体",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "つくね",
+            "text": "1万いくかいかないかですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "カンガルー",
+            "text": "高いんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "カンガルー",
+            "text": "なける",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "つくね",
+            "text": "でも有名な美容院とかありそうで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "つくね",
+            "text": "ちょっと気になります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つくね",
+            "text": "やってもらいたい！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "カンガルー",
+            "text": "どうなんだろー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "つくね",
+            "text": "そうでもないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "カンガルー",
+            "text": "でも普通かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "しらたき",
+            "text": "でもやってるところ皆に見られそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "カンガルー",
+            "text": "都内は高いんですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "つくね",
+            "text": "技術とかは最新っぽそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "カンガルー",
+            "text": "場所代？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "しらたき",
+            "text": "都会の美容室は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "カンガルー",
+            "text": "場所代だな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つくね",
+            "text": "あー確かに場所代は高いですよね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "カンガルー",
+            "text": "美容院も戦争ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "つくね",
+            "text": "@カンガルー 確かに！たくさんあるイメージですね！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "カンガルー",
+            "text": "経営大変そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "しらたき",
+            "text": "自分が美容師になればいいね！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "カンガルー",
+            "text": "美容師になる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "カンガルー",
+            "text": "今からなれるかなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 国家資格だから！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "カンガルー",
+            "text": "娘になってもらったらいいかなとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "つくね",
+            "text": "@カンガルー それいいですね！",
+            "mention_to": [
+                "カンガルー"
+            ]
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "カンガルー",
+            "text": "今思っちゃいました",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "カンガルー",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

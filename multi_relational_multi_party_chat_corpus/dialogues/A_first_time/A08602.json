@@ -1,0 +1,713 @@
+{
+    "dialogue_id": "A08602",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "しらす",
+        "しじみ",
+        "あまえび"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "しらす",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "しじみ",
+            "text": "こんにちは〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "あまえび",
+            "text": "こんんちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "しらす",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "あまえび",
+            "text": "よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "しじみ",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しらす",
+            "text": "明日、子どものお別れ遠足でして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "あまえび",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "しじみ",
+            "text": "おぉ〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "しらす",
+            "text": "久しぶりのお弁当作り",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "しじみ",
+            "text": "@しらす あら、大変ですね！",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "しじみ",
+            "text": "年長さんですか？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "しらす",
+            "text": "久しぶりすぎて作り方忘れます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "あまえび",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "しじみ",
+            "text": "@しらす わかります！",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "しらす",
+            "text": "@しじみ いえ小一です",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "しじみ",
+            "text": "久々に作ると、おにぎりカチカチにしがち…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "しらす",
+            "text": "分かります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "しらす",
+            "text": "握り加減分からなくなる笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "あまえび",
+            "text": "@しじみ ぎゅっと握るって事ですか？",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "しじみ",
+            "text": "@しらす おぉ！毎年お別れ遠足があるんですか？",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "あまえび",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "しらす",
+            "text": "@しじみ 毎年ありますね",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "しじみ",
+            "text": "@あまえび 前日に握って、冷蔵庫にいれちゃってカチカチに…",
+            "mention_to": [
+                "あまえび"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "しじみ",
+            "text": "毎年あるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "あまえび",
+            "text": "@しらす なるほど。",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "しらす",
+            "text": "でも今回子どものリクエストが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "しじみ",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "あまえび",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "しらす",
+            "text": "普通のごはんにふりかけがいいと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "しじみ",
+            "text": "え！最高！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "しじみ",
+            "text": "ありがとう！なやつですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しらす",
+            "text": "母的には楽です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しじみ",
+            "text": "ですねですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "あまえび",
+            "text": "@しらす よいお子様ですね。",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "しらす",
+            "text": "でも外で食べにくそう笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "しじみ",
+            "text": "ふふふ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "しらす",
+            "text": "@あまえび ありがたいです",
+            "mention_to": [
+                "あまえび"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "あまえび",
+            "text": "おにぎりは、母心でしたね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "しじみ",
+            "text": "想像すると可愛い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "しらす",
+            "text": "まぁ、理由が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "あまえび",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "しじみ",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しらす",
+            "text": "おにぎりが少なく感じるみたいです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "しじみ",
+            "text": "あ〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "しじみ",
+            "text": "実質の量は、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "あまえび",
+            "text": "そうなんだーーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "あまえび",
+            "text": "かわいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "あまえび",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "しじみ",
+            "text": "絶対おにぎりが多いのに不思議ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "しらす",
+            "text": "そうなんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "あまえび",
+            "text": "ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "しじみ",
+            "text": "おにぎりってペロっと食べられますもんねぇ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "しじみ",
+            "text": "育ち盛りでいい事ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "しらす",
+            "text": "@しじみ あれ、不思議ですよね",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しじみ",
+            "text": "ですです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "あまえび",
+            "text": "子どものことは、100円より60円の方が多く感じたのと一緒でしょうか。笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "しじみ",
+            "text": "@あまえび あ〜！ありますよね！",
+            "mention_to": [
+                "あまえび"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "しらす",
+            "text": "@あまえび そんな感じだと思います",
+            "mention_to": [
+                "あまえび"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "しじみ",
+            "text": "@しらす おかずのリクエストはあったんですか？",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "しらす",
+            "text": "@しじみ それもですね、冷凍食品でいいって笑",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "しじみ",
+            "text": "おぉ〜！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しらす",
+            "text": "母的にはありがたいけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "しじみ",
+            "text": "なんて親孝行なお子様！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "あまえび",
+            "text": "ほんとうに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "しらす",
+            "text": "なんかさみしい笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "しじみ",
+            "text": "あら笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "しじみ",
+            "text": "でも、冷食って、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "しらす",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "しじみ",
+            "text": "保冷剤がわりにもなるし、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "しらす",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "しじみ",
+            "text": "いい事づくめですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "あまえび",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "しじみ",
+            "text": "最近のって見た目も可愛いしー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "しらす",
+            "text": "今自然解凍多いですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "あまえび",
+            "text": "そうですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "しらす",
+            "text": "かわいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しじみ",
+            "text": "確かに！自然解凍多いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "しらす",
+            "text": "保冷剤要らずで助かります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "しじみ",
+            "text": "ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "あまえび",
+            "text": "ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "しらす",
+            "text": "種類も豊富だし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "あまえび",
+            "text": "スーパー行ったら、迷うほど在りますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "あまえび",
+            "text": "種類が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "しらす",
+            "text": "でもせめて卵焼きは作らねば笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "しじみ",
+            "text": "ありますねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "あまえび",
+            "text": "そうそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しじみ",
+            "text": "お弁当に卵焼き入ってると、テンションあがりますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "しらす",
+            "text": "上がりますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "しじみ",
+            "text": "昨日ショート動画見ていて、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "あまえび",
+            "text": "上がります。なんででしょうね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "あまえび",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "しらす",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "しじみ",
+            "text": "卵焼きにほうれん草と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "しらす",
+            "text": "おぉ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "しじみ",
+            "text": "アラスカ？っていんですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "あまえび",
+            "text": "ええ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "しじみ",
+            "text": "赤と白のカニカマみたいなやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "しらす",
+            "text": "アラスカ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "あまえび",
+            "text": "アラスカ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "しらす",
+            "text": "初めて聞きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "しじみ",
+            "text": "あれ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "しじみ",
+            "text": "アラスカって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "しじみ",
+            "text": "地域限定ですかね？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "しらす",
+            "text": "かもしれません",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "しらす",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "しじみ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "あまえび",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

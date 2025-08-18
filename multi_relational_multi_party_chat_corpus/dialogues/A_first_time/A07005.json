@@ -1,0 +1,737 @@
+{
+    "dialogue_id": "A07005",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "てんぷら",
+        "ししとう",
+        "みたらし"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "てんぷら",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ししとう",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "みたらし",
+            "text": "こんばんはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "てんぷら",
+            "text": "先日、職場で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "てんぷら",
+            "text": "あ、わたし派遣なんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "てんぷら",
+            "text": "社員さんがスマートウォッチしてて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "みたらし",
+            "text": "スマートウォッチ！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "てんぷら",
+            "text": "財布も携帯も忘れたけど、電車に乗れたんです！って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら スマートウォッチ便利〜！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "みたらし",
+            "text": "そうなりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "てんぷら",
+            "text": "うらやましくなりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ししとう",
+            "text": "興味あるけど持ってない！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "みたらし",
+            "text": "私も最近財布持たないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "みたらし",
+            "text": "スマホですべて済んでします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "てんぷら",
+            "text": "@みたらし スマートウォッチ持ってる人ですか",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "みたらし",
+            "text": "スマホだけですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし スマホ活用しまくりなんでさね！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "みたらし",
+            "text": "@ししとう ですね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "てんぷら",
+            "text": "時代ですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "みたらし",
+            "text": "ポイントもカードもスイカもスマホ1台です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ししとう",
+            "text": "決済方法も増えましたもんね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "みたらし",
+            "text": "@ししとう ですね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "みたらし",
+            "text": "便利ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ししとう",
+            "text": "便利ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "てんぷら",
+            "text": "スマホは忘れませんもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "みたらし",
+            "text": "スマートウォッチじゃないですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "てんぷら",
+            "text": "何か忘れても大丈夫な生活がしたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "みたらし",
+            "text": "心拍数とかを測るやつはつけてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "てんぷら",
+            "text": "あー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし 心拍数！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "みたらし",
+            "text": "@てんぷら ですね",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "てんぷら",
+            "text": "指輪でなく？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "みたらし",
+            "text": "指輪ではないですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ししとう",
+            "text": "どうやってはかるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "みたらし",
+            "text": "時計と心拍数と万歩計がついてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "てんぷら",
+            "text": "万歩計か",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし なるほど！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "みたらし",
+            "text": "@ししとう 心拍数は時計の反対側に",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "てんぷら",
+            "text": "データは分析できるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "みたらし",
+            "text": "レーザー的なのがついててそこで図っているみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ししとう",
+            "text": "健康意識できますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "みたらし",
+            "text": "データ分析はアプリでできますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "みたらし",
+            "text": "@ししとう ですね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "てんぷら",
+            "text": "めっちゃびっくりしたときに心拍数が上がって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "みたらし",
+            "text": "寝ているときの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "てんぷら",
+            "text": "アラートが鳴ったりしそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "みたらし",
+            "text": "レム睡眠とノンレム睡眠とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "てんぷら",
+            "text": "寝ているときも付けているんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "みたらし",
+            "text": "無呼吸症候群とかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "てんぷら",
+            "text": "おおお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし なるほど！睡眠記録にも！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "みたらし",
+            "text": "分析できます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "てんぷら",
+            "text": "心拍数で無呼吸かどうか分かるんですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ししとう",
+            "text": "私、ポケモンスリープやろうとしたら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "みたらし",
+            "text": "寝てるときもつけてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ししとう",
+            "text": "スマホが熱くなりすぎて断念…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "みたらし",
+            "text": "@てんぷら ポケモンスリープ？",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし そうそう！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ししとう",
+            "text": "そういうアプリがあるんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "みたらし",
+            "text": "@ししとう さんですね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "てんぷら",
+            "text": "ポケモンスリープ、ググりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "てんぷら",
+            "text": "睡眠ゲームアプリとあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "みたらし",
+            "text": "あとでgoogle先生に聞いてみよう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "みたらし",
+            "text": "睡眠ゲーム！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てんぷら",
+            "text": "朝起きるのが楽しみになる、とありますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ししとう",
+            "text": "自分の睡眠のリズムや就寝時間にあわせて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "てんぷら",
+            "text": "明日が月曜でも楽しみに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "てんぷら",
+            "text": "なりたーい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ししとう",
+            "text": "朝起きるとポケモンが出てきて捕まえれるんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "みたらし",
+            "text": "おお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "てんぷら",
+            "text": "それはインストールしますわ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ししとう",
+            "text": "なのに…私のスマホでは熱くなっちゃって…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ししとう",
+            "text": "こわいのでアンインストール…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "てんぷら",
+            "text": "あ、一晩中",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "みたらし",
+            "text": "ポケモンゴーの睡眠版！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "てんぷら",
+            "text": "稼働しているわけですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "みたらし",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "てんぷら",
+            "text": "バッテリー食うんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ししとう",
+            "text": "稼働してるんですよね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "みたらし",
+            "text": "バッテリーに悪そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ししとう",
+            "text": "朝起きると電池切れてたり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "てんぷら",
+            "text": "昔、スマホが膨らんだことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "みたらし",
+            "text": "@ししとう あらら",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "てんぷら",
+            "text": "バッテリー故障で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "てんぷら",
+            "text": "怖い怖い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "みたらし",
+            "text": "怖いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ししとう",
+            "text": "出始めにしたからかもしれないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "みたらし",
+            "text": "よく爆発しなかったですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "てんぷら",
+            "text": "ほんとです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "みたらし",
+            "text": "@ししとう 今後に期待ですね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "みたらし",
+            "text": "出たばかりなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てんぷら",
+            "text": "まだ出てから1年経ってなさそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ししとう",
+            "text": "1年くらい前かな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "みたらし",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ししとう",
+            "text": "そうそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "てんぷら",
+            "text": "2023年7月とあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "みたらし",
+            "text": "半年すぎたくらいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "てんぷら",
+            "text": "改善、されてるかなあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "みたらし",
+            "text": "まだ改善されてないのかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "みたらし",
+            "text": "@てんぷら されてないと怖いですね",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "てんぷら",
+            "text": "バッテリーは大事にしたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "みたらし",
+            "text": "爆発事件がおきそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ししとう",
+            "text": "ですよね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "てんぷら",
+            "text": "耳元で爆発はちょっとね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "みたらし",
+            "text": "@てんぷら 耳元怖い",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "ししとう",
+            "text": "朝起きて焼け野原とか漫画の世界…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "てんぷら",
+            "text": "目覚まし時計の暴走ですわ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "ししとう",
+            "text": "爆発で起こされるやつですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "みたらし",
+            "text": "特に冬は乾燥しているから火事は怖いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 109,
+            "interlocutor_id": "てんぷら",
+            "text": "ほんとです",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "てんぷら",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ししとう",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "みたらし",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

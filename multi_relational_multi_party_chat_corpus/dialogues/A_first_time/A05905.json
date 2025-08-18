@@ -1,0 +1,685 @@
+{
+    "dialogue_id": "A05905",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "まぐろ",
+        "さんま",
+        "はくまい"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "まぐろ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "さんま",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "はくまい",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "まぐろ",
+            "text": "よろしくおねがいします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "さんま",
+            "text": "お願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "はくまい",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "まぐろ",
+            "text": "英語って、はなせますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "はくまい",
+            "text": "全然話せないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "さんま",
+            "text": "@まぐろ はなせないです…",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "はくまい",
+            "text": "この前",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "まぐろ",
+            "text": "お",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "さんま",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "はくまい",
+            "text": "外国人に道を聞かれたことがあって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "はくまい",
+            "text": "その時困りましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "まぐろ",
+            "text": "緊張しますよね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "はくまい",
+            "text": "もうちょっと勉強していればよかったなーと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "さんま",
+            "text": "@はくまい 困りますね",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "はくまい",
+            "text": "反省会しました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "まぐろ",
+            "text": "わははは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "まぐろ",
+            "text": "一人反省会ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "はくまい",
+            "text": "てます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "はくまい",
+            "text": "です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "まぐろ",
+            "text": "わかるなあ。単語でどうにかなりました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "はくまい",
+            "text": "単語は問題ないですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "はくまい",
+            "text": "いざ話すとなると文法がどっかに行っちゃうんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "まぐろ",
+            "text": "わかります・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "さんま",
+            "text": "文法は…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "まぐろ",
+            "text": "出川イングリッシュで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "さんま",
+            "text": "難しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "まぐろ",
+            "text": "コミュ力で乗り切りたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "さんま",
+            "text": "単語の羅列ですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "はくまい",
+            "text": "最近コロナも引いてきて外国人よくみるようになったので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "はくまい",
+            "text": "改めて勉強しようと思いました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "さんま",
+            "text": "@はくまい えらいです",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "まぐろ",
+            "text": "私も職場に外国籍の方いるのですが・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "はくまい",
+            "text": "あと話せたらカッコいいので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "まぐろ",
+            "text": "@はくまい そうなんです・・話したい！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "はくまい",
+            "text": "@まぐろ ほうほう",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "さんま",
+            "text": "@はくまい カッコいいですよ！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "まぐろ",
+            "text": "私の方は話を直接せず",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "まぐろ",
+            "text": "チャットなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "まぐろ",
+            "text": "業務の指示が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "はくまい",
+            "text": "チャット？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "はくまい",
+            "text": "どんな仕事なんですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "さんま",
+            "text": "@まぐろ 英語でチャットですか？",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "まぐろ",
+            "text": "外国人技術者からExcelとか使った資料を頼まれるのですが・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "まぐろ",
+            "text": "作業指示を日本語でくれます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "まぐろ",
+            "text": "翻訳してくださって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "はくまい",
+            "text": "翻訳してくれるのは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "はくまい",
+            "text": "ありがたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "まぐろ",
+            "text": "本当、お互いの共通言語がなくても",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "まぐろ",
+            "text": "仕事ができる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "さんま",
+            "text": "すごい世の中ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "まぐろ",
+            "text": "私も、翻訳したときに正しい意味になるように",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "はくまい",
+            "text": "ニュースで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "まぐろ",
+            "text": "してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "はくまい",
+            "text": "リアルタイム翻訳が開発されてるって聞いたことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "さんま",
+            "text": "@はくまい 聞いた事あります！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "まぐろ",
+            "text": "@はくまい すごい！そこまできているんだ",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "はくまい",
+            "text": "話している時に相手の言語に翻訳するっていうやつです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "はくまい",
+            "text": "すごいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "さんま",
+            "text": "便利ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "まぐろ",
+            "text": "ほしい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "さんま",
+            "text": "勉強しなくてもいいかなって思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "はくまい",
+            "text": "翻訳こんにゃくができますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "まぐろ",
+            "text": "@さんま 確かに",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "さんま",
+            "text": "@はくまい あれ欲しかったです",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "まぐろ",
+            "text": "@はくまい リアル翻訳こんにゃくですね",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "はくまい",
+            "text": "昔はこんなものあったらいいなが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "はくまい",
+            "text": "現実になってますもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "まぐろ",
+            "text": "私は21世紀は空飛んでると思ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "さんま",
+            "text": "スマホのアプリもありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "まぐろ",
+            "text": "@さんま アプリもあるんだ！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "はくまい",
+            "text": "今の人も22世紀は空飛んでると思ってるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "さんま",
+            "text": "@まぐろ 翻訳アプリです",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "はくまい",
+            "text": "案外未来空飛ばないがもですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "まぐろ",
+            "text": "@さんま なるほど",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "はくまい",
+            "text": "@さんま ありますね",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "まぐろ",
+            "text": "@はくまい えー！飛んでみたかった",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "さんま",
+            "text": "タケコプターですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "まぐろ",
+            "text": "タケコプター、本当にほしかった・・憧れ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "はくまい",
+            "text": "タケコプター欲しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "さんま",
+            "text": "背中にプロペラつけて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "さんま",
+            "text": "飛ぶ人はいますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "まぐろ",
+            "text": "@さんま え！そうなんですか！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "さんま",
+            "text": "写真家さんでしたか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "はくまい",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "さんま",
+            "text": "空中写真です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "まぐろ",
+            "text": "凄すぎないですか！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "さんま",
+            "text": "パラグライダーとプロペラです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "はくまい",
+            "text": "すごいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "まぐろ",
+            "text": "空中撮影への熱意がすごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "さんま",
+            "text": "すごい装備なんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "まぐろ",
+            "text": "怖くて・・できないかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "はくまい",
+            "text": "バンジーとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "まぐろ",
+            "text": "わあ・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "はくまい",
+            "text": "スカイダイビング人生に一回はしてみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "まぐろ",
+            "text": "私意識失う自信あります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "さんま",
+            "text": "@はくまい あこがれますが",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "はくまい",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "さんま",
+            "text": "怖そうです",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "まぐろ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "さんま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "はくまい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

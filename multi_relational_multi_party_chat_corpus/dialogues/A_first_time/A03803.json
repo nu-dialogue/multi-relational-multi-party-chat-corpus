@@ -1,0 +1,705 @@
+{
+    "dialogue_id": "A03803",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おにぎり",
+        "うどん",
+        "ちくわぶ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おにぎり",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "うどん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ちくわぶ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おにぎり",
+            "text": "最近、良い事ありました？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "うどん",
+            "text": "旅行に行きました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "おにぎり",
+            "text": "@うどん 旅行！どちらへ？",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "うどん",
+            "text": "@おにぎり 石垣島です！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@うどん おー",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "おにぎり",
+            "text": "石垣島ーーー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ちくわぶ",
+            "text": "いいなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "うどん",
+            "text": "もう夏かと思いました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "うどん",
+            "text": "25度とかで 笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "おにぎり",
+            "text": "暑かったんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "うどん",
+            "text": "そうなんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ちくわぶ",
+            "text": "風邪ひきそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "うどん",
+            "text": "桜も咲いてて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "おにぎり",
+            "text": "泳げるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "うどん",
+            "text": "泳げるみたいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@うどん えー",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "おにぎり",
+            "text": "泳ぎました？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "うどん",
+            "text": "わたしは泳がなかったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "うどん",
+            "text": "まさか泳げると思わなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "おにぎり",
+            "text": "確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "うどん",
+            "text": "水着持って行ってなくて 泣",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "おにぎり",
+            "text": "何されたんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ちくわぶ",
+            "text": "2月ですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "うどん",
+            "text": "船底がガラスになってる船に乗って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ちくわぶ",
+            "text": "おしゃれー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "うどん",
+            "text": "海底のお魚とかウミガメを見ました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "うどん",
+            "text": "海の仲間たちが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "おにぎり",
+            "text": "楽しそう～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "うどん",
+            "text": "つくりものかと思うくらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "うどん",
+            "text": "綺麗なんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "おにぎり",
+            "text": "カラフルなのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "うどん",
+            "text": "おすすめ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ちくわぶ",
+            "text": "そりゃー綺麗だー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "うどん",
+            "text": "@おにぎり そうそう！カラフル！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "おにぎり",
+            "text": "美味しいもの食べました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "うどん",
+            "text": "カクレクマノミとかウミガメとか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "おにぎり",
+            "text": "ニモだ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ウミガメたべれるの？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "うどん",
+            "text": "@おにぎり 八重山そば？を食べました！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "おにぎり",
+            "text": "見たんだと思います笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "うどん",
+            "text": "あ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ちくわぶ",
+            "text": "あ、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "うどん",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ちくわぶ",
+            "text": "タイミング笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ちくわぶ",
+            "text": "失礼！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "おにぎり",
+            "text": "八重山そば、美味しいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "うどん",
+            "text": "こちらこそ！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "うどん",
+            "text": "@おにぎり 八重山そばご存知でうれしい！ですよね〜！！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "うどん",
+            "text": "沖縄の香辛料がおいしくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ちくわぶ",
+            "text": "食べたことないなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "おにぎり",
+            "text": "昔、一度行ったことあります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "おにぎり",
+            "text": "香辛料？あるんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "うどん",
+            "text": "@おにぎり そうなんですねーーー！！！！！素敵なところですね！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "うどん",
+            "text": "コーレグース？だったかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "うどん",
+            "text": "沖縄の香辛料で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "うどん",
+            "text": "泡盛に、島とうがらしを漬け込んだやつで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "おにぎり",
+            "text": "聞いたことありますねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "うどん",
+            "text": "めちゃめちゃ辛いんです！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@うどん 辛いんだー",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "うどん",
+            "text": "でも、八重山そばに入れると最高！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ちくわぶ",
+            "text": "おいしそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "おにぎり",
+            "text": "辛い物好きには、たまらないですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "うどん",
+            "text": "@おにぎり ですよねですよね！！！！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "おにぎり",
+            "text": "石垣島あまり、食べ物の記憶ないな笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ちくわぶ",
+            "text": "なんの記憶が？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "おにぎり",
+            "text": "水牛で、島めぐりみたいのしましたね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ちくわぶ",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "うどん",
+            "text": "水牛で島巡り！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "おにぎり",
+            "text": "@ちくわぶ 美味しい食べ物の記憶が。。",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ちくわぶ",
+            "text": "テレビでみるやつー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "うどん",
+            "text": "楽しそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "うどん",
+            "text": "わたしも、そば意外はソフトクリームとか食べてたので...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "うどん",
+            "text": "あ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "おにぎり",
+            "text": "のんびり出来た記憶があります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うどん",
+            "text": "なんか石垣島しかないジェラートはめちゃ美味しかったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "おにぎり",
+            "text": "そんなのあるんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "うどん",
+            "text": "@おにぎり ほんと、空気違いますよね！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ちくわぶ",
+            "text": "行ってみたいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "うどん",
+            "text": "ジェラートの名前なんだったかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "おにぎり",
+            "text": "25度で食べたら、さらに美味しいはず。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "うどん",
+            "text": "ミルミル本舗だ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "うどん",
+            "text": "空港にもあるのでぜひ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "おにぎり",
+            "text": "可愛い名前！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "うどん",
+            "text": "名前かわいいですよね 笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "おにぎり",
+            "text": "行きたいな～～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "うどん",
+            "text": "もうほんと、美味しいんです〜！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ちくわぶ",
+            "text": "食べてみたいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "おにぎり",
+            "text": "@ちくわぶ 旅行とか行かれます？",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ちくわぶ",
+            "text": "この前行ってきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "うどん",
+            "text": "お！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "うどん",
+            "text": "@ちくわぶ どちらへ？",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "おにぎり",
+            "text": "皆さま、旅に出ていて、いいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ちくわぶ",
+            "text": "けど、石垣島の話の後じゃあ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ちくわぶ",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "おにぎり",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "うどん",
+            "text": "だいじょうぶ！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ちくわぶ",
+            "text": "横浜へ行ってきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ちくわぶ",
+            "text": "中華街行ってみたくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "うどん",
+            "text": "わぁー！！横浜好き！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "おにぎり",
+            "text": "横浜、大好きですーーー！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "おにぎり",
+            "text": "初中華街ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "ちくわぶ",
+            "text": "そうなんです",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おにぎり",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "うどん",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ちくわぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

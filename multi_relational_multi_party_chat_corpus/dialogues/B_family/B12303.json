@@ -1,0 +1,766 @@
+{
+    "dialogue_id": "B12303",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "つくね",
+        "しらたき",
+        "すじこ"
+    ],
+    "relationship": [
+        "つくね",
+        "しらたき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "つくね",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "しらたき",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "すじこ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "つくね",
+            "text": "今日夕飯は何食べましたー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "しらたき",
+            "text": "まぜそばと巻き寿司",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね うちは回転寿司行きました",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しらたき",
+            "text": "食いすぎて気持ち悪い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 回転寿司いいですねー！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ 寿司おいしいですよね！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "つくね",
+            "text": "なんのネタが好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "しらたき",
+            "text": "いかがいーかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね サーモン好きですね！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ サーモン美味しいですよね！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "しらたき",
+            "text": "子供がいくらばっか食べる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "つくね",
+            "text": "赤身もすきです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき だいぶ贅沢",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき いくら！？渋いですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ 海がない県なので",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "しらたき",
+            "text": "鮮度がいまいち！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 確かに！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "つくね",
+            "text": "新鮮な海鮮食べたいよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね 赤身もさっぱりでいいですよね！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "しらたき",
+            "text": "海鮮が好きなのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ ですよね！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "しらたき",
+            "text": "特に生牡蠣とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "しらたき",
+            "text": "いっぱい食べたいのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つくね",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "しらたき",
+            "text": "鮮度悪くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "すじこ",
+            "text": "生牡蠣食べたい！けど当たるの怖いです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ この前初めて食べてみましたが",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "すじこ",
+            "text": "臭いですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "つくね",
+            "text": "私は苦手でした…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 少し臭いました",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "つくね",
+            "text": "好んで食べたいとは思わなかったです…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね 殻付きの焼いたのとかどうですか？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 食べたことないです！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "しらたき",
+            "text": "ガンガン焼き？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "すじこ",
+            "text": "ガンガン焼きって言うのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき だったけ？忘れちゃった…",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "しらたき",
+            "text": "この前岩手の出張牡蠣小屋来ていて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "しらたき",
+            "text": "めっちゃ食べました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 私も行きたかった…",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "すじこ",
+            "text": "まだ臭みも消えてホクホクで美味しく頂けるかと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しらたき",
+            "text": "ビールがうますぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "しらたき",
+            "text": "牡蠣の味あまり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 確かに！焼いたら臭み消えますね",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "しらたき",
+            "text": "おぼえてない！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "つくね",
+            "text": "カキフライなら食べられます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき いいですね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき もったいなーい！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "すじこ",
+            "text": "覚えてない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ お酒は飲みますか？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね 飲みますがすごく弱いです",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "すじこ",
+            "text": "コスパ良し",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ そうなんですね！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ 酒大好きです！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "しらたき",
+            "text": "この前便器に挟まれて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "つくね",
+            "text": "うちは夫婦で飲みます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "しらたき",
+            "text": "寝てました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき そうそう！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき やっぱりビールですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つくね",
+            "text": "気付いたら便座に挟まって寝てた笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しらたき",
+            "text": "ビールですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "しらたき",
+            "text": "ずーっとビール",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "すじこ",
+            "text": "挟まって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しらたき",
+            "text": "たまに梅酒ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ ヤバいですよね笑",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つくね",
+            "text": "いびきもかいてました笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき 流されなくてよかった",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "しらたき",
+            "text": "自動で閉まってくるんだもん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "しらたき",
+            "text": "皆んなに言いふらす",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "しらたき",
+            "text": "嫁！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき そりゃ便座は自動開閉にしてるからね！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "すじこ",
+            "text": "完全にネタですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 面白くて最高じゃん！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "しらたき",
+            "text": "皆んな大爆笑で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つくね",
+            "text": "そうそう笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ ビールですか？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき ビールですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "しらたき",
+            "text": "晩酌とかもします？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "すじこ",
+            "text": "ちゃんぽんすると潰れるので笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ そうですよね！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つくね",
+            "text": "ちゃんぽんすると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つくね",
+            "text": "気持ちも悪くなりますよね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき 晩酌で1杯だけにしてます",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しらたき",
+            "text": "うちは腰が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 晩酌1杯だって！見習え！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね すぐマーライオンです笑",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "しらたき",
+            "text": "ヘルニアになったため",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ マーライオン！笑",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "しらたき",
+            "text": "晩酌禁止されました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "つくね",
+            "text": "トイレとお友達ですね！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき 痛むんですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しらたき",
+            "text": "痛みます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "しらたき",
+            "text": "通院してます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "しらたき",
+            "text": "ブロック注射もしました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 薬中かってくらい薬が出でて…",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "しらたき",
+            "text": "四つん這いになってけつに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね ベストフレンドです笑",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 最高ですね！笑",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "しらたき",
+            "text": "毎日薬漬け",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "しらたき",
+            "text": "最悪です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき 毎月ですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 薬中にアル中！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "しらたき",
+            "text": "ブロックは一回だけです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "しらたき",
+            "text": "薬は毎日です",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "すじこ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

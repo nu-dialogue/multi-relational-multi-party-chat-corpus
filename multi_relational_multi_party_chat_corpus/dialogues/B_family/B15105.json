@@ -1,0 +1,732 @@
+{
+    "dialogue_id": "B15105",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "コアラ",
+        "にんじん",
+        "たまねぎ"
+    ],
+    "relationship": [
+        "にんじん",
+        "たまねぎ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "コアラ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "にんじん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "たまねぎ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "コアラ",
+            "text": "漫画とか小説って読みますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "たまねぎ",
+            "text": "両方読みます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "にんじん",
+            "text": "わたしもー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "にんじん",
+            "text": "最近は読めてないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "コアラ",
+            "text": "@たまねぎ おっ、どんな感じのを？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "たまねぎ",
+            "text": "時間がとれないね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "コアラ",
+            "text": "@にんじん お忙しい？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "にんじん",
+            "text": "@コアラ 集中できる時が…",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "にんじん",
+            "text": "ワンピースもたまってる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "たまねぎ",
+            "text": "@にんじん そーそー",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "コアラ",
+            "text": "@にんじん わかります、夜とか？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "たまねぎ",
+            "text": "新刊たまりまくってる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "にんじん",
+            "text": "@コアラ 夜字みると寝ちゃう",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "コアラ",
+            "text": "@にんじん ワンピース，映画2回いきました",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "たまねぎ",
+            "text": "@コアラ おー",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "コアラ",
+            "text": "ウタのです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "たまねぎ",
+            "text": "うたのやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "にんじん",
+            "text": "まだ見てない〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "コアラ",
+            "text": "娘がado好きで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "にんじん",
+            "text": "アマプラで見れるのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "にんじん",
+            "text": "@コアラ アドいいですよねー",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "にんじん",
+            "text": "天才！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "コアラ",
+            "text": "友達と行った後、付き合いました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "たまねぎ",
+            "text": "わかるー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "コアラ",
+            "text": "Adoのライブみたいでしたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "にんじん",
+            "text": "うたうますぎー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "コアラ",
+            "text": "絵もかわいいし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "たまねぎ",
+            "text": "@コアラ 間違いない！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "コアラ",
+            "text": "「私は最強」とかほんとよかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "にんじん",
+            "text": "ワンピーススキー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "コアラ",
+            "text": "でもミセスグリーンアップルが作ってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "にんじん",
+            "text": "@コアラ いいなぁ",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "にんじん",
+            "text": "@コアラ そーそー",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "たまねぎ",
+            "text": "@コアラ そっちの方もすき！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "コアラ",
+            "text": "本家もあの声出てて驚きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "コアラ",
+            "text": "大森さんでしたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "にんじん",
+            "text": "@コアラ たっかいですよねー",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "にんじん",
+            "text": "はいはい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "コアラ",
+            "text": "@にんじん たっかすぎて",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "たまねぎ",
+            "text": "僕はうたえません！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "にんじん",
+            "text": "@コアラ ミセスめちゃすきー",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "コアラ",
+            "text": "ミセスグリーンアップルのアルバムだよねって何回も見ちゃった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "にんじん",
+            "text": "@たまねぎ そーね！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "コアラ",
+            "text": "なんでAdo入ってる？みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "にんじん",
+            "text": "最近福山雅治だもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "たまねぎ",
+            "text": "@コアラ 知らずにね！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "コアラ",
+            "text": "@たまねぎ です、です",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "にんじん",
+            "text": "逆にミセスから入りました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "コアラ",
+            "text": "男性があんなキー出るわけないって思ってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "コアラ",
+            "text": "@にんじん あっ、そっちから？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "たまねぎ",
+            "text": "@コアラ 確かに女性っぽい！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "コアラ",
+            "text": "両方大差がないような？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "にんじん",
+            "text": "@コアラ そうなんですー",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "コアラ",
+            "text": "うまいし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "にんじん",
+            "text": "ミセス好きで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "コアラ",
+            "text": "ミセスグリーンアップル、なんか休んでます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "にんじん",
+            "text": "女が歌うと歌いやすい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "コアラ",
+            "text": "@にんじん わかります！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "にんじん",
+            "text": "@コアラ なんか耳の調子が悪いみたい",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "コアラ",
+            "text": "@にんじん あっ、そうなんだ",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "にんじん",
+            "text": "突発性難聴？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "コアラ",
+            "text": "それは大変",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "にんじん",
+            "text": "あゆがなったやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "たまねぎ",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "たまねぎ",
+            "text": "可哀想",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "コアラ",
+            "text": "疲れちゃったのかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "にんじん",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "コアラ",
+            "text": "忙しすぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "にんじん",
+            "text": "忙しそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "コアラ",
+            "text": "子供の友達、ミセスのコンサート名古屋まで行ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "コアラ",
+            "text": "「取れた！」って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "にんじん",
+            "text": "いいなあー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "コアラ",
+            "text": "お母さんが嘆いてて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "たまねぎ",
+            "text": "チケットとれないってきくー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "コアラ",
+            "text": "飛行機乗っていくなんてーって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "にんじん",
+            "text": "行きたいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "たまねぎ",
+            "text": "@コアラ すごい！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "コアラ",
+            "text": "@たまねぎ とれないんですねー",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "コアラ",
+            "text": "ママ友なので真剣に愚痴聞きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "にんじん",
+            "text": "@コアラ 笑",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "コアラ",
+            "text": "でも行かせてあげたみたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "にんじん",
+            "text": "真剣に笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "コアラ",
+            "text": "@にんじん 半分うーんみたい？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "たまねぎ",
+            "text": "いい経験ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "にんじん",
+            "text": "そうゆう好きなものは応援したい、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "コアラ",
+            "text": "@たまねぎ 出世払いするらしいです",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "コアラ",
+            "text": "ほんとかしら？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "たまねぎ",
+            "text": "@コアラ あら！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "たまねぎ",
+            "text": "きっと、ちゃんと払うはず！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "コアラ",
+            "text": "@たまねぎ ホテルやらなんならで旅行みたいになったらしい",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "にんじん",
+            "text": "@コアラ そりゃそーだ！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "コアラ",
+            "text": "でもきっといい経験",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまねぎ",
+            "text": "一大イベント！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "にんじん",
+            "text": "絶対いい経験だー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "コアラ",
+            "text": "2枚とれてお友達と行けたらしいので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "にんじん",
+            "text": "@コアラ うんうん",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "コアラ",
+            "text": "@にんじん 行けたらいいですね！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "にんじん",
+            "text": "コンサートは永遠じゃないから！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "コアラ",
+            "text": "ミセスが1番好きなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "にんじん",
+            "text": "私も西野カナとか行けば良かったー",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "コアラ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "にんじん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまねぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

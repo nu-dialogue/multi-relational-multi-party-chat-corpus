@@ -1,0 +1,798 @@
+{
+    "dialogue_id": "B13302",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "コアラ",
+        "しらたき",
+        "つくね"
+    ],
+    "relationship": [
+        "しらたき",
+        "つくね"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "コアラ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "しらたき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つくね",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "コアラ",
+            "text": "昨日って天皇誕生日でしたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つくね",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "コアラ",
+            "text": "実は直前に休みだと気づきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ そうなんですか！？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "しらたき",
+            "text": "俺は仕事でしたね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき なんだか学校ある気がしてました",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ わかります！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "コアラ",
+            "text": "あっ、高校生の子供がいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つくね",
+            "text": "旗日は勘違いしますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "しらたき",
+            "text": "そうなんですね！うちは小学生が2人です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね そうなんです、まだ染み付いてないですね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき 小学生なんですね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ 12/23が休みのイメージですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね それです！娘がなぜその日休みなくなったの？って",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ そうです！4年と1年です",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき うわー仲良しですか？ご兄弟",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つくね",
+            "text": "難しいですよね！4/29は昭和天皇の誕生日だし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "つくね",
+            "text": "このまま行くと旗日増えますね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね なんだかまだ生きてるうちは祝日にならないらしいですね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ 全然仲良く無いです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき ええっ？またまたー",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "しらたき",
+            "text": "しょっちゅう喧嘩してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ あ！そーなんですね！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき 仲良いほど喧嘩するではないですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "つくね",
+            "text": "知らなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ いやーどーですかね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね わかります、私もそれ聞いて納得",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "しらたき",
+            "text": "ガチ喧嘩が多いです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ 確かにですね！2月は",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき 主人も3歳差で妹、弟います",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "つくね",
+            "text": "元々日数も少ないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "コアラ",
+            "text": "昔は喧嘩だらけだったらしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つくね",
+            "text": "旗日が増えるとすぎるのが早いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね おやすみはありがたいですけどね、寒いし",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ そうなんですね！俺は末っ子次男なのであまり喧嘩はなかったです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき 上にご兄弟が？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "コアラ",
+            "text": "お兄さんかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ ありがたいですが、子供たちはやる事ないーって言います笑",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "しらたき",
+            "text": "上に姉と兄がいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "しらたき",
+            "text": "年も離れてるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき それは可愛がられたんでしょうね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "しらたき",
+            "text": "あまり喧嘩はなかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "コアラ",
+            "text": "親にも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 甘えただよね？笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね まぁそうなんだけど笑",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "コアラ",
+            "text": "いいことですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね ご兄弟いますか？ご自身に",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ そうですか？よく嫁に怒られます笑",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ 私は下に弟2人います！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね 弟さん2人も！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき だってイラってくるもん笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "コアラ",
+            "text": "お姉さんのいうこと聞きますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ そうなんです笑",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "コアラ",
+            "text": "なんだかんだと頭上がらなさそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "つくね",
+            "text": "弟2人がですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "コアラ",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ あたま上がらないですー",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき ですよねー周りの友人も弟とそんな感じです",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ 結構聞きますね！親も姉を頼れと弟たちに言うそうです笑",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね きっとしっかりされてそう！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ でも楽です",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "しらたき",
+            "text": "いろいろと笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ 面倒見はいい方です",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき いいことてすね、家庭円満",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ 一応円満です！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "コアラ",
+            "text": "お二人のご兄弟も結婚されてるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ 一番下だけまだですねー",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ うちも兄がまだです！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね まだこれから、楽しみですね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "しらたき",
+            "text": "でもそろそろっていう感じぽいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき いま珍しくないですよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "コアラ",
+            "text": "おっ、それも楽しみですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ いやー結婚しないかもです笑",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね 周り見てても多いですよ",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "コアラ",
+            "text": "独身の兄弟姉妹",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ 楽しみです！この前親に紹介したって兄から聞きました",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき もう秒読み！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ 多いですよね！だから余計に焦らないし笑",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "コアラ",
+            "text": "そうそう、おうち楽だし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ 秒読みですね！同居になる予定です",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "コアラ",
+            "text": "いとこがいないって子供の友達にも多いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき おーそこまで話が？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ 去年家建て直したんです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "しらたき",
+            "text": "なので必然的に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき 新築！いいですね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "しらたき",
+            "text": "同居かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しらたき",
+            "text": "元々実家の場所なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき 住むところあるのはありがたいですけどね、お近くですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ いとこいないの少し寂しいですよね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね そうみたいですねー",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ 自分が住んでるところから車で30分くらいです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき それはちかい！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ うちは真ん中の弟がアメリカにいるので",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つくね",
+            "text": "いとこに合わせるのは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね アメリカどのあたりですか？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "つくね",
+            "text": "年1回あるかないか…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ ロスにいますれ",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "コアラ",
+            "text": "遠いですものね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね あーロスなんですね！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "つくね",
+            "text": "そうなんです…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "コアラ",
+            "text": "コロナもあったから帰国できてないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ すごく近くもなく遠くもないのでいいです！",
+            "mention_to": [
+                "コアラ"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "コアラ",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

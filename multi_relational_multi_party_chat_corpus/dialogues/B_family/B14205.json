@@ -1,0 +1,826 @@
+{
+    "dialogue_id": "B14205",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "コアラ",
+        "じゃがいも",
+        "くま"
+    ],
+    "relationship": [
+        "じゃがいも",
+        "くま"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "コアラ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "じゃがいも",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "くま",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "コアラ",
+            "text": "ペットとか飼われてますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "じゃがいも",
+            "text": "目の前にいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 犬がいます",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "じゃがいも",
+            "text": "犬が笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも おーわんちゃん！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "コアラ",
+            "text": "種類は？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くま",
+            "text": "@コアラ かわいいです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ ポメチワです！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "じゃがいも",
+            "text": "ポメラニアンとチワワのミックス犬ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くま",
+            "text": "@コアラ ポメラニアンとチワワ",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも 絶対可愛いですね！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 打つの早いな",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "コアラ",
+            "text": "その組み合わせ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "じゃがいも",
+            "text": "可愛いんですけど、なんかミックス犬は大きくなりやすいらしく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "コアラ",
+            "text": "@くま ほんとすごい速さ",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 思ったよりでかいです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ 携帯依存症レベルで早いですからね...",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "コアラ",
+            "text": "@くま 何キロとかですか？",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま それね",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 危険水域だ",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 5.3kgとかだったはずです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ あまりに大きすぎる",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "コアラ",
+            "text": "@くま やはり大きい方ですよね？",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "じゃがいも",
+            "text": "片手で持てません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "くま",
+            "text": "ちょっとお太りですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "コアラ",
+            "text": "お散歩とかは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "じゃがいも",
+            "text": "かなり大きい方ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "じゃがいも",
+            "text": "行きました！今日",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "コアラ",
+            "text": "よく食べます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ よく食べます",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "くま",
+            "text": "@コアラ パッと見コーギーですw",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "じゃがいも",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "コアラ",
+            "text": "@くま コーギー！",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 食い意地がすごいね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "コアラ",
+            "text": "もはや別の種類",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "コアラ",
+            "text": "ペットフードですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "じゃがいも",
+            "text": "人間が食べるものは俺のものだと思ってる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "コアラ",
+            "text": "あまり詳しくなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "じゃがいも",
+            "text": "ペットフードとニンジンとささみを混ぜてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "くま",
+            "text": "@コアラ トリミングするとコーギーですw",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも あっ、じゃあ同じもの？なわけないか",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも なんか美味しそう",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "じゃがいも",
+            "text": "涙やけがひどくて良いペットフードをあげてますけど、美味しくないみたいで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "くま",
+            "text": "@コアラ あげてもいいやつは結構あげちゃいますね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "じゃがいも",
+            "text": "ニンジンとささみを入れないと食べませんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くま",
+            "text": "さつまいもとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも 美味しさもわかるんですね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ さつまいもも大好きですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "コアラ",
+            "text": "この間、ペットのケーキ見ました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ おー！ケーキ",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "コアラ",
+            "text": "すごいですね、最近",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "くま",
+            "text": "@コアラ チョコとかはダメなので当然あげませんけど",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "じゃがいも",
+            "text": "誕生日にあげました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも お店で予約とかして？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも すげえスピードで食うよね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "じゃがいも",
+            "text": "食い意地すごすぎて待てとかできずに...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "コアラ",
+            "text": "見た目可愛いですよね、ケーキ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "じゃがいも",
+            "text": "一口で食べました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "くま",
+            "text": "@コアラ ペットショップとかで冷凍で売ってます",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも ひとくち！！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ いや、まぁ普通に売ってる奴にしました",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "くま",
+            "text": "さすがに予約まではしたことないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "くま",
+            "text": "いつかはしてみてもいいかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "コアラ",
+            "text": "写真撮るひまもなく？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "じゃがいも",
+            "text": "今年はやってもいいかな〜という気持ちです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "じゃがいも",
+            "text": "取る暇は全くなく...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "じゃがいも",
+            "text": "撮りましたがブレてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "コアラ",
+            "text": "何年くらい飼ってますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも がんばって一応撮ってはいますw",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "じゃがいも",
+            "text": "まだ1年です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "じゃがいも",
+            "text": "一番変化がある頃ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "くま",
+            "text": "@コアラ おととしの秋からです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも あーそれはまだまだ甘えん坊さんなのかな？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "コアラ",
+            "text": "犬仲間とかいますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "くま",
+            "text": "@コアラ だと思います",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ 夜中我々の布団の中に入ってくるくらいには甘えん坊ですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "じゃがいも",
+            "text": "犬嫌いなんですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "じゃがいも",
+            "text": "ドッグランで喧嘩売られて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "コアラ",
+            "text": "うちもペットOKマンションですが飼ってないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "じゃがいも",
+            "text": "そこから犬ビビり症になってます...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 人の方が好きっぽいです",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも 他の犬が怖いとか？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くま",
+            "text": "@コアラ ペットおすすめです！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "コアラ",
+            "text": "一緒のお布団いいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "くま",
+            "text": "大変なこともありますが、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ そうなんです、ドッグラン行くと人に挨拶しに回ってます",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 本当にふとした瞬間が大変よね",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも あーそれはもはや自分は人間ですね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くま",
+            "text": "@コアラ たまに私の寝るとこないですからね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ そう、彼は勘違いしてらっしゃる",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "コアラ",
+            "text": "犬はべつもの笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 追いやられてらっしゃる",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "コアラ",
+            "text": "もしかして喋ってません？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "じゃがいも",
+            "text": "ギリギリしゃべってないレベルですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 可能性はありますね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "コアラ",
+            "text": "吠えてるつもりでなく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "コアラ",
+            "text": "かわいいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "じゃがいも",
+            "text": "アゥアゥアゥ〜みたいに言ってる時は何を訴えたいか、聞き取ろうとはします笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "じゃがいも",
+            "text": "ペットおすすめです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "コアラ",
+            "text": "ペットショップで買われたんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "くま",
+            "text": "@コアラ そうです！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "コアラ",
+            "text": "@くま 一目惚れですか？",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "くま",
+            "text": "一目ぼれみたいなもんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "じゃがいも",
+            "text": "私がこの子がいい！みたいな感じでしたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "くま",
+            "text": "@コアラ はい！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "コアラ",
+            "text": "大昔そういうCMあった気がする",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 109,
+            "interlocutor_id": "じゃがいも",
+            "text": "旦那はえ、そんなに可愛い...？みたいな感じでしたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 110,
+            "interlocutor_id": "コアラ",
+            "text": "目があったらうるうる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 111,
+            "interlocutor_id": "じゃがいも",
+            "text": "確かに写真写りが良くなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 112,
+            "interlocutor_id": "くま",
+            "text": "@コアラ あった気がしますね",
+            "mention_to": [
+                "コアラ"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "コアラ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "じゃがいも",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "くま",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,671 @@
+{
+    "dialogue_id": "A01703",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "ねぎとろ",
+        "てんぷら",
+        "きなこ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ねぎとろ",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "てんぷら",
+            "text": "こんばんはー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "きなこ",
+            "text": "こんばんは～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ねぎとろ",
+            "text": "来月辺りから、行事が始まりますが、何かあります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ねぎとろ",
+            "text": "学校行事",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "てんぷら",
+            "text": "今週高校入試で、来月はもう卒業式ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "きなこ",
+            "text": "@ねぎとろ 卒業式2件あります",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ねぎとろ",
+            "text": "おふたりとも、大変ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "てんぷら",
+            "text": "@きなこ ということは入学式も2件ですね",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "きなこ",
+            "text": "高校と大学",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "てんぷら",
+            "text": "お洋服、替えます？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "てんぷら",
+            "text": "4回分",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "きなこ",
+            "text": "替えないつもりですが・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "てんぷら",
+            "text": "真似させていただきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "きなこ",
+            "text": "入らなかったら新しいのでいきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "きなこ",
+            "text": "あとはアクセサリーと鞄",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "てんぷら",
+            "text": "入らない可能性があるのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そこポイントですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "きなこ",
+            "text": "入るのかな・・心配です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "てんぷら",
+            "text": "入れましょう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "てんぷら",
+            "text": "頑張って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ねぎとろ",
+            "text": "がんばって！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "きなこ",
+            "text": "ですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "きなこ",
+            "text": "詰め込みます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ねぎとろ",
+            "text": "頑張れ～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "てんぷら",
+            "text": "お子さん、大きいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "てんぷら",
+            "text": "高校生と大学生か",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "きなこ",
+            "text": "あと中学生もいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "てんぷら",
+            "text": "わお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ねぎとろ",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ねぎとろ",
+            "text": "にぎやかですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "きなこ",
+            "text": "だいぶ楽になりました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "きなこ",
+            "text": "大きいから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "てんぷら",
+            "text": "夕飯食べるタイミングって、どうですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "てんぷら",
+            "text": "みんな揃うんでしょうか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "きなこ",
+            "text": "@てんぷら そろわないですね",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "きなこ",
+            "text": "塾があるから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "てんぷら",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "きなこ",
+            "text": "何回も作ってる気分です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "てんぷら",
+            "text": "いやほんとそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ねぎとろ",
+            "text": "大変",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "きなこ",
+            "text": "夕飯憂鬱です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ねぎとろ",
+            "text": "献立考えるの大変そう。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "てんぷら",
+            "text": "セルフサービスでお願いしたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "きなこ",
+            "text": "ですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "てんぷら",
+            "text": "量も大変そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんです・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "てんぷら",
+            "text": "唐揚げ3キロとかですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "きなこ",
+            "text": "男子３なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "てんぷら",
+            "text": "まじですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ねぎとろ",
+            "text": "それは大変だ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "てんぷら",
+            "text": "唐揚げ5キロですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ねぎとろ",
+            "text": "5キロ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "きなこ",
+            "text": "いえ、うちはそこまででは無いので2キロです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "てんぷら",
+            "text": "でも2キロですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ねぎとろ",
+            "text": "2キロって、想像つかない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "きなこ",
+            "text": "買い物が辛いですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "てんぷら",
+            "text": "肉だけで2キロですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんです・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "てんぷら",
+            "text": "ちょっとした新生児の重さですねえ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "きなこ",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ねぎとろ",
+            "text": "お米とかも重いし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てんぷら",
+            "text": "コメは何合炊きます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "きなこ",
+            "text": "一回５合で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "きなこ",
+            "text": "2回かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "てんぷら",
+            "text": "すごいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ねぎとろ",
+            "text": "すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "てんぷら",
+            "text": "2回？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "きなこ",
+            "text": "炊飯器が5.5合炊きなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てんぷら",
+            "text": "おおお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "きなこ",
+            "text": "1升炊きにすればよかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "てんぷら",
+            "text": "初めて聞きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたしも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "きなこ",
+            "text": "本当ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "てんぷら",
+            "text": "一升炊き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "てんぷら",
+            "text": "10合ってことですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "きなこ",
+            "text": "私の周りには1升炊きの人います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "きなこ",
+            "text": "そうです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "きなこ",
+            "text": "10合",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ホテルの朝食にあるみたいなの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "てんぷら",
+            "text": "うち、3合炊きで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ねぎとろ",
+            "text": "うちもそれくらいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "てんぷら",
+            "text": "夕飯は私と配偶者がコメ抜きになっているので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "てんぷら",
+            "text": "次五合炊きかなーと思っていましたが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "きなこ",
+            "text": "それは小さいサイズでいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "てんぷら",
+            "text": "一升みてみますわ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "きなこ",
+            "text": "いやいや笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "きなこ",
+            "text": "かなり大きいですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "てんぷら",
+            "text": "置く場所がないな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てんぷら",
+            "text": "床か？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ねぎとろ",
+            "text": "え！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "てんぷら",
+            "text": "合宿みたいですわ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "きなこ",
+            "text": "ほんとそのレベルの大きさでしたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ねぎとろ",
+            "text": "とぐのも大変そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "てんぷら",
+            "text": "朝ごはんパンにしたら、食費跳ね上がりそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "きなこ",
+            "text": "パンは秒殺されます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ねぎとろ",
+            "text": "秒殺",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "てんぷら",
+            "text": "パンは飲み物ですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "きなこ",
+            "text": "でもご飯もたいへん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "きなこ",
+            "text": "パンは飲み物ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "てんぷら",
+            "text": "研ぐことは考えていませんでした",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ねぎとろ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てんぷら",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "きなこ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

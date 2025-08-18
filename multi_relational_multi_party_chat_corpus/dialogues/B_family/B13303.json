@@ -1,0 +1,784 @@
+{
+    "dialogue_id": "B13303",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "コアラ",
+        "つくね",
+        "しらたき"
+    ],
+    "relationship": [
+        "つくね",
+        "しらたき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "コアラ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つくね",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらたき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "コアラ",
+            "text": "最近のマイブームって何かありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つくね",
+            "text": "マイブームですか…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つくね",
+            "text": "アニメ見たり漫画読んだりしてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ ゲームですかね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "コアラ",
+            "text": "おーどんなアニメを？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "つくね",
+            "text": "今は薬屋の独り言見てます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ はありますか？マイブーム",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね いやーー娘がハマってます！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "コアラ",
+            "text": "一緒に見てますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ そうなんですね！面白いですよね！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "つくね",
+            "text": "漫画を買おうか迷ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね はい、わりと見ちゃいますよね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 俺もコッソリ見てる",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "コアラ",
+            "text": "娘はネットコミックで読んでるみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 知ってる！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき おおーっこっそり？？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つくね",
+            "text": "最新話が視聴済みになってるもん！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ コッソリです！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき 面白いですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ 面白いですね！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "コアラ",
+            "text": "時代設定もいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "コアラ",
+            "text": "引き込まれる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき ゲームは何を？ってあまり詳しくないのですが",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ そうですね！色々勉強にもなります",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ スマホゲームですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "コアラ",
+            "text": "ぜひお二人で見てください！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき 戦闘系ですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "しらたき",
+            "text": "課金勢です笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき 今のってすごい絵とか綺麗ですよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ ブルーロックとドラゴンボールですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しらたき",
+            "text": "グラフィック綺麗ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき ドラゴンボールだけしってます",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ そうします！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "コアラ",
+            "text": "ブルーロックってサッカー？違うかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ サッカーです！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "コアラ",
+            "text": "あっ、私すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "コアラ",
+            "text": "なんて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "しらたき",
+            "text": "選手育成ゲームです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき 育成はまりますよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ 流石です！笑",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "コアラ",
+            "text": "私もスマホでは農業系？やってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ ハマりますねー！アイテムとか集めると止まらないです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "コアラ",
+            "text": "野菜とか育てる？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき わかりまーす！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ 野菜育てるゲームですか？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つくね",
+            "text": "なめこ？の思い出します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね ファミリーアイランドっていうゲームです",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "コアラ",
+            "text": "なめこ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "コアラ",
+            "text": "やってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ なめこは私もやってました",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "つくね",
+            "text": "収穫が気持ちよかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね 地味に止まらなくなりますよね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ 懐かしいですよね笑",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね なめこは俺もやってた",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね いつのまにかやめてました",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "しらたき",
+            "text": "たまごっちみたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき いまたまごっち進化してるの知ってます？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "コアラ",
+            "text": "スマホゲーム",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ 私もです！気付いたらやってなかった",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ え！？たまごっちって",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "しらたき",
+            "text": "スマホゲームなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき 娘がスマホでいれてて、たまごっち子供うまれますよね？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しらたき",
+            "text": "時計みたいなやつじゃなくて？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "コアラ",
+            "text": "今って二つのキャラ掛け合わせた顔なんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ たまごっちに子供！？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "つくね",
+            "text": "気になるー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "つくね",
+            "text": "たまごっち世代です！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき 昔、丸いのもありましたが、スマホゲームにもでたんです",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね 私も買いました！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "コアラ",
+            "text": "すぐ死んだり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ 大体学校から帰ると",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つくね",
+            "text": "病気になってる笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ そうなんですね！みてみます！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね それそれ！薬のませたり",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ あとお腹も空いてますよねー！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき 私はやってないのですが、ベビーシッターもいるとか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つくね",
+            "text": "大体おやじっちになる笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね おやじっち！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "コアラ",
+            "text": "懐かしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ ベビーシッター！？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "しらたき",
+            "text": "やば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき なんだかキャラも微妙に前と違いましたよ",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しらたき",
+            "text": "たまごっちの進化がすごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ みみっちにしたかったのに大体ならないです笑",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき そうそう結婚もマッチング？なんかデートして決めるとか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "コアラ",
+            "text": "もはや別のゲーム",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ マッチングですか！？いやーすごいですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね かわいいキャラはほぼ幻ですよね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "しらたき",
+            "text": "ゲームの進化についていけない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき リバイバルされるとだいたいすごいことになる",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ 幻ですよね！でもあのフォルムとかが可愛い",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "コアラ",
+            "text": "@つくね 私、本持ってました！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "コアラ",
+            "text": "キャラのってて、これにしたい、とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "コアラ",
+            "text": "絶対ならない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ ですね！Switchもプレステもそうだし",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "しらたき",
+            "text": "進化がすごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき スイッチ持ってますか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つくね",
+            "text": "@コアラ 本欲しかったです！でも親にねだれなかったなー",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "しらたき",
+            "text": "@コアラ 3台あります",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "コアラ",
+            "text": "@しらたき うわーマリオとか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "しらたき",
+            "text": "あとプレステ",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "コアラ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

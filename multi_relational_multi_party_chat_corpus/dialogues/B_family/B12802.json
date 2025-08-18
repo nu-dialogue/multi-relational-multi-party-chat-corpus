@@ -1,0 +1,728 @@
+{
+    "dialogue_id": "B12802",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "コアラ",
+        "こんぶ",
+        "ちくわ"
+    ],
+    "relationship": [
+        "こんぶ",
+        "ちくわ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "コアラ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "こんぶ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ちくわ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "コアラ",
+            "text": "よく行くレストランとかありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ちくわ",
+            "text": "んーレストランかー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "こんぶ",
+            "text": "子どもが生まれてから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "こんぶ",
+            "text": "なかなか行けてないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ちくわ",
+            "text": "最近行ってないよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "コアラ",
+            "text": "お家が多いですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ちくわ",
+            "text": "家の近くに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ 行ってないね",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ちくわ",
+            "text": "マクドがあるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ちくわ",
+            "text": "ドライブスルーすね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "こんぶ",
+            "text": "そうです！住宅街！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "こんぶ",
+            "text": "たしかに！マックが多いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ちくわ",
+            "text": "めちゃくちゃ静かですよー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "コアラ",
+            "text": "@ちくわ お子さん小さいとマックは助かりますね",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "こんぶ",
+            "text": "あとは、チェーン店ばかりです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ちくわ",
+            "text": "最近、パンケーキと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "コアラ",
+            "text": "@ちくわ マクド！関西の方ですか？",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ちくわ",
+            "text": "塩抜きポテト食べました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "こんぶ",
+            "text": "@コアラ 1人目なのに早々にマックデビューしちゃいましたよ",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "こんぶ",
+            "text": "そう！関西だよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ちくわ",
+            "text": "@コアラ はい！大阪出身です！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "こんぶ",
+            "text": "私はマック派です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ちくわ",
+            "text": "この辺はチェーン店多いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "こんぶ",
+            "text": "@コアラ さんは？どっちです？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "コアラ",
+            "text": "@ちくわ 私も大阪住んだことあります！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "コアラ",
+            "text": "@こんぶ 今は川崎市に住んでます",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ちくわ",
+            "text": "@コアラ お！どの辺ですか？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "こんぶ",
+            "text": "あら！何かご縁を感じますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ちくわ",
+            "text": "僕は吹田市です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "コアラ",
+            "text": "南茨木です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "コアラ",
+            "text": "あー近い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ちくわ",
+            "text": "えーーー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "こんぶ",
+            "text": "@コアラ 川崎フロンターレ！！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ちくわ",
+            "text": "近い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ちくわ",
+            "text": "あ！フロンターレね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "コアラ",
+            "text": "@こんぶ すぐ近くですよー",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ちくわ",
+            "text": "川崎市ておしゃれな気がする",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "こんぶ",
+            "text": "@コアラ へーー！すごいですね！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "コアラ",
+            "text": "サッカーある日大変です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ちくわ",
+            "text": "なんか名前的に！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ちくわ",
+            "text": "あ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "こんぶ",
+            "text": "込み込みってことですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ちくわ",
+            "text": "人混みがすごそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ちくわ",
+            "text": "でも熱狂なファンが集まって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "コアラ",
+            "text": "@ちくわ はいすぐわかります！みんなユニフォーム着てます",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "こんぶ",
+            "text": "有名な方いましたっけ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ちくわ",
+            "text": "賑やかになりそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ちくわ",
+            "text": "@コアラ ですよね！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "コアラ",
+            "text": "@こんぶ あまり詳しくなくて",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "こんぶ",
+            "text": "なるほど！ユニフォーム民はみんな応援ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ちくわ",
+            "text": "僕もガンバ大阪の近くだったので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ちくわ",
+            "text": "声援聞こえてました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "こんぶ",
+            "text": "@コアラ そんなにみないんですね！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "コアラ",
+            "text": "@ちくわ 大阪も熱そうですね",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "こんぶ",
+            "text": "さすが、都会の方々は違うな！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ちくわ",
+            "text": "めちゃくちゃ人が集まります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こんぶ",
+            "text": "私は岩手出身で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "コアラ",
+            "text": "@こんぶ うちは女の子なのもあって",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "こんぶ",
+            "text": "ビックブルズというバスケのチームがありました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "こんぶ",
+            "text": "一回だけ見に行ったことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "コアラ",
+            "text": "@こんぶ バスケも盛り上がりそう！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ちくわ",
+            "text": "バスケも人多いよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "こんぶ",
+            "text": "@コアラ 娘さんは何か部活を？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ちくわ",
+            "text": "あ！気になる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "こんぶ",
+            "text": "ね！バスケは人気でしたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "コアラ",
+            "text": "@こんぶ 放送部です",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "コアラ",
+            "text": "文化部です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ちくわ",
+            "text": "声が良さそう！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こんぶ",
+            "text": "あら、じゃあ、サッカーとは無縁か",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ちくわ",
+            "text": "なイメージ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "こんぶ",
+            "text": "確かにたしかに！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "コアラ",
+            "text": "@ちくわ 一応、賞をいただきました",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ちくわ",
+            "text": "スポーツ大会のアナウンスとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ちくわ",
+            "text": "してみたらいかがですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "こんぶ",
+            "text": "えー！素晴らしいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ちくわ",
+            "text": "すごい！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "コアラ",
+            "text": "@ちくわ 体育祭の時はアナウンスします",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ちくわ",
+            "text": "かっこいい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こんぶ",
+            "text": "すごーーい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "こんぶ",
+            "text": "将来はアナウンサー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ちくわ",
+            "text": "意外に放送部とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "コアラ",
+            "text": "@ちくわ でも運動苦手です",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "こんぶ",
+            "text": "声優さんとかも！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ちくわ",
+            "text": "マイクで話す人は大事ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "コアラ",
+            "text": "@こんぶ いやいや、ルックスが？？",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "こんぶ",
+            "text": "運動は好みもありますしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ちくわ",
+            "text": "@コアラ 運動は好みだねー",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "コアラ",
+            "text": "最近の声優さん、女優みたいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ちくわ",
+            "text": "アナウンサーとかになったら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ちくわ",
+            "text": "すごそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "こんぶ",
+            "text": "@コアラ そんなそんなーー",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こんぶ",
+            "text": "声優さんも顔出ししてる人多いですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ちくわ",
+            "text": "結構声優も人気ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "コアラ",
+            "text": "@こんぶ メガネちゃんですし、、、",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ちくわ",
+            "text": "アニメとかの影響で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ちくわ",
+            "text": "コンタクトがありますよ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "コアラ",
+            "text": "おしゃれに無縁ですトホホ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "こんぶ",
+            "text": "@コアラ もう少しおおきくなったらコンタクト！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ちくわ",
+            "text": "とか言ってみる。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ちくわ",
+            "text": "これからおしゃれを気にするかも？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "コアラ",
+            "text": "@こんぶ コンタクトも一応できるのにめんどくさがりです",
+            "mention_to": [
+                "こんぶ"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "コアラ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "こんぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ちくわ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

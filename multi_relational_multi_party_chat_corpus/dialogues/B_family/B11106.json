@@ -1,0 +1,710 @@
+{
+    "dialogue_id": "B11106",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ポテト",
+        "たまねぎ",
+        "にんじん"
+    ],
+    "relationship": [
+        "たまねぎ",
+        "にんじん"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ポテト",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまねぎ",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "にんじん",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ポテト",
+            "text": "ひなまつりって何かやりましたか～？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "にんじん",
+            "text": "昨日やりましたー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たまねぎ",
+            "text": "お寿司食べに行きましたよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ポテト",
+            "text": "え！いいですね～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "にんじん",
+            "text": "本当は家で手巻きやりたかったけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "たまねぎ",
+            "text": "忙しくて用意できなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ポテト",
+            "text": "@にんじん なるほど！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ポテト",
+            "text": "手巻き寿司って結構大変ですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "にんじん",
+            "text": "うちは姫が2人いるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "たまねぎ",
+            "text": "お子守りで作れませんでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ポテト",
+            "text": "あ～なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "にんじん",
+            "text": "@ポテト 材料揃えるのが大変",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ポテト",
+            "text": "@にんじん そうそう！本当に！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "たまねぎ",
+            "text": "そして1歳児は食べない！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ポテト",
+            "text": "@たまねぎ 確かに！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "たまねぎ",
+            "text": "のりで死にそうになる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "にんじん",
+            "text": "私も海苔苦手ー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ポテト",
+            "text": "うちもその月齢だとうどんとかだった気が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ポテト あーうどんかー！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ポテト",
+            "text": "@にんじん 海苔苦手なんですね！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "にんじん",
+            "text": "かわいいナルトとか乗っければ良かったかー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "にんじん",
+            "text": "@ポテト 貼り付くんですよー",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "にんじん",
+            "text": "うまく食べれない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ポテト",
+            "text": "@にんじん あ～ちょっとした工夫で可愛くなるやつ！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "にんじん",
+            "text": "おにぎりも海苔しっとり派！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "たまねぎ",
+            "text": "確かにー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たまねぎ",
+            "text": "うどんにすればよかったかー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ポテト",
+            "text": "のり、切り込み？なんかちょっと工夫してあるやつだと、歯切れよくていけますよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "にんじん",
+            "text": "@ポテト 小さくても上顎につくのが…",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ポテト",
+            "text": "@にんじん のりしっとり！わかります！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ポテト",
+            "text": "@にんじん あ～～～",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "にんじん",
+            "text": "取れなくなる笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ポテト",
+            "text": "おこさん、お寿司屋さんだと何食べますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "たまねぎ",
+            "text": "のりなし派です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ポテト",
+            "text": "@にんじん たしかに～！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "にんじん",
+            "text": "4歳の子はえび！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "にんじん",
+            "text": "ひたすらえび！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ポテト",
+            "text": "えび！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "にんじん",
+            "text": "昨日4皿えび！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "たまねぎ",
+            "text": "1つ落としてたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "にんじん",
+            "text": "あ、確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "にんじん",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ポテト",
+            "text": "@たまねぎ そして海苔なし派のたまねぎさん！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ポテト です！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "にんじん",
+            "text": "でも、巻き寿司食べてた！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "たまねぎ",
+            "text": "それとこれは違う！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ポテト",
+            "text": "巻きずし大変じゃないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ポテト",
+            "text": "それこそ海苔・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "にんじん",
+            "text": "海苔笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "たまねぎ",
+            "text": "恵方巻きは作りますけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ポテト",
+            "text": "一面の海苔・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "たまねぎ",
+            "text": "昨日は久しぶりにかっぱ寿司に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "にんじん",
+            "text": "いつもはま寿司派！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ポテト",
+            "text": "@たまねぎ 恵方巻作るの凄いです・・・！にんじんさんが！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ポテト",
+            "text": "かっぱ寿司最近いってないな～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ポテト 中の具好きなの入れたい",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "にんじん",
+            "text": "入店の仕方がわからない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ポテト",
+            "text": "@たまねぎ あ～めちゃくちゃわかります",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ポテト 肉とかね！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ポテト",
+            "text": "そして米が出てくる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ポテト そーそー",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ポテト",
+            "text": "巻ききれなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "たまねぎ",
+            "text": "加減が難しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "にんじん",
+            "text": "私食べる専門",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ポテト",
+            "text": "@にんじん 入店の仕方わからない、わかります！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "にんじん",
+            "text": "@ポテト ハイテクすぎて",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ポテト",
+            "text": "店舗によって違いますもんね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "たまねぎ",
+            "text": "呼ばれるのずっと待ってたねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ポテト",
+            "text": "ペッパー君がいたり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "にんじん",
+            "text": "@ポテト はま寿司はいます！笑",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "にんじん",
+            "text": "かわいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ポテト",
+            "text": "@にんじん そうそう！頑張ってる！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たまねぎ",
+            "text": "存在感なくてぶつかる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "にんじん",
+            "text": "壊さないでー笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "たまねぎ",
+            "text": "ココスで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ポテト",
+            "text": "料理持ってくるねこちゃんも可愛いですね。ロボット系だと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "たまねぎ",
+            "text": "ロボット同士ぶつかりそうになってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ポテト",
+            "text": "@たまねぎ ぶつかる笑",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "たまねぎ",
+            "text": "お互いでかいからよけれてない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "にんじん",
+            "text": "そーそー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ポテト",
+            "text": "@たまねぎ そうそう",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "にんじん",
+            "text": "あれはあれでかわいい笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "にんじん",
+            "text": "店員さんが焦ってる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ポテト",
+            "text": "時たまお座敷だと靴持っていかれます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "にんじん",
+            "text": "@ポテト あー笑",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ポテト",
+            "text": "あ～～～～靴～～～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "たまねぎ",
+            "text": "それはやばい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ポテト",
+            "text": "ずるずるずる・・・と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "たまねぎ",
+            "text": "下は見えないのか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "にんじん",
+            "text": "かわいいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ポテト",
+            "text": "見えてないですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "にんじん",
+            "text": "何個持ってくんだ笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまねぎ",
+            "text": "可愛すぎるー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ポテト",
+            "text": "そうそう、いっぱい持っていくんですよ笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "たまねぎ",
+            "text": "善し悪し笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ポテト",
+            "text": "ばらばらに散乱する靴笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "にんじん",
+            "text": "下げたお皿乗せると店員に怒られる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ポテト",
+            "text": "@たまねぎ ほんとそれです！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "たまねぎ",
+            "text": "のせないでくださーい！ってね",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ポテト",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "たまねぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "にんじん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

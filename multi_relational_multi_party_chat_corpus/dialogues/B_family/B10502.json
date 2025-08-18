@@ -1,0 +1,692 @@
+{
+    "dialogue_id": "B10502",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "りんご",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "りんご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "りんご",
+            "text": "お二人で出かける事ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "ふたりで、こないだ東京に行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "てばさき",
+            "text": "この間国立国家図書館行きました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "てばさき",
+            "text": "国会図書館",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "えのき",
+            "text": "そういえばとしょかんにも行ったね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "りんご",
+            "text": "すごい！本好きなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "てばさき",
+            "text": "好きですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "えのき",
+            "text": "図書館はかなりの頻度で行きますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "りんご",
+            "text": "@てばさき どんな本ですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご ファンタジーとかSFとか読みますね",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "てばさき",
+            "text": "いわゆるなろう系とかも面白いと思います！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "りんご",
+            "text": "いいですね！なろつ系？って？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "えのき",
+            "text": "なろう系も図書館に置いてるんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "りんご",
+            "text": "図書館最近行ってないな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "てばさき",
+            "text": " なろう系は、小説家になろうという小説投稿サイト関連のジャンルです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "えのき",
+            "text": "図書館、本がたくさんあって行くだけで癒されますよね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "てばさき",
+            "text": "有名どころだと、君の膵臓を食べたいとか転スラとかですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "えのき",
+            "text": "へー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "りんご",
+            "text": "えー、そうなんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "えのき",
+            "text": "お父さんがいつもなろう、サイトで読んでるよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "りんご",
+            "text": "お父さんも本好きなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "えのき",
+            "text": "好きですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 父上はランキングから読んでるみたい",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "えのき",
+            "text": "お父さんは、そんなになろうばかり読んでて大丈夫なのかと思うくらい読んでる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "えのき",
+            "text": "隙あらば読んでる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "りんご",
+            "text": "家族みんなで本の話題とかでますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "えのき",
+            "text": "読んでるジャンルはみんなバラバラかも・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "えのき",
+            "text": "各自好き放題読んでる感じで…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "てばさき",
+            "text": "最近はなんか妹に入間くんを布教されてる…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "えのき",
+            "text": "あー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "えのき",
+            "text": "漫画？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "てばさき",
+            "text": "漫画！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "りんご",
+            "text": "なんですか？それ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご ジャンプの漫画です",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "りんご",
+            "text": "漫画ね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "えのき",
+            "text": "魔入りました！ 入間くんっていうタイトルらしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "えのき",
+            "text": "妹は、意外といろいろハマってるよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 元ネタはソロモンの悪魔とかですね",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "りんご",
+            "text": "ハマる時期ありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "受験生なのにいろいろハマりすぎじゃない？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "えのき",
+            "text": "勉強すればいいのに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "えのき",
+            "text": "といつも思っています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "りんご",
+            "text": "受験生？それはちょっとね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき それはそう",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "えのき",
+            "text": "受験自体は終わりましたが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "てばさき",
+            "text": "まあ勉強も頑張ってるみたいだから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "えのき",
+            "text": "既に高校から宿題がたっぷり出てるのに・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "えのき",
+            "text": "今度テストもあるのに…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "りんご",
+            "text": "本好きな家族だからきっと大丈夫そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "てばさき",
+            "text": "高校から出された課題の全容と進捗率は公開してほしい…不安…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "えのき",
+            "text": "そうね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "りんご",
+            "text": "そういうことも色々ありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "えのき",
+            "text": "まあ、意外と宿題きちんとこなしてはいる。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "えのき",
+            "text": "多分",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "りんご",
+            "text": "えらい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "りんご",
+            "text": "意外と子供ってやってるものですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "てばさき",
+            "text": "高校数学は逃げてきたからともかく英語と国語は多分アドバイスできると思うのに…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "えのき",
+            "text": "高校生になったらまた勉強大変そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "りんご",
+            "text": "これから高校生なんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき おねえちゃんとしてアドバイスしてあげてください",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "えのき",
+            "text": "@りんご そうなんです！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "りんご",
+            "text": "お姉ちゃんいるから心強い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "えのき",
+            "text": "心強い！はず！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "てばさき",
+            "text": " 実際はどれどれ…わからん！父これ何教えて！になる未来は見えました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "えのき",
+            "text": "ただ、おねえちゃんのアドバイスを素直に聞き入れてくれるかどうか・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "りんご",
+            "text": "いやー聞けるだけいいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "りんご",
+            "text": "なるほど、それあるかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "てばさき",
+            "text": "妹なんか私を侮り過ぎている気がする",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てばさき",
+            "text": "もっと姉の威厳を…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "まあね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "えのき",
+            "text": "@りんご さんは、お子さんいらっしゃるんですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "りんご",
+            "text": "でも意外と妹さんはよくみてるかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "りんご",
+            "text": "いますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "りんご",
+            "text": "息子です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご おいくつですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "りんご",
+            "text": "もう29歳です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "じゃあもう安泰ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "りんご",
+            "text": "大谷さんと同い年なんです、あちらはすごいですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご お孫さんもいるんですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "りんご",
+            "text": "それがー、まだ独身で家から会社いってるくらいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "えのき",
+            "text": "それはそれで安心ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 実家暮らしいいですねぇ",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "りんご",
+            "text": "@えのき 子供って幾つになっても大変です",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "えのき",
+            "text": "離れて暮らしてると何かと心配だし…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "てばさんは、ずっと実家暮らしする気満々だよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "りんご",
+            "text": "@てばさき 実家から出る気なしです！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "えのき",
+            "text": "うちのもですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 実家暮らしは家賃という出費が家にお金を入れるに変わるので経済的だと思います",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "りんご",
+            "text": "大学は一人暮らししてたんですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "大学は遠かったんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "りんご",
+            "text": "新潟の長岡だったんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 1年間の寮暮らしで痛感しました…私は1人で暮らせないと…！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "りんご",
+            "text": "@てばさき やっぱりそうですかうちもそのくちでしょうね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 新潟ですか…なんか遠いイメージですね",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "えのき",
+            "text": "新潟、雪が多くて大変そう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "りんご",
+            "text": "遠かったです！新幹線ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "りんご",
+            "text": "あまりの雪でびっくりでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "えのき",
+            "text": "でも食べ物がおいしそうですよね、お米とか、お酒とか・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "てばさき",
+            "text": "現地の白米は美味しいだろうなぁ",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "りんご",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

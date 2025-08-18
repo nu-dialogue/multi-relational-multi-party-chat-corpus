@@ -1,0 +1,744 @@
+{
+    "dialogue_id": "B11610",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ぱんだ",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ぱんだ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ぱんだ",
+            "text": "ホッカイロとか使いますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "私は使わないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "てばさき",
+            "text": "@ぱんだ 妹が大量消費してました",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "てばさき",
+            "text": "私はあまり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ぱんだ",
+            "text": "最近、冷えに敏感になって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "えのき",
+            "text": "@ぱんだ 使いますか？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ぱんだ",
+            "text": "歳のせいでしょうか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ぱんだ",
+            "text": "使います！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "えのき",
+            "text": "血行でしょうかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "てばさき",
+            "text": "@ぱんだ スリッパをふわふわのやつにするとあったかいですよ",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ぱんだ",
+            "text": "使うんですが、暖かさが感じられない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ぱんだ",
+            "text": "温かさ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "えのき",
+            "text": "私は寒いとすぐお風呂入っちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "えのき",
+            "text": "最近、帰ったらすぐお風呂入ります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ぱんだ",
+            "text": "脂肪が多いからかな？って！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 帰ったらすぐお風呂入れるようにさせられます",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "えのき",
+            "text": "冷えやすいって言いますよね脂肪",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ぱんだ",
+            "text": "お風呂が1番温まりますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき ありがとう！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 仕方ないな！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ぱんだ",
+            "text": "そうそう！冷たいですよ。脂肪！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "えのき",
+            "text": "@ぱんだ 入浴剤とか使いますか？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ぱんだ",
+            "text": "@てばさき お風呂掃除担当なんですね！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "てばさき",
+            "text": "@ぱんだ 洗濯以外の家事全般担当です！確か！",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ぱんだ",
+            "text": "@えのき 入浴剤使わないんです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "えのき",
+            "text": "てばさんは、最近ずっと家にいるので掃除してもらってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ぱんだ",
+            "text": "好きなんですが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "えのき",
+            "text": "@ぱんだ そうなんですね",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ぱんだ",
+            "text": "洗濯に使うから主人が嫌がって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ぱんだ",
+            "text": "@てばさき さん最高ですね！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "えのき",
+            "text": "うちは、クリビオっていう入浴剤を使っていて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ぱんだ",
+            "text": "ウチも息子が帰省してくると風呂掃除担当です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ぱんだ",
+            "text": "クリビオ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私あれの匂いちょっと苦手",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "えのき",
+            "text": "環境にいいらしいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "えのき",
+            "text": "洗濯にも使えるっぽいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "えのき",
+            "text": "旦那が選んで買ってきてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 業務用で重いから入れるのも大変　なのでサボります",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 乳酸菌・納豆菌・酵母菌でできてるらしい",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ぱんだ",
+            "text": "そうそう！洗濯に使える入浴剤結構ありますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき きんききん…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ぱんだ",
+            "text": "匂いがあまり…ってかんじなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": " 乳酸菌っぽいにおい…？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "えのき",
+            "text": "市販の入浴剤のような、甘い匂いではないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "てばさき",
+            "text": "@ぱんだ もしくはイースト菌みたいな匂いかもしれないです",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "えのき",
+            "text": "あー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ぱんだ",
+            "text": "確かに、納豆菌、酵母菌っていい匂いとは程遠い感じしますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "えのき",
+            "text": "@ぱんだ こだわりの洗剤とかありますか？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき洗濯洗剤？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ぱんだ",
+            "text": "脂肪が多いせいか？私お風呂に入った後、お風呂ぬるくなっている感じします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ぱんだ",
+            "text": "こだわり洗剤とくにないですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ぱんだ",
+            "text": "あ、コストコブランド使ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "えのき",
+            "text": "@ぱんだ 私は、シャワーがあったかくなるまでの間の水がもったいなくて",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "えのき",
+            "text": "浴槽に入れちゃうので確実にぬるくしてますね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ぱんだ",
+            "text": "量優先！みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "てばさき",
+            "text": "@ぱんだ  我が家では柔軟剤が結構嫌われ者な気がします",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "えのき",
+            "text": "うちもコストコではないですが、業務用をよく買いますよ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "えのき",
+            "text": "量大事です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ぱんだ",
+            "text": "柔軟剤なぁ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき まあ、経済的",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき うちは基本無香料だから…",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ぱんだ",
+            "text": "かなり使いますものね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "えのき",
+            "text": "夏場は洗濯3回～とかになっちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ぱんだ",
+            "text": "無香料が1番ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 無香料とかいう割には母変な甘い匂いするときある。シャボン系の",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ぱんだ",
+            "text": "@えのき 3回回す回す！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "えのき",
+            "text": "旦那が肌弱いので、無添加・無香料にしています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ぱんだ",
+            "text": "すぐ乾くからいいですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "えのき",
+            "text": "@ぱんだ 大変ですよね！",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ぱんだ",
+            "text": "旦那様のために！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 父の肌は我が家の中で最弱…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ぱんだ",
+            "text": "じゃあダウニーとか使いたくないんじゃ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "えのき",
+            "text": "無理ですね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "てばさき",
+            "text": "@ぱんだ ダウニー？ってなんですか？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ぱんだ",
+            "text": "身体に悪そうですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 柔軟剤の名前です",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ぱんだ",
+            "text": "ダウニーって海外の柔軟剤です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "てばさき",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "えのき",
+            "text": "てばさん超苦手そう…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ぱんだ",
+            "text": "匂いがきついかめ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "てばさき",
+            "text": "ダメかもしれません…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 逆に好きなにおいってあるの？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき お腹減った時のジャガイモの焼けた匂い",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ぱんだ",
+            "text": "サラヤのやつとか良さそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "あー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき おなかすいてたらなんでもいい匂いなんじゃ…",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ぱんだ",
+            "text": "@てばさき さん例えが面白い！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "えのき",
+            "text": "@ぱんだ サラヤとかミヨシノとかですね",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てばさき",
+            "text": "あとはミント系とか、ファブリーズの緑茶の香りとか結構好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ぱんだ",
+            "text": "@てばさき さん草系！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき ファブリーズの緑茶、私がダメだった…",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 抹茶飴みたいな甘い匂い好き",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "ミント系は普通だけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ぱんだ",
+            "text": "ワタシはティーツリーとかのハーブ系が好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき つまり夏の風呂にハッカ油アホほど使ってみていいと？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ぱんだ",
+            "text": "そんな柔軟剤あったらいいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "えのき",
+            "text": "@ぱんだ 精油とか普段使いますか？",
+            "mention_to": [
+                "ぱんだ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "えのき",
+            "text": "エッセンシャルオイル",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき エッセンシャール",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ぱんだ",
+            "text": "@えのき シャンプーとか",
+            "mention_to": [
+                "えのき"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ぱんだ",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 2
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

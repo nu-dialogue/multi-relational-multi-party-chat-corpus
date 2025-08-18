@@ -1,0 +1,685 @@
+{
+    "dialogue_id": "A08101",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "しじみ",
+        "しらす",
+        "つぶあん"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "しじみ",
+            "text": "こんにちはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "しらす",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つぶあん",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "しじみ",
+            "text": "よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "しらす",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つぶあん",
+            "text": "よろしくお願いします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しじみ",
+            "text": "今日は私の住んでいる地域は、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "しらす",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "しじみ",
+            "text": "とってもいい天気です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "つぶあん",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "しじみ",
+            "text": "皆さんはどうですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "しらす",
+            "text": "こちらもです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つぶあん",
+            "text": "こちらは風が強いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "しらす",
+            "text": "いい天気です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "つぶあん",
+            "text": "天気は良いのですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "しらす",
+            "text": "でもめちゃくちゃ寒いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "しじみ",
+            "text": "おぉ！みなさんいい天気",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "しじみ",
+            "text": "@しらす こちらもら寒いです",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "しじみ",
+            "text": "@つぶあん 風強いですよね〜",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "しらす",
+            "text": "@しじみ 部屋の中で手袋してます",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "しじみ",
+            "text": "えぇ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つぶあん",
+            "text": "@しじみ 風が強くてつらいです",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "しじみ",
+            "text": "かなり寒いんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "しらす",
+            "text": "手が動きません笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "しじみ",
+            "text": "ありゃま！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "しじみ",
+            "text": "@しらす 冷え性ですかね？？",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つぶあん",
+            "text": "@しらす 手袋ですか！",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "しじみ",
+            "text": "@つぶあん 風強いと、洗濯外に干すか悩みますね〜",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "しらす",
+            "text": "@しじみ 冷え性ですね",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "しじみ",
+            "text": "冷え性つらいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つぶあん",
+            "text": "@しじみ 部屋干しにしました。",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "しらす",
+            "text": "でも作業できないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しじみ",
+            "text": "私も、わりと冷え性なので冬は辛いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しらす",
+            "text": "指があいたやつです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つぶあん",
+            "text": "@しらす 冷え性つらいですよね。",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "しじみ",
+            "text": "指があいたやつ、便利そう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "しらす",
+            "text": "@しじみ 冬つらいですね",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "しじみ",
+            "text": "スマホ操作もしやすいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "しらす",
+            "text": "@つぶあん つらいです",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つぶあん",
+            "text": "便利ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "しじみ",
+            "text": "@つぶあん 冷え性ではないですか？",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "しらす",
+            "text": "作業とかスマホとか楽ですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つぶあん",
+            "text": "皆さんしもやけとかなりますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しらす",
+            "text": "やはり寒い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "しらす",
+            "text": "指先",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "しじみ",
+            "text": "指先結構冷えますもんね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "しらす",
+            "text": "1番冷えます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "しじみ",
+            "text": "しもやけはならないかもです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つぶあん",
+            "text": "冷えますね。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "しらす",
+            "text": "でもしないよりマシです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "しらす",
+            "text": "しもやけまではしませんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つぶあん",
+            "text": "足より手が冷えますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "しじみ",
+            "text": "あ〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "しじみ",
+            "text": "どっちもどっちかも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つぶあん",
+            "text": "私しもやけになりやすいんです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "しじみ",
+            "text": "足も冷えますよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "しらす",
+            "text": "@つぶあん どっちもです",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "しじみ",
+            "text": "しもやけって、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "しじみ",
+            "text": "室内でもなりますか？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "しらす",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つぶあん",
+            "text": "どうなんですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つぶあん",
+            "text": "気づいたらしもやけになっています。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "しじみ",
+            "text": "へー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "しじみ",
+            "text": "それは大変ですねぇ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しらす",
+            "text": "むかし雪触って痒くなったことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "しらす",
+            "text": "冷たすぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つぶあん",
+            "text": "大人になってからは減ったのですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "しじみ",
+            "text": "あー、ありました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "しらす",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "つぶあん",
+            "text": "子供のころはひどかったです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "しじみ",
+            "text": "外の空気だけで、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "しじみ",
+            "text": "しもやけになっちゃいますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つぶあん",
+            "text": "外の空気でなっているんですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "しじみ",
+            "text": "どうなんでしょう？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つぶあん",
+            "text": "だから大人になって減ったのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "しじみ",
+            "text": "しもっていうから、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しらす",
+            "text": "子どもは寒くても外で遊びますからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "しじみ",
+            "text": "雪触るとなるものなのかと思っていました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つぶあん",
+            "text": "子供たちもしもやけになるんです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "しらす",
+            "text": "@しじみ 私もです",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "しじみ",
+            "text": "子供は風の子でよね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "しらす",
+            "text": "そう思ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "しじみ",
+            "text": "@つぶあん あら！",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しじみ",
+            "text": "遺伝もあるんでしょうかね？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "しじみ",
+            "text": "肌質？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "つぶあん",
+            "text": "たぶんありますよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "しじみ",
+            "text": "ふむふむ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しらす",
+            "text": "肌弱いのは遺伝かも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "しらす",
+            "text": "私もそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "しじみ",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "しらす",
+            "text": "母が弱くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しじみ",
+            "text": "あら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "しらす",
+            "text": "私も弱い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "つぶあん",
+            "text": "あまり、まわりでしもやけの子",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つぶあん",
+            "text": "聞かないです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "しじみ",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "しらす",
+            "text": "あら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "しじみ",
+            "text": "そう言われてみれば、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つぶあん",
+            "text": "血液の循環が悪いのかなって思ってました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "しじみ",
+            "text": "しもやけって聞かなくなったかも",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "しじみ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらす",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "つぶあん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

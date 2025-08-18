@@ -1,0 +1,720 @@
+{
+    "dialogue_id": "B13002",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "にわとり",
+        "じゃがいも",
+        "くま"
+    ],
+    "relationship": [
+        "じゃがいも",
+        "くま"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "にわとり",
+            "text": "こんばんわー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "じゃがいも",
+            "text": "こんばんはっす！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "くま",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くま",
+            "text": "2月も終わりですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "じゃがいも",
+            "text": "終わるね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "にわとり",
+            "text": "そうですねー早い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "にわとり",
+            "text": "今月は1日多いけど。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "くま",
+            "text": "今年はうるう年ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "じゃがいも",
+            "text": "同じこと言ってる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くま",
+            "text": "一応オリンピック？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "くま",
+            "text": "夏のやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "じゃがいも",
+            "text": "うるう秒もあるって聞きますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "にわとり",
+            "text": "@くま　そうですそうです！",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま そうか、夏のオリンピックか",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "じゃがいも",
+            "text": "誰か日本人出るのかしら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "じゃがいも",
+            "text": "全く興味なくて知らないや",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "にわとり",
+            "text": "夏かー。今年のなつ、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "にわとり",
+            "text": "すんごい暑いらしいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くま",
+            "text": "@にわとり 場所はどこでしたっけ？",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "にわとり",
+            "text": "あっどこでしたっけ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり どこか知ってます？私知らないなぁ",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "くま",
+            "text": "日本人は出るでしょ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くま",
+            "text": "出ないことないと思う",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "じゃがいも",
+            "text": "そりゃ出ないことはないだろうよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "じゃがいも",
+            "text": "誰が出るか知らんねん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "にわとり",
+            "text": "きっと出ますよ！！やっぱりメダル、気になりますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "じゃがいも",
+            "text": "気になりますね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "くま",
+            "text": "ヨーロッパな気がしますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "じゃがいも",
+            "text": "メダルといえば荒川静香の時に、荒川静香しかメダル取れなかったことがマジで驚きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "にわとり",
+            "text": "ヨーロッパいいなあ。涼しそう。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "じゃがいも",
+            "text": "すいません、話遮りましたわ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "にわとり",
+            "text": "えーーーそうでしたっけ？荒川静香。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "くま",
+            "text": "アテネとかだったか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "じゃがいも",
+            "text": "多分そうだったと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "くま",
+            "text": "2004年とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "じゃがいも",
+            "text": "アテネかも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "にわとり",
+            "text": "そうかー！アテネか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "じゃがいも",
+            "text": "20年前恐ろしいんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くま",
+            "text": "イナバウアーしかわからんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "にわとり",
+            "text": "いなばうわーですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "じゃがいも",
+            "text": "間違いない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "にわとり",
+            "text": "もう20年まえか・・・・おそろしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "じゃがいも",
+            "text": "イナバウアーしても金メダルっていう感じでしたもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "くま",
+            "text": "浅田真央とかももう引退してるしなあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "にわとり",
+            "text": "確かに・・・！！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "にわとり",
+            "text": "フィギュアはすきでよくみてるんですけどね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "じゃがいも",
+            "text": "今のメンバーほとんどわからないと思う",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "じゃがいも",
+            "text": "あ、そうなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "にわとり",
+            "text": "わたしもー。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "くま",
+            "text": "イナバウアーって足の形らしいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "にわとり",
+            "text": "ゆづぴで黄金時代が終わったような・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり なんかお金かけてもそんなに言い方悪いけど収益にならないって有名",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "くま",
+            "text": "のけぞる必要ないみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "にわとり",
+            "text": "えっ？？足の形？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま よく知ってるね",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "にわとり",
+            "text": "あーーーー　すみません勘違いしましたw",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "くま",
+            "text": "昔なんかで見た気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "じゃがいも",
+            "text": "のけぞる必要ないのにのけぞってるからすごかったってことかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "にわとり",
+            "text": "イナバウワーってのが、ドイツ語かなんかで「足の形」なのかと思いました・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "くま",
+            "text": "見た目的に映えてるんでしょう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "くま",
+            "text": "そこまではわかりませんw",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "じゃがいも",
+            "text": "まぁすごい映えてた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "じゃがいも",
+            "text": "あれは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "にわとり",
+            "text": "なるほどね！確かに！ばえてました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "じゃがいも",
+            "text": "ゆずくんも離婚しちゃったし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "くま",
+            "text": "あと聞いた話なのであってるかもわかんないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "にわとり",
+            "text": "ねーーーーびっくりです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "くま",
+            "text": "離婚しちゃったねえ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "じゃがいも",
+            "text": "なんかフィギュアスケート業界に立ち込める暗黒感",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "にわとり",
+            "text": "わかります・・・！闇が・・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま なんか豆知識ないんですか？ゆづくんの",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "くま",
+            "text": "ゲーム好きな人くらしかもうわからん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "じゃがいも",
+            "text": "えっ誰？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "にわとり",
+            "text": "あーーー　あと、イヤホンがすごい高いの持ってるらしい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも ぷーさんが好きくらいしかないです",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり 笑いました",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "にわとり",
+            "text": "他にお金使わないから、イヤホンにお金をかけてるらしいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 誰でも知ってます。ありがとうございます",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "じゃがいも",
+            "text": "知らなかった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くま",
+            "text": "ゲーム好きなの誰だっけな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "にわとり",
+            "text": "@くま ぷーさん、大量のどこにいっちゃうんだろうなあ・・・",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "じゃがいも",
+            "text": "まぁでも精神統一でイヤホンはいいの使いたいですよねきっと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "くま",
+            "text": "日本で2番目くらいの人",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "にわとり",
+            "text": "あっ、うのしょうまくんでは？ゲーム好き。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "じゃがいも",
+            "text": "宇野くんか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くま",
+            "text": "@にわとり そうです！",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "にわとり",
+            "text": "そうそう！確か！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり さすがすぎる、全く知らなかったです",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "くま",
+            "text": "練習以外はゲームばっかしてるみたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "にわとり",
+            "text": "彼もがんばってますよね。どこまでのびるかなー。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "じゃがいも",
+            "text": "宇野くんかぁ、なんか確かにゲーム好きそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "じゃがいも",
+            "text": "あ、まだやってるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "じゃがいも",
+            "text": "もうなんかそのレベル感です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "くま",
+            "text": "女性はもうわかんないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "じゃがいも",
+            "text": "スケートって見ててヒヤヒヤしちゃって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "にわとり",
+            "text": "若いもんねー！！しょうまくん。　",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "にわとり",
+            "text": "わかります！ジャンプのとき、息のんじゃう。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "じゃがいも",
+            "text": "なんか手に汗握る瞬間が多すぎてあんまりリアルタイムで見れないという",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり わかります",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "にわとり",
+            "text": "転ぶなよーって。でもころんじゃう・・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "くま",
+            "text": "転ぶと痛いですからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "じゃがいも",
+            "text": "でもどう見てもあんなに回転するなんて異様です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "にわとり",
+            "text": "自転車で転んでも痛いのにね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "じゃがいも",
+            "text": "そりゃ痛い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "にわとり",
+            "text": "氷でころんだらどれほど痛いか・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "くま",
+            "text": "目が回りそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "じゃがいも",
+            "text": "スケートやりましたけど、旦那と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "じゃがいも",
+            "text": "全く滑れませんでしたもん",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "にわとり",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "じゃがいも",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "くま",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

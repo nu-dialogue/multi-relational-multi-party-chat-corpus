@@ -1,0 +1,713 @@
+{
+    "dialogue_id": "A05005",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "つぶあん",
+        "しらす",
+        "いくら"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "つぶあん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "しらす",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらす",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "いくら",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つぶあん",
+            "text": "今日の夕飯は何ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つぶあん",
+            "text": "決まっていますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しらす",
+            "text": "今日はちゃんぽんしようかと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つぶあん",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "つぶあん",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "しらす",
+            "text": "子が大好きで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "いくら",
+            "text": "今日の夕飯は決まってないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "いくら",
+            "text": "なににしよう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つぶあん",
+            "text": "ちゃんぽん好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "しらす",
+            "text": "野菜も沢山とれますし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "いくら",
+            "text": "ちゃんぽん好きなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "いくら",
+            "text": "ラーメンみたいなものですよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "つぶあん",
+            "text": "野菜たっぷりですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "しらす",
+            "text": "@そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "つぶあん",
+            "text": "おいしいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "いくら",
+            "text": "野菜食べてくれるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "しらす",
+            "text": "@いくら そうです",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つぶあん",
+            "text": "@しらす 作ったことないです。",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "いくら",
+            "text": "@つぶあん ご飯決まりましたか？",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "つぶあん",
+            "text": "野菜を先に炒めますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "いくら",
+            "text": "ちゃんぽんって作れるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "しらす",
+            "text": "@つぶあん もうめんどくさいので全部茹でます笑",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つぶあん",
+            "text": "@いくら 時間があったらロールキャベツを作ろうかなと。",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "しらす",
+            "text": "さらにめんどくさいので鍋にドンって出します笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "つぶあん",
+            "text": "@しらす 一緒にゆでるんですか？",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つぶあん",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "いくら",
+            "text": "牛乳とか鶏ガラとか使うんですね！ちゃんぽん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "つぶあん",
+            "text": "それ、楽しそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "いくら",
+            "text": "@つぶあん ロールキャベツすごすぎる！",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しらす",
+            "text": "@つぶあん 余裕があるときは炒めます",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つぶあん",
+            "text": "みんなで鍋ってかんじですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "いくら",
+            "text": "旦那、おでんにロールキャベツ入れる派なんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "いくら",
+            "text": "みんな鍋ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "いくら",
+            "text": "私もナベにしようかな、！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "つぶあん",
+            "text": "@いくら おでんにですか！",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "しらす",
+            "text": "自分九州なので、ちゃんぽんスープとかスーパーで売ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "いくら",
+            "text": "おでんにです、不思議",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "いくら",
+            "text": "でもセブンの入ってるんですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "しらす",
+            "text": "おでんのロールキャベツおいしそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "つぶあん",
+            "text": "@しらす うわ～！いいですね！",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "つぶあん",
+            "text": "めちゃくちゃ美味しそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "いくら",
+            "text": "@しらす なるほど！それはお手軽でいいですね！",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つぶあん",
+            "text": "ちゃんぽん食べたくなった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "いくら",
+            "text": "わかります、とてもなりました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "いくら",
+            "text": "麺をすすりたくなりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "しらす",
+            "text": "なんかお腹すいてきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "つぶあん",
+            "text": "@いくら おでんのロールキャベツは別で作っていれるんですか？",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つぶあん",
+            "text": "おなかすきましたね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "いくら",
+            "text": "お腹すいてきますね、お昼ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "つぶあん",
+            "text": "時間がなかったら、ただの肉そぼろ丼になります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "いくら",
+            "text": "@つぶあん ロールキャベツもついでに市販の買って入れちゃってます！",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "いくら",
+            "text": "そぼろなら3色丼とかもありですね！おいしそう！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "つぶあん",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "いくら",
+            "text": "お昼何食べましょう、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つぶあん",
+            "text": "お手軽！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "しらす",
+            "text": "お昼なんにしましょうかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "つぶあん",
+            "text": "子供はそぼろ丼好きですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "いくら",
+            "text": "最近なんでもスーパーに売ってますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "いくら",
+            "text": "チンするだけでメイン完成とか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "つぶあん",
+            "text": "助かりますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "しらす",
+            "text": "助かりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "いくら",
+            "text": "肉と野菜買って作るより安かったりするので馬鹿らしくなる時あります、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "しらす",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つぶあん",
+            "text": "本当です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "いくら",
+            "text": "お昼はラーメンになるかもしれません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "つぶあん",
+            "text": "手間賃考えると買った方が安い？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "いくら",
+            "text": "もう完全にちゃんぽん。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "つぶあん",
+            "text": "ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "つぶあん",
+            "text": "ちゃんぽん食べたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "つぶあん",
+            "text": "うちないな～。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "いくら",
+            "text": "それです！でも量を作るとなると材料買った方がお得ですね！既製品は1人分とかなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "いくら",
+            "text": "ないのでラ王とかで我慢します。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "しらす",
+            "text": "うちは昼ごはん納豆かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "いくら",
+            "text": "味噌とか近い気がしませんか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しらす",
+            "text": "1人の時は雑になります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "いくら",
+            "text": "納豆いいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "いくら",
+            "text": "昨日納豆ご飯でした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "つぶあん",
+            "text": "一人はそうですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "いくら",
+            "text": "納豆に九条ネギとマヨネーズのせて食べるんです。最高ですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "しらす",
+            "text": "雑でサッと済ませたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "つぶあん",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "いくら",
+            "text": "1人はパパっと終わらせたいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つぶあん",
+            "text": "九条ネギにマヨネーズ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "しらす",
+            "text": "@いくら 美味しそう!!",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "いくら",
+            "text": "納豆食べた茶碗がヌルヌルやばいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しらす",
+            "text": "マヨネーズの発想なかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "いくら",
+            "text": "美味しいんですほんと！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "いくら",
+            "text": "マヨネーズと納豆最高です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "つぶあん",
+            "text": "七味もあいそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しらす",
+            "text": "@いくら 昼早速やってみます",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "いくら",
+            "text": "七味！いいですね、大人です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "いくら",
+            "text": "ぜひやってみて下さい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つぶあん",
+            "text": "おなかすいた！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "いくら",
+            "text": "ほんとですね、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "しらす",
+            "text": "想像しただけでヨダレが笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "いくら",
+            "text": "まだ11時ですね、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つぶあん",
+            "text": "ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "いくら",
+            "text": "マヨネーズとご飯美味しいですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "つぶあん",
+            "text": "毎日食事考えるの大変ですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "しらす",
+            "text": "大変ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "いくら",
+            "text": "自分のは気分で決めるので楽なんですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "つぶあん",
+            "text": "そうですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "いくら",
+            "text": "人のって難しいです",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "つぶあん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらす",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "いくら",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,674 @@
+{
+    "dialogue_id": "B11801",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ばなな",
+        "こんぶ",
+        "ちくわ"
+    ],
+    "relationship": [
+        "こんぶ",
+        "ちくわ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ばなな",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "こんぶ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ちくわ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "こんぶ",
+            "text": "もう晩御飯は食べられましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ちくわ",
+            "text": "私はパスタです！みなさんは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ばなな",
+            "text": "先程、済ませました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "こんぶ",
+            "text": "ハンバーグです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "こんぶ",
+            "text": "ばななさんは何をたべられましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ばなな",
+            "text": "美味しそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ばなな",
+            "text": "麻婆豆腐にしました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こんぶ",
+            "text": "麻婆豆腐いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ちくわ",
+            "text": "私のお昼麻婆豆腐でした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "こんぶ",
+            "text": "何パスタですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ちくわ",
+            "text": "ミートソースですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ばなな",
+            "text": "私も最近食べました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ばなな",
+            "text": "三連休終わってしまいましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "こんぶ",
+            "text": "美味しいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "こんぶ",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "こんぶ",
+            "text": "あっという間でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ちくわ",
+            "text": "私は旅行に行きましたが皆さんどこか行かれましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ばなな",
+            "text": "お出かけしましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ちくわ",
+            "text": "私は東京に行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ばなな",
+            "text": "ちくわさんはどちらに？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "こんぶ",
+            "text": "東京のほかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "こんぶ",
+            "text": "横浜にも行きました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ばなな",
+            "text": "横浜も良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ちくわ",
+            "text": "はい。東京タワー見てきました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ちくわ",
+            "text": "横浜だと中華街いいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "こんぶ",
+            "text": "そうそう、中華街にいってきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ばなな",
+            "text": "中華街で何を食べましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "こんぶ",
+            "text": "豚まん美味しかったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "こんぶ",
+            "text": "あとは、小籠包も食べました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "こんぶ",
+            "text": "デザートには、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "こんぶ",
+            "text": "いちご飴とタピオカものみました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ちくわ",
+            "text": "連休だから人多かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ばなな",
+            "text": "美味しそうです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "こんぶ",
+            "text": "たくさん食べ過ぎましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "こんぶ",
+            "text": "人多かったです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "こんぶ",
+            "text": "ばななさんはおでかけされました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ばなな",
+            "text": "どこも多いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ばなな",
+            "text": "私は浜離宮に行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ばなな",
+            "text": "汐留にあります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "こんぶ",
+            "text": "すみません、初めてきいたところです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ちくわ",
+            "text": "東京も人多かったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "こんぶ",
+            "text": "へぇ〜！汐留なんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ばなな",
+            "text": "庭園です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ばなな",
+            "text": "菜の花が綺麗でした。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "こんぶ",
+            "text": "ステキな場所があるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "こんぶ",
+            "text": "菜の花もう咲いてるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ちくわ",
+            "text": "今度私も行ってみます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "こんぶ",
+            "text": "いいですね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ばなな",
+            "text": "ぜひ、おすすめです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ばなな",
+            "text": "ちくわさん、他にどこか行きましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ちくわ",
+            "text": "浅草に行ってきました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "こんぶ",
+            "text": "浅草もいいところですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ばなな",
+            "text": "浅草も人が多そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ちくわ",
+            "text": "人力車に乗って楽しかったです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "こんぶ",
+            "text": "観光地はどこも人がすごそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ばなな",
+            "text": "人力車ありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こんぶ",
+            "text": "人力車楽しいですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ばなな",
+            "text": "人力車はいかがでしたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ばなな",
+            "text": "快適ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ちくわ",
+            "text": "人生で初めて乗りました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ちくわ",
+            "text": "たくさんお話をしてくれて、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ちくわ",
+            "text": "観光名所も回れて良かったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ちくわ",
+            "text": "快適でしたよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ちくわ",
+            "text": "天気も良くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ばなな",
+            "text": "名所をあちこち回れるのは良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "こんぶ",
+            "text": "色々案内してもらえるの良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ばなな",
+            "text": "桜の時期も良さそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ちくわ",
+            "text": "はい。歩いている人たちに見られて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ちくわ",
+            "text": "少し恥ずかしかったです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ちくわ",
+            "text": "桜だとどこが有名ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "こんぶ",
+            "text": "桜の時期に人力車",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "こんぶ",
+            "text": "ステキでおすすめですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ばなな",
+            "text": "良さそうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ばなな",
+            "text": "隅田川の桜は良いですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ちくわ",
+            "text": "へぇー行ったことないです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "こんぶ",
+            "text": "私もないです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "こんぶ",
+            "text": "川沿いの桜は綺麗ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ばなな",
+            "text": "ちくわさんはどちらの出身ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ちくわ",
+            "text": "友達と花見をするのもいいですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ちくわ",
+            "text": "大阪府ですよ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ばなな",
+            "text": "大阪なのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ばなな",
+            "text": "こんぶさんは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "こんぶ",
+            "text": "私は岩手県です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ちくわ",
+            "text": "岩手県なんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ばなな",
+            "text": "岩手なのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "こんぶ",
+            "text": "ばななさんは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ばなな",
+            "text": "おすすめの観光ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ちくわ",
+            "text": "大阪のおすすめは道頓堀ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ばなな",
+            "text": "私は東京です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ばなな",
+            "text": "道頓堀",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ばなな",
+            "text": "タイガースの優勝とかに出てくるところですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ちくわ",
+            "text": "そうです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ちくわ",
+            "text": "ダメなのに道頓堀に飛び込む人が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "こんぶ",
+            "text": "私も修学旅行で行ったことがあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ちくわ",
+            "text": "よくニュースに出てます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こんぶ",
+            "text": "あ〜よくニュースでみる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ばなな",
+            "text": "ニュースに出ますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ちくわ",
+            "text": "たこ焼きやお好み焼きも有名ですよ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ばなな",
+            "text": "食べ物が美味しいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ちくわ",
+            "text": "粉もんが有名です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "ばなな",
+            "text": "岩手のおすすめは何でしょうか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "こんぶ",
+            "text": "わんこそばでしょうか〜",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ばなな",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "こんぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 1,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ちくわ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 2,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

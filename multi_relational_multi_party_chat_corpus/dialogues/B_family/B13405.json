@@ -1,0 +1,806 @@
+{
+    "dialogue_id": "B13405",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "すじこ",
+        "てばさき",
+        "えのき"
+    ],
+    "relationship": [
+        "てばさき",
+        "えのき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "すじこ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "てばさき",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "えのき",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "すじこ",
+            "text": "今コーヒーを飲んでるんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "すじこ",
+            "text": "好きな飲み物ってなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ コーヒー飲める人ですか…",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ 私が好きな飲み物はコーヒー牛乳といちごミルクです！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "すじこ",
+            "text": "@てばさき 1日ほぼコーヒーです",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "えのき",
+            "text": "眠る前にコーヒー、眠れなくなりませんか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "えのき",
+            "text": "@すじこ 私はフルーツジュースとか好きです。お高い系の",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "すじこ",
+            "text": "@てばさき 甘くて美味しいですよね！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 父は寝る前にコーヒー飲むと朝ちゃんと起きれるって言ってた",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "えのき",
+            "text": "そうなんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "すじこ",
+            "text": "@えのき お高い系笑",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "えのき",
+            "text": "100%のやつです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "すじこ",
+            "text": "サッパリしてるやつですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ お高い系のおこぼれもらってはちょっと口に合わず悲しくなってます！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "すじこ",
+            "text": "慣れてしまって爆睡します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "えのき",
+            "text": "今日はファミマでちょっと買ってきてしまいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ 爆睡できるのいいですね",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "すじこ",
+            "text": "フルーツジュースも好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき いいこと聞いた！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "えのき",
+            "text": "@すじこ お酒はたしなまれるんですか？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "すじこ",
+            "text": "学生時代コーヒー牛乳いちごオレ飲んでました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 話をそらされた！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき ばれた",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "えのき",
+            "text": "やばい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ 甘いのいいですよね！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "すじこ",
+            "text": "@てばさき 爆睡できないんですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "てばさき",
+            "text": "お酒にも似た味があるって聞きました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ 私もするときはします",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "すじこ",
+            "text": "@えのき お酒は弱くて",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "えのき",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "すじこ",
+            "text": "ビールだけ1杯飲むくらいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 母はお強いのですか？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 夜更かしせずに早寝早起きしよう…",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 母は、お酒はたしなむ程度です",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 気づいたら25時に…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "えのき",
+            "text": "25時25分まで起きてても何もないよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "てばさき",
+            "text": "何なら32時に…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "えのき",
+            "text": "朝じゃん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "すじこ",
+            "text": "朝笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "すじこ",
+            "text": "でも若い人ならよくあることですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "えのき",
+            "text": "若いころはなんでそうなるんでしょうね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "すじこ",
+            "text": "僕も3日オールとか出来ましたもん笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ３日オールできるほど体力ないです、運動不足なもので",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "すじこ",
+            "text": "@えのき もちろん経験者ですよね？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "えのき",
+            "text": "私も朝6時まで起きてて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "えのき",
+            "text": "6時から寮の大浴場が開くので、入ってさっぱりしてから寝る。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ 逆になぜ３日も徹夜する羽目に？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "えのき",
+            "text": "とかよくありました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "すじこ",
+            "text": "@てばさき 体力云々ではなくもう維持です",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 若い時は寝るのがもったいないんだよきっと",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "すじこ",
+            "text": "@えのき サッパリしてから寝るいいですね！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ ２徹してことすらないです…",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "えのき",
+            "text": "てばさんは見るといつもお昼寝してる…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき そういうものか",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "えのき",
+            "text": "若いのに…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき お昼寝はいいぞ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "えのき",
+            "text": "お昼寝推し",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "すじこ",
+            "text": "@てばさき 麻雀やったりビリヤードやダーツバーに",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "すじこ",
+            "text": "呑みながらハシゴしてたら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 海外のお昼寝文化は正直羨ましい",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ 私にはまだ早いですね",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "すじこ",
+            "text": "いつの間にかベットの上でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ 落とし物になってなくてよかったですね",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "えのき",
+            "text": "若さを謳歌していますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "すじこ",
+            "text": "@てばさき 早いも遅いもない！今日が吉日！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "えのき",
+            "text": "てばさんは箱入りなので…笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ 麻雀もビリヤードもダーツもしたことないです",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "すじこ",
+            "text": "@てばさき どんなによってもベットまでは行く生き物なんです",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "えのき",
+            "text": "帰巣本能ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ それも才能ですかね",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "すじこ",
+            "text": "@えのき 若いうちにしか出来ないことを",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "すじこ",
+            "text": "やり過ぎた末路が今です笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ ゲームは期間限定ですからしまくってます！怒られるくらいには！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "えのき",
+            "text": "当時のことは、黒歴史と化して振り返ることができません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "すじこ",
+            "text": "@てばさき 才能か！そうか！やっと気付けた！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "覚醒！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ 四年後には衰えてしまうかもしれない、コンテンツには寿命があるので推せるうちに推しましょう！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "えのき",
+            "text": "あー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "えのき",
+            "text": "それはある",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "えのき",
+            "text": "貢げるうちに貢がないと…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "すじこ",
+            "text": "@てばさき そうです！僕もhitというアプリで",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "すじこ",
+            "text": "しこたま妻に怒られました笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき あと私小学生の書いてた小説今でも楽しんで読み返せると思うよ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "えのき",
+            "text": "怒られるほど…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "えのき",
+            "text": "うちは、旦那にGoogleプレイカードを買ってもらいました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "すじこ",
+            "text": "もうそれは恥ずかしくて見たくない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "えのき",
+            "text": "誕生日プレゼントに…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ hit?とはどんなアプリですか？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "すじこ",
+            "text": "推しはなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "すじこ",
+            "text": "誰ですか？かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ 私は箱推しです！全体的に好きです！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "すじこ",
+            "text": "@えのき 自由に使えて便利笑",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "えのき",
+            "text": "@すじこ アプリ、課金しますか？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "すじこ",
+            "text": "@てばさき アクションRPGですね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ 強いていうなら足の長いイケメン達が戯れてるの好きです！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "すじこ",
+            "text": "対戦出来るやつです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "えのき",
+            "text": "@てばさき 足の長いイケメンって、ざっくりだな",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ 対戦系はやりませんね…",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "すじこ",
+            "text": "@えのき 箱というのわ？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "すじこ",
+            "text": "@えのき あまりしませんね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "えのき",
+            "text": "@すじこ なんか、全体的に推す感じらしいですよ？箱推し",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "えのき",
+            "text": "誰とは言わず…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "すじこ",
+            "text": "@てばさき BL系ですか？",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "てばさき",
+            "text": "@すじこ 箱はコンテンツ全体の比喩です、グループ全体が好きならそのグループの箱推しというように",
+            "mention_to": [
+                "すじこ"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "すじこ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,698 @@
+{
+    "dialogue_id": "B13810",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "くじら",
+        "つみれ",
+        "たまご"
+    ],
+    "relationship": [
+        "つみれ",
+        "たまご"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くじら",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つみれ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "たまご",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くじら",
+            "text": "休日は何をして過ごすことが多いですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つみれ",
+            "text": "出かけることが好きなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つみれ",
+            "text": "ドライブに行ったり、お買い物に行ったりします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たまご",
+            "text": "自分は友達と遊び行ったりします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "くじら",
+            "text": "@つみれ ドライブ良いですね",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "くじら",
+            "text": "@たまご どんな所に遊びに行きます？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "たまご",
+            "text": "ドライブいいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たまご",
+            "text": "買い物行ったり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "たまご",
+            "text": "カラオケ行ったりします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 免許取ったのだからドライブ行けばいいよ",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまご",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "たまご",
+            "text": "自分の運転で行きたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "くじら",
+            "text": "@たまご 免許取ったんですね？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "くじら",
+            "text": "車は持ってます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "たまご",
+            "text": "取りました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "たまご",
+            "text": "車は持ってないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "くじら",
+            "text": "頑張りましたね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "くじら",
+            "text": "乗りたい車、あります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "たまご",
+            "text": "ランクルとか乗ってみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "つみれ",
+            "text": "@くじら 社会人になると教習所通うの難しいと思って",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "つみれ",
+            "text": "学生のうちに取らせました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "くじら",
+            "text": "@つみれ それはありますね。",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "くじら",
+            "text": "学生のうちに取っておいた方が良さそう。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "たまご",
+            "text": "絶対その方がいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "くじら",
+            "text": "ランクルってちょっとごつい感じですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "たまご",
+            "text": "そうです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つみれ",
+            "text": "かなりゴツいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "たまご",
+            "text": "ゴツイ系乗りたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "つみれ",
+            "text": "私も乗りたい車です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "くじら",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "くじら",
+            "text": "私は免許持ってなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "たまご",
+            "text": "持ってないんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "くじら",
+            "text": "夫は車好きで、昔はモーターショーとか行きました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "たまご",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "たまご",
+            "text": "カッコいい車多いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くじら",
+            "text": "夫が羽根が付いてる車に乗っていて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つみれ",
+            "text": "@くじら 都会にいると免許も必要ないですよね",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たまご",
+            "text": "ウイング系",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "くじら",
+            "text": "@つみれ 駅も近いし、交通の便も良いので",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "くじら",
+            "text": "そう、羽根が付いていてびっくりしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "つみれ",
+            "text": "@くじら ご主人が免許あれば困らないですもんね",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "たまご",
+            "text": "スポーツ系だ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "くじら",
+            "text": "乗せてもらえるので楽です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 前はスポーツカー系がいいって言ってたよね？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たまご",
+            "text": "今もちょっと欲しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くじら",
+            "text": "たまにスポーツカー走っているの見るとついつい見てしまいます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つみれ",
+            "text": "@くじら 助手席が最高です！",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "くじら",
+            "text": "スポーツカーは皆憧れますね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "くじら",
+            "text": "@つみれ どんな車に乗ってます？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つみれ",
+            "text": "@くじら スポーツカー",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "たまご",
+            "text": "かっこいいでづ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "つみれ",
+            "text": "好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つみれ",
+            "text": "@くじら 私、ずっとカングーっていうルノーの車に乗ってたんですけど",
+            "mention_to": [
+                "くじら"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "つみれ",
+            "text": "主人がどうしてもミニが欲しいというので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "くじら",
+            "text": "@つみれ ルノーの車だったんですね",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つみれ",
+            "text": "カングーを泣く泣く手放しました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "くじら",
+            "text": "それは可愛そうな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "つみれ",
+            "text": "ここんとこはずっとルノーでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "くじら",
+            "text": "それぞれ好みこだわりがありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つみれ",
+            "text": "今は主人のお下がりのハスラーに乗ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "つみれ",
+            "text": "軽は小回りがきくから楽です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "くじら",
+            "text": "@つみれ それぞれ車持ってるんですね！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "つみれ",
+            "text": "長野県は車がないと生きて行けないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "たまご",
+            "text": "良さがそれぞれに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "くじら",
+            "text": "都内は駐車場もなかなかないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "つみれ",
+            "text": "うちのところ電車は1時間に1本しか走ってないし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くじら",
+            "text": "仕事も買い物も車でないとたいへんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つみれ",
+            "text": "バスも少ないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "くじら",
+            "text": "雪降った時は車もたいへんでは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "つみれ",
+            "text": "車必須ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "つみれ",
+            "text": "雪降ると車は怖いです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "くじら",
+            "text": "雪道は怖そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "くじら",
+            "text": "すべりそうで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つみれ",
+            "text": "坂道で滑って止まらなかったことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "たまご",
+            "text": "こわいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "くじら",
+            "text": "ええ～それは怖い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つみれ",
+            "text": "凍ったらスタットレスも意味ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くじら",
+            "text": "その時は何もなくてすみました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "つみれ",
+            "text": "危機一髪な感じで止まりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つみれ",
+            "text": "間一髪？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "くじら",
+            "text": "それは良かった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "たまご",
+            "text": "良かった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くじら",
+            "text": "ぶつかったりとかしたらたいへん。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つみれ",
+            "text": "昔滑って前の車にぶつかったこともあります・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "つみれ",
+            "text": "大変です。色々。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "たまご",
+            "text": "危ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くじら",
+            "text": "車は便利ですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "くじら",
+            "text": "予期せぬ事故とかありますから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くじら",
+            "text": "安全第一ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "たまご",
+            "text": "気をつけないとですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つみれ",
+            "text": "便利なぶん危険と隣り合わせです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "つみれ",
+            "text": "安全第一です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "くじら",
+            "text": "@たまご ドライブ、まずはどこに行きたいですか？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "たまご",
+            "text": "江ノ島あたりにいきたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "たまご",
+            "text": "海沿いを走りたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "くじら",
+            "text": "江ノ島は良いですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 江ノ島！海沿い！！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "たまご",
+            "text": "気持ちよさそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "くじら",
+            "text": "海沿い走ったら気持ちが良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "つみれ",
+            "text": "江ノ島すきです",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くじら",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

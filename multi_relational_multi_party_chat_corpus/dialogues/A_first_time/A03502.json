@@ -1,0 +1,667 @@
+{
+    "dialogue_id": "A03502",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "しじみ",
+        "なると",
+        "きなこ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "しじみ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "なると",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "きなこ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "しじみ",
+            "text": "よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "なると",
+            "text": "お願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "きなこ",
+            "text": "よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しじみ",
+            "text": "今日の夕飯のメニューを考え中なんですが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "しじみ",
+            "text": "みなさんはどうしますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "なると",
+            "text": "何がいいですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "しじみ",
+            "text": "寒いですからね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "しじみ",
+            "text": "あったかいものかなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "なると",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "きなこ",
+            "text": "@しじみ 今朝買い物に行き・・シチューがグラタンの予定です",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "しじみ",
+            "text": "@きなこ うわー！",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "しじみ",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "なると",
+            "text": "シチューいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "きなこ",
+            "text": "寒かったから！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "しじみ",
+            "text": "寒い日にぴったり！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "なると",
+            "text": "暖まるものがいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "きなこ",
+            "text": "ちょっと面倒ですが・・頑張って作ろうかなと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "しじみ",
+            "text": "@きなこ シチューならホワイトシチューですか？",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "しじみ",
+            "text": "作るのは面倒ですよねぇ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "きなこ",
+            "text": "@しじみ そうです！うちはホワイトです",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "しじみ",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "しじみ",
+            "text": "うちも基本ホワイトですが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "しじみ",
+            "text": "たまに食べるビーフも美味しい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "なると",
+            "text": "ホワイトを連想していました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "なると",
+            "text": "ビーフありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "しじみ",
+            "text": "@なると 今日のメニューはこれからですか？",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "なると",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "なると",
+            "text": "さっき食べたばかりで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しじみ",
+            "text": "悩みますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しじみ",
+            "text": "あら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "なると",
+            "text": "思いつきません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "しじみ",
+            "text": "お腹いっぱいだと。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "しじみ",
+            "text": "考えられないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "きなこ",
+            "text": "@なると 思いつかなくなりそう",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "なると",
+            "text": "そうなんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "しじみ",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "しじみ",
+            "text": "うちは、寒い日はついつい鍋にしがちです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "なると",
+            "text": "鍋もいいですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "しじみ",
+            "text": "美味しいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "きなこ",
+            "text": "同じです～家族は「またか」ですけど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "しじみ",
+            "text": "ですね！確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "なると",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "なると",
+            "text": "私は毎日でもいいくらいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "しじみ",
+            "text": "皆さんは何鍋がお好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "しじみ",
+            "text": "私はキムチ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "なると",
+            "text": "キムチチゲいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "きなこ",
+            "text": "キムチ温まりますね！いいなあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "しじみ",
+            "text": "いいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "しじみ",
+            "text": "あったまるし！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "きなこ",
+            "text": "うちは子供が辛いのだめなので・・水炊き多いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "しじみ",
+            "text": "@きなこ そうなんです！",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "なると",
+            "text": "@きなこ 私も水炊きが一番かもです",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "しじみ",
+            "text": "うちも子供がキムチ食べられないから、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "しじみ",
+            "text": "食べたいけど、つくれない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "なると",
+            "text": "kimuti",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "しじみ",
+            "text": "@なると 水炊きも美味しいですよね！",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "きなこ",
+            "text": "同じです～！キムチチゲ食べたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "なると",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しじみ",
+            "text": "でも、シチューとグラタンもいいから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "しじみ",
+            "text": "うちも真似してシチューにしようかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "なると",
+            "text": "シチューいいかもしれないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "きなこ",
+            "text": "温まりますよ～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "しじみ",
+            "text": "子供も喜びますしね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "なると",
+            "text": "ですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "きなこ",
+            "text": "子供、大好きですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "しじみ",
+            "text": "シチューもグラタンも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "なると",
+            "text": "クリーム系が好きですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "しじみ",
+            "text": "子供大好きですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "きなこ",
+            "text": "聞きたいのですが・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "しじみ",
+            "text": "はい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "きなこ",
+            "text": "シチューの時は・・ごはんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "きなこ",
+            "text": "パンですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "しじみ",
+            "text": "あぁ〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "なると",
+            "text": "ごはんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "しじみ",
+            "text": "うちはご飯です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "なると",
+            "text": "パンの方もいるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "きなこ",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "なると",
+            "text": "外国のように",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "きなこ",
+            "text": "私は実家ではご飯でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "しじみ",
+            "text": "@きなこ どちらですか？",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "きなこ",
+            "text": "そう！外国の様にしたい欲求から・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "しじみ",
+            "text": "面白い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "きなこ",
+            "text": "かっこつけてパンにしてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "なると",
+            "text": "かっこいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "しじみ",
+            "text": "理由がおもしろいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "きなこ",
+            "text": "笑ですかね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "なると",
+            "text": "朝ならするかもしれません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しじみ",
+            "text": "でもパンもあいますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "しじみ",
+            "text": "むしろパンのほうがあうかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "なると",
+            "text": "洋食ですものね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "きなこ",
+            "text": "一度パンにすると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "きなこ",
+            "text": "やめられなくなって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "しじみ",
+            "text": "ふむふむ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "きなこ",
+            "text": "でも、ご飯でもおいしい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "しじみ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "なると",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "きなこ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

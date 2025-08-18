@@ -1,0 +1,722 @@
+{
+    "dialogue_id": "B12506",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "すじこ",
+        "ちくわ",
+        "こんぶ"
+    ],
+    "relationship": [
+        "ちくわ",
+        "こんぶ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "すじこ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ちくわ",
+            "text": "こんばんは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "こんぶ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "すじこ",
+            "text": "今日は雨でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ちくわ",
+            "text": "今、雨混じりの雪が降ってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "こんぶ",
+            "text": "雨だったんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "こんぶ",
+            "text": "日中はいい天気でしたよ！、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "こんぶ",
+            "text": "はい、今は雪が、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ちくわ",
+            "text": "そうそう！日中はめちゃ天気よかった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "すじこ",
+            "text": "@ちくわ 雪ですか",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ちくわ",
+            "text": "@すじこ なんか今日の夜から雪が降るみたいで！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "すじこ",
+            "text": "@こんぶ 徐々に崩れていったんですね",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "こんぶ",
+            "text": "ね！風は少し冷たかったけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ちくわ",
+            "text": "雨混じりだからそんなに積もらないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ちくわ",
+            "text": "願っています。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "こんぶ",
+            "text": "@すじこ 一応、大雪注意報でました",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "すじこ",
+            "text": "@ちくわ 本格的にですか？",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ちくわ",
+            "text": "@すじこ 今も雨降ってます？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ 願おう。",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "すじこ",
+            "text": "今は小雨ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ちくわ",
+            "text": "@すじこ 本格的だとは思うけど前よりかはマシです！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ 願うしかない！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "すじこ",
+            "text": "@こんぶ 朝が心配ですね",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ちくわ",
+            "text": "小雨なんすねーー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ちくわ",
+            "text": "@すじこ 今日はもう晩酌タイムですか？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "こんぶ",
+            "text": "@すじこ そこまで積もらないでいて欲しいです",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "すじこ",
+            "text": "@ちくわ 晩酌して今はコーヒーいただいてます",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ちくわ",
+            "text": "え！晩酌の後に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "こんぶ",
+            "text": "晩酌からのコーヒー！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ちくわ",
+            "text": "コーヒー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "こんぶ",
+            "text": "眠れなくなりませんか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "すじこ",
+            "text": "@こんぶ 願っておきます！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ちくわ",
+            "text": "今日は起きる予定でもあるんすか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "こんぶ",
+            "text": "@すじこ ありがとうございます！！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "すじこ",
+            "text": "コーヒー好きなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ちくわ",
+            "text": "僕もコーヒー好きですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "こんぶ",
+            "text": "ブラックですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "すじこ",
+            "text": "種類とかよく分かりませんが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "こんぶ",
+            "text": "豆をひいて入れるタイプです？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "すじこ",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ちくわ",
+            "text": "僕もわかんないす！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ちくわ",
+            "text": "僕は常にアイスコーヒーか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ちくわ",
+            "text": "アイスカフェラテです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "すじこ",
+            "text": "ゴールドブレンドです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "こんぶ",
+            "text": "私、以前カフェで働いててコーヒーいれてました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "すじこ",
+            "text": "砂糖もミルクも入れます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ちくわ",
+            "text": "ならホット飲んでるんすね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "こんぶ",
+            "text": "入れるですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ちくわ",
+            "text": "めちゃ大人の時間ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "すじこ",
+            "text": "ホットです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "こんぶ",
+            "text": "勝手にブラックなイメージをしてしまいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ちくわ",
+            "text": "晩酌からコーヒーの流れが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "こんぶ",
+            "text": "のんでもねれますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "こんぶ",
+            "text": "寝つきは良いですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ちくわ",
+            "text": "@すじこ 毎日のルーティンとかですか？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "すじこ",
+            "text": "胃がもたれそうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "こんぶ",
+            "text": "質問攻め笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "すじこ",
+            "text": "@こんぶ 全然寝れます",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ちくわ",
+            "text": "胃もたれるんですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こんぶ",
+            "text": "@すじこ えーー！すごい！！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "すじこ",
+            "text": "数分で夢の世界へ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "こんぶ",
+            "text": "私、眠れなくなる時がありました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ちくわ",
+            "text": "多分自分もいくらコーヒー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ちくわ",
+            "text": "飲んだとしても",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "こんぶ",
+            "text": "さぞ、お疲れですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ちくわ",
+            "text": "すぐ寝れると思う！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "すじこ",
+            "text": "ほぼコーヒー飲んでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ うん！！すぐねてる！！！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ちくわ",
+            "text": "@すじこ 今日の晩酌は何飲んだんすか？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ すぐ寝れる。笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "すじこ",
+            "text": "今日はビールですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こんぶ",
+            "text": "いっぱいだけ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ちくわ",
+            "text": "いつもビールのみですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "すじこ",
+            "text": "1杯で酔えるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "すじこ",
+            "text": "むしろそれ以上飲めません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "こんぶ",
+            "text": "ほろ酔いですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ちくわ",
+            "text": "僕は昔に比べてビール飲む量が減りました、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "すじこ",
+            "text": "ビールのみですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ちくわ",
+            "text": "めちゃくちゃ強いわけではないんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ちくわ",
+            "text": "僕も毎日飲んでみようかな？笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "こんぶ",
+            "text": "けど、一杯はのんどきたいという！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ちくわ",
+            "text": "多分無理だとおもうけど、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "すじこ",
+            "text": "2杯呑んだら泥酔状態です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "こんぶ",
+            "text": "そ、そんなに！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ちくわ",
+            "text": "2杯で泥酔はやばい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "こんぶ",
+            "text": "きっとそれは、私の方が強いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ちくわ",
+            "text": "それでも飲みたくなるんだー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ それは言えてるかも。",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "すじこ",
+            "text": "母がおちょこで酔うので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "こんぶ",
+            "text": "うちらの方がのめるのに、私たちは毎日晩酌してないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "すじこ",
+            "text": "遺伝ですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ちくわ",
+            "text": "遺伝だー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "こんぶ",
+            "text": "母譲りなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ちくわ",
+            "text": "やっぱそういうのも遺伝になってくるんすねーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こんぶ",
+            "text": "うちの父も弱いですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "こんぶ",
+            "text": "私は強いです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ ガンガン飲んでたね！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "すじこ",
+            "text": "毎日ではなくなんとなくとかあれば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "すじこ",
+            "text": "呑むって感じですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ちくわ",
+            "text": "@すじこ 仕事疲れもあるから今日飲むぞーーとなりますよね",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "こんぶ",
+            "text": "お1人で？ご家族と？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "こんぶ",
+            "text": "無性にのみたくなるときあるある",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ちくわ",
+            "text": "無性に飲みたい時あるよなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "ちくわ",
+            "text": "すげーわかる。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "すじこ",
+            "text": "遺伝から逃れたんですね笑",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "すじこ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ちくわ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "こんぶ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

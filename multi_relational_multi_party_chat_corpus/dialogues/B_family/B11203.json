@@ -1,0 +1,712 @@
+{
+    "dialogue_id": "B11203",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ポテト",
+        "たまご",
+        "つみれ"
+    ],
+    "relationship": [
+        "たまご",
+        "つみれ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ポテト",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つみれ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ポテト",
+            "text": "イベント事って結構しっかりやりますか？子どもの日とか、節分とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ポテト",
+            "text": "これからひな祭りなので、悩み中です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つみれ",
+            "text": "子供たちが家にいたときはしっかりやってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たまご",
+            "text": "実家にいるころはやってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ 偉い！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "たまご",
+            "text": "豆まきとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "たまご",
+            "text": "ご飯とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご 確かに、実家にいるときはやれますもんね・・・",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ポテト",
+            "text": "ひとりで豆まきは・・・さみしい・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご ご飯？恵方巻きのこと？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たまご",
+            "text": "1人暮らしだとあんまやる気が起きないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "たまご",
+            "text": "恵方巻きとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つみれ",
+            "text": "1人で豆まきは寂しいね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "たまご",
+            "text": "ひな祭りとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご 準備も大変ですもんね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "たまご",
+            "text": "@ポテト そうです",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "たまご",
+            "text": "@つみれ 寂しい",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ポテト",
+            "text": "無心で豆を喰うしかできない・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つみれ",
+            "text": "@ポテト お雛様とか飾ります？",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ポテト",
+            "text": "飾りました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ポテト",
+            "text": "昨日！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "たまご",
+            "text": "飾るの大変そうー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "つみれ",
+            "text": "うちは何年も出してないです。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ 飾ってました？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "つみれ",
+            "text": "前は飾ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ポテト",
+            "text": "あら！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たまご",
+            "text": "飾るのが大変",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ポテト",
+            "text": "うち一段飾りなので、すっと出すだけです・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ポテト",
+            "text": "それでも大変・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "つみれ",
+            "text": "娘がいないと、いいかってなっちゃって。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "たまご",
+            "text": "犬に食べられちゃいそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ それは確かに！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つみれ",
+            "text": "あの箱から出してって行為が大変",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご 間違いない・・・",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "つみれ",
+            "text": "そうなんです！犬がね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "たまご",
+            "text": "しまうのも大変",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ポテト",
+            "text": "そう・・・確かに・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "つみれ",
+            "text": "@ポテト 大変、しまうのこそ大変！",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ポテト",
+            "text": "わんちゃんの良い標的に・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ ですね～！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たまご",
+            "text": "危ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "つみれ",
+            "text": "犬は食べますよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つみれ",
+            "text": "雛人形",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ポテト",
+            "text": "こわい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たまご",
+            "text": "危険",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ポテト",
+            "text": "がぶがぶ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つみれ",
+            "text": "振り返ったら何か咥えてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ ホラー映画かな笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つみれ",
+            "text": "ある意味ホラーですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つみれ",
+            "text": "なので箱の中です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ポテト",
+            "text": "間違いない判断ですね・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "たまご",
+            "text": "クリスマスツリーとかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ポテト",
+            "text": "あ～～～～～～～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "つみれ",
+            "text": "飾り物は全て危険です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ポテト",
+            "text": "ツリーこそ大変！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たまご",
+            "text": "一個一個つけるのが大変",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ポテト",
+            "text": "しかもうちの雪がついてるやつで毎年散らばります・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "つみれ",
+            "text": "小物だらけですからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ きらきらしてるから余計に・・・",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "たまご",
+            "text": "それもクリスマスっぽくて良いですけどー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ポテト",
+            "text": "丸いし・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "つみれ",
+            "text": "キラキラは大変",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ポテト",
+            "text": "きらきらのボールだぁ！ってわんちゃんはなりそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "たまご",
+            "text": "飾ってるときもクリスマス感があって楽しいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご それはたしかに！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "たまご",
+            "text": "おもちゃになりそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "つみれ",
+            "text": "飾ってる端から咥えて行きますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ポテト",
+            "text": "飾ってる時が一番楽しいですよね。クリスマス",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "つみれ",
+            "text": "@ポテト わかります",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たまご",
+            "text": "ワクワクがあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ 一個もつかないやつだ！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つみれ",
+            "text": "@ポテト 裸ん坊ツリーです",
+            "mention_to": [
+                "ポテト"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ポテト",
+            "text": "そうそう、とってもワクワクしますよね。クリスマス！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ 裸ん坊ツリー笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "たまご",
+            "text": "ホームアローンみたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "つみれ",
+            "text": "クリスマスは華やかでいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ポテト",
+            "text": "あ～～～～～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つみれ",
+            "text": "ホームアローン！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ポテト",
+            "text": "そう！華やかで良いですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "たまご",
+            "text": "ただの木",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ポテト",
+            "text": "海外のクリスマスって特に素敵・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "たまご",
+            "text": "ホームアローン好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "たまご",
+            "text": "クリスマス好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つみれ",
+            "text": "海外のあの雰囲気ってなんでしょうね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご クリスマスになると必ず見ちゃう映画ですね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "たまご",
+            "text": "豪華で凄いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ポテト",
+            "text": "@つみれ そうそう！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "たまご",
+            "text": "見ちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "つみれ",
+            "text": "再放送率高いし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ポテト",
+            "text": "ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "たまご",
+            "text": "毎年やってる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ポテト",
+            "text": "もう反射で見てしまう・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまご",
+            "text": "街の雰囲気も好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ポテト",
+            "text": "@たまご わかります～！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ポテト",
+            "text": "キラキラしていて、いいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たまご",
+            "text": "イルミネーションが綺麗です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つみれ",
+            "text": "素敵ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つみれ",
+            "text": "クリスマス、まだまだ先ですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ポテト",
+            "text": "ですです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "たまご",
+            "text": "クリスマスの曲も良いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "ポテト",
+            "text": "そう、こないだやったばかり",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ポテト",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

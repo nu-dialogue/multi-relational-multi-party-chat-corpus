@@ -1,0 +1,695 @@
+{
+    "dialogue_id": "A09004",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "まぐろ",
+        "ハンバーグ",
+        "こぐま"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "まぐろ",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ハンバーグ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "こぐま",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ハンバーグ",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "こぐま",
+            "text": "よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "まぐろ",
+            "text": "よろしくおねがいします～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "まぐろ",
+            "text": "なかなか身近な人に話せなかったのですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "こぐま",
+            "text": "うん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "まぐろ",
+            "text": "子供が受験に失敗してしまいました涙",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こぐま",
+            "text": "大丈夫？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "まぐろ",
+            "text": "こういうのって、実際の友達に話しにくくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "こぐま",
+            "text": "うん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ハンバーグ",
+            "text": "親も大丈夫？だけど子供も心配",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "まぐろ",
+            "text": "@こぐま 本人はちょっと落ち込んでる",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "こぐま",
+            "text": "だよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ハンバーグ",
+            "text": "大学ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "まぐろ",
+            "text": "私は・・五分五分だったから覚悟してた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "まぐろ",
+            "text": "高校なの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "こぐま",
+            "text": "そか、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@まぐろ なるほど",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "まぐろ",
+            "text": "公立落ちたから・・私立なんだけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "まぐろ",
+            "text": "お金がかかることを気にしてるっぽい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ハンバーグ",
+            "text": "大学なら浪人ってなるかもだけど….",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "こぐま",
+            "text": "あ、私立に決まった？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ハンバーグ",
+            "text": "高校だとね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "こぐま",
+            "text": "てこと？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "まぐろ",
+            "text": "そう。私立は確定",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "まぐろ",
+            "text": "地域で違うのかな？？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "こぐま",
+            "text": "大学まで行く？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "まぐろ",
+            "text": "大学には行きたいみたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "こぐま",
+            "text": "そなんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "まぐろ",
+            "text": "付属校では無いから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "まぐろ",
+            "text": "大学で受験かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@まぐろ なるほどね",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "こぐま",
+            "text": "うちの地域は公立が主流なんだけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "こぐま",
+            "text": "高校ね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "まぐろ",
+            "text": "@こぐま うんうん",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "こぐま",
+            "text": "公立だと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "こぐま",
+            "text": "大学受験のために",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "こぐま",
+            "text": "塾に通わすのが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "こぐま",
+            "text": "当たり前で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "こぐま",
+            "text": "そこに結構、みんなお金かけるんだけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "まぐろ",
+            "text": "確かに～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "こぐま",
+            "text": "私立だと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ハンバーグ",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "こぐま",
+            "text": "学校が頑張ってくれるかる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "こぐま",
+            "text": "学費的にはそんなに違わないと聞いたことある",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "まぐろ",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ハンバーグ",
+            "text": "なるほどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "こぐま",
+            "text": "慰めにはならんかもだけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "まぐろ",
+            "text": "確かに放課後に学習できる場所会った気がする！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うちはスポーツやってたのでみんな私立だったけど….",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ハンバーグ",
+            "text": "勉強ではなかったです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "まぐろ",
+            "text": "@ハンバーグ おお！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "こぐま",
+            "text": "私立って、名前を有名にしたいから、結構、親切なんだよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "まぐろ",
+            "text": "やりたいことの為に進学するっていいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ハンバーグ",
+            "text": "応援したくなりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ スポーツで行くなんて、すごいね！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "まぐろ",
+            "text": "@ハンバーグ 私も思った！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ただスポーツも金かかる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "まぐろ",
+            "text": "あー！競技にもよるのかなあ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ だよねー",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "こぐま",
+            "text": "用具とか、ウエアも、高いよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ハンバーグ",
+            "text": "用具もかかりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ハンバーグ",
+            "text": "あと遠征もあるから….",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "こぐま",
+            "text": "@まぐろ ゴールは高校じゃないし！",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@こぐま 本当それです",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "まぐろ",
+            "text": "ありがとう・・うう・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ 遠征！大変だったと思うわー",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ハンバーグ",
+            "text": "通過点ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "まぐろ",
+            "text": "なんだか少し吐き出せてよかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "こぐま",
+            "text": "@まぐろ 良かった",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ハンバーグ",
+            "text": "この落ちたことが将来何か役に立ってくれればとおもいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "まぐろ",
+            "text": "@ハンバーグ そうなの。まだ先の人生長いから",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ ほんと、何が役に立つか、わかんないもんね",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ですです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "まぐろ",
+            "text": "うんうん。本当にそう思う。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "まぐろ",
+            "text": "今日は美味しいものでも作ってあげようかな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "こぐま",
+            "text": "どこでも、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こぐま",
+            "text": "どこ行っても、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "こぐま",
+            "text": "楽しいと思う！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@まぐろ そうしてあげてください",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "まぐろ",
+            "text": "@こぐま 行った先で頑張ってほしいな",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "こぐま",
+            "text": "@まぐろ 好物は？",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "まぐろ",
+            "text": "ハンバーグとか笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "こぐま",
+            "text": "おー！ハンバーグいいね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "まぐろ",
+            "text": "肉はパワーでるかな～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "こぐま",
+            "text": "私も今晩、ハンバーグにしよかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ハンバーグ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "こぐま",
+            "text": "まだ、メニュー考えてなかったし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "こぐま",
+            "text": "そのメニュー、頂きました！！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "まぐろ",
+            "text": "うんうん！是非みなさんもハンバーグで！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ハンバーグ",
+            "text": "メニュー考えるの大変ですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "こぐま",
+            "text": "メニューが決まると、あとは考えなくていいから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ハンバーグ",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "こぐま",
+            "text": "余裕の一日になりそう笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "まぐろ",
+            "text": "@ハンバーグ ハンバーグさんも今日はハンバーグ？笑",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ って、ハンバーグジャん！笑",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "まぐろ",
+            "text": "@こぐま メニューって大事だ",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@まぐろ 名前のとおりハンバーグにしようかな笑",
+            "mention_to": [
+                "まぐろ"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "まぐろ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ハンバーグ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "こぐま",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

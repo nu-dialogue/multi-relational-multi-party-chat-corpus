@@ -1,0 +1,771 @@
+{
+    "dialogue_id": "A02605",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "くらげ",
+        "たらこ",
+        "がんも"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くらげ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たらこ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "がんも",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くらげ",
+            "text": "好きな季節はいつですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "がんも",
+            "text": "春と秋です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも 一緒です！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも いいですよね",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "がんも",
+            "text": "@くらげ ですね",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "くらげ",
+            "text": "私、昔はだんぜん夏だったんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くらげ",
+            "text": "今は暑すぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たらこ",
+            "text": "でも最近秋短いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ 短い！",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "がんも",
+            "text": "@くらげ 確かに",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ 暑いですよねー最近は",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "くらげ",
+            "text": "春と秋　短いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "がんも",
+            "text": "短い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ 日本だけでしたっけ？",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "くらげ",
+            "text": "半袖か長袖１マイで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くらげ",
+            "text": "出かけれる季節がいいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "たらこ",
+            "text": "春夏秋冬あるのは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ わかります！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "たらこ",
+            "text": "春は桜が綺麗ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ ですよね",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "がんも",
+            "text": "@くらげ 同感です",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "たらこ",
+            "text": "花見とかしますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "くらげ",
+            "text": "桜もさくの早くなりましたよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ なりました！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ ちゃんとはしてないかな",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "がんも",
+            "text": "@たらこ 花見良いですよね",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たらこ",
+            "text": "もうすく桜のさく季節ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "くらげ",
+            "text": "人が多いとしんどいから、川沿いの桜をみにいったり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ なるほど！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "たらこ",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "くらげ",
+            "text": "昔は入学式に桜でしたが、入学式に散ってたりしますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "たらこ",
+            "text": "お酒飲みますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "がんも",
+            "text": "@くらげ 確かに",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ 散ってます！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ お花見で？",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ 普段？",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも お花見でも普段でも！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "がんも",
+            "text": "今。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ どっちも！飲みますか？",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ めっきりへりましたねー",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "がんも",
+            "text": "飲んでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも ナウってやつですね！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "くらげ",
+            "text": "子供ができてからとんとへりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "たらこ",
+            "text": "ちなみに私も今ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ わかります！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "がんも",
+            "text": "ナウ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "たらこ",
+            "text": "たまに1本飲むぐらいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "くらげ",
+            "text": "飲んだら眠くなって動きたくなくなりませんか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ ビール？",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "たらこ",
+            "text": "たまにの一本が今笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "くらげ",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ なりますー！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "がんも",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも 何が好きですか、お酒",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "がんも",
+            "text": "焼酎です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たらこ",
+            "text": "なるので片付けは夫にしてもらいます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ うらやましい！！！",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ チューハイです！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも いもですか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ かわいい",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "がんも",
+            "text": "芋です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "くらげ",
+            "text": "ほろよい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "くらげ",
+            "text": "好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも わたしも芋好きです！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも だいぶすきですね　笑",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ たらこさんまで！",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ 今ほろよいですよ笑",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "くらげ",
+            "text": "昔は芋のんでましたが、今はもう飲めません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "がんも",
+            "text": "@くらげ だいぶです",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たらこ",
+            "text": "あまり酔ったらいけないので、普段はほろよい飲んでます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ カシスおいしいとおもいません？",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも ロックですか",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ まさかの今カシスです！笑",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "たらこ",
+            "text": "エスバー！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "くらげ",
+            "text": "かも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "がんも",
+            "text": "@くらげ お湯わりです",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くらげ",
+            "text": "みてますよー　笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くらげ",
+            "text": "あったまりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ ヤバーイ！笑",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "くらげ",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "がんも",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも 冬はお湯割り美味しいですよね！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも 毎晩、晩酌ですか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "がんも",
+            "text": "毎晩です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも 好きな銘柄とかありますか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも 肝臓の数値大丈夫ですか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ 優しい笑",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "くらげ",
+            "text": "夫は数値が悪くなってから休肝日をいれてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "がんも",
+            "text": "とりあえず大丈夫ぽいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ そうなんですね",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも よかったですね",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くらげ",
+            "text": "休肝日いれたら数値よくなりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ 旦那さんは毎日飲んでたんですか？",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "くらげ",
+            "text": "けど、休肝日つづけてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ 毎日たくさん飲んでました",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ たくさんですか！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ　そうなんです",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ 旦那さんは飲みますか？",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "たらこ",
+            "text": "好きな人は毎日ビックリするぐらいのみますもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも びっくりするぐらいのみますか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "たらこ",
+            "text": "夫は弱いのです",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くらげ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "たらこ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "がんも",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

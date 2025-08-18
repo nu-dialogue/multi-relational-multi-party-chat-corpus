@@ -1,0 +1,705 @@
+{
+    "dialogue_id": "A01802",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "はくさい",
+        "あずき",
+        "きなこ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "はくさい",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "あずき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "きなこ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "はくさい",
+            "text": "ペットって飼ってます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい 飼ってないのです",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "はくさい",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "きなこ",
+            "text": "@はくさい うさぎ1匹います",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "あずき",
+            "text": "飼いやすいペットってありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "きなこ",
+            "text": "@あずき うさぎです～",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "あずき",
+            "text": "@きなこ うさぎいいですね",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "あずき",
+            "text": "お散歩とかないですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "はくさい",
+            "text": "飼い始めて1年’くらいですが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "きなこ",
+            "text": "そうです！散歩なしです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "あずき",
+            "text": "ほう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "きなこ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "はくさい",
+            "text": "猫も散歩なくて楽ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい 猫もいいですよね",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "きなこ",
+            "text": "そうですね！猫も！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "あずき",
+            "text": "犬は小さい頃飼っていて、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "あずき",
+            "text": "散歩が大変でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "あずき",
+            "text": "毎日毎日、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "あずき",
+            "text": "雨のひも散歩してました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "きなこ",
+            "text": "確かにそうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "はくさい",
+            "text": "@あずき 犬って大変なイメージ",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "あずき",
+            "text": "時間がない今は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "あずき",
+            "text": "無理ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "きなこ",
+            "text": "そっか～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "あずき",
+            "text": "かわいいですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "あずき",
+            "text": "寂しがりや？なんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "あずき",
+            "text": "かまってあげないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "あずき",
+            "text": "かわいそうかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "はくさい",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "きなこ",
+            "text": "寂しがりなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "あずき",
+            "text": "猫は自由なイメージです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "はくさい",
+            "text": "その点猫って自由だから逆にこっちがさみしくなるかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "はくさい",
+            "text": "たまには",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい 自由にお外行きます？",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "はくさい",
+            "text": "@あずき 外に行かせると",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "はくさい",
+            "text": "何があるかわからないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "はくさい",
+            "text": "家の中のみです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい そうなんですねー",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "きなこ",
+            "text": "うちも猫飼っていましたが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "きなこ",
+            "text": "室内のみでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "あずき",
+            "text": "危ないですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "きなこ",
+            "text": "そうでなんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "あずき",
+            "text": "爪研ぎとかしませんか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "はくさい",
+            "text": "いたるところで爪研いでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "きなこ",
+            "text": "うちもそうでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい そうなんだ〜",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "あずき",
+            "text": "その辺も自由ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "きなこ",
+            "text": "壁紙がボロボロですよね・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "あずき",
+            "text": "ああ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "はくさい",
+            "text": "うちの子達",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "はくさい",
+            "text": "壁ではやらないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "きなこ",
+            "text": "@はくさい えらいですね！",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい えらい",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "あずき",
+            "text": "その子によって色々なんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "はくさい",
+            "text": "ほんとです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "きなこ",
+            "text": "猫はみんな壁紙で研ぐのかと思ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "はくさい",
+            "text": "でもカーテンとかびりびりになりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい 悲しい！！",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "あずき",
+            "text": "カーテンにもするんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "あずき",
+            "text": "意外と活発？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "はくさい",
+            "text": "カーテンが気になるのか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "きなこ",
+            "text": "@はくさい カーテン派でしたか！",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "あずき",
+            "text": "高いところも平気で登りますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "はくさい",
+            "text": "飛んでる虫を追いかけてる野か",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "きなこ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "あずき",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "はくさい",
+            "text": "高いとこのぼりますね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "きなこ",
+            "text": "エアコンの上とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "あずき",
+            "text": "@きなこ ええ？？",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "あずき",
+            "text": "エアコンまで？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "あずき",
+            "text": "すごい！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんです・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "あずき",
+            "text": "だいぶ上ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "きなこ",
+            "text": "カーテンを使って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "はくさい",
+            "text": "@きなこ 上手い事足場見つけて",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "きなこ",
+            "text": "登るんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "はくさい",
+            "text": "のぼりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "あずき",
+            "text": "そうなんだ〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "あずき",
+            "text": "活動的ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "きなこ",
+            "text": "運動能力高いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "あずき",
+            "text": "もっとじっとしているのかと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "あずき",
+            "text": "思いました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "はくさい",
+            "text": "@あずき うち2匹いるんですが",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "はくさい",
+            "text": "運動会すごいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい 2匹ですもんね",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "あずき",
+            "text": "それは確かにすごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "はくさい",
+            "text": "家じゅう走り廻ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "きなこ",
+            "text": "すごそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "あずき",
+            "text": "元気だ〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "あずき",
+            "text": "賑やかですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "きなこ",
+            "text": "それもまた、癒しですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "あずき",
+            "text": "夜行性ではない？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "はくさい",
+            "text": "夜も昼も何かをきっかけに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "はくさい",
+            "text": "運動家始まりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "はくさい",
+            "text": "運動会",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい そうなんですねー",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "あずき",
+            "text": "運動会ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "きなこ",
+            "text": "だから散歩なしで大丈夫なんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "はくさい",
+            "text": "そうかもしれないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "あずき",
+            "text": "@きなこ 家の中で発散してますね",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "きなこ",
+            "text": "ほんと！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "はくさい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "あずき",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "きなこ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

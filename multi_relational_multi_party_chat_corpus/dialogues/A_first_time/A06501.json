@@ -1,0 +1,669 @@
+{
+    "dialogue_id": "A06501",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "げんまい",
+        "まぐろ",
+        "がんも"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "げんまい",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "まぐろ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "がんも",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "げんまい",
+            "text": "はじめまして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "がんも",
+            "text": "初めまして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "まぐろ",
+            "text": "はじめまして！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "げんまい",
+            "text": "朝ごはんは、召し上がりましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "がんも",
+            "text": "はい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "まぐろ",
+            "text": "@げんまい 今朝はコーヒーのみ",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "げんまい",
+            "text": "私も食べました。食べる派です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "げんまい",
+            "text": "@まぐろ いつもコーヒーのみですか？",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "まぐろ",
+            "text": "胃腸の様子を見て・・ですかね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "げんまい",
+            "text": "なるほど。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "げんまい",
+            "text": "@がんも パン派？ご飯派？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "がんも",
+            "text": "@げんまい パン派です。",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "げんまい",
+            "text": "私もパン！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "げんまい",
+            "text": "@まぐろ 食べる時はパン？ごはん？",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "まぐろ",
+            "text": "朝はパンですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "げんまい",
+            "text": "3人ともパンですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "がんも",
+            "text": "おおー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "まぐろ",
+            "text": "スピード重視だから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "げんまい",
+            "text": "わかります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "げんまい",
+            "text": "パンのほうが速いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "がんも",
+            "text": "うんうん。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "げんまい",
+            "text": "今朝は、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "げんまい",
+            "text": "パスコのロールパンにハムと野菜とチーズを挟みました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "がんも",
+            "text": "いいですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "まぐろ",
+            "text": "大好き、そういうの～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "げんまい",
+            "text": "おいしいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "まぐろ",
+            "text": "パスコのがおいしいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "げんまい",
+            "text": "サイズがちょうどよくて。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "まぐろ",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "まぐろ",
+            "text": "ちょうどいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "げんまい",
+            "text": "食パン1枚だとなんか多くて。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "がんも",
+            "text": "うんうん。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "げんまい",
+            "text": "どんなパン好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "まぐろ",
+            "text": "超熟ロール好きです（パスコなら）",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "まぐろ",
+            "text": "いつもはレーズンパンとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "げんまい",
+            "text": "レーズンいいですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "まぐろ",
+            "text": "何か入っているのをパン屋で買います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "げんまい",
+            "text": "総菜系？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "まぐろ",
+            "text": "レーズンとかナッツ塚チーズ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "がんも",
+            "text": "惣菜系好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "げんまい",
+            "text": "練り込んであるやつですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "まぐろ",
+            "text": "小物系？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "まぐろ",
+            "text": "そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "げんまい",
+            "text": "小物？！ｗｗ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "げんまい",
+            "text": "総菜パンおいしいですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "まぐろ",
+            "text": "粒がちいさいから笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "がんも",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "げんまい",
+            "text": "ソーセージとか好きです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "がんも",
+            "text": "ソーセージいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "まぐろ",
+            "text": "おいしいですね～！1食って感じで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "まぐろ",
+            "text": "主食とおかず",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "がんも",
+            "text": "たしかに。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "げんまい",
+            "text": "ローソンの盛りすぎキャンペーンのやつで、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "がんも",
+            "text": "うんうん。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "げんまい",
+            "text": "焼きそばパンを食べたのですが、すごいボリュームでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "まぐろ",
+            "text": "お、気になってまっす",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "げんまい",
+            "text": "ずっしり。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "まぐろ",
+            "text": "子供の一人が・・ローソン行きたいとねだってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "げんまい",
+            "text": "わかる。行きたくなります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "げんまい",
+            "text": "だいたい売り切れてますけどね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "まぐろ",
+            "text": "そうなんだ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "がんも",
+            "text": "笑笑。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "まぐろ",
+            "text": "人気なんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "まぐろ",
+            "text": "ローソン巡礼してきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "げんまい",
+            "text": "ローソンを見つけるたびに覗きますが、なかなかです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "げんまい",
+            "text": "巡礼。お疲れ様です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "がんも",
+            "text": "お疲れさまです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "げんまい",
+            "text": "今、シュークリームとかやってますね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "げんまい",
+            "text": "クリームがたっぷりのやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "まぐろ",
+            "text": "それは売り切れますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "げんまい",
+            "text": "そうです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "まぐろ",
+            "text": "増量ですから・・食べたい・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "げんまい",
+            "text": "食べたいですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "げんまい",
+            "text": "お子さんは、何目当てなんでしょうか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "まぐろ",
+            "text": "増量してる商品全部みたい・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "げんまい",
+            "text": "全部。ｗｗｗ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "まぐろ",
+            "text": "どれどもいいから食べたいと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "げんまい",
+            "text": "なんでもいいからって事ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "がんも",
+            "text": "わらわら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "まぐろ",
+            "text": "そうそう、何でも量があればと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "げんまい",
+            "text": "お得感がありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "まぐろ",
+            "text": "最近、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "まぐろ",
+            "text": "セブンのおにぎりの具が増えてて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "まぐろ",
+            "text": "家族が驚いてた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "げんまい",
+            "text": "へーそうなんですか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "がんも",
+            "text": "うんうん。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "げんまい",
+            "text": "お値段そのまま？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "まぐろ",
+            "text": "ちょっと前までスカスカだったと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "げんまい",
+            "text": "スカスカ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "まぐろ",
+            "text": "値段は・・値上げしたまま",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "げんまい",
+            "text": "値段だけ上がったら、買うの嫌ですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "まぐろ",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "がんも",
+            "text": "たしかに。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "げんまい",
+            "text": "コンビニでおにぎりは、あんまり買わないですねー。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "まぐろ",
+            "text": "私も、もったいないが先に来て買えない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "げんまい",
+            "text": "わかります。もったいない。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "まぐろ",
+            "text": "自分で作れるから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "げんまい",
+            "text": "自分で作ったら、こんな値段しないとか思っちゃう。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "がんも",
+            "text": "たしかに。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "まぐろ",
+            "text": "そーそー！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "げんまい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "まぐろ",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "がんも",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

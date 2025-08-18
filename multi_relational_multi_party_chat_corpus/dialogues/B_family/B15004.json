@@ -1,0 +1,766 @@
+{
+    "dialogue_id": "B15004",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "じゃがいも",
+        "こんぶ",
+        "ちくわ"
+    ],
+    "relationship": [
+        "こんぶ",
+        "ちくわ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "じゃがいも",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "こんぶ",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ちくわ",
+            "text": "こんばんはー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "じゃがいも",
+            "text": "テレビとか最近見てますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "こんぶ",
+            "text": "みますよ〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "じゃがいも",
+            "text": "何見ます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ちくわ",
+            "text": "あんまり見ないですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "じゃがいも",
+            "text": "意見が割れましたね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "こんぶ",
+            "text": "日中はほぼ教育テレビです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ちくわ",
+            "text": "日によりますが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こんぶ",
+            "text": "子どもが小さくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "じゃがいも",
+            "text": "@こんぶ お子さんいるとそうなっちゃいますよね〜",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ 仕事忙しいもんね",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "じゃがいも",
+            "text": "私も子供の頃、めちゃくちゃ見てた記憶ありますし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ NHKが多いね",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "こんぶ",
+            "text": "@じゃがいも そうなんですよ〜教育テレビ様々です",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "じゃがいも",
+            "text": "@こんぶ あら、激務と言われるお仕事なんですね",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "こんぶ",
+            "text": "ねー！休みの日でもね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "じゃがいも",
+            "text": "@こんぶ なるほどなるほど",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも 激務…ですね！笑",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "じゃがいも",
+            "text": "ひぇ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "じゃがいも",
+            "text": "大変ですね...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "こんぶ",
+            "text": "@じゃがいも 毎日お疲れ様です。",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ちくわ",
+            "text": "結構土日も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ちくわ",
+            "text": "仕事ありますー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ ありがとう！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "じゃがいも",
+            "text": "@ちくわ 不定休なんですね",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "こんぶ",
+            "text": "忙しくしてるね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "じゃがいも",
+            "text": "こんな時間に会話ありがとうございます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "じゃがいも",
+            "text": "貴重なお時間を",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "こんぶ",
+            "text": "いえいえ〜楽しいですよ〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも いやいや！楽しいです！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ちくわ",
+            "text": "色々な話ができて！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "じゃがいも",
+            "text": "@こんぶ @ちくわ それはよかったです笑",
+            "mention_to": [
+                "ちくわ",
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ ね！面白いって話してて",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "こんぶ",
+            "text": "色んな話ができてー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ そうそう！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "こんぶ",
+            "text": "日中はほぼ子どもと2人きりなんで、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "じゃがいも",
+            "text": "旦那は全然忙しくなさそうだなぁと思ってしまう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ちくわ",
+            "text": "知らない事もたくさんあって？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "じゃがいも",
+            "text": "@こんぶ それもそれで辛いですね",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ちくわ",
+            "text": "色々知れて楽しいよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "こんぶ",
+            "text": "@じゃがいも 旦那さんは今なにを？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "じゃがいも",
+            "text": "いろんな人いるな〜っておもえますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "こんぶ",
+            "text": "横でテレビ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "じゃがいも",
+            "text": "さっきまでゲームしてて、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こんぶ",
+            "text": "ほんとそうです！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "じゃがいも",
+            "text": "今着替えてジムいきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "こんぶ",
+            "text": "あら！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "こんぶ",
+            "text": "あらら！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "じゃがいも",
+            "text": "@こんぶ 友達の結婚式があって、絞らなきゃと",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "こんぶ",
+            "text": "それは、なんだか充実してるような、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも 今からジムですか？笑",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "じゃがいも",
+            "text": "@ちくわ そうなんですよ！！！！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "じゃがいも",
+            "text": "行くのが遅い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "じゃがいも",
+            "text": "なんかいつも行動がちょっと遅い...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも 都会だー！笑",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "こんぶ",
+            "text": "たしかにーー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "じゃがいも",
+            "text": "@ちくわ えっそうなんですか？",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こんぶ",
+            "text": "こんな時間でもあいてるジム！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "こんぶ",
+            "text": "あ、でも、最近こっちにもあるかな！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "じゃがいも",
+            "text": "@こんぶ そういうことなんですね笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "こんぶ",
+            "text": "２４時間やってるとことか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ あ！あるね！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "じゃがいも",
+            "text": "今結構多いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ちくわ",
+            "text": "24時間やってるジム！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "じゃがいも",
+            "text": "まぁでも稀ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "こんぶ",
+            "text": "ね！あったよね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "じゃがいも",
+            "text": "ジムに行くのは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ちくわ",
+            "text": "1件だけだけど笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "こんぶ",
+            "text": "家から近いです？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ そうだった",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "じゃがいも",
+            "text": "近くに3-4軒はありますね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "じゃがいも",
+            "text": "近いですね！5分くらい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "こんぶ",
+            "text": "こっちは車ないといけないし〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "こんぶ",
+            "text": "あ、じゃあ、それは通いやすい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ それなー！自宅で",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "じゃがいも",
+            "text": "いやぁ大変だ...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ちくわ",
+            "text": "筋トレ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "こんぶ",
+            "text": "こちらは、車でぶーんとで一軒",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "じゃがいも",
+            "text": "@ちくわ 続きますか？",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "じゃがいも",
+            "text": "ぶーんと...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ちくわ",
+            "text": "田舎だと通うのも一苦労ですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "じゃがいも",
+            "text": "旦那も私も一切ダメですね、継続性がない笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "こんぶ",
+            "text": "ね！通うの大変そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも それなりに続きますねー！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "じゃがいも",
+            "text": "旦那は金払ってるという気持ちでジム入ってますけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "じゃがいも",
+            "text": "すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "こんぶ",
+            "text": "じゃあ、ジムという環境に行くのが大事ですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ちくわ",
+            "text": "家の中で縄跳びとかもしてます！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "こんぶ",
+            "text": "そうそう！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "じゃがいも",
+            "text": "@ちくわ すごいw",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "こんぶ",
+            "text": "最近縄跳び買ったよね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "こんぶ",
+            "text": "昨日の夜も筋トレからのプロテイン",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "じゃがいも",
+            "text": "それだけ広いのか...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "じゃがいも",
+            "text": "都会の悪いところはそれかもですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "じゃがいも",
+            "text": "狭い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ そうそう！暇があれば飛んでる！笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こんぶ",
+            "text": "一軒家なのでね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "こんぶ",
+            "text": "何しても大丈夫です笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "じゃがいも",
+            "text": "@こんぶ いいな〜",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも マンションとかですか？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "こんぶ",
+            "text": "@じゃがいも マンションですか？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "じゃがいも",
+            "text": "@こんぶ @ちくわ マンションです",
+            "mention_to": [
+                "ちくわ",
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "じゃがいも",
+            "text": "引っ越す予定ですけど、一軒家に！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "ちくわ",
+            "text": "マンションだと下の人にも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "じゃがいも",
+            "text": "ただ、狭いですねそこも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "こんぶ",
+            "text": "おお！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "ちくわ",
+            "text": "迷惑かかりますよね…",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "じゃがいも",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "こんぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ちくわ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

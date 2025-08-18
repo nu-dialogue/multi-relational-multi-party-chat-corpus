@@ -1,0 +1,702 @@
+{
+    "dialogue_id": "A09001",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "まぐろ",
+        "ハンバーグ",
+        "こぐま"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "まぐろ",
+            "text": "おはようございます～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ハンバーグ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "こぐま",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "まぐろ",
+            "text": "私の所は天気が悪いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "まぐろ",
+            "text": "みなさんどうですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "こぐま",
+            "text": "@まぐろ そうなんだ！",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "こぐま",
+            "text": "私のとこは晴れてる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "まぐろ",
+            "text": "@こぐま いいなあ～",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@まぐろ 昨日から少し雪が降りました",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "こぐま",
+            "text": "洗濯日和で嬉しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ ゆき！！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "まぐろ",
+            "text": "@ハンバーグ 雪ですか！！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ハンバーグ",
+            "text": "今は晴れてきてますけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "まぐろ",
+            "text": "それはよかった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "まぐろ",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ハンバーグ",
+            "text": "夕方から夜中降ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ 積もった？",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ハンバーグ",
+            "text": "積もるまではいってないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "まぐろ",
+            "text": "積もると大変だから！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ そかー、少しずつ暖かくなってきてるんだね！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ハンバーグ",
+            "text": "積もると本当大変です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "こぐま",
+            "text": "@まぐろ 雨？",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ハンバーグ",
+            "text": "もう3月ですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "まぐろ",
+            "text": "こちらは明け方まで雨でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "まぐろ",
+            "text": "いまは曇ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "まぐろ",
+            "text": "早く暖かくなってほしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "こぐま",
+            "text": "春間近っていう天気だね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ハンバーグ",
+            "text": "花粉は嫌だけど暖かくなって欲しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "まぐろ",
+            "text": "寒暖差にやられてーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ @まぐろ 同感！春よこい！",
+            "mention_to": [
+                "まぐろ",
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "まぐろ",
+            "text": "家族がインフルやら風邪でして・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "まぐろ",
+            "text": "外に出れない！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@まぐろ それは大変",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "こぐま",
+            "text": "@まぐろ わー！それは大変！",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "まぐろ",
+            "text": "ちょっとしたストレス",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "こぐま",
+            "text": "インフル、まだまだ流行ってんのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "まぐろ",
+            "text": "私のところはまだ流行っているみたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ ご本人は、大丈夫？",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@こぐま こっちは少し落ち着いてきた気がします",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "こぐま",
+            "text": "あっ、間違えた！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "まぐろ",
+            "text": "私は今のところ大丈夫！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "まぐろ",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "こぐま",
+            "text": "えへへっ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ハンバーグ",
+            "text": "自分も今のところ大丈夫",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "まぐろ",
+            "text": "看病する側だから気を使って疲れちゃう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こぐま",
+            "text": "インフルも風邪もやだねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ハンバーグ",
+            "text": "コロナも少し前まで流行ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "こぐま",
+            "text": "@まぐろ ほんとだね",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "まぐろ",
+            "text": "どれにかかったか・・もうわからない・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "こぐま",
+            "text": "コロナかー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "まぐろ",
+            "text": "症状もそんなに違わないし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@まぐろ 看病してうつらなきゃいいけど",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "こぐま",
+            "text": "熱とか出たら、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "こぐま",
+            "text": "全部検査するん？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "まぐろ",
+            "text": "インフルとコロナ同時検査みたいなのやってたかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "まぐろ",
+            "text": "子供なんだけど、兄弟で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "こぐま",
+            "text": "検査代、バカになんないね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ハンバーグ",
+            "text": "検査した事ないのでわからないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ハンバーグ",
+            "text": "症状似てますもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "まぐろ",
+            "text": "一人インフル、一人風邪みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "こぐま",
+            "text": "ありゃ、そんなこともあるんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "まぐろ",
+            "text": "なんでー？？と思った",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "こぐま",
+            "text": "ねー、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "まぐろ",
+            "text": "二人ともインフルだと私は思ってますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "こぐま",
+            "text": "でも、風邪だと、薬違うもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ですです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "こぐま",
+            "text": "インフルとは違うやんね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "まぐろ",
+            "text": "@こぐま そうそう",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "まぐろ",
+            "text": "風邪の子はカロナールだけ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こぐま",
+            "text": "子供でもインフルのクスリある？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "こぐま",
+            "text": "カロナールかぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "まぐろ",
+            "text": "ありますよー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ハンバーグ",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "まぐろ",
+            "text": "なんだっけなあ・・リレンザだったかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "こぐま",
+            "text": "そか、じゃ、あんまりしんどくなさそう？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@まぐろ 聞いた事ある",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "まぐろ",
+            "text": "そう！インフルBだからなのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "こぐま",
+            "text": "リレンザ、吸い込むやつだっけ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "まぐろ",
+            "text": "比較的軽い症状かも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "まぐろ",
+            "text": "@こぐま そうそう！",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "まぐろ",
+            "text": "家庭内で蔓延しないといいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "こぐま",
+            "text": "ほんとね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ハンバーグ",
+            "text": "本当それ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "まぐろ",
+            "text": "こういうときって部屋とか隔離してます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ハンバーグ",
+            "text": "気をつけてても目に見えないからわからないですやね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "こぐま",
+            "text": "うちは子供が小さい頃はしてなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "まぐろ",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "こぐま",
+            "text": "今は旦那と2人だし、旦那だと隔離するかも笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うちはもう大きいので隔離しましたけど子供小さいと無理ですよね…..",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ だねー",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "まぐろ",
+            "text": "うちも大きめの子供だから隔離してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "まぐろ",
+            "text": "旦那の時は特に厳重に隔離してた笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こぐま",
+            "text": "@まぐろ それがいい！",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "こぐま",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "まぐろ",
+            "text": "閉じ込めてた笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ハンバーグ",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こぐま",
+            "text": "@まぐろ 同じく！！笑笑",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "まぐろ",
+            "text": "隔離したら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "まぐろ",
+            "text": "旦那以外誰もかからなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "こぐま",
+            "text": "うん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ハンバーグ",
+            "text": "隔離大事ですね",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "まぐろ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ハンバーグ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "こぐま",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

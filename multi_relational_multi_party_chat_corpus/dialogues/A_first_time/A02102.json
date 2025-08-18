@@ -1,0 +1,737 @@
+{
+    "dialogue_id": "A02102",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "うどん",
+        "いそべ",
+        "みたらし"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うどん",
+            "text": "観光地が集まってるので、観光しやすいです〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "うどん",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "いそべ",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "みたらし",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "うどん",
+            "text": "皆さんはお料理とかします？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "いそべ",
+            "text": "自分はお料理したいと思ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "みたらし",
+            "text": "料理は男料理しかしないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "うどん",
+            "text": "お！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "うどん",
+            "text": "@いそべ いいですねー！どんなお料理？",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし 元気出そうですね！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "いそべ",
+            "text": "@うどん カレーとかですかね！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "うどん",
+            "text": "@いそべ おいしそうですー！",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "みたらし",
+            "text": "@いそべ カレーおいしいですよね。カレー好きなんですよ",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "うどん",
+            "text": "カレー、朝カレーとかするくらい好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "いそべ",
+            "text": "朝カレー腹持ちいいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "うどん",
+            "text": "ほんとに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "うどん",
+            "text": "元気でますよね〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "みたらし",
+            "text": "二日目のカレーっておいしいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "うどん",
+            "text": "わかる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "いそべ",
+            "text": "わかります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "うどん",
+            "text": "カレーのルーは何入れます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "みたらし",
+            "text": "@うどん バーモントカレーですね",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "いそべ",
+            "text": "私もバーモンドです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "うどん",
+            "text": "定番ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "うどん",
+            "text": "具は何が好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "いそべ",
+            "text": "玉ねぎです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "みたらし",
+            "text": "ジャガイモすきですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "うどん",
+            "text": "@いそべ 体に良さそう！",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "いそべ",
+            "text": "@うどん うまですよね！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし おいしいですよねー！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "うどん",
+            "text": "お店のカレーも好き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "みたらし",
+            "text": "玉ねぎもうまいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "うどん",
+            "text": "皆さん外食はしますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "いそべ",
+            "text": "自分はたまにします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "みたらし",
+            "text": "週一くらいでいきます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "うどん",
+            "text": "@いそべ たまにすると、めちゃおいしいですよね！",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし 自炊率高くてすごいです〜！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "いそべ",
+            "text": "@うどん そうですよね！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "うどん",
+            "text": "みなさん何料理が好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "みたらし",
+            "text": "@うどん そうかもしれないです。",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "うどん",
+            "text": "和食とかフレンチとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "いそべ",
+            "text": "中華です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "うどん",
+            "text": "@いそべ 中華いいですね！",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "みたらし",
+            "text": "@うどん 洋食ですね",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "うどん",
+            "text": "中華街行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "みたらし",
+            "text": "お肉がすきなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "いそべ",
+            "text": "@うどん いいですね！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし お肉最高ですよね",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "みたらし",
+            "text": "@うどん 中華街いいですね",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "うどん",
+            "text": "スタミナつく！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "うどん",
+            "text": "横浜の中華街行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "みたらし",
+            "text": "@うどん 中華街は2回くらいしか行ってないな",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "うどん",
+            "text": "神戸とかにもあるみたいだけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "いそべ",
+            "text": "ほー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "みたらし",
+            "text": "神戸にもあるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "うどん",
+            "text": "やっぱり横浜のが大きいみたいですね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "みたらし",
+            "text": "横浜しか行ったことないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし 横浜いいですよね！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "うどん",
+            "text": "中華街行ったら占いが多くてびっくりしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "いそべ",
+            "text": "いいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "みたらし",
+            "text": "神戸と比べたことないので分からないけど人多いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "みたらし",
+            "text": "占いもあるんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "うどん",
+            "text": "人多いですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "うどん",
+            "text": "だいぶ観光地に人が戻りましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "みたらし",
+            "text": "おお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "いそべ",
+            "text": "人気なんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "うどん",
+            "text": "占いばかりでした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "うどん",
+            "text": "ほんと人気みたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "うどん",
+            "text": "アクセスもいいからかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "いそべ",
+            "text": "今度行ってみます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "うどん",
+            "text": "ぜひぜひ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "みたらし",
+            "text": "どんな占いをするんですか？占いやったことなです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "いそべ",
+            "text": "横浜遠いけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "うどん",
+            "text": "横浜わたしも遠いです〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "うどん",
+            "text": "洋館とかも綺麗だから好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "うどん",
+            "text": "赤レンガ倉庫とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "いそべ",
+            "text": "そんなのあるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "みたらし",
+            "text": "赤レンガ倉庫のライトアップいいですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし なんかね、手相占いとか占星術とか、いろいろありました",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "うどん",
+            "text": "赤レンガ倉庫のライトアップ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "いそべ",
+            "text": "ほー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "うどん",
+            "text": "綺麗だろうなぁ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "うどん",
+            "text": "今度行ってみますライトアップ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "うどん",
+            "text": "みなとみらいの夜景好き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "みたらし",
+            "text": "@うどん 占星術とかはどんな風にやるんですか？",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし なんかカードとか使うみたいですよ",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "うどん",
+            "text": "占い師と対面で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "いそべ",
+            "text": "面白そう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "みたらし",
+            "text": "タロットカードですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "うどん",
+            "text": "わたし受けなかったからあんまり詳しくないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "うどん",
+            "text": "おもしろそうですよねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "うどん",
+            "text": "タロットカードか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "うどん",
+            "text": "そうかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "みたらし",
+            "text": "機会があったらやってみようかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "いそべ",
+            "text": "@みたらし そうですね！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "うどん",
+            "text": "けっこうリーズナブルなお店もありました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "いそべ",
+            "text": "ほー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "うどん",
+            "text": "ワンコインとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "みたらし",
+            "text": "占い高いイメージですがどれくらいですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "みたらし",
+            "text": "おーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "うどん",
+            "text": "高いとめちゃ高いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "みたらし",
+            "text": "ワンコインいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "うどん",
+            "text": "10分3000円とかも見るし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "みたらし",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "うどん",
+            "text": "ワンコインはハードル低いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "いそべ",
+            "text": "そんなに差があるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "みたらし",
+            "text": "10分1000円は高いな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "うどん",
+            "text": "なんの差なんですかね〜",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うどん",
+            "informativeness": 1,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "いそべ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "みたらし",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

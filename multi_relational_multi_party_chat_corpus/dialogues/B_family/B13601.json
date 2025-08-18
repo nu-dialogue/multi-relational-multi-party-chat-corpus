@@ -1,0 +1,728 @@
+{
+    "dialogue_id": "B13601",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "いるか",
+        "にんじん",
+        "たまねぎ"
+    ],
+    "relationship": [
+        "にんじん",
+        "たまねぎ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "いるか",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "にんじん",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "たまねぎ",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "いるか",
+            "text": "今日も寒いですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "にんじん",
+            "text": "寒いですー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "いるか",
+            "text": "お二人は、季節だとどの季節がお好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たまねぎ",
+            "text": "夏ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "いるか",
+            "text": "@たまねぎ 夏！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "にんじん",
+            "text": "@いるか 春かなー",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん 春もいいですね～！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "にんじん",
+            "text": "花粉やばいですけどね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "いるか",
+            "text": "私も、春好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "たまねぎ",
+            "text": "とにかくあったかいのが好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "いるか",
+            "text": "@たまねぎ 最近の夏は、暑すぎませんか？！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "たまねぎ",
+            "text": "まぁたしかに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん 確かに、花粉はヤバいです・・・",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "たまねぎ",
+            "text": "あと半袖が好きなんでね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "にんじん",
+            "text": "@たまねぎ 冬でも半袖",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "たまねぎ",
+            "text": "花粉症もしんどいのでやっぱ夏です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "いるか",
+            "text": "@たまねぎ 冬でも半袖の人ですか？！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "たまねぎ",
+            "text": "もちのろんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "にんじん",
+            "text": "@いるか そうです笑",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "にんじん",
+            "text": "みてて寒そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "いるか",
+            "text": "寒い・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "たまねぎ",
+            "text": "半袖とダウンだけで！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "いるか",
+            "text": "ちぐはぐ・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "にんじん",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "いるか",
+            "text": "暑いのか、寒いのか・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "にんじん",
+            "text": "ダウン最強だと思ってる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん それはありますね・・・！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "いるか",
+            "text": "うちの旦那も変わらないかもです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "たまねぎ",
+            "text": "くるまの移動が多いのでとくに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "たまねぎ",
+            "text": "調節らくなんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "いるか",
+            "text": "そこまで信用しなくていいの・・・ダウンを・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "いるか",
+            "text": "@たまねぎ あー！それは確かにあるかもですね！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "にんじん",
+            "text": "せめてロンティー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "いるか",
+            "text": "そう、せめてのレベルでロンティー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "いるか",
+            "text": "着てほしいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "にんじん",
+            "text": "お店で脱いだ時の周りの視線笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "たまねぎ",
+            "text": "風邪ひかなくなりますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たまねぎ",
+            "text": "半袖だと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "にんじん",
+            "text": "寒風摩擦的な？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "たまねぎ",
+            "text": "ロンTだと風邪ひいちゃいます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たまねぎ",
+            "text": "その通りですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん 周りの視線凄そうです！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "たまねぎ",
+            "text": "ニットなんて着てたら何の病気ににるか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "いるか",
+            "text": "・・・え、逆に風邪を？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "にんじん",
+            "text": "@たまねぎ みんな健康ですけど",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "たまねぎ",
+            "text": "そうです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん 笑",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "いるか",
+            "text": "私も健康ですね・・・おかしいなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "にんじん",
+            "text": "小学生の時いたなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "にんじん",
+            "text": "冬でも半袖半ズボン",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん 絶対に一人はいますね",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "たまねぎ",
+            "text": "そのタイプでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "にんじん",
+            "text": "その子も学校休むことなく健康だったゎ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "いるか",
+            "text": "たしかに、風邪引いてなかったかも・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "にんじん",
+            "text": "大人になっても変わらないんだ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "いるか",
+            "text": "いや、特殊体質なのでは・・・？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "たまねぎ",
+            "text": "かわりません！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "たまねぎ",
+            "text": "いつまでも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "にんじん",
+            "text": "@いるか あぁ確かに",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "たまねぎ",
+            "text": "その代わりtシャツには金かけます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "にんじん",
+            "text": "代わり笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "いるか",
+            "text": "@たまねぎ ダウンではなく？？？？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "にんじん",
+            "text": "@いるか ほんとそう笑",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "いるか",
+            "text": "Tシャツの方でしたか～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん かける場所間違ってませんか？？？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "いるか",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "たまねぎ",
+            "text": "tシャツはよれてるとダサいじゃないですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "にんじん",
+            "text": "@いるか 知らなかったー",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "いるか",
+            "text": "@たまねぎ ん、あ～確かに・・・一理あります",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "にんじん",
+            "text": "納得してるー笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "いるか",
+            "text": "テロンテロンのは、ちょっとあれかなって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "たまねぎ",
+            "text": "ダウンもいいの欲しいんですけど高いじゃないですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん 納得しかけました",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "いるか",
+            "text": "@たまねぎ それはそう・・・！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "いるか",
+            "text": "Tシャツに比べてしまうと！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "たまねぎ",
+            "text": "ストックしておいて！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "たまねぎ",
+            "text": "なるべく新しいものを！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "いるか",
+            "text": "新鮮なものを！みたいな言い方を・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "いるか",
+            "text": "食べ物みたいにTシャツを扱う・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "たまねぎ",
+            "text": "tシャツも色んなものを着てベストな物を見つけたので！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "たまねぎ",
+            "text": "たしかに！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "いるか",
+            "text": "@たまねぎ そうなんですね？？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "いるか",
+            "text": "どこかのブランドですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "たまねぎ",
+            "text": "アメリカの方のブランドの無地Tなんですけど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "いるか",
+            "text": "アメリカ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "たまねぎ",
+            "text": "3枚で2000円くらいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん にんじんさんも知ってますか？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "たまねぎ",
+            "text": "買いだめてます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "にんじん",
+            "text": "知らないですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "にんじん",
+            "text": "任せてます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "にんじん",
+            "text": "確かに洗濯してもしても同じのあるなーと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "たまねぎ",
+            "text": "僕のtシャツ彼女は着れませんから。笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "いるか",
+            "text": "三枚で二千円・・・三枚で二千円・・・Tシャツの価格帯がわからない・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "いるか",
+            "text": "@にんじん 同じもの笑",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "にんじん",
+            "text": "白か黒か",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "いるか",
+            "text": "@たまねぎ 大きいからですか？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "いるか",
+            "text": "色の違い笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "たまねぎ",
+            "text": "後意外に最近よかったのがファミマのやつです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "いるか",
+            "text": "ん？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "にんじん",
+            "text": "ん？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "いるか",
+            "text": "ファミマ？？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "たまねぎ",
+            "text": "@いるか 小さいからです！",
+            "mention_to": [
+                "いるか"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "いるか",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "にんじん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまねぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

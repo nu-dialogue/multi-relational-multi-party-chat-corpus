@@ -1,0 +1,714 @@
+{
+    "dialogue_id": "B13902",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "いるか",
+        "ちくわ",
+        "こんぶ"
+    ],
+    "relationship": [
+        "ちくわ",
+        "こんぶ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "いるか",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ちくわ",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "こんぶ",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "いるか",
+            "text": "お休みの日って何をして過ごすことが多いですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ちくわ",
+            "text": "ゆっくりしたりー家族で出かけたり！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "こんぶ",
+            "text": "ぐーたらな日もあるよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ちくわ",
+            "text": "ある！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "いるか",
+            "text": "お、どこに行く感じですか？公園とか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ちくわ",
+            "text": "自分が土日のどっちかが仕事なので、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "こんぶ",
+            "text": "先週末も、ゴロゴロと、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ちくわ",
+            "text": "その時に買い物したり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "こんぶ",
+            "text": "そうですね！子どもがまだ小さいので、動ける場所に！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ちくわ",
+            "text": "あったかい時は公園行ったりしてました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "こんぶ",
+            "text": "解き放ちます！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ちくわ",
+            "text": "今は寒いからなかなかね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "いるか",
+            "text": "@ちくわ そうなんですね！それだとたしかにごろごろになるかも！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "こんぶ",
+            "text": "あたは、近所散歩とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ちくわ",
+            "text": "@いるか 家族サービスもしっかりと！",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "こんぶ",
+            "text": "@いるか なにかおすすめの過ごし方あります？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "いるか",
+            "text": "確かに寒いとどこにも行きたくなくなる・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ちくわ",
+            "text": "って甘えてぐーたらしてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ 家族サービスありがとうございます",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "いるか",
+            "text": "@こんぶ うちも本当に公園行くとか買い物、ごろごろしかなくて・・・！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ こちらこそです。",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "こんぶ",
+            "text": "外に出るのが少し億劫になりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "こんぶ",
+            "text": "@いるか やっぱりみなさん同じ感じでしたね！",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ちくわ",
+            "text": "@いるか 公園とかですよねー",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ちくわ",
+            "text": "寒いとなかなかねーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "いるか",
+            "text": "@こんぶ ですね～どうしても・・・公園の水もちべたいし・・・",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "こんぶ",
+            "text": "お昼をもってきてピクニックがてらっていうのも楽しい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ちくわ",
+            "text": "公園の水！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "いるか",
+            "text": "@こんぶ すてき！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "こんぶ",
+            "text": "ん？公園の水もち？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ちくわ",
+            "text": "夏とか最高すね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ちくわ",
+            "text": "水も冷たいし！じゃない？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "いるか",
+            "text": "@こんぶ ちべたいです・・・公園の水・・・",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "いるか",
+            "text": "つめたい・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "こんぶ",
+            "text": "あ！失礼しました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ちくわ",
+            "text": "ですよね！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ちくわ",
+            "text": "ピクニックしたね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "こんぶ",
+            "text": "すみません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ちくわ",
+            "text": "風強かった時に！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "こんぶ",
+            "text": "理解不足で〜笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "こんぶ",
+            "text": "ピクニックしたい！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ちくわ",
+            "text": "でも気持ちよかった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "こんぶ",
+            "text": "もう少しあったかくなればずっと外にいても平気！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ちくわ",
+            "text": "でも買い物も近くにあるわけじゃないから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "いるか",
+            "text": "風強い時にピクニックは強者では？？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "こんぶ",
+            "text": "今はけっこう綺麗な公園があって！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ちくわ",
+            "text": "大変です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "こんぶ",
+            "text": "お弁当ふっとぶ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "こんぶ",
+            "text": "シートは靴でおさえたり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ちくわ",
+            "text": "@いるか めちゃくちゃではないけど少し強かったです",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "いるか",
+            "text": "綺麗な公園良いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ちくわ",
+            "text": "最近は綺麗な公園おおいね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "いるか",
+            "text": "@こんぶ ですよね？！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "こんぶ",
+            "text": "そうなんですよ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "こんぶ",
+            "text": "田舎ですけどね、綺麗なの増えてきましたよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ちくわ",
+            "text": "そういうとこに人集まるしね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こんぶ",
+            "text": "@いるか ですです〜〜",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "いるか",
+            "text": "へ～！いいですね～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "こんぶ",
+            "text": "そう！でも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "こんぶ",
+            "text": "人は多いですよね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ちくわ",
+            "text": "自然豊かだから眺めは最高です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "こんぶ",
+            "text": "でも、都会の公園はもっとすごそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ちくわ",
+            "text": "@いるか アウトドア派？ですか？",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "こんぶ",
+            "text": "あ、でも、そのぶん、さらに広いんですかね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "いるか",
+            "text": "都会の公園・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "こんぶ",
+            "text": "公園なのに周り人だらけみたいな想像です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ちくわ",
+            "text": "都会の公園はビルに挟まれてるから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "こんぶ",
+            "text": "ゆっくりくつろげないイメージ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ちくわ",
+            "text": "変な感じだろうなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "いるか",
+            "text": "@ちくわ インドアです・・・！ちくわさんたちは、アウトドアっぽい！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "いるか",
+            "text": "キャンプとか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ちくわ",
+            "text": "んーアウトドアなのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ ビルの間にあるのか！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ちくわ",
+            "text": "あ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ちくわ",
+            "text": "でた！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ちくわ",
+            "text": "キャンプ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ちくわ",
+            "text": "僕は、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ちくわ",
+            "text": "テントで寝れないんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こんぶ",
+            "text": "アウトドア派なんですけどね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "こんぶ",
+            "text": "旦那は虫が大の苦手です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "いるか",
+            "text": "@ちくわ 寝られない！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "いるか",
+            "text": "虫！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ちくわ",
+            "text": "寝るなら、ちゃんと泊まれるロッジとかです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "こんぶ",
+            "text": "虫は私が退治する役です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ちくわ",
+            "text": "虫担当です！！妻が！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "いるか",
+            "text": "@こんぶ 笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "いるか",
+            "text": "必然的に・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ちくわ",
+            "text": "なので、テントでは寝ません！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "こんぶ",
+            "text": "@いるか 私は平気なのでね笑",
+            "mention_to": [
+                "いるか"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ちくわ",
+            "text": "バーベキューは好きですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ちくわ",
+            "text": "ちゃんとした宿があったら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "いるか",
+            "text": "バーベキューも寄ってきません？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "こんぶ",
+            "text": "タンクトップでバーベキューしてるね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "こんぶ",
+            "text": "わかります！！！すごい寄ってきますよね！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "いるか",
+            "text": "@こんぶ タンクトップ！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ そうそう！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "こんぶ",
+            "text": "ハエとか！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "いるか",
+            "text": "それは大丈夫な感じです？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ちくわ",
+            "text": "でも、外だからすぐ逃げれる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "こんぶ",
+            "text": "鍛え上げた筋肉をみせつけてきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "いるか",
+            "text": "@ちくわ あ～～～～",
+            "mention_to": [
+                "ちくわ"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "いるか",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ちくわ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "こんぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,753 @@
+{
+    "dialogue_id": "A04303",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "はくさい",
+        "くらげ",
+        "ねぎとろ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "はくさい",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "くらげ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ねぎとろ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "はくさい",
+            "text": "お花見とか行きますかー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "くらげ",
+            "text": "散歩ていどには",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ねぎとろ",
+            "text": "行きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "くらげ",
+            "text": "人込みにがてで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ そうなんですね！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "くらげ",
+            "text": "近くの公園でのんびりと見たいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "はくさい",
+            "text": "うちは行くかまだ未定で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたしも、近くの穴場スポットでひっそりと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "くらげ",
+            "text": "@ねぎとろ どちらの方まで？",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "はくさい",
+            "text": "どーしようか迷ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "くらげ",
+            "text": "@ねぎとろ 穴場いいですね",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ 旦那の実家の方に行こうかと",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "くらげ",
+            "text": "@はくさい 迷いますよね",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "はくさい",
+            "text": "思ってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@くらげ 車で10分くらいのところに、水辺に桜並木があるんです。",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くらげ",
+            "text": "@ねぎとろ いいですね",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ 子供は屋台目当てで笑",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@くらげ 人もいないので、とってもいいです、",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "くらげ",
+            "text": "@はくさい 旦那さんのご実家の近くよさそうですね",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くらげ",
+            "text": "@ねぎとろ うらやましい",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "はくさい",
+            "text": "@ねぎとろ 車で10分のところっていいですね",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ 有名ではないですが",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "はくさい",
+            "text": "結構綺麗です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@くらげ お手軽お花見",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "くらげ",
+            "text": "@はくさい 屋台が出るくらいってなかなか良さそう",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "くらげ",
+            "text": "@ねぎとろ 最高です",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ 屋台といっても",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "はくさい",
+            "text": "数店舗くらいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "くらげ",
+            "text": "それぐらいがいいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ ですよね！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "はくさい",
+            "text": "目移りするものが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@くらげ いいですね",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "はくさい",
+            "text": "少ない方がいいです！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ねぎとろ",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "くらげ",
+            "text": "子供はきりがないから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くらげ",
+            "text": "あれほしいこれほしいって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "はくさい",
+            "text": "@ねぎとろ 単価も高いし笑",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "くらげ",
+            "text": "そうそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ そうなんですよね！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "はくさい",
+            "text": "あれよこれもです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "くらげ",
+            "text": "屋台って異様に高いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "はくさい",
+            "text": "そう思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そうなんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "はくさい",
+            "text": "基本500円〜ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "はくさい",
+            "text": "もう少し安かったら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くらげ",
+            "text": "@はくさい そうそう",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "はくさい",
+            "text": "色々買えるのに…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "くらげ",
+            "text": "同感です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "はくさい",
+            "text": "親は我慢です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "くらげ",
+            "text": "同じです！！！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "はくさい",
+            "text": "でも屋台のご飯美味しいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "くらげ",
+            "text": "雰囲気もあるし、おいしさ倍増ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ そうなんですよね！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "はくさい",
+            "text": "そこで食べるから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "はくさい",
+            "text": "余計に美味しい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "くらげ",
+            "text": "買い食いとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ねぎとろ",
+            "text": "雰囲気もお味のうちなんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "くらげ",
+            "text": "@ねぎとろ あーいう場所に行くとそんな気がします",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "はくさい",
+            "text": "@ねぎとろ 外で食べるっていうのも",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "はくさい",
+            "text": "いいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "くらげ",
+            "text": "わたがしだけは、そうは思いませんが、私は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@はくさい ですね",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "くらげ",
+            "text": "甘すぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ 綿菓子は私も嫌いです",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "くらげ",
+            "text": "そして子供が絶対１度は欲しがるんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "はくさい",
+            "text": "甘すぎて！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "はくさい",
+            "text": "わかります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたしも、アノベタベタが苦手",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ 欲しがりすよねー",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "くらげ",
+            "text": "でも、かならずありません？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "はくさい",
+            "text": "外のパッケージに惹かれて笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ ありますねー！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "はくさい",
+            "text": "需要と供給！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "くらげ",
+            "text": "@はくさい それはありますね",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ 中身全部いっしょなのに",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "はくさい",
+            "text": "1つずつ欲しいと言われます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "くらげ",
+            "text": "@ねぎとろ お花見に何か食べ物もっていきますか？",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "くらげ",
+            "text": "@はくさい 絶対いやーーー",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ 基本現地調達です！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ねぎとろ",
+            "text": "＠お手軽にサンドイッチとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くらげ",
+            "text": "@ねぎとろ いい感じですね",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ねぎとろ",
+            "text": "つくって持って行きます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "はくさい",
+            "text": "@ねぎとろ サンドイッチいいですね！",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "はくさい",
+            "text": "ピクニックみたいで！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くらげ",
+            "text": "@ねぎとろ すばらしい！",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ありがとうございます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くらげ",
+            "text": "私は作るのが面倒で買います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ 同じくです！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "くらげ",
+            "text": "サンドイッチもきっとコンビニで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くらげ",
+            "text": "@ねぎとろ なので尊敬です",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "はくさい",
+            "text": "@ねぎとろ 料理すきなんですか？",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "くらげ",
+            "text": "そしてコンビニの方が子供が喜んだり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "はくさい",
+            "text": "私は苦手で…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@くらげ いえいえ、場所が田舎なのでコンビニありません",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "はくさい",
+            "text": "なので尊敬します！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ねぎとろ",
+            "text": "だから仕方なく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "くらげ",
+            "text": "@ねぎとろ そうなんですね",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "はくさい",
+            "text": "@くらげ それありますね笑",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@はくさい お料理は好きですが、取りかかるのに時間がかかります。",
+            "mention_to": [
+                "はくさい"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "はくさい",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "くらげ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ねぎとろ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

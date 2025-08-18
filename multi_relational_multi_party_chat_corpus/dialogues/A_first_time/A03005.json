@@ -1,0 +1,685 @@
+{
+    "dialogue_id": "A03005",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おにぎり",
+        "ねぎとろ",
+        "こまつな"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おにぎり",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ねぎとろ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "こまつな",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おにぎり",
+            "text": "植物とかお花とかお好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "おにぎり",
+            "text": "育てるの。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "こまつな",
+            "text": "見るぶんには",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ねぎとろ",
+            "text": "お花好きですが、見るだけ・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "おにぎり",
+            "text": "私も、見るぶんには、、って感じで。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "こまつな",
+            "text": "@おにぎり 育てます？",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "おにぎり",
+            "text": "庭があるのですが、もう、本当に困ってて。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "おにぎり",
+            "text": "育ててるというか、勝手に育ってるというか。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "こまつな",
+            "text": "@おにぎり なにか植わってますか？",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "おにぎり",
+            "text": "木とか、雑草とか。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "こまつな",
+            "text": "雑草・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ねぎとろ",
+            "text": "あはは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "こまつな",
+            "text": "友人でもいますよ庭に苦労してる人",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "おにぎり",
+            "text": "玄関側にもコーナーがあり、、チューリップとか一応。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "おにぎり",
+            "text": "ぜんぶコンクリートで埋めたいです。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "こまつな",
+            "text": "その人もコンクリート言ってた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ねぎとろ",
+            "text": "お手入れ大変そうですもんね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "おにぎり",
+            "text": "@こまつな いらっしゃいますか？",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "こまつな",
+            "text": "？？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "おにぎり",
+            "text": "お友達で困ってる方。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "こまつな",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "おにぎり",
+            "text": "好きな方は良いんでしょうけどね。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "こまつな",
+            "text": "前の持ち主が植えた木が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "こまつな",
+            "text": "隣に進出して苦情が来たとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ふむふむ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "おにぎり",
+            "text": "そんなパターンもあるのか。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "おにぎり",
+            "text": "枯れ葉も落ちたりして、気を遣う。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ねぎとろ",
+            "text": "トラブルの種になるわけですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "こまつな",
+            "text": "自分で切れないから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "こまつな",
+            "text": "植木屋さんに頼むと結構かかるとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "おにぎり",
+            "text": "大きい木なのかな。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そうでしょうね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "こまつな",
+            "text": "そうみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "こまつな",
+            "text": "うちはマンションなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "こまつな",
+            "text": "庭はないからいいよ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "おにぎり",
+            "text": "マンションだと、良いですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そう思います。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "おにぎり",
+            "text": "プランターでたまに育てる位がいいかと思います。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "こまつな",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "こまつな",
+            "text": "でもプランターも枯らす",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたしもそのタイプ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "おにぎり",
+            "text": "なんかね、、枯れますよね。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "こまつな",
+            "text": "なぜでしょうね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こまつな",
+            "text": "うちの場合は日が当たりすぎるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "おにぎり",
+            "text": "部屋に一つ観葉植物置いてるのですが、なんか元気ない。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ねぎとろ",
+            "text": "くったりしてくるんですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ねぎとろ",
+            "text": "なぜか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "こまつな",
+            "text": "水のやり方とかよくわかんないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ねぎとろ",
+            "text": "いつも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "おにぎり",
+            "text": "当たりすぎるのも、良くないのかな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "こまつな",
+            "text": "植物によるみたいで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そうですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "おにぎり",
+            "text": "植物のある生活、憧れるんですけどね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "こまつな",
+            "text": "ほんとです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ねぎとろ",
+            "text": "育てるの上手な人がうらやましい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "こまつな",
+            "text": "うちの父は上手です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こまつな",
+            "text": "なんで私だめなんだろ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そうなんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "おにぎり",
+            "text": "お父様が！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "おにぎり",
+            "text": "教わりたい。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ねぎとろ",
+            "text": "よくお勉強なさってるんですか？園芸。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "おにぎり",
+            "text": "というか、やってもらいたい笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ねぎとろ",
+            "text": "うちも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "こまつな",
+            "text": "好きみたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "おにぎり",
+            "text": "好き、大事ですね。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "こまつな",
+            "text": "でも年取ったから縮小",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "こまつな",
+            "text": "田舎なので畑もあって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "こまつな",
+            "text": "木とか植わってる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ねぎとろ",
+            "text": "お世話、けっこう大変そうですものね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "おにぎり",
+            "text": "園芸も、広くすると、大変かも。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "こまつな",
+            "text": "毎日水やるの結構ね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "おにぎり",
+            "text": "畑も、一時憧れました。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ねぎとろ",
+            "text": "水やり、大変ですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "こまつな",
+            "text": "いやあ、ちょっとだけにしたほうが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "こまつな",
+            "text": "農家だったので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "こまつな",
+            "text": "苦労がわかる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ねぎとろ",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "おにぎり",
+            "text": "プロだったのですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こまつな",
+            "text": "今はイノシシにやられるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "おにぎり",
+            "text": "農家さん、ほんと尊敬します。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "こまつな",
+            "text": "田舎は大変みたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "おにぎり",
+            "text": "イノシシ、すごいですよね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ねぎとろ",
+            "text": "獣害もあるんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "こまつな",
+            "text": "電気の流れる柵とかしてる所もある",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ねぎとろ",
+            "text": "対策もたいへんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "おにぎり",
+            "text": "こないだ、繁華街にイノシシが出て、注意メールが回ってきました笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "こまつな",
+            "text": "繁華街に？？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ねぎとろ",
+            "text": "怖いかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "おにぎり",
+            "text": "新幹線も止まる駅の方に！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "こまつな",
+            "text": "野生は怖いですよ動物",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "おにぎり",
+            "text": "遭遇したら、怖いですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ニュースで、ショーウィンドウとかに突っ込んでるの見たことあります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "こまつな",
+            "text": "実家に帰ったら車の前をシカが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ねぎとろ",
+            "text": "シカも、大人は大きそうですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "こまつな",
+            "text": "ローカル鉄道シカとの衝突で止まります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "おにぎり",
+            "text": "買い物してたら、突っ込んできたら、恐ろしい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "こまつな",
+            "text": "それはいやだ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "おにぎり",
+            "text": "良く止まってますよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ねぎとろ",
+            "text": "なるほど。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "こまつな",
+            "text": "@おにぎり ローカルですか？",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "おにぎり",
+            "text": "うちの近所の路線は無いんですが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "おにぎり",
+            "text": "良く、子供の為に、電車運行状況見てると、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "おにぎり",
+            "text": "しょっちゅう止まってる路線があるなぁ、、と思ってます。",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おにぎり",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ねぎとろ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "こまつな",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

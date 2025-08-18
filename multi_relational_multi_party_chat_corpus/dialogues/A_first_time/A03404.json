@@ -1,0 +1,759 @@
+{
+    "dialogue_id": "A03404",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "げんまい",
+        "おでん",
+        "てんぷら"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "げんまい",
+            "text": "こんにちはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "おでん",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てんぷら",
+            "text": "こんにちは！お腹すきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "げんまい",
+            "text": "はじめましてー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "おでん",
+            "text": "あら、笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "てんぷら",
+            "text": "初めましてなのにお腹すきましたの会話",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おでん",
+            "text": "はじめまして、よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "てんぷら",
+            "text": "すみません、思っていることが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "てんぷら",
+            "text": "すぐ口に出て。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "おでん",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "げんまい",
+            "text": "わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "てんぷら",
+            "text": "顔にも出ます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "げんまい",
+            "text": "出ます。もれます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "おでん",
+            "text": "楽しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "てんぷら",
+            "text": "分かりやすい人間です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "おでん",
+            "text": "いいと思います！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "てんぷら",
+            "text": "まだ9時なのに、お昼ご飯のこと考えています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "げんまい",
+            "text": "お昼、何食べます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "げんまい",
+            "text": "決まってますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "てんぷら",
+            "text": "外食することだけ決まっています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "おでん",
+            "text": "@てんぷら お昼、どこか予定ありますか？",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "てんぷら",
+            "text": "友人と会う約束していて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "げんまい",
+            "text": "お友達とランチ。ステキ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "おでん",
+            "text": "ウンウン",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "おでん",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "てんぷら",
+            "text": "車で行くんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "おでん",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "てんぷら",
+            "text": "友人、引っ越しをするらしくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "げんまい",
+            "text": "ほう。引っ越し。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "てんぷら",
+            "text": "いろいろもらって欲しいものがあると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "てんぷら",
+            "text": "まず、姿見",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "おでん",
+            "text": "えー、そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "てんぷら",
+            "text": "うち、鏡がないので、嬉しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "おでん",
+            "text": "さみしくなりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "おでん",
+            "text": "遠くへ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "てんぷら",
+            "text": "いえいえ、近いらしいですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "げんまい",
+            "text": "お近くなら、また会えますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "おでん",
+            "text": "あっ、そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "おでん",
+            "text": "なら良かった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "てんぷら",
+            "text": "お母さまと一緒に暮らす家を建てるそうで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "おでん",
+            "text": "そうなんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "てんぷら",
+            "text": "いろいろ大変だと言っていました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "おでん",
+            "text": "一緒に出かける友達って、いいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "おでん",
+            "text": "これからは話をいっぱい聞いてあげないとですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "てんぷら",
+            "text": "彼女とのランチは2回目です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "げんまい",
+            "text": "お店はまだ決まってないんですね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "てんぷら",
+            "text": "そうですね、ほんとに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "てんぷら",
+            "text": "そう、お店決まってなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "てんぷら",
+            "text": "彼女の家に行くので、近所でお勧めのところがあるといいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "おでん",
+            "text": "何系とか好みありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "げんまい",
+            "text": "楽しみですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "てんぷら",
+            "text": "コーヒーが美味しいところがいいなあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "てんぷら",
+            "text": "お二人は、お昼ご飯決まっていますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "おでん",
+            "text": "@てんぷら コーヒー、美味しいところ、いいですね",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "げんまい",
+            "text": "コーヒーが美味しいお店はお料理もおいしそう。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "げんまい",
+            "text": "私は、お弁当の残りかな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "おでん",
+            "text": "私は1人で出かける予定があるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "おでん",
+            "text": "外食ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "げんまい",
+            "text": "お出かけなんですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "てんぷら",
+            "text": "@げんまい お弁当作ったんですね",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "てんぷら",
+            "text": "@おでん ひとりランチも好きです",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "げんまい",
+            "text": "高１息子のお弁当です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "おでん",
+            "text": "@げんまい お弁当！いいなぁ",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "おでん",
+            "text": "ひとりランチいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てんぷら",
+            "text": "隣の席の会話を聞いたりします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "おでん",
+            "text": "私は結構、出かけたついでに、1人で入っちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "げんまい",
+            "text": "隣の会話、聞こえてきますもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "おでん",
+            "text": "そそ、この前",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "げんまい",
+            "text": "一人でお店入るのって、なかなか考えちゃいます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "おでん",
+            "text": "スタバで、隣のおばちゃん2人が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "げんまい",
+            "text": "入れる店が限られる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てんぷら",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "おでん",
+            "text": "めちゃくちゃ嫁の悪口言ってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "てんぷら",
+            "text": "ひええ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "げんまい",
+            "text": "悪口！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "てんぷら",
+            "text": "私、言われる方だなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "おでん",
+            "text": "こわかったー笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "げんまい",
+            "text": "わー聞き入っちゃうな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "てんぷら",
+            "text": "聞いているうちにいたたまれなくなって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "おでん",
+            "text": "そりゃ、この姑じゃなーって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "てんぷら",
+            "text": "謝りそう、関係ないのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "てんぷら",
+            "text": "至らずすみませんでした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "げんまい",
+            "text": "代わりにあやまりたくなっちゃう。ｗｗｗ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "おでん",
+            "text": "私も姑の年に近いですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "てんぷら",
+            "text": "来世では頑張りますので！って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "おでん",
+            "text": "見たことないお嫁ちゃんが可哀想になりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "おでん",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "てんぷら",
+            "text": "お嫁ちゃん側になっちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "げんまい",
+            "text": "本当に知らない人からあやまられたら、ビックリですけどね。ｗｗｗ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "てんぷら",
+            "text": "びっくりさせてやりたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "おでん",
+            "text": "ねー、言うなら、誰も聞こえないとこがいいと思いました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てんぷら",
+            "text": "悪口といえば、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "げんまい",
+            "text": "大声で悪口は、よくないですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "てんぷら",
+            "text": "今月から新しく始めた仕事でですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "てんぷら",
+            "text": "リーダーが2人いて、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "おでん",
+            "text": "ウンウン",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "げんまい",
+            "text": "新しい仕事！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "てんぷら",
+            "text": "初回は1人のリーダーがついてきてくれたわけですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "げんまい",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "おでん",
+            "text": "ウンウン",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "てんぷら",
+            "text": "で、そのリーダーが私の隣でもう一人のリーダーに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "おでん",
+            "text": "うん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "てんぷら",
+            "text": "問い合わせの電話をしたんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "おでん",
+            "text": "ウンウン",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "てんぷら",
+            "text": "スピーカーで、全部聞こえて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "てんぷら",
+            "text": "私のことをですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "おでん",
+            "text": "わードキドキします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "げんまい",
+            "text": "え、まさか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "てんぷら",
+            "text": "今〇〇さんと一緒にいる？あの人ね、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 109,
+            "interlocutor_id": "てんぷら",
+            "text": "すぐ話が横道にそれるから、気を付けた方がいい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 110,
+            "interlocutor_id": "おでん",
+            "text": "ドキドキ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 111,
+            "interlocutor_id": "てんぷら",
+            "text": "って大声で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 112,
+            "interlocutor_id": "げんまい",
+            "text": "いやだー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 113,
+            "interlocutor_id": "おでん",
+            "text": "わーそれって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 114,
+            "interlocutor_id": "てんぷら",
+            "text": "な、なんだと！？と思いまして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 115,
+            "interlocutor_id": "げんまい",
+            "text": "ひとどいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 116,
+            "interlocutor_id": "てんぷら",
+            "text": "もう二度と雑談に付き合ってやらねえぞと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 117,
+            "interlocutor_id": "てんぷら",
+            "text": "思っちゃったりしちゃったり",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "げんまい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "おでん",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てんぷら",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

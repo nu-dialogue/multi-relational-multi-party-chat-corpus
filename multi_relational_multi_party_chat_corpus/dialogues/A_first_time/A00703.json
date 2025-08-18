@@ -1,0 +1,757 @@
+{
+    "dialogue_id": "A00703",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "ししとう",
+        "あずき",
+        "たらこ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ししとう",
+            "text": "こんばんは～ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "あずき",
+            "text": "こんばんはー ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "たらこ",
+            "text": "こんばんは～ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ししとう",
+            "text": "今日、ごはん何食べました？ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "あずき",
+            "text": "カレーです ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "あずき",
+            "text": "ドライカレーです ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たらこ",
+            "text": "今日は魚の煮付けと肉じゃがです ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ししとう",
+            "text": "うちは焼そばです！ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "あずき",
+            "text": "簡単料理にしました ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "たらこ",
+            "text": "@あずき ドライカレーですか！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ししとう",
+            "text": "みなさんのおいしそう～！ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "あずき",
+            "text": "下の子が偏食であんまり食べません ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "あずき",
+            "text": "好き嫌いが多いのです ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たらこ",
+            "text": "@ししとう 焼きそばもいいですね！",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ししとう",
+            "text": "@あずき 偏食大変ですね！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "たらこ",
+            "text": "@あずき わかります！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "あずき",
+            "text": "@たらこ 焼きそばいいですね",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "あずき",
+            "text": "焼きそばは食べます ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "あずき",
+            "text": "給食は食べるんですがね ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ししとう",
+            "text": "@あずき 結構苦手なモノ多いんですか？",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "たらこ",
+            "text": "@ししとう お子さんは好き嫌いは？",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "あずき",
+            "text": "@ししとう 野菜が苦手です",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ししとう",
+            "text": "@たらこ 我が家は何でも食べますね！",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "あずき",
+            "text": "@ししとう 羨ましい",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "たらこ",
+            "text": "うちも給食はたべます ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "あずき",
+            "text": "なんでも作れますね ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "たらこ",
+            "text": "@ししとう うらやましい！",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ししとう",
+            "text": "でもお菓子を食べ過ぎて、少食かも。 ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "あずき",
+            "text": "作りがいがありますね ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たらこ",
+            "text": "うちの下は食わず嫌いで ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "あずき",
+            "text": "@ししとう お菓子美味しいので",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "たらこ",
+            "text": "見た目で嫌いっていわれます ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "あずき",
+            "text": "@たらこ 見た目で嫌い",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "あずき",
+            "text": "わかります ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ししとう",
+            "text": "@たらこ 食わず嫌いもしんどいですね！",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "たらこ",
+            "text": "そうなんです！ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "あずき",
+            "text": "給食を食べてるからいいかなーと ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "あずき",
+            "text": "思ってます ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "たらこ",
+            "text": "@あずき わかります！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ししとう",
+            "text": "@あずき 給食は心強いですね！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たらこ",
+            "text": "給食で栄養をね！ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "あずき",
+            "text": "@ししとう ありがたいです",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "あずき",
+            "text": "栄養満点なので ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たらこ",
+            "text": "そうそう！ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "あずき",
+            "text": "たまに作るお弁当が大変です ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "たらこ",
+            "text": "自分が作るより栄養豊富ですよね ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "あずき",
+            "text": "好きなものしか入れません ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たらこ",
+            "text": "@あずき わかります！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ししとう",
+            "text": "@あずき お弁当は好きなものだけ、共感です。",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "たらこ",
+            "text": "見た目茶色ね ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "あずき",
+            "text": "@たらこ 唐揚げが好きなので",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "あずき",
+            "text": "唐揚げばかり ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ししとう",
+            "text": "せっかくなら完食してほしいですもんね ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "あずき",
+            "text": "はい ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "たらこ",
+            "text": "そうなんですよね～ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "たらこ",
+            "text": "多分弁当が ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "あずき",
+            "text": "上の子はなんでも食べるので ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "たらこ",
+            "text": "一番栄養 ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たらこ",
+            "text": "偏ってます ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "あずき",
+            "text": "下の子が大変です ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "たらこ",
+            "text": "@あずき 偉い！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ししとう",
+            "text": "@たらこ 弁当の栄養偏り問題。",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "たらこ",
+            "text": "うちも下だけひどいです ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ししとう",
+            "text": "兄弟、個性ありますよね！ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "あずき",
+            "text": "@たらこ 下の子はいい具合で手抜きです",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "あずき",
+            "text": "@ししとう ありますねー",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "たらこ",
+            "text": "@あずき めっちゃわかります！！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "たらこ",
+            "text": "甘やかしすぎたんかなー ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "あずき",
+            "text": "そうかもしれません ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "あずき",
+            "text": "離乳食から食べなかった ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "あずき",
+            "text": "個性ですね ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ししとう",
+            "text": "@あずき 個性ですね",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たらこ",
+            "text": "@あずき 一緒です！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "たらこ",
+            "text": "もう見た目が緑ってだけで ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "たらこ",
+            "text": "嫌がりましたもん ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "あずき",
+            "text": "ご自身は好き嫌いありますか？ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "たらこ",
+            "text": "@あずき わたしはないです！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ししとう",
+            "text": "@あずき 私は果物があんまり好きじゃないです",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "あずき",
+            "text": "@たらこ 私もないです",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ししとう",
+            "text": "さくらんぼとか ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "あずき",
+            "text": "果物ですか ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "たらこ",
+            "text": "しいていうならおでんの大根です ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "あずき",
+            "text": "@ししとう さくらんぼ！！",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "たらこ",
+            "text": "あとスナック菓子！ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "あずき",
+            "text": "嫌いなのですね ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ししとう",
+            "text": "@たらこ スナック菓子！",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "あずき",
+            "text": "@たらこ スナック菓子ですか",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "たらこ",
+            "text": "@ししとう 果物ですか！は",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ししとう",
+            "text": "@たらこ ポテチとかです？",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "あずき",
+            "text": "体に悪いですもんね ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "たらこ",
+            "text": "ポテチは好きです！ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "たらこ",
+            "text": "カールとかベビースターとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "たらこ",
+            "text": "嫌いなんです ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "あずき",
+            "text": "@たらこ おお！ベビースターとか",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "あずき",
+            "text": "味ですかね ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ししとう",
+            "text": "@たらこ ベビースター！",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "たらこ",
+            "text": "@あずき 味ですかね～",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ししとう",
+            "text": "子どもに食べさすと散らかるやつだ！ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "あずき",
+            "text": "@ししとう そうですね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "たらこ",
+            "text": "@ししとう そうです！",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "あずき",
+            "text": "だいぶ散らかります ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "たらこ",
+            "text": "あれは大変ですよね！ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "あずき",
+            "text": "掃除機必須 ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "たらこ",
+            "text": "でも好きですよね～ ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "たらこ",
+            "text": "子供は ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "ししとう",
+            "text": "いっぱい床に落としてるので、くっついているベビースターを最近買ってます。 ",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ししとう",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "あずき",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "たらこ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

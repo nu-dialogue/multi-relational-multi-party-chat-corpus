@@ -1,0 +1,764 @@
+{
+    "dialogue_id": "B10403",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "うさぎ",
+        "つくね",
+        "しらたき"
+    ],
+    "relationship": [
+        "つくね",
+        "しらたき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うさぎ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つくね",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらたき",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うさぎ",
+            "text": "お花見って行かれますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つくね",
+            "text": "行く予定です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "うさぎ",
+            "text": "いつも行くところとかありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 実家が桜有名なんです",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき おーいいですね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 旦那の実家の方に行きます",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 遠いんですか？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 結構有名です",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 今住んでいるところから",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つくね",
+            "text": "約30分くらいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 結構近いです",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "うさぎ",
+            "text": "あっ、そんなに遠くないですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つくね",
+            "text": "そうなんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "つくね",
+            "text": "でも激混みです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "うさぎ",
+            "text": "私はいつも目黒川の桜にいきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "うさぎ",
+            "text": "知ってますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "しらたき",
+            "text": "目黒川！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "うさぎ",
+            "text": "はい都内ですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "しらたき",
+            "text": "川に桜が映るところ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "うさぎ",
+            "text": "沿線なんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "つくね",
+            "text": "近いんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "しらたき",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "うさぎ",
+            "text": "電車で15分とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "しらたき",
+            "text": "今年は花粉が早いから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "しらたき",
+            "text": "お花見時期もすごそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "うさぎ",
+            "text": "お二人は花粉症は？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 私はないですが",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つくね",
+            "text": "最近鼻水とまらないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 俺はないです！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね わかります！私も目が痒いです",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき なくていいですね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 花粉症でなくても",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つくね",
+            "text": "そんな感じの症状出ますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 軽い鼻炎？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ でも鼻血はよく出します笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "うさぎ",
+            "text": "ひどくなりたくないですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 鼻炎持ちでした",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "つくね",
+            "text": "そうですよね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき 男性の方、たまにいますよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つくね",
+            "text": "鼻が荒れる笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 息子も鼻弱くて",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "うさぎ",
+            "text": "息子さんも？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "しらたき",
+            "text": "暑いとよく出します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "しらたき",
+            "text": "粘膜なのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "うさぎ",
+            "text": "かもしれないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき よく布団が血だらけだよね笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね ちょっと驚きません？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "うさぎ",
+            "text": "なんの血？！みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ だいぶびっくりします！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 落とすのが大変だよね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "うさぎ",
+            "text": "探しちゃいますよね、傷とか、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "うさぎ",
+            "text": "血は落ちにくい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ そうなんです！見ると",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "つくね",
+            "text": "鼻から血が…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "うさぎ",
+            "text": "焦りますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 洗濯物が大変です",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ かなり焦ります",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "うさぎ",
+            "text": "シーツとか取れにくいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つくね",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しらたき",
+            "text": "子供の汚れは色々落ちにくい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき あー泥とかね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "うさぎ",
+            "text": "お子さん、習い事は？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しらたき",
+            "text": "息子は野球とスイミングやってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "うさぎ",
+            "text": "野球！泥すごいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "しらたき",
+            "text": "娘はバドミントンと塾とスイミングです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ ほんとやばいです！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "うさぎ",
+            "text": "娘さんも水泳も！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つくね",
+            "text": "洗濯機が壊れそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 壊れたら大変！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 水泳もやってます",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "しらたき",
+            "text": "俺が泳がないから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "しらたき",
+            "text": "助けられない笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき うちは主人、水泳部だったんです",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ そうなんですか！？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "しらたき",
+            "text": "凄い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき いや、でも私はカナヅチです",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ まだ洗濯機には頑張ってもらわないと",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき 何かスポーツは？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 俺と一緒ですね！笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "しらたき",
+            "text": "スポーツはサッカーやってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "うさぎ",
+            "text": "すごーーい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ あまり動けないけど、",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき サッカー熱いですよね！試合とか",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "しらたき",
+            "text": "兄もサッカーをやってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "うさぎ",
+            "text": "ご兄弟で？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ そうです！兄はまだ現役でやってます",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "うさぎ",
+            "text": "現役！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "しらたき",
+            "text": "フットサルを",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "うさぎ",
+            "text": "あー主人もちょっとやってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき よく夜ナイターでいないよね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ そうなんですか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "しらたき",
+            "text": "フットサル？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき でもすぐ諦めました",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "うさぎ",
+            "text": "はい、フットサル",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ もったいない",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "うさぎ",
+            "text": "会社の仲間と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 今からまた始めればいいじゃん！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき 是非是非！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね いやいや…体力が",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 動かないです",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "うさぎ",
+            "text": "わかります、うちも主人同じこと言ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "しらたき",
+            "text": "体が重くて",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うさぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

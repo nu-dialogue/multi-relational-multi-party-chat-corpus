@@ -1,0 +1,694 @@
+{
+    "dialogue_id": "B12404",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "すじこ",
+        "たまご",
+        "つみれ"
+    ],
+    "relationship": [
+        "たまご",
+        "つみれ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "すじこ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまご",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つみれ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "すじこ",
+            "text": "僕は妻の作るハンバーグが大好物なんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つみれ",
+            "text": "きゃ、素敵！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たまご",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "すじこ",
+            "text": "母のどの料理が好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "たまご",
+            "text": "唐揚げ好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "すじこ",
+            "text": "@たまご 唐揚げいいですね！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "つみれ",
+            "text": "バイトしてた居酒屋仕込みの唐揚げです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たまご",
+            "text": "あと塩焼きそばも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "すじこ",
+            "text": "塩派ですか？マヨネーズ派ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "たまご",
+            "text": "塩派です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "つみれ",
+            "text": "塩とマヨネーズの選択ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "すじこ",
+            "text": "@つみれ 居酒屋でバイトしてたんですね！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つみれ",
+            "text": "塩です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "つみれ",
+            "text": "@すじこ はい、昔",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "つみれ",
+            "text": "仕事したあと、居酒屋でバイトのダブルワークでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "すじこ",
+            "text": "@たまご 塩焼きそばもいいですね！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "たまご",
+            "text": "海老入るとより美味いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "すじこ",
+            "text": "@つみれ すごい！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つみれ",
+            "text": "うちは海鮮塩焼きそばなんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "すじこ",
+            "text": "@たまご お腹減ってきた笑",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "たまご",
+            "text": "すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "たまご",
+            "text": "@すじこ 減りました",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "つみれ",
+            "text": "@すじこ ダブルワークがですか？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つみれ",
+            "text": "遊ぶために働いていました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "すじこ",
+            "text": "@つみれ ダブルワークしんどくないですか？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "たまご",
+            "text": "すごいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つみれ",
+            "text": "居酒屋楽しかったので大変じゃなかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つみれ",
+            "text": "賄い美味しかったし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "たまご",
+            "text": "楽しいバイト先は良い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "つみれ",
+            "text": "好きなもの飲めるし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "たまご",
+            "text": "賄いでかいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "たまご",
+            "text": "飲めるのすご！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "すじこ",
+            "text": "それいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご 賄い助かるね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "たまご",
+            "text": "賄いは良い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "つみれ",
+            "text": "残った材料で作ってくれるので、豪華でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "すじこ",
+            "text": "ダブルワークだと遊ぶ時間もなくなりませんか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たまご",
+            "text": "いいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つみれ",
+            "text": "毎日ではないのでちゃんと飲みにも行ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "すじこ",
+            "text": "@つみれ 賄いは自分で作らされてました",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たまご",
+            "text": "充実してる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "つみれ",
+            "text": "バイトは週３くらいで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つみれ",
+            "text": "@すじこ 作ってたんですね",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "すじこ",
+            "text": "僕は満喫だったのでほぼレトルトです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "つみれ",
+            "text": "レトルト！なら作れますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "たまご",
+            "text": "レトルトなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "たまご",
+            "text": "いいですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "すじこ",
+            "text": "なんか色々と裏を知るとやるせないです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つみれ",
+            "text": "どんなですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つみれ",
+            "text": "興味津々",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "たまご",
+            "text": "飲食店の裏凄いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "すじこ",
+            "text": "案外レトルトが多かったり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つみれ",
+            "text": "飲食ってそんな感じ多いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "たまご",
+            "text": "多いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "すじこ",
+            "text": "解凍するだけとか笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つみれ",
+            "text": "今の勤務さきも飲食なんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つみれ",
+            "text": "レトルト使ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "すじこ",
+            "text": "@つみれ こんなもんかと思っちゃいますよね笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つみれ",
+            "text": "@すじこ そうですね",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "すじこ",
+            "text": "まぁお陰様で妻の手料理を美味しく頂けてるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "すじこ",
+            "text": "良しです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "つみれ",
+            "text": "効率考えると結局そうなりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "たまご",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "すじこ",
+            "text": "@つみれ 会社ですからね笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "たまご",
+            "text": "それが一番です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "つみれ",
+            "text": "@すじこ そんな経験がなくても奥さんのお料理は美味しいですよ",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "すじこ",
+            "text": "@つみれ 母の味ってありますか？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つみれ",
+            "text": "@すじこ そうですね会社ですからね",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "すじこ",
+            "text": "@つみれ 確かに笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たまご",
+            "text": "そうです！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "たまご",
+            "text": "唐揚げです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つみれ",
+            "text": "母の味はとろろ汁です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "つみれ",
+            "text": "私の母ですよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "すじこ",
+            "text": "つみれさんのですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "すじこ",
+            "text": "とろろ汁いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "つみれ",
+            "text": "たまごのばぁば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "すじこ",
+            "text": "ほっこりします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "すじこ",
+            "text": "たまごのばぁば？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "つみれ",
+            "text": "おうちによって味が違うんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つみれ",
+            "text": "私の母はたまごにとって祖母なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "すじこ",
+            "text": "ああ！卵じゃなくてたまごさんの笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "たまご",
+            "text": "とろろ汁出たっけ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "すじこ",
+            "text": "失礼しました勘違いです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "たまご",
+            "text": "そういうことか笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "つみれ",
+            "text": "@すじこ わかりにくかったですね",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "つみれ",
+            "text": "@たまご とろろ出たよ",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "たまご",
+            "text": "思い出した",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "つみれ",
+            "text": "@すじこ 母の味あります？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "たまご",
+            "text": "美味しかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "すじこ",
+            "text": "僕の母はだいたい同じ味になります笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つみれ",
+            "text": "何系の味になるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "すじこ",
+            "text": "色んな具材をごちゃ混ぜにして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "つみれ",
+            "text": "おお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "すじこ",
+            "text": "同じ調味料を入れてるのか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "すじこ",
+            "text": "ほんのり甘めのいつもの味になります笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たまご",
+            "text": "甘めも良いー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つみれ",
+            "text": "ああ！甘めな感じだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "すじこ",
+            "text": "たまごさんは料理しますか？",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "すじこ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

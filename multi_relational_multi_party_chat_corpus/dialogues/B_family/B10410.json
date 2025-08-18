@@ -1,0 +1,772 @@
+{
+    "dialogue_id": "B10410",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "うさぎ",
+        "つくね",
+        "しらたき"
+    ],
+    "relationship": [
+        "つくね",
+        "しらたき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うさぎ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つくね",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらたき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うさぎ",
+            "text": "家族みんなが好きな食べ物ってありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "うさぎ",
+            "text": "メニューとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つくね",
+            "text": "最近はホッケですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね ほっけ！おいしいですよね！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ ケーキとかドーナツは争奪戦です！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき おーミスドとかですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ ですよね！大根おろしつけて",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "つくね",
+            "text": "食べるのが好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 美味しそうー",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ ミスドですね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "しらたき",
+            "text": "近くにないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "しらたき",
+            "text": "余計に争奪戦です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき ケーキとかは？お近くにあるんですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 息子が魚好きでして！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ ケーキはあります！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 身体にいい！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ もっとお肉食べて欲しいですが",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "つくね",
+            "text": "飲み込むタイミングが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つくね",
+            "text": "分からないみたいで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "つくね",
+            "text": "嫌ってます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき こっちだとシャトレーゼとかコージーコーナーとかがチェーンです",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ シャトレーゼもありますが",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね お肉、硬めですよね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "しらたき",
+            "text": "20分くらいかかります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "しらたき",
+            "text": "コージーコーナーはもっと遠いです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき ちょっと遠いとたまにですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 硬いですよね…結構めんどくさがりで",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき コージーコーナー、娘は甘くて嫌だと最近言います",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "つくね",
+            "text": "噛むのも嫌いです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 甘いのすごく好きなので",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 噛むのが嫌い！えっとおいくつですか？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "しらたき",
+            "text": "コージーコーナーのシュークリームかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "しらたき",
+            "text": "よく食べてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 7歳です！笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "つくね",
+            "text": "なので顎が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "つくね",
+            "text": "発達してない笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね まだ小さいんですね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "うさぎ",
+            "text": "ハンバーグとかなら大丈夫ですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つくね",
+            "text": "新しい歯が生える場所が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つくね",
+            "text": "少ないと言われました笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ ハンバーグなら食べます！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 顎が小さい？小顔ですね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 好き嫌い激しいよね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 小顔ではないです！笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき でもお魚好きなのはいいですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つくね",
+            "text": "クリクリ坊主です！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "うさぎ",
+            "text": "お子さんはお一人ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 2人います！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ はお子さんいますか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 賑やかですね！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "うさぎ",
+            "text": "うちは高2の娘が1人います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 高校生！いいですね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 毎日うるさいです！笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき 昨日は調理実習でちらし寿司作ったらしいです",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "つくね",
+            "text": "ママママ攻撃が笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ おー美味しそう！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね かわいいですよーあっという間に過ぎますよ",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "しらたき",
+            "text": "調理実習も懐かしい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "うさぎ",
+            "text": "もうじきひな祭りですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ あっという間ですか！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "つくね",
+            "text": "大きくなるのが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "つくね",
+            "text": "楽しみです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ そうですね！早いです！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね はい、いまよく待ち受けが昔の画像流れますが戻ってほしいくらいです",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "しらたき",
+            "text": "あっという間に新学期",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき ですね！お子さんたち小学生ですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 待受自動で変わるやつですか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 小学生です",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "しらたき",
+            "text": "春休みが困ります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね はい、TVでサブスク，Amazonいれてて変わります",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "しらたき",
+            "text": "自分の仕事が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "しらたき",
+            "text": "夜勤なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき 夜勤なんですね！お疲れ様です",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ Amazonフォトとかですか？",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね それです！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ ありがとうございます！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "しらたき",
+            "text": "結構神経質で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "しらたき",
+            "text": "子供の声で起こされます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき 寝られないと辛いですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "うさぎ",
+            "text": "夜勤は連続ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 私も使ってますが、いいですよね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ そうなんです",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しらたき",
+            "text": "交代勤務です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね はい、懐かしの画像出ますしね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ 懐かしーって見ちゃいますよね！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき 主人も研究所勤務で、昔は三交代制とかやってました",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 前まで三交代制でしたが",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "しらたき",
+            "text": "今二交代なんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "うさぎ",
+            "text": "リズム狂いますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "しらたき",
+            "text": "12時間勤務の",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ こっちもリズム崩れます！笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "うさぎ",
+            "text": "@しらたき それは長時間ですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "しらたき",
+            "text": "@うさぎ 働きすぎです笑",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね わかります！カレンダーに書いたりね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "うさぎ",
+            "text": "ご飯が困りますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "つくね",
+            "text": "@うさぎ そうなんですよ！",
+            "mention_to": [
+                "うさぎ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つくね",
+            "text": "めっちゃ困ります笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "うさぎ",
+            "text": "@つくね 何ご飯がいるの？みたいな？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "うさぎ",
+            "text": "朝？昼？夜？",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うさぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

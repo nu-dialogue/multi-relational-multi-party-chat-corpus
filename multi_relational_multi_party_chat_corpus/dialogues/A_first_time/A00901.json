@@ -1,0 +1,697 @@
+{
+    "dialogue_id": "A00901",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "あずき",
+        "しじみ",
+        "つぶあん"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "あずき",
+            "text": "こんにちはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "しじみ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つぶあん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "あずき",
+            "text": "今日は風が強いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "しじみ",
+            "text": "確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "あずき",
+            "text": "洗濯物も部屋ぼしです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しじみ",
+            "text": "@あずき 私の住んでいるところは、",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つぶあん",
+            "text": "こちらはそうでもないです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "しじみ",
+            "text": "春の陽気です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "あずき",
+            "text": "@つぶあん そうなんですね",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "あずき",
+            "text": "春の陽気いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つぶあん",
+            "text": "天気は良いですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "あずき",
+            "text": "晴れていますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "しじみ",
+            "text": "ぽかぽかしています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "つぶあん",
+            "text": "花の香もしています！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "あずき",
+            "text": "香りいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "しじみ",
+            "text": "@つぶあん なんの花ですか？",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "つぶあん",
+            "text": "梅ですかね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "あずき",
+            "text": "部屋で育てているヒヤシンスが咲きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "しじみ",
+            "text": "ヒヤシンス素敵ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "しじみ",
+            "text": "こちらの近所では、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つぶあん",
+            "text": "かわいいですよね？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "しじみ",
+            "text": "もう桜が咲いています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "あずき",
+            "text": "桜咲いてるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "つぶあん",
+            "text": "桜も咲いてますか？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "あずき",
+            "text": "@しじみ 早いですね",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "しじみ",
+            "text": "はい！さすがに驚きました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "しじみ",
+            "text": "早くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "あずき",
+            "text": "それは驚く！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "あずき",
+            "text": "こちらはまだまだですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "あずき",
+            "text": "満開ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "つぶあん",
+            "text": "@しじみ ヒヤシンス何色ですか？",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "あずき",
+            "text": "ヒヤシンスは紫色です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しじみ",
+            "text": "@あずき まだ2分咲きくらいでした",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "しじみ",
+            "text": "紫色のヒヤシンス、可愛いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "あずき",
+            "text": "@しじみ 流石に満開は早いですね",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "しじみ",
+            "text": "ですね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "あずき",
+            "text": "春ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "しじみ",
+            "text": "今年は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "しじみ",
+            "text": "暖冬ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "あずき",
+            "text": "何か植物育てていたりしますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つぶあん",
+            "text": "寄植えって感じです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "しじみ",
+            "text": "我が家は今チューリップを育てています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "あずき",
+            "text": "お二人ともいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "しじみ",
+            "text": "@つぶあん 寄せ植えいいですね！",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つぶあん",
+            "text": "うちもチューリップ芽が出てきました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "あずき",
+            "text": "@つぶあん 寄せ植えやってみたいんですよ",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "あずき",
+            "text": "@つぶあん チューリップも早いですね",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "しじみ",
+            "text": "寄せ植えって難しいですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つぶあん",
+            "text": "寄植え選ぶのが楽しいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "あずき",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "あずき",
+            "text": "楽しそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "あずき",
+            "text": "あんまり水やりしないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "しじみ",
+            "text": "確かに、楽しそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "つぶあん",
+            "text": "自由だからお手軽だと思います！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "あずき",
+            "text": "寒さにも強いのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "しじみ",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "つぶあん",
+            "text": "失敗はないです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "あずき",
+            "text": "失敗ないのいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つぶあん",
+            "text": "次はこうしようかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "つぶあん",
+            "text": "とかです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "しじみ",
+            "text": "失敗しないのは、いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "あずき",
+            "text": "手軽な植物いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "あずき",
+            "text": "春はお花も咲いていい季節ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "つぶあん",
+            "text": "あえて言うなら、一つだけすごく成長しちゃったり？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しじみ",
+            "text": "ジャガイモや野菜も育ててみたいのですが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "あずき",
+            "text": "ほう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "あずき",
+            "text": "畑いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "しじみ",
+            "text": "ハードルが高く実践にさしていません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "しじみ",
+            "text": "みなさんは、野菜の育成経験ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "あずき",
+            "text": "ないんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "つぶあん",
+            "text": "じゃがいもやりました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "あずき",
+            "text": "ハードル高めですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "あずき",
+            "text": "@つぶあん すごい",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つぶあん",
+            "text": "少しだけれど、収穫楽しいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "しじみ",
+            "text": "@あずき ハードル高いですやね",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "あずき",
+            "text": "ジャガイモいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "あずき",
+            "text": "簡単ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しじみ",
+            "text": "@つぶあん すごい！どうでした？",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "しじみ",
+            "text": "難しかなかったですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "あずき",
+            "text": "広い畑がないとですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "あずき",
+            "text": "たくさん収穫できそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "しじみ",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つぶあん",
+            "text": "広い畑ほしいですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "しじみ",
+            "text": "うちは、花壇程度なので厳しそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "あずき",
+            "text": "うちも花壇程度です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "あずき",
+            "text": "畑いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "つぶあん",
+            "text": "うちも花壇です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "あずき",
+            "text": "エコですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しじみ",
+            "text": "畑いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "つぶあん",
+            "text": "なので、少しだけです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "あずき",
+            "text": "ジャガイモはお家で食べるようですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "しじみ",
+            "text": "畑でなくても出来るんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つぶあん",
+            "text": "次、何を植えようか考え中です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "あずき",
+            "text": "他に作ってみたい野菜あります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "あずき",
+            "text": "バジルは昔、育てていたけど簡単でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "しじみ",
+            "text": "バジルいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つぶあん",
+            "text": "いちごとかやりたいけれど、難しそうです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "しじみ",
+            "text": "パスタ料理に使えそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "あずき",
+            "text": "おお！いちご",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "しじみ",
+            "text": "苺もいいですね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "あずき",
+            "text": "難しそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "つぶあん",
+            "text": "バジルは何回か失敗してます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "あずき",
+            "text": "でも育ったら最高ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "つぶあん",
+            "text": "なぜでしょう？",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "あずき",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "しじみ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つぶあん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

@@ -1,0 +1,750 @@
+{
+    "dialogue_id": "B15001",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "じゃがいも",
+        "こんぶ",
+        "ちくわ"
+    ],
+    "relationship": [
+        "こんぶ",
+        "ちくわ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "じゃがいも",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "こんぶ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ちくわ",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "じゃがいも",
+            "text": "今日あったかかったですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "じゃがいも",
+            "text": "そんなことなかったですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "こんぶ",
+            "text": "あったかかったです！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ちくわ",
+            "text": "そうですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "じゃがいも",
+            "text": "あ、やはり！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "こんぶ",
+            "text": "天気も良くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "じゃがいも",
+            "text": "なんか着込みすぎました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "じゃがいも",
+            "text": "おおー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ちくわ",
+            "text": "天気良かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "じゃがいも",
+            "text": "どちらにお住まいで？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "こんぶ",
+            "text": "アウターなしでもあったかいくらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ちくわ",
+            "text": "長野です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "こんぶ",
+            "text": "私たちは長野県です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "じゃがいも",
+            "text": "長野！！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "じゃがいも",
+            "text": "寒そうなイメージあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ちくわ",
+            "text": "先日降った雪が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "こんぶ",
+            "text": "昨日まで雪でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ちくわ",
+            "text": "少しありましたが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ そうそう！！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ だいぶ溶けたよね",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "じゃがいも",
+            "text": "@ちくわ おー",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "じゃがいも",
+            "text": "雪...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "こんぶ",
+            "text": "ね！とけた！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも 昨日はみぞれでしたー",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "こんぶ",
+            "text": "@じゃがいも そちらは？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "じゃがいも",
+            "text": "そっちって雪で電車とか交通機関やられます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも 時と場合によりますね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "こんぶ",
+            "text": "電車乗らない民で、、笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "じゃがいも",
+            "text": "@こんぶ こっちは曇りでしたがあったたかったです",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ちくわ",
+            "text": "倒木とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "こんぶ",
+            "text": "状況わかりません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "じゃがいも",
+            "text": "いいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "こんぶ",
+            "text": "@じゃがいも 曇りなんですねーー！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "じゃがいも",
+            "text": "もう在宅になるよう祈ってたのですが、まったくでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "じゃがいも",
+            "text": "そう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも はどこにお住まいなんですかー？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "じゃがいも",
+            "text": "曇りでも暖かい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "じゃがいも",
+            "text": "@ちくわ さいたまです！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "こんぶ",
+            "text": "電車も1時間に一本とか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "じゃがいも",
+            "text": "なんもない埼玉！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも おー！雪とか降らないです？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "こんぶ",
+            "text": "埼玉！行ったことないです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも 飛んで埼玉！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ それやそれや！！！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "じゃがいも",
+            "text": "@ちくわ この間1回だけ！",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ それな！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "じゃがいも",
+            "text": "@ちくわ 見てない笑",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "じゃがいも",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "こんぶ",
+            "text": "私もあんまり詳しくないです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも え！？見てないんですか？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "じゃがいも",
+            "text": "埼玉県民ではないのかもしれない気持ちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "じゃがいも",
+            "text": "@ちくわ 私映画見ないんですよ",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ちくわ",
+            "text": "自分も見てないですが笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "じゃがいも",
+            "text": "飽きちゃって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "こんぶ",
+            "text": "出身も埼玉です？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "じゃがいも",
+            "text": "@こんぶ はい！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こんぶ",
+            "text": "私もなかなか映画見れてないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "じゃがいも",
+            "text": "生まれも育ちも埼玉でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "こんぶ",
+            "text": "@じゃがいも じゃあ、ずっと埼玉だーー！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "じゃがいも",
+            "text": "@こんぶ なんもないです笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "こんぶ",
+            "text": "そうなんですね〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "じゃがいも",
+            "text": "東京から近いのが魅力くらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "こんぶ",
+            "text": "都会なのでは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも なんもないんですか？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "じゃがいも",
+            "text": "都会だとは思います！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "こんぶ",
+            "text": "近いのいいですね！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "じゃがいも",
+            "text": "@ちくわ 歌舞伎町とかご存知です？",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "じゃがいも",
+            "text": "新宿の",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ちくわ",
+            "text": "西武ドームとか？笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも 知ってますー！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "こんぶ",
+            "text": "埼玉西武ライオンズ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "じゃがいも",
+            "text": "@ちくわ やばい、それすら知らない",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "こんぶ",
+            "text": "知ってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも あれ？笑",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "じゃがいも",
+            "text": "@こんぶ 私のところはそういう感じなんです笑",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "じゃがいも",
+            "text": "あんまり治安は良くない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "じゃがいも",
+            "text": "海外の人もいっぱいいる感じの...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "こんぶ",
+            "text": "治安が良くないんですか〜〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ちくわ",
+            "text": "@じゃがいも なるほど！海外の人多いんですね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "こんぶ",
+            "text": "海外の方も！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "じゃがいも",
+            "text": "テレビで取り沙汰されるくらいには",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ちくわ",
+            "text": "えー！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "こんぶ",
+            "text": "@じゃがいも それはびっくり！！！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ちくわ",
+            "text": "でも長野からしたら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ちくわ",
+            "text": "都会なイメージ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "こんぶ",
+            "text": "うん！！ほんとそう！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "こんぶ",
+            "text": "もう、埼玉東京神奈川は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "じゃがいも",
+            "text": "長野は乗鞍岳とか知ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "こんぶ",
+            "text": "全部都会です！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "じゃがいも",
+            "text": "やりすぎですそれはw",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ たしかに！全部都会！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こんぶ",
+            "text": "@じゃがいも 勝手なイメージで笑",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "こんぶ",
+            "text": "@ちくわ ね！！そんな気するよね！笑",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "じゃがいも",
+            "text": "まぁ長野はスキーのイメージですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "じゃがいも",
+            "text": "旦那はたまに行ってますよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こんぶ",
+            "text": "たしかに、雪国のイメージありますよね〜！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ちくわ",
+            "text": "@こんぶ スキーいいですね！",
+            "mention_to": [
+                "こんぶ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ちくわ",
+            "text": "やりませんが笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "じゃがいも",
+            "text": "私は寒いところダメで、行ったことないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "こんぶ",
+            "text": "私はスノボなら、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "じゃがいも",
+            "text": "@ちくわ そっちの人はみんなやってるかと！笑",
+            "mention_to": [
+                "ちくわ"
+            ]
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "こんぶ",
+            "text": "一緒には行かないんですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "じゃがいも",
+            "text": "@こんぶ あ、旦那はスノボです",
+            "mention_to": [
+                "こんぶ"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "じゃがいも",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "こんぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ちくわ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

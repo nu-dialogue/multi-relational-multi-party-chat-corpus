@@ -1,0 +1,675 @@
+{
+    "dialogue_id": "A09304",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "ロース",
+        "なると",
+        "いそべ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ロース",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "なると",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "いそべ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ロース",
+            "text": "よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "いそべ",
+            "text": "よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "なると",
+            "text": "よろしくお願いいたします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ロース",
+            "text": "最近家の中がものであふれかえってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ロース",
+            "text": "なかなか片付け苦手で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "いそべ",
+            "text": "うちもです・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "なると",
+            "text": "私も片づけ苦手です…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ロース",
+            "text": "捨てたいのに捨てられないもの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "なると",
+            "text": "どんどん溜まっていっちゃいますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ロース",
+            "text": "あったりする？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "なると",
+            "text": "@ロース 服ですかね",
+            "mention_to": [
+                "ロース"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "いそべ",
+            "text": "洋服とか本とかですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "なると",
+            "text": "もう着ないのに捨てられないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ロース",
+            "text": "一緒だー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "いそべ",
+            "text": "わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ロース",
+            "text": "@なると ほんとそれ！",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "なると",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "なると",
+            "text": "半年とか1年着ないのは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "なると",
+            "text": "捨てないとですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ロース",
+            "text": "@なると もっと昔の服がいっぱい眠ってるかも。。。",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "なると",
+            "text": "@ロース 確かに、あるかもです…",
+            "mention_to": [
+                "ロース"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "いそべ",
+            "text": "物を増やさない努力をしないとですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "なると",
+            "text": "@いそべ でも本は集めたくなりますね",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "いそべ",
+            "text": "たしかに・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "いそべ",
+            "text": "結構場所とっちゃいますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ロース",
+            "text": "本は気になったら買っちゃうから、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "なると",
+            "text": "そうですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ロース",
+            "text": "最近は電子書籍が多いなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "いそべ",
+            "text": "電子書籍いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "なると",
+            "text": "電子書籍だと楽ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ロース",
+            "text": "でも、家族と共有したいとき",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ロース",
+            "text": "アカウントどうしようか困るんだよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "いそべ",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "なると",
+            "text": "分けれないんでしたかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ロース",
+            "text": "見られたくないものも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "なると",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ロース",
+            "text": "共有しなきゃになっちゃう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "なると",
+            "text": "共有したくない笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "いそべ",
+            "text": "そうなってしまいますよね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ロース",
+            "text": "だから、最近宣言して",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ロース",
+            "text": "共有の本はこのサイトで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ロース",
+            "text": "って決めた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "なると",
+            "text": "自分用のはまた別にですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "いそべ",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ロース",
+            "text": "そうなの！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "なると",
+            "text": "その方がいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ロース",
+            "text": "旦那にでも全部はさらせない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "なると",
+            "text": "本は共有したことないかなあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "いそべ",
+            "text": "そうなんですね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "いそべ",
+            "text": "電子書籍あまり買わないので私もないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "いそべ",
+            "text": "どちらにもメリットとデメリットがあるんですね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ロース",
+            "text": "そうなんだよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "なると",
+            "text": "本棚はあまり見せたくないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "なると",
+            "text": "変なのがあるわけではないですが…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ロース",
+            "text": "そうなんだよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ロース",
+            "text": "変なのがあるわけじゃない　笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "いそべ",
+            "text": "コナン全巻がなぜかあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "いそべ",
+            "text": "本棚に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ロース",
+            "text": "コナンも結構巻数あるよね？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "いそべ",
+            "text": "100巻越えです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "なると",
+            "text": "@いそべ 電子書籍ではなく？",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "いそべ",
+            "text": "単行本でです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ロース",
+            "text": "@いそべ 100巻！！",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "いそべ",
+            "text": "107くらい？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "なると",
+            "text": "単行本はでも集めたくなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ロース",
+            "text": "そんなこと言ううちにも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ロース",
+            "text": "ワンピース全巻ある",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "いそべ",
+            "text": "えええ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ロース",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "なると",
+            "text": "ワンピースもすごいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "なると",
+            "text": "うちには三国志があります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "いそべ",
+            "text": "三国志！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "なると",
+            "text": "古いやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "いそべ",
+            "text": "皆さん結構持っていますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ロース",
+            "text": "最近1軍だけ残して",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ロース",
+            "text": "他を全部処分したとこ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "なると",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ロース",
+            "text": "マンガも小説も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "いそべ",
+            "text": "処分って売ったんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ロース",
+            "text": "@いそべ BOOKOFFに売ったのー",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "いそべ",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "なると",
+            "text": "集めたい時は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "なると",
+            "text": "中古で買うこともありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "いそべ",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "いそべ",
+            "text": "足りない巻とか買うかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "いそべ",
+            "text": "中古で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ロース",
+            "text": "中古で大人買いする・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "なると",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "なると",
+            "text": "大人買いして一気読み",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "いそべ",
+            "text": "片付かないパターンだ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ロース",
+            "text": "永遠に片つかないよ。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "なると",
+            "text": "そうなんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ロース",
+            "text": "でも読みたくなったら止められない・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "なると",
+            "text": "そこは我慢したくないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "いそべ",
+            "text": "物置買うとかしかないかも・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "なると",
+            "text": "書庫がほしいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ロース",
+            "text": "書庫いい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ロース",
+            "text": "響きもいい！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "なると",
+            "text": "書庫や書斎や…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "いそべ",
+            "text": "あったら良いですよね・・・",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ロース",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "なると",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "いそべ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

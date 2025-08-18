@@ -1,0 +1,677 @@
+{
+    "dialogue_id": "A01504",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "あずき",
+        "がんも",
+        "きなこ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "あずき",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "がんも",
+            "text": "おはようございます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "きなこ",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "あずき",
+            "text": "何かペット飼ってますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "がんも",
+            "text": "ねこ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "がんも",
+            "text": "2匹",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "きなこ",
+            "text": "飼っていますよ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "あずき",
+            "text": "@がんも かわいい",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "きなこ",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "あずき",
+            "text": "@きなこ なんです？",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "きなこ",
+            "text": "@あずき うさぎです！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "がんも",
+            "text": "かわいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "あずき",
+            "text": "@きなこ かわいい！！",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "あずき",
+            "text": "いいですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "あずき",
+            "text": "うさぎも猫もかわいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "あずき",
+            "text": "癒されますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "きなこ",
+            "text": "@あずき 動物飼われてますか？",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "がんも",
+            "text": "癒しです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "あずき",
+            "text": "飼ってないんですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "あずき",
+            "text": "去年までヤドカリいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "きなこ",
+            "text": "やどかり！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "きなこ",
+            "text": "飼えるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "あずき",
+            "text": "もふもふ系はいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "がんも",
+            "text": "ヤドカリ!!",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "あずき",
+            "text": "ヤドカリ飼えますよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "きなこ",
+            "text": "ちょっと意外でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "あずき",
+            "text": "もらったヤドカリだったんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "がんも",
+            "text": "飼育大変そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "きなこ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "あずき",
+            "text": "冬は寒いのでヒーターつけて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "あずき",
+            "text": "温度管理大変でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "きなこ",
+            "text": "お魚系はそうみたいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "あずき",
+            "text": "意外と大変です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "あずき",
+            "text": "うさぎは大丈夫ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "あずき",
+            "text": "寒いのとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "きなこ",
+            "text": "うさぎは・・寒いのだめなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "がんも",
+            "text": "昔ふぐ飼ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "きなこ",
+            "text": "エアコン年中かけてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "あずき",
+            "text": "@がんも ふぐですか？！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "きなこ",
+            "text": "@がんも ふぐ！？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "あずき",
+            "text": "飼えるんですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "がんも",
+            "text": "ゲーセンの景品にいて・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "きなこ",
+            "text": "えええええ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "がんも",
+            "text": "取れてしまって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "あずき",
+            "text": "@がんも 景品？？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "あずき",
+            "text": "面白い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "きなこ",
+            "text": "すごいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "あずき",
+            "text": "取れてしまって？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "がんも",
+            "text": "大阪から名古屋まで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "あずき",
+            "text": "すごいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "がんも",
+            "text": "つれて帰りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "きなこ",
+            "text": "大きい・・ふぐですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "がんも",
+            "text": "小さいやつです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "きなこ",
+            "text": "よかった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "あずき",
+            "text": "その後、飼ったんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "きなこ",
+            "text": "食用みたいなの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "あずき",
+            "text": "大変そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "きなこ",
+            "text": "想像しちゃいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "あずき",
+            "text": "笑っちゃいますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "がんも",
+            "text": "毒なしのかわいいやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "あずき",
+            "text": "確かにかわいいかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "あずき",
+            "text": "ぷくっとしてますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "きなこ",
+            "text": "かわいいかも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "あずき",
+            "text": "毒なしとかあるんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "がんも",
+            "text": "あるみたいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "きなこ",
+            "text": "みんな毒があるかと思ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "あずき",
+            "text": "水温調節とか大変でしたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "がんも",
+            "text": "たいへんでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "あずき",
+            "text": "結構、長生きしましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "がんも",
+            "text": "けっこう生きてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "あずき",
+            "text": "おお！！すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "あずき",
+            "text": "魚系は意外と大変ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "きなこ",
+            "text": "わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "がんも",
+            "text": "分かります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "きなこ",
+            "text": "うちはざりがにいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "あずき",
+            "text": "@きなこ ザリガニ！！",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "あずき",
+            "text": "怖くてさわれないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "きなこ",
+            "text": "こどもが・・持って帰ってきました・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "あずき",
+            "text": "ハサミが特徴的！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "あずき",
+            "text": "恐怖です！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "がんも",
+            "text": "ザリガニ恐いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "あずき",
+            "text": "持って帰るって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "きなこ",
+            "text": "大変でしたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "あずき",
+            "text": "どこかにいたんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "あずき",
+            "text": "川とか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "きなこ",
+            "text": "幼稚園のそばの用水路に・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "きなこ",
+            "text": "釣ったそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "あずき",
+            "text": "うわ！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "あずき",
+            "text": "釣った？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "きなこ",
+            "text": "幼稚園の先生と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "あずき",
+            "text": "お子さん、すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "あずき",
+            "text": "釣れつんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "がんも",
+            "text": "用水路でつれるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "あずき",
+            "text": "用水路にいるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "きなこ",
+            "text": "でも子供は触れないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "あずき",
+            "text": "水が綺麗なのかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "きなこ",
+            "text": "そうかもしれないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "あずき",
+            "text": "私も無理です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "きなこ",
+            "text": "もしかしたら・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "きなこ",
+            "text": "水が汚くてもいいのかも",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "あずき",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "がんも",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "きなこ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

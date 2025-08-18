@@ -1,0 +1,726 @@
+{
+    "dialogue_id": "B10805",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "りんご",
+        "つみれ",
+        "たまご"
+    ],
+    "relationship": [
+        "つみれ",
+        "たまご"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "りんご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つみれ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "りんご",
+            "text": "旅行とかいきますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "つみれ",
+            "text": "ほんとにたまに行きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ どこらへんにいくんですか？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご 結婚記念日のお祝いに金沢行きました!",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "つみれ",
+            "text": "一昨年ですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 金沢いいですね、季節はいついったんですか？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "つみれ",
+            "text": "秋です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "つみれ",
+            "text": "美味しいものいっぱいでとても楽しかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "りんご",
+            "text": "いい季節ですね、紅葉とかきれいだったんじゃないですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "たまご",
+            "text": "いいですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "りんご",
+            "text": "@たまご 旅行とかいきますか？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "つみれ",
+            "text": "そうですね！紅葉も綺麗でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "たまご",
+            "text": "たまに行きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 食べ物も美味しいですよね",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "りんご",
+            "text": "@たまご どこにいきますか？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "たまご",
+            "text": "京都あたりが好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご 海の幸が最高に美味しかったです",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "りんご",
+            "text": "@たまご 京都、いっぱいでしたか？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "たまご",
+            "text": "海の幸いいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 金沢は美味しいものいっぱいありそうですよね",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "たまご",
+            "text": "@りんご 人ですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "りんご",
+            "text": "ごめんなさい、そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "たまご",
+            "text": "観光客の方多いですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "りんご",
+            "text": "なんか京都っていつも混んでイメージです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご 街並みも綺麗ですしね",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "たまご",
+            "text": "めちゃ混んでますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "つみれ",
+            "text": "京都も素敵ですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つみれ",
+            "text": "混みますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "たまご",
+            "text": "けどシーズン避ければそこまで多くないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "りんご",
+            "text": "金沢も京都も街並みが素敵ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "たまご",
+            "text": "和風な感じが好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "つみれ",
+            "text": "海外の方がすごく多いイメージです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "りんご",
+            "text": "うちの主人の会社が京都なので本社にいつも行くんですけどいつも混んでって言ってたので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つみれ",
+            "text": "京都も金沢も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "たまご",
+            "text": "わかるー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "つみれ",
+            "text": "京都に本社があるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "りんご",
+            "text": "今は特に海外の人多いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つみれ",
+            "text": "でも行くなら観光で行きたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たまご",
+            "text": "みんな来てますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "りんご",
+            "text": "そうなんです、いくの大変",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つみれ",
+            "text": "空いている京都に行きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "りんご",
+            "text": "たまに着いていきたいけどうちわんちゃんいるので行けない笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "たまご",
+            "text": "八ツ橋も好きなんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご わんちゃん飼ってるんですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "たまご",
+            "text": "わんちゃんいるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "りんご",
+            "text": "@たまご 珍しいですね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つみれ",
+            "text": "種類はなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "りんご",
+            "text": "柴犬なんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "つみれ",
+            "text": "柴可愛いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "りんご",
+            "text": "今も足元に寝てます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つみれ",
+            "text": "ザ・犬って感じが好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "たまご",
+            "text": "柴犬可愛い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "つみれ",
+            "text": "うちも2匹いるんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "りんご",
+            "text": "そうなんですね！何けんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "つみれ",
+            "text": "チワプーと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "つみれ",
+            "text": "ジャックラッセルテリア",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たまご",
+            "text": "どっちも可愛いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ おー！すごい",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "りんご",
+            "text": "かわいいですよね、本当に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "たまご",
+            "text": "なでなでしたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "りんご",
+            "text": "@たまご 犬好きなんですね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "たまご",
+            "text": "めちゃ好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "つみれ",
+            "text": "ジャックを去年お迎えしたんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "つみれ",
+            "text": "先住犬が仲良くしたくなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "たまご",
+            "text": "はいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つみれ",
+            "text": "大変です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "りんご",
+            "text": "えー仲悪いんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "たまご",
+            "text": "仲良くなればいいけどー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つみれ",
+            "text": "ジャックが激しすぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "つみれ",
+            "text": "チワプーがおばあちゃんなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "りんご",
+            "text": "年齢がちがうとか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "つみれ",
+            "text": "1１歳くらい離れてるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "りんご",
+            "text": "そうなんですね、うちももう一匹と思ったけどおじいちゃんになってきたから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たまご",
+            "text": "結構離れてる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ そうなんですね、やっぱりやる事違うからね",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "つみれ",
+            "text": "犬種にも夜みたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "つみれ",
+            "text": "よる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "りんご",
+            "text": "走りたい子と眠りたい子ではね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つみれ",
+            "text": "おとなしい犬種と超激しい犬種なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "たまご",
+            "text": "そうなんですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "たまご",
+            "text": "真逆",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご そなんですよ",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 慣れればいいですね",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "たまご",
+            "text": "そのうち慣れれば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つみれ",
+            "text": "のそみを持ってがんばります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご もう1匹飼うなら柴ですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "りんご",
+            "text": "うちも保護犬みたいな子だったから慣れるまで時間かかりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "たまご",
+            "text": "一緒に寝る日が来れば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "たまご",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご そうなんですね！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 飼うとしたら保護犬かな",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "りんご",
+            "text": "@たまご 一緒に寝ると暖かいですよね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "たまご",
+            "text": "人間に慣れるとこからですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまご",
+            "text": "暖かいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "たまご",
+            "text": "可愛いし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "りんご",
+            "text": "本当に長い目でみないとですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たまご",
+            "text": "お腹の上で寝てきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "りんご",
+            "text": "わんちゃんの性格もあるなぁと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つみれ",
+            "text": "性格本当にありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "りんご",
+            "text": "@たまご かわいい！お腹の上なんて慣れてますね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "たまご",
+            "text": "それもあると思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "りんご",
+            "text": "それに歳とってくると穏やかになるし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "たまご",
+            "text": "帰省してる時はお腹で寝てます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "つみれ",
+            "text": "たまに顔の上に顔を乗せて寝てきます",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "りんご",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

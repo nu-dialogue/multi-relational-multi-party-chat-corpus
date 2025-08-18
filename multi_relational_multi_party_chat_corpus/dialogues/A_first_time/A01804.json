@@ -1,0 +1,725 @@
+{
+    "dialogue_id": "A01804",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "はくさい",
+        "あずき",
+        "きなこ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "はくさい",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "あずき",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "きなこ",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "はくさい",
+            "text": "今日の夕ご飯って決まってます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "あずき",
+            "text": "今日は娘の誕生日会で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "あずき",
+            "text": "ピザ頼みます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "きなこ",
+            "text": "@あずき おめでとうございます！！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "あずき",
+            "text": "他にも色々作る予定",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "はくさい",
+            "text": "@あずき おめでとうございます！！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "あずき",
+            "text": "@きなこ ありがとうございます",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい ありがとうございます",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "はくさい",
+            "text": "娘さんの好きなもの作るんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "あずき",
+            "text": "はい。かぼちゃのスープとか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "あずき",
+            "text": "簡単ですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "はくさい",
+            "text": "@あずき すごい！！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "きなこ",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "あずき",
+            "text": "あと、ケーキ買いに行きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "あずき",
+            "text": "娘が楽しそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "はくさい",
+            "text": "@あずき 誕生日のケーキってホールですか？",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "あずき",
+            "text": "いえ、もう大きいのでカットケーキです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "あずき",
+            "text": "自分の好きな物で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "きなこ",
+            "text": "@あずき なるほど～",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "あずき",
+            "text": "昔はキャラクターケーキでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "はくさい",
+            "text": "キャラクターケーキなつかしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい 懐かしいですね",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "あずき",
+            "text": "アンパンマンとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "はくさい",
+            "text": "うちの子小さいときアレルギーがあって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "きなこ",
+            "text": "ありましたね～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "はくさい",
+            "text": "なかなか注文できなかったですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "あずき",
+            "text": "すっごく甘いっていう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "きなこ",
+            "text": "@はくさい 大変でしたね",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい そうなんですね",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "はくさい",
+            "text": "まさかの小麦とたまごだったので洋菓子全般",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "はくさい",
+            "text": "食べれなかったんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい 今は大丈夫なんですか？",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "あずき",
+            "text": "小麦と卵は大変だー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "はくさい",
+            "text": "@あずき いまは何でも食べれるようになりました",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい よかった！！",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "きなこ",
+            "text": "よかった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "はくさい",
+            "text": "ご飯食べに行って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "はくさい",
+            "text": "うどん食べときな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "はくさい",
+            "text": "が出来なくて大変でしたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "あずき",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "きなこ",
+            "text": "小さい子供の定番が食べられないのが辛い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "あずき",
+            "text": "確かに辛い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "あずき",
+            "text": "小麦ばっかりだし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "あずき",
+            "text": "パンとかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "はくさい",
+            "text": "そうなんですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "きなこ",
+            "text": "本当、何にでも小麦入ってますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "はくさい",
+            "text": "あらためて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "あずき",
+            "text": "@きなこ そうなんですよねー",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "はくさい",
+            "text": "小麦の多さに気づきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "きなこ",
+            "text": "カレールーとかにも入ってますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "あずき",
+            "text": "そっかー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "あずき",
+            "text": "カレーもか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "きなこ",
+            "text": "意外なところに入ってるイメージ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "あずき",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "はくさい",
+            "text": "確かにそうだった！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "あずき",
+            "text": "ザ和食くらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "あずき",
+            "text": "子供は苦手ですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "はくさい",
+            "text": "そうなんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "きなこ",
+            "text": "大変でしたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "あずき",
+            "text": "美味しいものにはたいてい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "あずき",
+            "text": "入っている",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "はくさい",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "きなこ",
+            "text": "食べられるようになってよかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "あずき",
+            "text": "よかったですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "はくさい",
+            "text": "ほんとです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "きなこ",
+            "text": "@はくさい プレゼントとかしますか？",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "はくさい",
+            "text": "@きなこ プレゼントしないですね～",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "きなこ",
+            "text": "やはり小さい時ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "あずき",
+            "text": "そうですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "きなこ",
+            "text": "希望を聞くときりがないし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "はくさい",
+            "text": "そうですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "きなこ",
+            "text": "高いし・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "あずき",
+            "text": "クリスマスも上の子はないですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "きなこ",
+            "text": "うちも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "あずき",
+            "text": "サンタさんの存在を",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "はくさい",
+            "text": "いつからなくなりました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "あずき",
+            "text": "知っているから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "あずき",
+            "text": "小学校で終わりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "あずき",
+            "text": "サンタさんの正体です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "きなこ",
+            "text": "うちは・小学6年まで信じてました・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "きなこ",
+            "text": "手紙をずっと書いていました。毎年",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "あずき",
+            "text": "信じたいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "はくさい",
+            "text": "うちの子も今小６で信じてます、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "あずき",
+            "text": "自分がそうでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "きなこ",
+            "text": "教えるのが辛かった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "あずき",
+            "text": "@きなこ うちは友達から聞いたみたい",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "はくさい",
+            "text": "@あずき ともだちからきいてほしい",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "あずき",
+            "text": "下の子はまだ信じているので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "あずき",
+            "text": "今年も来ます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "きなこ",
+            "text": "@あずき それも大変！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "はくさい",
+            "text": "下の子に言わないように口止めしないとですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "あずき",
+            "text": "@はくさい そうなんですよねー",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "はくさい",
+            "text": "@あずき うちも気を付けないと",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "あずき",
+            "text": "余計なこと言わないように",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "あずき",
+            "text": "させないと大変",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "はくさい",
+            "text": "夢がこわれちゃいますもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "きなこ",
+            "text": "そうそう。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "あずき",
+            "text": "ですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "きなこ",
+            "text": "今しか見れない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "あずき",
+            "text": "ずっと信じてくれてても",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "あずき",
+            "text": "かわいいけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "きなこ",
+            "text": "夢ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "はくさい",
+            "text": "たしかに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "あずき",
+            "text": "自分にもサンタクロース来てほしい",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "はくさい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "あずき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "きなこ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

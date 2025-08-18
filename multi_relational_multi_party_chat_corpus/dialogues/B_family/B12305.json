@@ -1,0 +1,752 @@
+{
+    "dialogue_id": "B12305",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "つくね",
+        "しらたき",
+        "すじこ"
+    ],
+    "relationship": [
+        "つくね",
+        "しらたき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "つくね",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "しらたき",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "すじこ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "つくね",
+            "text": "最近ジャンプコミックにハマってるんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つくね",
+            "text": "漫画とか読みますかー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "すじこ",
+            "text": "漫画好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しらたき",
+            "text": "ブルーロックとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ お！同じですね！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ オススメとかありますか？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね なんか適当に読み漁ってます笑",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ そうなんですね！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "しらたき",
+            "text": "読むよりアニメ派です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "すじこ",
+            "text": "異世界転生ものが多いですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "つくね",
+            "text": "私は流行りものはそこそこ読んでます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 転スラとかですか？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき アニメ見てから漫画だよね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき アニメと漫画どっちから入りますか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "しらたき",
+            "text": "アニメからですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "しらたき",
+            "text": "面白かったらブックオフで大人買い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 家にある漫画を全部",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね 結構マイナーなもの読んでますね僕",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つくね",
+            "text": "電子化したい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ マイナーですか！？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "つくね",
+            "text": "最近の漫画は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "つくね",
+            "text": "タイトルが長くて…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき 漫画からアニメだと声がイメージと違うとかありますよね？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ そうですね！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね かさばりますよね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ かさばります…",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "しらたき",
+            "text": "やっぱり声優とかもこだわりあります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つくね",
+            "text": "でも夫婦で共有するのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "つくね",
+            "text": "電子だと不便で…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね そうなんですよね！覚えられない",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 略してもいいんですが、",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つくね",
+            "text": "どう略すのかわからないです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき こだわりはないですがアニメで観たらアニメだけ",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "すじこ",
+            "text": "漫画でみたら漫画だけにしてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "しらたき",
+            "text": "あー！そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "しらたき",
+            "text": "アニメだと続きが気になって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "すじこ",
+            "text": "長すぎてどこを略せばいいのか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "しらたき",
+            "text": "漫画に手を出しちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 途中から買う癖ね！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "すじこ",
+            "text": "待ちきれないときありますよね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ そうなんですよ…略しが難しい！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "しらたき",
+            "text": "アニメだと最近ハイキューが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "すじこ",
+            "text": "俺だけレベルアップな件は最近ハマってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 会社の同僚もハマってて",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "つくね",
+            "text": "オススメされました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つくね",
+            "text": "ちょっと気になってます！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つくね",
+            "text": "アニメやってますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 見てみよっかなー",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 一緒に見る？笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき ハイキューもブルーロックも見たいです",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ ハイキューの映画早く見たいです！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "すじこ",
+            "text": "見たいアニメや漫画がおおすぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しらたき",
+            "text": "ブルーロックも映画やりますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "すじこ",
+            "text": "プライベート時間が追いつかないですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "しらたき",
+            "text": "エピソードオブ凪",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "しらたき",
+            "text": "見たいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 同じくー！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ プライベートの時間足りないですよね！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "しらたき",
+            "text": "でも子供が居ると中々映画は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しらたき",
+            "text": "見れないよね、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "すじこ",
+            "text": "海外ドラマとかも観たい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき そうだよね…",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 海外ドラマは昔HERO？見てました！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき 結局ドラえもんです",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね 観てました！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ ドラえもん最高！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ あれ面白いですよね！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "しらたき",
+            "text": "クレヨンしんちゃんもいいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき 案外泣かされますよね笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "しらたき",
+            "text": "ジャイアンがカッコ良すぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね ハラハラさせられました",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ ハラハラとドキドキと続きが気になって",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "つくね",
+            "text": "全然寝れなかったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき 映画のジャイアンはカッコイイ笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "しらたき",
+            "text": "映画のひろしもカッコいい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね 睡眠時間と欲の葛藤がものすごい笑",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ そうなんですよ！海外ドラマは手を出しちゃいけなかったです笑",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 睡眠が勝ってるよー",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき 確かに！でも必殺技だけが笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき そうなの！最近は特に笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ ポケモンの映画も泣けますよね！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "すじこ",
+            "text": "そこはなんというか歳と共になのかな？笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "つくね",
+            "text": "年と共にですね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つくね",
+            "text": "しんどいです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき ポケモンは泣ける！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき ポケモンも！泣かされてちょっと悔しい笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "つくね",
+            "text": "サトシとピカチュウの話はいつ見ても泣ける",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "しらたき",
+            "text": "一番最初のミュウツーの逆襲めっちゃ好きでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 子供の頃見たやつ！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "すじこ",
+            "text": "絆とか家族を題材にされるとほぼ泣きます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つくね",
+            "text": "この年で見ると泣ける！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね オニスズメにチクチクされるやつ",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ ですね！年々涙腺も弱くなる！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき あそこのシーンは泣ける！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つくね",
+            "text": "鬼滅の映画も泣きました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "しらたき",
+            "text": "煉獄さーん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "すじこ",
+            "text": "煉獄さん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つくね",
+            "text": "息子のトイレ行きたい攻撃で少し引っ込んだけど笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "すじこ",
+            "text": "お母さん",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "すじこ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

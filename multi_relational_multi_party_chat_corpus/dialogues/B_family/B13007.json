@@ -1,0 +1,724 @@
+{
+    "dialogue_id": "B13007",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "にわとり",
+        "じゃがいも",
+        "くま"
+    ],
+    "relationship": [
+        "じゃがいも",
+        "くま"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "にわとり",
+            "text": "こんばんはー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "じゃがいも",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "くま",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "にわとり",
+            "text": "さっききづいたんですけど、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "じゃがいも",
+            "text": "おお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "くま",
+            "text": "ほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "にわとり",
+            "text": "世間は明日お休みなんですね？！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "くま",
+            "text": "@にわとり 祝日ですね",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "にわとり",
+            "text": "ニュースで連休っていっててびっくり。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり そうですよ！三連休",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "にわとり",
+            "text": "どこかおでかけされますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "くま",
+            "text": "何の日だろう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "じゃがいも",
+            "text": "ハッピーで埋め尽くされてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "にわとり",
+            "text": "えーとね、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "くま",
+            "text": "天皇誕生日？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "にわとり",
+            "text": "天皇誕生日だったですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "じゃがいも",
+            "text": "天皇誕生日か！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "くま",
+            "text": "@にわとり 私はスノボですね",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "じゃがいも",
+            "text": "三連休不在になります、我が旦那は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "くま",
+            "text": "平成は12月だったのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "にわとり",
+            "text": "わーーー　すのぼ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "じゃがいも",
+            "text": "やったぜ！！！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "にわとり",
+            "text": "あれ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "にわとり",
+            "text": "奥様は？スノボは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "くま",
+            "text": "新潟に行ってきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "じゃがいも",
+            "text": "やりません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 一回しか行ったことないね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "にわとり",
+            "text": "おおお、それではおうちでゆっくりお留守番・・・？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり 旦那に連れてかれて、下手くそな教え方されて無事体が死んでからやってません",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "にわとり",
+            "text": "あらら・・・・！！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "じゃがいも",
+            "text": "いきなり高いところまで登らされて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "くま",
+            "text": "@にわとり 犬とお留守番してもらいます",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "にわとり",
+            "text": "ひえーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "じゃがいも",
+            "text": "はい！犬ちゃんとお留守番です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "にわとり",
+            "text": "そうですね、それもいいかも！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも あれそんなに高いとこじゃなかったんだよなあ",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり まぁ買い物行ったり、ドッグラン行ったりですかね",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 教え方については反省です",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま いったんおだまり",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "にわとり",
+            "text": "わはは、次は上手に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも ドッグランよろしくです",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "にわとり",
+            "text": "教えてもらえるかもですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "にわとり",
+            "text": "ドッグラン、おもしろそうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "じゃがいも",
+            "text": "いやスノボってマジで筋肉痛になるんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "じゃがいも",
+            "text": "ドッグラン楽しいですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "じゃがいも",
+            "text": "人懐っこい犬がこっち来てくれて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "くま",
+            "text": "@にわとり あの頃よりは成長してますからね",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも それは慣れててもなる",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "にわとり",
+            "text": "おおおー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも ドッグランの写真はよろしく",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "にわとり",
+            "text": "スノボって、私も一回だけやったことありますが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "じゃがいも",
+            "text": "ほう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "にわとり",
+            "text": "やっぱりすんごいへんな筋肉痛になりましたよ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "くま",
+            "text": "@にわとり いいですね",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "にわとり",
+            "text": "スキーとはなんかちがった・・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "くま",
+            "text": "@にわとり 普段使わないとこ使いますからねたぶん",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "じゃがいも",
+            "text": "両足拘束されるのきついですのね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "にわとり",
+            "text": "でも一回行って、それっきりです。テヘペロ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "じゃがいも",
+            "text": "あ、一緒〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "にわとり",
+            "text": "@じゃがいも そうそう！！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "くま",
+            "text": "なれるとスキーの方がこわいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "にわとり",
+            "text": "足がスキーみたいに自由に動かないのが、初心者はちょっとこわいというか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "くま",
+            "text": "股が裂けそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "にわとり",
+            "text": "滑りにくいんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり でもなんか一回旦那は手やってますよ",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "にわとり",
+            "text": "股が・・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "くま",
+            "text": "@にわとり よく言いますよね",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "じゃがいも",
+            "text": "マジでスノボは気を受けた方がいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "にわとり",
+            "text": "え！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "にわとり",
+            "text": "手を？！？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 折れたよね？",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも スキーだってケガするときはするでしょ",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま はいはい",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "にわとり",
+            "text": "骨折かなにか？いやーーーーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "にわとり",
+            "text": "折れた？！？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 折れたね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "にわとり",
+            "text": "痛そうです・・・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 骨が飛び出てたんだっけ？",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "くま",
+            "text": "@にわとり 利き手を一回やってます、、、",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "にわとり",
+            "text": "うわあーーーーーーーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも そこまでじゃない",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "くま",
+            "text": "脱臼してただけよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 失敬失敬",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "にわとり",
+            "text": "@くま おおよかった・・・・",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "にわとり",
+            "text": "でも、利き手がふさがると、不便でしょ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くま",
+            "text": "なんか珍しい骨折でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり いやでもちゃんと大怪我って感じでしたね",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "くま",
+            "text": "@にわとり 大変でしたね",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "にわとり",
+            "text": "おおおお・・・いや大事ですよね・・・・・手は・・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くま",
+            "text": "お風呂が個人的には一番大変でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "くま",
+            "text": "ギプスが邪魔で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま あとかゆくない？",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "にわとり",
+            "text": "あーーーー！洗いにくいですもんね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "じゃがいも",
+            "text": "そこだけ洗えないんでしょ？きっとあれって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 外した時の解放感すごい",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "にわとり",
+            "text": "解放感ですねえー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 洗えないよ",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 友達足を追って、マジで何にもしてなくてカビ生えたって言ってたよ",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "くま",
+            "text": "足折るよりは良かった気もする",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "じゃがいも",
+            "text": "折って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "にわとり",
+            "text": "おわーーーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "にわとり",
+            "text": "カビ！！！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "にわとり",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "じゃがいも",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "くま",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 2,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,834 @@
+{
+    "dialogue_id": "B10509",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "りんご",
+        "えのき",
+        "てばさき"
+    ],
+    "relationship": [
+        "えのき",
+        "てばさき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "りんご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "えのき",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てばさき",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 青汁飲んだことありますか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "えのき",
+            "text": "青汁…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "りんご",
+            "text": "@てばさき ないです",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "えのき",
+            "text": "てばさんは、健康が気になるお年頃ですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "えのき",
+            "text": "@りんご ないんですね",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "りんご",
+            "text": "えーそんな若い時から？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 姉が一時期飲んでいたなぁって",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "えのき",
+            "text": "@りんご 健康維持のために、何かしていることはありますか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "りんご",
+            "text": "@えのき 毎日の散歩ですね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 健康といえば、伊藤園が水素水売ってるよ",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "えのき",
+            "text": "お散歩いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "えのき",
+            "text": "水素水・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "りんご",
+            "text": "水素水ねー流行ってね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "えのき",
+            "text": "騙されてない！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "えのき",
+            "text": "普通のお水と味違うのかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 伊藤園がやってるとは思わなくて、販売サイト見た時爆笑しました",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "えのき",
+            "text": "天下の伊藤園が…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "りんご",
+            "text": "水素水売れるんだね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "えのき",
+            "text": "@りんご 飲み物はふだん何を飲まれますか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "りんご",
+            "text": "コーヒーとか昨日はチャイ飲みましたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご チャイ美味しいですよね",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "えのき",
+            "text": "スパイスがきいてて美味しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 体もポカポカしてお得です",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "りんご",
+            "text": "@えのき チャイ美味しいですね",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "えのき",
+            "text": "私は昨日、鍼灸院の先生からバレンタインにホットチョコレートをいただいたので飲んでみました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "りんご",
+            "text": "@てばさき チョコと食べたらたまらない",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "えのき",
+            "text": "ホットチョコレートなのにいろいろスパイス入りなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご 私はコーヒー飲めないんですが、美味しいんですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "りんご",
+            "text": "私も高校生くらいから飲んだかな今は美味しいですね、でもちょっと苦いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "てばさき",
+            "text": "ホットチョコレートとコーヒーもあいそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 砂糖の代わりにいけない？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "りんご",
+            "text": "@てばさき チョコとコーヒーって合うよ",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "えのき",
+            "text": "チョコとコーヒーは合いますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "りんご",
+            "text": "魅惑的にあいますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "えのき",
+            "text": "チョコレートもいいものにこだわったりして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "えのき",
+            "text": "フェアトレードものとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "てばさき",
+            "text": "そういえばこないだバレンタインでしたけど、なんかしました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "りんご",
+            "text": "息子にちょっとあげました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "えのき",
+            "text": "@りんご ちなみにそういうときのご予算ってどれくらいなんですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "えのき",
+            "text": "参考にしたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "りんご",
+            "text": "息子には千円未満ですね、主人はチョコ食べないのでお酒でしたお酒もそれくらいかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "えのき",
+            "text": "へー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "えのき",
+            "text": "お酒もいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "りんご",
+            "text": "お酒のが高いかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "えのき",
+            "text": "お酒高いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私は家族全員にあげようとしたら2000行きました…",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "えのき",
+            "text": "全員分だからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "えのき",
+            "text": "てばさんは優しいね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "りんご",
+            "text": "家族みんななんてすごいねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき ルマンドのお返し待ってる。私は返さないけど",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "えのき",
+            "text": "そういえばてばさんからコンビニマカロンもらいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "えのき",
+            "text": "美味しかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "りんご",
+            "text": "@てばさき 優しいと思ったけどしっかりしてるね",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "りんご",
+            "text": "さすがです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "えのき",
+            "text": "@りんご お恥ずかしい…",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき JDから貰ったという付加価値も含めての3倍返しですからね！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "えのき",
+            "text": "そんな…！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "りんご",
+            "text": "@えのき そんな事ないですよ、羨ましいです",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "えのき",
+            "text": "そんな絶大な付加価値が付いていたとは…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき プライスレス！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "えのき",
+            "text": "気が付かなかった…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "りんご",
+            "text": "@えのき しっかりしてていいじゃないですか！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 褒められたぜ母さん！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "えのき",
+            "text": "@りんご フォローありがとうございます！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "えのき",
+            "text": "励まされました…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "えのき",
+            "text": "強く生きていこうと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 母さん…？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "りんご",
+            "text": "そういう親子っていいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "えのき",
+            "text": "そういっていただけると…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき また褒められたぜ母さん！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "えのき",
+            "text": "救われたような気持ちになりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "りんご",
+            "text": "娘と出かけるの夢でしたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "りんご",
+            "text": "うち息子なんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "えのき",
+            "text": "@りんご 息子さんとはお出かけしないんですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "てばさき",
+            "text": "@りんご いいじゃないですか息子さん",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "りんご",
+            "text": "たまにですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "えのき",
+            "text": "買い出しのお手伝いとか…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "りんご",
+            "text": "たまにカフェに付き合ってくれます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "えのき",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "りんご",
+            "text": "カフェいきますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき この間母とパンケーキ食べました！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "えのき",
+            "text": "そういえば行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "てばさき",
+            "text": "リコッタチーズ？甘かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "えのき",
+            "text": "リコッタチーズの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "りんご",
+            "text": "@てばさき いいなぁ、羨ましい！",
+            "mention_to": [
+                "てばさき"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "えのき",
+            "text": "パンケーキ美味しいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "えのき",
+            "text": "お洒落な感じだし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "りんご",
+            "text": "美味しいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "りんご",
+            "text": "なんか気持ちがわくわくしますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "えのき",
+            "text": "お昼過ぎだけどけっこう混んでました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき それな",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "えのき",
+            "text": "皆さん思い思いにまったりしてて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "えのき",
+            "text": "いい雰囲気でしたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "りんご",
+            "text": "まったりしたくなりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "えのき",
+            "text": "癒されたい…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "りんご",
+            "text": "日々忙しいからー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "えのき",
+            "text": "ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私という可愛い娘と同じ空間にいるのだから癒されるべきでは？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "えのき",
+            "text": "えええー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "えのき",
+            "text": "JDという付加価値で？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "りんご",
+            "text": "癒されるんですよー、一緒だと安心だもの！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 私は可愛い愛娘ではないの？",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "えのき",
+            "text": "ちょっと待って、私も女子大生では？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "えのき",
+            "text": "そういえば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "えのき",
+            "text": "放送大学やってる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "てばさき",
+            "text": "@えのき 審議中",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 109,
+            "interlocutor_id": "えのき",
+            "text": "ひどい・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 110,
+            "interlocutor_id": "りんご",
+            "text": "@えのき えーすごい！",
+            "mention_to": [
+                "えのき"
+            ]
+        },
+        {
+            "utterance_id": 111,
+            "interlocutor_id": "えのき",
+            "text": "年齢は関係ないのに…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 112,
+            "interlocutor_id": "りんご",
+            "text": "何を専攻してるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 113,
+            "interlocutor_id": "えのき",
+            "text": "一般で、半期に一単位ずつなにかしら受講してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 114,
+            "interlocutor_id": "えのき",
+            "text": "3DとかVBA受けましたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 115,
+            "interlocutor_id": "りんご",
+            "text": "私もなんか学びたいです、そーゆーの好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 116,
+            "interlocutor_id": "てばさき",
+            "text": "放送大学面白いですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 117,
+            "interlocutor_id": "えのき",
+            "text": "てばさんといっしょに、死生学もやりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 118,
+            "interlocutor_id": "りんご",
+            "text": "へぇー",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "りんご",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "えのき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てばさき",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,706 @@
+{
+    "dialogue_id": "A07501",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "こぐま",
+        "ハンバーグ",
+        "さんま"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "こぐま",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ハンバーグ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "さんま",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "こぐま",
+            "text": "よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ハンバーグ",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "さんま",
+            "text": "よろしくお願いします～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "こぐま",
+            "text": "朝ごはんは食べた？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ハンバーグ",
+            "text": "おにぎりだけ食べました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "さんま",
+            "text": "@こぐま たべましたよ～",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "こぐま",
+            "text": "私はおにぎりと、お漬物、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こぐま",
+            "text": "残りの味噌汁でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "さんま",
+            "text": "私はパンです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "こぐま",
+            "text": "@さんま 何パンですか？",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ 何おにぎりですか？",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "さんま",
+            "text": "食パンです、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@こぐま サケのおにぎりです",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "こぐま",
+            "text": "@さんま 食パン、バター？",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ 私は梅干し",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@こぐま 梅干しいいですね",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "こぐま",
+            "text": "鮭、私も好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "さんま",
+            "text": "@こぐま ブルーベリージャムで",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "こぐま",
+            "text": "ブルーベリージャム！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "こぐま",
+            "text": "美味しそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "こぐま",
+            "text": "たまにジャム買うけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "さんま",
+            "text": "ワンパターンです、あさは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "こぐま",
+            "text": "無難ないちごが多い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "こぐま",
+            "text": "朝はワンパターンになりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ジャムいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "さんま",
+            "text": "一時期マーマレードにはまりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "こぐま",
+            "text": "美味しいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "こぐま",
+            "text": "ジャム、作ったことありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "さんま",
+            "text": "はるか昔に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "こぐま",
+            "text": "@さんま あるんだ！すごい！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@こぐま ヨーグルト食べていたときジャム作ってました",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ 作ったことあるんだ！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "さんま",
+            "text": "すっごい砂糖つかうんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "こぐま",
+            "text": "@さんま @ハンバーグ 偉いー！",
+            "mention_to": [
+                "ハンバーグ",
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ハンバーグ",
+            "text": "砂糖とフルーツめちゃ使います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ハンバーグ",
+            "text": "買った方が安いけど笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "こぐま",
+            "text": "そんなに砂糖入れるんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "こぐま",
+            "text": "うん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "さんま",
+            "text": "@ハンバーグ たしかにです",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "こぐま",
+            "text": "手作りって良い！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "こぐま",
+            "text": "パンとかでも、作ると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こぐま",
+            "text": "材料費って、高いって聞きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "さんま",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "こぐま",
+            "text": "私は、全く作りませんが笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ハンバーグ",
+            "text": "最近材料費も結構かかりますしね….",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "こぐま",
+            "text": "作りたいなー   とは思うんだけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ハンバーグ",
+            "text": "色々が値上がりしすぎです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "さんま",
+            "text": "時間がかかります～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "こぐま",
+            "text": "そーですよーねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "こぐま",
+            "text": "なんか、パンとかだと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "こぐま",
+            "text": "発酵とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "こぐま",
+            "text": "わけわかめです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ハンバーグ",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "さんま",
+            "text": "あはは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "こぐま",
+            "text": "あっ、訳分からん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "こぐま",
+            "text": "難しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ハンバーグ",
+            "text": "でも作るの楽しいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ 作るの好き？",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@こぐま 好きな方だと思います",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ いいなあー",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ハンバーグ",
+            "text": "パンは作らないですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "こぐま",
+            "text": "私は作ってもらうのが好き  笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@こぐま いいと思います",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "さんま",
+            "text": "@こぐま それがいいです",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こぐま",
+            "text": "誰だだって、それがいいですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "こぐま",
+            "text": "笑笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ですです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "さんま",
+            "text": "ですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "こぐま",
+            "text": "1度、りんごジャム用の",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "こぐま",
+            "text": "紅玉ってリンゴを、買ったことあって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "さんま",
+            "text": "はいはい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "こぐま",
+            "text": "そのまま食べたら、あんまり甘くなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こぐま",
+            "text": "やっぱり使い道が違ったのかと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ハンバーグ",
+            "text": "紅玉は酸っぱめな感じですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "こぐま",
+            "text": "やっちゃった  笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "さんま",
+            "text": "あれは生ではちょっと…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "こぐま",
+            "text": "やっぱり、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "こぐま",
+            "text": "書いてあることを見て、買わなきゃと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ハンバーグ",
+            "text": "形崩れにくいのでアップルパイとかによく使うと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "こぐま",
+            "text": "反省",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ ほんと、その通り！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "さんま",
+            "text": "@ハンバーグ アップルパイいいですね",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "こぐま",
+            "text": "@さんま ほんと生ではちょっとで  笑",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ハンバーグ",
+            "text": "生であまり食べるりんごじゃないと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "こぐま",
+            "text": "はい、その通りで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こぐま",
+            "text": "パイもいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ハンバーグ",
+            "text": "それも経験ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "こぐま",
+            "text": "パイシートなら、冷凍であったよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "さんま",
+            "text": "ありますあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こぐま",
+            "text": "あっ、パイ作りはオーブンいる？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ハンバーグ",
+            "text": "スーパーとかの冷凍食品コーナーにあったような気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "こぐま",
+            "text": "パイシート使ったことある？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@こぐま オーブンで焼きます",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "こぐま",
+            "text": "@ハンバーグ やっぱりそーなんだ",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "こぐま",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "ハンバーグ",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "さんま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

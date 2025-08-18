@@ -1,0 +1,689 @@
+{
+    "dialogue_id": "A04601",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おにぎり",
+        "こまつな",
+        "ハンバーグ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おにぎり",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "こまつな",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ハンバーグ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おにぎり",
+            "text": "はじめまして。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "おにぎり",
+            "text": "よろしくお願いいたします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ハンバーグ",
+            "text": "はじめまして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "こまつな",
+            "text": "よろしく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ハンバーグ",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "おにぎり",
+            "text": "今朝は、起きたら雪が積もっていました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ホントビックリです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こまつな",
+            "text": "ほんと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "おにぎり",
+            "text": "とても寒いですしね。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "こまつな",
+            "text": "寒いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "おにぎり",
+            "text": "3連休ですが、何か予定はありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ハンバーグ",
+            "text": "昨日から気温が下がりましたよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり 仕事です…..",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "こまつな",
+            "text": "@おにぎり ない",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "おにぎり",
+            "text": "@ハンバーグ 同じく仕事です。。",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "こまつな",
+            "text": "あはは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ハンバーグ",
+            "text": "悲しいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "おにぎり",
+            "text": "@こまつな のんびり過ごすのかな。",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "おにぎり",
+            "text": "私は、いつも土日が仕事です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "こまつな",
+            "text": "@おにぎり 休みあってないような",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ハンバーグ",
+            "text": "自分も土日関係ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "こまつな",
+            "text": "たまった家事とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "おにぎり",
+            "text": "子供をほったらかしになっちゃいます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ハンバーグ",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "おにぎり",
+            "text": "休みは休みで、家事が増えますかね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ハンバーグ",
+            "text": "家事は休みないですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "こまつな",
+            "text": "子どもいると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "こまつな",
+            "text": "家事増える",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ですです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "おにぎり",
+            "text": "お昼ご飯の準備とか。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "こまつな",
+            "text": "お昼ごはんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ハンバーグ",
+            "text": "自分のことだけじゃなくなりますからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "こまつな",
+            "text": "困ります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "おにぎり",
+            "text": "また、すぐ今日も昼ご飯の時間がきます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "こまつな",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "おにぎり",
+            "text": "何も考えてないです。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ハンバーグ",
+            "text": "献立考えるのが大変そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "こまつな",
+            "text": "冷凍餃子",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "おにぎり",
+            "text": "ねぇ。。献立、本当に面倒！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ハンバーグ",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "こまつな",
+            "text": "焼くだけ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "おにぎり",
+            "text": "冷凍餃子！美味しそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "こまつな",
+            "text": "簡単に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "おにぎり",
+            "text": "うちもあるかなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うちも大量に作って冷凍庫で眠ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "おにぎり",
+            "text": "手が込んだもの作っても、気に入ってもらえるとは限らないですしね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "こまつな",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり たしかに",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "こまつな",
+            "text": "でも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "おにぎり",
+            "text": "皆さん、自分で作るんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "こまつな",
+            "text": "うちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "こまつな",
+            "text": "文句言ったらださない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "おにぎり",
+            "text": "なら、自分で準備して！ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり 家族みんなで包んでます",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "おにぎり",
+            "text": "私は、冷凍餃子はパルシステムで買ってばかり。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "こまつな",
+            "text": "@おにぎり わたしも",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こまつな",
+            "text": "買います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "おにぎり",
+            "text": "本当は、作った方がおいしいですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "こまつな",
+            "text": "おおしょう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "おにぎり",
+            "text": "おおしょうの、油が要らないやつだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "こまつな",
+            "text": "水もいらない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "こまつな",
+            "text": "ほんと焼くだけ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ハンバーグ",
+            "text": "いいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "こまつな",
+            "text": "助かります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "おにぎり",
+            "text": "大しょうの、お好み焼き味餃子だっけな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ハンバーグ",
+            "text": "餃子食べたくなってきた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "おにぎり",
+            "text": "食べたことあります？冷凍の。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "おにぎり",
+            "text": "スーパーで売っていたのですが。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり ないです",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "こまつな",
+            "text": "けっこうおいしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "おにぎり",
+            "text": "@こまつな 美味しいですよね！！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ハンバーグ",
+            "text": "今度検索してみます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "おにぎり",
+            "text": "でも、最近見かけなくて。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "おにぎり",
+            "text": "見かけると買ってたんですけど。限定だったのか？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "こまつな",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ハンバーグ",
+            "text": "あらっ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "おにぎり",
+            "text": "お好み焼きソースがついてて、美味しかったです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ハンバーグ",
+            "text": "気になります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "おにぎり",
+            "text": "冷凍食品は、良く買います？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "おにぎり",
+            "text": "私は、買いまくりです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うちは結構使ってると思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "こまつな",
+            "text": "前は買ってた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "おにぎり",
+            "text": "お弁当とか、冷凍食品ばかり。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "こまつな",
+            "text": "子どもの弁当に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "おにぎり",
+            "text": "朝、楽ですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ハンバーグ",
+            "text": "冷凍食品は主婦の味方ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ハンバーグ",
+            "text": "だいぶ時短になりますし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "こまつな",
+            "text": "今は弁当ないから楽",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "おにぎり",
+            "text": "お弁当、無いんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "こまつな",
+            "text": "@ハンバーグ ほんと",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こまつな",
+            "text": "もう大人なんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "おにぎり",
+            "text": "@ハンバーグ お弁当作ってますか？",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "こまつな",
+            "text": "自分で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ハンバーグ",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "おにぎり",
+            "text": "自分で、、素晴らしい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ハンバーグ",
+            "text": "それならいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "こまつな",
+            "text": "外食です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "こまつな",
+            "text": "あとコンビニらしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "ハンバーグ",
+            "text": "コンビニいいですねどめちゃくちゃ値段上がりましたよね？",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おにぎり",
+            "informativeness": 2,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "こまつな",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ハンバーグ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

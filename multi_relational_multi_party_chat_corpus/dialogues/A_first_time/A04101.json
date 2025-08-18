@@ -1,0 +1,677 @@
+{
+    "dialogue_id": "A04101",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "いくら",
+        "あずき",
+        "しじみ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "いくら",
+            "text": "こんにちはー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "あずき",
+            "text": "こんにちはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しじみ",
+            "text": "こんにちはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "いくら",
+            "text": "もうお腹がぺこぺこです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "しじみ",
+            "text": "あら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "しじみ",
+            "text": "お昼前ですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "いくら",
+            "text": "朝食べたのに不思議。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "あずき",
+            "text": "@いくら そうなんですね",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "しじみ",
+            "text": "わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "あずき",
+            "text": "不思議",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "あずき",
+            "text": "わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "いくら",
+            "text": "家にいると空いちゃうんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "しじみ",
+            "text": "@いくら お昼は何食べるんですか？",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "あずき",
+            "text": "同じくです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "いくら",
+            "text": "わかってくださいますか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "しじみ",
+            "text": "すいちゃいますよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "いくら",
+            "text": "お昼何食べましょう？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "あずき",
+            "text": "お昼はどうしよう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "あずき",
+            "text": "何も考えてない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "しじみ",
+            "text": "私は今ガム食べてます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "いくら",
+            "text": "何がいいかなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "いくら",
+            "text": "ガム！いいですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "あずき",
+            "text": "残り物かなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "しじみ",
+            "text": "@あずき 悩みますよね",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "しじみ",
+            "text": "残り物！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "あずき",
+            "text": "ガム！いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "しじみ",
+            "text": "お昼はうちもそうなりがちです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "いくら",
+            "text": "@あずき 残り物わかります、",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "あずき",
+            "text": "飴食べちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "いくら",
+            "text": "子供のお弁当の残りとか、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "あずき",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しじみ",
+            "text": "たまに、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しじみ",
+            "text": "豪華なランチとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "いくら",
+            "text": "私はチョコばかり食べちゃうので、飴とかガムとかいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "しじみ",
+            "text": "食べたいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "いくら",
+            "text": "豪華なランチ、素敵です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "しじみ",
+            "text": "チョコも美味しいですよねぇ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "いくら",
+            "text": "ママ友にランチに誘われるとなんだか贅沢してる気分になります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "あずき",
+            "text": "@しじみ 美味しいですねー",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "しじみ",
+            "text": "@いくら ですね！",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "いくら",
+            "text": "普通のカフェなんですけどね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "あずき",
+            "text": "たまに行くランチいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しじみ",
+            "text": "カフェって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "しじみ",
+            "text": "いいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "あずき",
+            "text": "豪華な気分になる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "いくら",
+            "text": "でも結構高いですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "あずき",
+            "text": "カフェも落ち着きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "しじみ",
+            "text": "そうそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "しじみ",
+            "text": "量の割に、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "あずき",
+            "text": "冬は暖かいもの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "あずき",
+            "text": "飲みたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "しじみ",
+            "text": "カフェって割高ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "いくら",
+            "text": "落ち着きますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しじみ",
+            "text": "暖かいものいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "いくら",
+            "text": "割高ですよね、でも作ってもらって後片付けもしてくれて、最高ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "あずき",
+            "text": "確かに、家で飲めば節約ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "しじみ",
+            "text": "確かに〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "あずき",
+            "text": "作ってもらうのいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "しじみ",
+            "text": "上げ膳据え膳最高ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "あずき",
+            "text": "割高でも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "あずき",
+            "text": "雰囲気含めて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "しじみ",
+            "text": "ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "いくら",
+            "text": "最高ですよね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "いくら",
+            "text": "コーヒーとかかっこよく飲みたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "あずき",
+            "text": "うれしですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "しじみ",
+            "text": "カフェの飲み物って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "しじみ",
+            "text": "オシャレだし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "しじみ",
+            "text": "テンションあがりますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "あずき",
+            "text": "@いくら かっこよく！！",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "いくら",
+            "text": "抹茶ラテとか頼みがちです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "あずき",
+            "text": "テンション上がりますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "あずき",
+            "text": "ああー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "あずき",
+            "text": "わかる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "いくら",
+            "text": "@しじみ テンションあがりますよね！",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "しじみ",
+            "text": "抹茶ラテ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "あずき",
+            "text": "普段飲めないようなもの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "しじみ",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "いくら",
+            "text": "なんか葉っぱ乗ってたりオシャレ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "あずき",
+            "text": "家では難しいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "しじみ",
+            "text": "@あずき うんうん",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "いくら",
+            "text": "家ではあんまり飲まないですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "あずき",
+            "text": "葉っぱ？おしゃれですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しじみ",
+            "text": "葉っぱ！確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "いくら",
+            "text": "コーヒーかお茶だけですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "しじみ",
+            "text": "ミントかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "いくら",
+            "text": "ミント！かもしれないです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "あずき",
+            "text": "ミントかー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "あずき",
+            "text": "いいですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "しじみ",
+            "text": "確かにおしゃれ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "あずき",
+            "text": "グリーンに癒されます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しじみ",
+            "text": "季節限定の飲み物とかも、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "いくら",
+            "text": "家にもあればいいんですけどねグリーン",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "あずき",
+            "text": "インスタ映えそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "しじみ",
+            "text": "テンションあがりますしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "しじみ",
+            "text": "映えそう〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "いくら",
+            "text": "インスタ映えですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "いくら",
+            "text": "季節限定結構弱いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "いくら",
+            "text": "頼んでしまう、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "あずき",
+            "text": "私も弱いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "しじみ",
+            "text": "わかります！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "いくら",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "あずき",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しじみ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

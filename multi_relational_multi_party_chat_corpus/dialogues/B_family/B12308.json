@@ -1,0 +1,742 @@
+{
+    "dialogue_id": "B12308",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "すじこ",
+        "つくね",
+        "しらたき"
+    ],
+    "relationship": [
+        "つくね",
+        "しらたき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "すじこ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つくね",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらたき",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "すじこ",
+            "text": "もしも生まれ変わるなら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "すじこ",
+            "text": "男女どっちですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "つくね",
+            "text": "あー迷いますね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ 男がいーなー",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つくね",
+            "text": "でも女かなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき 同じく男です",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね ほうほう",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ 男は以外と楽",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "すじこ",
+            "text": "理由とかってあります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 自分の子供産みたいなとは思いますねー！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき 確かに笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "しらたき",
+            "text": "理由は特にないなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つくね",
+            "text": "男にもなってみたいけど、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "しらたき",
+            "text": "でも化粧はしてみたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね 女じゃないと出来ませんもんね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "つくね",
+            "text": "色々考えると今の感じが一番楽！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ そうです！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "つくね",
+            "text": "子供すっごい好きではないですが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき 今は男性も化粧をする時代のようですよ！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "つくね",
+            "text": "やっぱり自分の子は可愛いです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ 今更できないよー",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね 圧倒的に可愛いですよね！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ はなんで男がいいんですか？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ それは言えてます！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき その道のプロがいますよ！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ おかまですか！？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき おかまとか古ッ！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね 女の子の日とか",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "しらたき",
+            "text": "え！今なんて言うの？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "つくね",
+            "text": "今の時代はLGBTQだよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しらたき",
+            "text": "BBQ?",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 違うし！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね わざとだよ！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "すじこ",
+            "text": "外出は化粧とか容姿に気を使い続けるのとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 確かにめんどくさいですー",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "すじこ",
+            "text": "しんどそうって思っちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つくね",
+            "text": "まぁいつかは無くなりますけどね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ でもそれが女の子は楽しいんじゃないかな？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "しらたき",
+            "text": "若いうちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 確かに！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき そっちのBARとか行ってみたいです",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 私も行ってみたいですー！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つくね",
+            "text": "楽しそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき そういう考えもありますね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ BAR行きたい行きたい！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つくね",
+            "text": "そろそろ娘もお化粧とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つくね",
+            "text": "興味がある時期で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "しらたき",
+            "text": "ゲイBARも行きたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つくね",
+            "text": "見よう見まねだとかなり奇抜！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 行きたいよね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "つくね",
+            "text": "近くにはないけど…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "すじこ",
+            "text": "若い頃お前は襲われると言われて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "すじこ",
+            "text": "行かないと心に決めていたのでそろそろ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ えー！？そうなんですか！？",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "つくね",
+            "text": "逆に気になる笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね 真似っ子可愛いですよね！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 可愛いですけど、",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "つくね",
+            "text": "アイシャドウの青とかかなりヤバめです！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "しらたき",
+            "text": "ツンツン娘",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つくね",
+            "text": "もっと雑誌買ったりして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "すじこ",
+            "text": "なぜか油性マジックで体に落書きしたり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "つくね",
+            "text": "研究してほしい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ 油性は落ちない！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 息子が今それです！笑",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね 青を選ぶのは強いですね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 好きな色たからだと思うんですよね笑",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "しらたき",
+            "text": "息子は自らほくろを書いちゃう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき そうそう笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "つくね",
+            "text": "ほくろ数えると増えるのにね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "すじこ",
+            "text": "ホクロまみれになってますよね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "しらたき",
+            "text": "やめてほしー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つくね",
+            "text": "そうなんですよね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "つくね",
+            "text": "男の子はよくわかんないです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つくね",
+            "text": "考え方とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "すじこ",
+            "text": "腕に落書きして決めポーズに決めゼリフ笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しらたき",
+            "text": "でも息子の息子にぞうさん描きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ 戦隊ごっことかですよね！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "しらたき",
+            "text": "嫁に怒られました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき 子象さんですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき そりゃ怒るでしょ！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つくね",
+            "text": "落ちなかったらどーすんの！？笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "つくね",
+            "text": "着色強過ぎて！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しらたき",
+            "text": "一生ゾウさんと付き合って生きてく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 嫌だなー！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "つくね",
+            "text": "クレヨンしんちゃんじゃん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "すじこ",
+            "text": "ゾウさん嫌いにならなければ良しとしましょう笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ ふざけてるから余計に調子にのります！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "すじこ",
+            "text": "@つくね なんですかね笑",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "しらたき",
+            "text": "楽しかった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "すじこ",
+            "text": "でも男ってそんなもんなんですよね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しらたき",
+            "text": "またやりましょう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "つくね",
+            "text": "@すじこ まぁ男同士って感じです！笑",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき やりません！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "しらたき",
+            "text": "@すじこ やっぱり男がいいですね！",
+            "mention_to": [
+                "すじこ"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき アホすぎる！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "すじこ",
+            "text": "@しらたき 息子さんも喜んでるんでこっちも楽しくなってくるんですよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "しらたき",
+            "text": "そうそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つくね",
+            "text": "悪ノリのし過ぎはダメ！笑",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "すじこ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

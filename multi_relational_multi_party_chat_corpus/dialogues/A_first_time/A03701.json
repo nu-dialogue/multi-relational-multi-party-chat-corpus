@@ -1,0 +1,681 @@
+{
+    "dialogue_id": "A03701",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "げんまい",
+        "かにたま",
+        "なると"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "げんまい",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "かにたま",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "なると",
+            "text": "　こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "げんまい",
+            "text": "よろしくお願いします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "なると",
+            "text": "お願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "かにたま",
+            "text": "お願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "げんまい",
+            "text": "みなさん、朝ごはんは、召し上がりましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "かにたま",
+            "text": "食べましたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "なると",
+            "text": "はい、食べました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "げんまい",
+            "text": "お、食べる派の3人ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "なると",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "げんまい",
+            "text": "パン？ご飯？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "かにたま",
+            "text": "何食べましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "なると",
+            "text": "私はチャーハンを食べました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "かにたま",
+            "text": "@げんまい ぱんです",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "げんまい",
+            "text": "パスコのロールパンにハムとキャベツ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "げんまい",
+            "text": "チャーハン、朝からちゃんと作る感じづえすね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "なると",
+            "text": "パン派ですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "げんまい",
+            "text": "パン派です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "なると",
+            "text": "@げんまい ちょうど冷や飯が余っていて",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "かにたま",
+            "text": "@なると チャーハンすごい！",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "げんまい",
+            "text": "残り物のリメイク、かしこいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "なると",
+            "text": "いっぱいご飯が余りますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "げんまい",
+            "text": "ごはんは、多めに炊く事になりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "かにたま",
+            "text": "@なると そうなんですね",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "なると",
+            "text": "そうなんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "げんまい",
+            "text": "足りないと嫌だし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "かにたま",
+            "text": "わかるわかる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "なると",
+            "text": "夜はご飯ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "げんまい",
+            "text": "夜はごはんです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "なると",
+            "text": "そうですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "かにたま",
+            "text": "私以外はごはんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "げんまい",
+            "text": "ご飯が残ったら、冷凍します？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "なると",
+            "text": "しますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "かにたま",
+            "text": "します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "げんまい",
+            "text": "@かにたま ごはんじゃないんですか？",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "なると",
+            "text": "@かにたま 夜もパン？",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "かにたま",
+            "text": "@げんまい 夜はおかずだけなのです",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "なると",
+            "text": "ああ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "げんまい",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "なると",
+            "text": "ご飯は少なく食べますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "なると",
+            "text": "炭水化物抜きたくなりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "かにたま",
+            "text": "抜きたくなります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "げんまい",
+            "text": "夜、炭水化物を減らすと体重にてきめんに出てきますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "なると",
+            "text": "そうみたいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "かにたま",
+            "text": "お腹周りは減りますよん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "げんまい",
+            "text": "夜のごはん、少な目には心がけますが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "げんまい",
+            "text": "完全になしは禁断症状がでて、余計に食べてしまいますｗｗｗ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "なると",
+            "text": "わたしもですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "なると",
+            "text": "炭水化物好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "かにたま",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "げんまい",
+            "text": "冷凍ごはん、たまったらどうしてますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "かにたま",
+            "text": "お米がもともとあまり好きじゃないのです…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "げんまい",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "かにたま",
+            "text": "@げんまい オムライスとか",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "なると",
+            "text": "@げんまい 雑炊にしたりですかね",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "げんまい",
+            "text": "オムライスに雑炊。いいですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "なると",
+            "text": "@かにたま パンの方が好きなんですかね",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "かにたま",
+            "text": "@なると はい",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "かにたま",
+            "text": "パスタとか大好き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "げんまい",
+            "text": "麺類もおいしいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "なると",
+            "text": "小麦粉も癖になりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "げんまい",
+            "text": "なります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "かにたま",
+            "text": "小麦粉大好きー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "なると",
+            "text": "食べたくなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "げんまい",
+            "text": "外食しますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "かにたま",
+            "text": "麺だと何が好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "げんまい",
+            "text": "私は、ラーメンかなー。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "なると",
+            "text": "外食はたまにしますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "げんまい",
+            "text": "@かにたま 麺だと何がすきですか？",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "なると",
+            "text": "わたしもラーメン好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "かにたま",
+            "text": "@げんまい パスタが1番",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "げんまい",
+            "text": "パスタ好きなんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "なると",
+            "text": "パスタの小麦粉ってまた違うんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "かにたま",
+            "text": "はい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "なると",
+            "text": "体にいいとか聞きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "げんまい",
+            "text": "へー。そうなんですか。パスタの小麦粉",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "かにたま",
+            "text": "@なると そうなんですか？",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "なると",
+            "text": "種類が違うとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "かにたま",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "なると",
+            "text": "なんとか値が低いやつらいしです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "かにたま",
+            "text": "知らなかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "げんまい",
+            "text": "GI値？かな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "なると",
+            "text": "そうです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "げんまい",
+            "text": "吸収されにくいとかなんとか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "なると",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "かにたま",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "げんまい",
+            "text": "健康的ですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "なると",
+            "text": "そうですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "げんまい",
+            "text": "でも、外だとラーメンが食べたくなるぅぅ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "かにたま",
+            "text": "パスタ好きでよかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "なると",
+            "text": "ラーメンは毎日でもいいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "なると",
+            "text": "パスタも美味しいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "かにたま",
+            "text": "ラーメン殆ど食べないのですが好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "かにたま",
+            "text": "パスタが好きで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "かにたま",
+            "text": "何ラーメンが好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "げんまい",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "げんまい",
+            "text": "とんこつですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "かにたま",
+            "text": "わたしもー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "げんまい",
+            "text": "気が合いますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "かにたま",
+            "text": "とんこつ大好き！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "なると",
+            "text": "とんこつも美味しいですね",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "げんまい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "かにたま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "なると",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,794 @@
+{
+    "dialogue_id": "B15205",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "ぺんぎん",
+        "たまねぎ",
+        "にんじん"
+    ],
+    "relationship": [
+        "たまねぎ",
+        "にんじん"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ぺんぎん",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまねぎ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "にんじん",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ぺんぎん",
+            "text": "健康グッズとか興味ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "にんじん",
+            "text": "@ぺんぎん すこーし持ってます！",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "にんじん",
+            "text": "内緒だけど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 教えて",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "たまねぎ",
+            "text": "ひたすら筋トレ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ すごい！お家で？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "にんじん",
+            "text": "コロコロローラー買いました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "にんじん",
+            "text": "むくみとりの！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぺんぎん ジム行きます！",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん おー、できるんですか？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "にんじん",
+            "text": "後着圧ソックス！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ ジム！すごい",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "にんじん",
+            "text": "あれめちゃいい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "たまねぎ",
+            "text": "今行けてないですけどねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん そうなんだ！買いたい",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "にんじん",
+            "text": "しまむらに売ってる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "にんじん",
+            "text": "¥1200くらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 買いにいこ",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "にんじん",
+            "text": "ライザップの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "たまねぎ",
+            "text": "足細くなるよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ お家ではやらないんですか？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "にんじん",
+            "text": "娘にも買った！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん ほんとに？絶対買う！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぺんぎん 今は子供を、高い高いで筋トレ",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "にんじん",
+            "text": "@ぺんぎん むくみとれますー",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ なるほどね！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "にんじん",
+            "text": "ふくらはぎぷよぷよになる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ 一石二鳥",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぺんぎん そー",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 簡単にできるものがいいよね",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "にんじん",
+            "text": "毎日履きたいからもう一枚買わないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "にんじん",
+            "text": "そーお金かけずに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "たまねぎ",
+            "text": "いいことだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 履くだけでらかなり私向き",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "にんじん",
+            "text": "@ぺんぎん 履くの大変だけど",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "にんじん",
+            "text": "慣れれば！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "たまねぎ",
+            "text": "脱がすの大変だけどね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん それくらいなら努力します！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "にんじん",
+            "text": "@たまねぎ おい！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ え、脱がす？わぉー",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たまねぎ",
+            "text": "下ネタあり？笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "にんじん",
+            "text": "ダメだろ笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "にんじん",
+            "text": "真昼間笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ いやダメでしょ笑",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たまねぎ",
+            "text": "ダメか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "たまねぎ",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "たまねぎ",
+            "text": "ついつい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "たまねぎ",
+            "text": "うっかり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 脱ぐ時は大変ですか？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "にんじん",
+            "text": "脱ぐ時はひっくり返る",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ 意外とすきなんでね、そういうの笑",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "にんじん",
+            "text": "履く時の方が大変かなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん ほんとぴったりしてるんだ",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぺんぎん てへ",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ うちの旦那もそうだから",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぺんぎん 仲良くなれそうだ！",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "にんじん",
+            "text": "まー嫌いな人いないよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "にんじん",
+            "text": "たぶん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ 多分仲良くできそうですよ",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "にんじん",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 本当明るくいい人なんですね",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "にんじん",
+            "text": "確かに明るいかもー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "にんじん",
+            "text": "見てて飽きない笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 一緒にいて楽しそう",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "たまねぎ",
+            "text": "人見知りですけどねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 見ても楽しいんだ？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "にんじん",
+            "text": "ずっと、喋ってる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "にんじん",
+            "text": "表情が豊かで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ 人見知りではなさそうだけど",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たまねぎ",
+            "text": "いやいや！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "たまねぎ",
+            "text": "全然喋れない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん いつも笑顔でいそう",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "にんじん",
+            "text": "初めてのデートずっと喋ってる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ そんなこと無さそう笑",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "たまねぎ",
+            "text": "いや、いつもチューしてますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "たまねぎ",
+            "text": "喋るの苦手なんで！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 初めてのデートはどこでした？",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "にんじん",
+            "text": "やいやい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "にんじん",
+            "text": "@ぺんぎん ドライブでした！",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ バレてますよ笑",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "たまねぎ",
+            "text": "ひたすら運転！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "たまねぎ",
+            "text": "@ぺんぎん バレてたか！",
+            "mention_to": [
+                "ぺんぎん"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 景色いいから飽きないよね、ドライブ",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "にんじん",
+            "text": "景色見てない笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ わかりますよ！",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "にんじん",
+            "text": "ずっと顔見てた！面白いから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "にんじん",
+            "text": "そして無駄にイケメン笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん 笑",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "たまねぎ",
+            "text": "見られてたなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "たまねぎ",
+            "text": "余計喋るわ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ぺんぎん",
+            "text": "イケメンなんだー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "にんじん",
+            "text": "クォーターなんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@たまねぎ そうなの？",
+            "mention_to": [
+                "たまねぎ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "にんじん",
+            "text": "顔が濃い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "たまねぎ",
+            "text": "濃いって！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん でも素敵ですね！",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "にんじん",
+            "text": "そして無駄に背が高い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "たまねぎ",
+            "text": "取り柄です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ぺんぎん",
+            "text": "確かに顔見ちゃうかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "たまねぎ",
+            "text": "イケメン高身長！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "たまねぎ",
+            "text": "てへ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "ぺんぎん",
+            "text": "すごいじゃないですか！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "にんじん",
+            "text": "すごいポジティブー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "にんじん",
+            "text": "ちょっとむかつくー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "ぺんぎん",
+            "text": "@にんじん まぁまぁ",
+            "mention_to": [
+                "にんじん"
+            ]
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "たまねぎ",
+            "text": "身長差30あるんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 109,
+            "interlocutor_id": "たまねぎ",
+            "text": "見失う",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ぺんぎん",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "たまねぎ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "にんじん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

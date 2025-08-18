@@ -1,0 +1,787 @@
+{
+    "dialogue_id": "B10703",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "りんご",
+        "つくね",
+        "しらたき"
+    ],
+    "relationship": [
+        "つくね",
+        "しらたき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "りんご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つくね",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらたき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "りんご",
+            "text": "春休みはどこかいきますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つくね",
+            "text": "今の所は予定ないんですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご さんはありますか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね どっか行きたいよね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき うちもないんですよー",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 一緒ですねー！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "しらたき",
+            "text": "年度変わりなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "しらたき",
+            "text": "意外と忙しい！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 子供たちはどこ行きたいんじゃない？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つくね",
+            "text": "@りんご とりあえずばぁばんちと言ってます！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 確かにね、忙しいおばあちゃんちはどこらへんですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "つくね",
+            "text": "GWはどこか行こうかなと思ってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 季節もいいからね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 車で30分くらいなので",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "しらたき",
+            "text": "近いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "つくね",
+            "text": "@りんご ですねー！ただ混みそう",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき でもおばあちゃんも喜ぶでしょ",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 混みますね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 暴れん坊すぎてしんどいと言ってます笑",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "つくね",
+            "text": "@りんご そうですよね…仕方ないですが…",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき わらえますねー",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "つくね",
+            "text": "@りんご お住まいどこですか？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 元気ある証拠です！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 埼玉ですよ",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご とりあえず1日くらいお願いしようかと思ってます",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "しらたき",
+            "text": "いとこも来るので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 埼玉なんですね！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき おー、いとこいるならいいじゃないですか！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "つくね",
+            "text": "GWは混みそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "りんご",
+            "text": "@つくね どこですか？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "つくね",
+            "text": "埼玉だと遊園地とかありますよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 近くにむさしの村あります",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき しってます？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご そうなんです！なので余計にばぁばの負担が笑",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "つくね",
+            "text": "@りんご むさしの村知らないです！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "つくね",
+            "text": "どんなところなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき それがおばあちゃんは楽しみの一つです",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご そうだと嬉しいです！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "しらたき",
+            "text": "自分もいつかはそうなるのかなと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "しらたき",
+            "text": "思ってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "りんご",
+            "text": "@つくね いやー期待はできないですけど、いちご狩りとかやってます",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "つくね",
+            "text": "@りんご いちご狩りいいですねー！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 今旬なんでよ！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つくね",
+            "text": "物価高騰でうちの近くは結構お値段します！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "つくね",
+            "text": "@りんご いちごめっちゃ好きで",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つくね",
+            "text": "いくらでも食べられます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね いちご狩り行きたいね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "りんご",
+            "text": "@つくね ですね、埼玉はあまりんがいいです！優勝しました",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "しらたき",
+            "text": "練乳もって！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 1人1つ練乳ね！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 練乳！美味しいですよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 優勝ですか！？凄い！！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 練乳すごく好きで",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 是非いちご狩り来て下さい！埼玉はいっぱいありますよ",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "しらたき",
+            "text": "めっちゃかけます！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 私もすきです、甘くて美味しいですよね、なんでも合う！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 行きたいですー！しらたきにねだります！笑",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき お願いしまーす！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき お願いしまーす！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 美味しいですよね！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "しらたき",
+            "text": "頑張って連れて行きまーす！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 子供たちもたべますか？いちご",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しらたき",
+            "text": "運転は俺か！？笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "つくね",
+            "text": "@りんご めっちゃ食べます！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つくね",
+            "text": "今日も朝食べていきました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 運転お願いします笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき そうなるね！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "りんご",
+            "text": "@つくね おー！朝から贅沢！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご @つくね 頑張りますー笑",
+            "mention_to": [
+                "つくね",
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "しらたき",
+            "text": "眠気と闘いながら！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 行くの決まりですね！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つくね",
+            "text": "@りんご たまたま昨日もらったので",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "つくね",
+            "text": "朝ご飯と一緒に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つくね",
+            "text": "出しました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね あれ？俺の分は？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき え！？ないよ？笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 子供優先ですね！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね ひど！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "つくね",
+            "text": "@りんご そうです！基本子供優先！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 俺もいちご好きなのに",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき あー、聞かない方がよかったですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 本当です…知らない方がよかった笑",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき やっぱりいちご狩りでもととらないと！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つくね",
+            "text": "@りんご そうですよね！食べ放題！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 計画します！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "りんご",
+            "text": "@つくね そうそう、ここぞとばかりにね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しらたき",
+            "text": "俺も食べたいもん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "つくね",
+            "text": "@りんご どのくらい食べたら元とれますかね？笑",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき たくさん食べていちごでお腹満たして下さい！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき じゃあ計画立てないとだね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 水っ腹になりそう！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "しらたき",
+            "text": "あと練乳かけすぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "しらたき",
+            "text": "太りそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "りんご",
+            "text": "@つくね品種にもよるのかな、でもふたパックくらい？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "しらたき",
+            "text": "でも食べる！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 2パックくらいなら全然余裕で食べれそう",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 練乳は欠かせないけど最近のいちごは甘いからねー",
+            "mention_to": [
+                "しらたき"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "りんご",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

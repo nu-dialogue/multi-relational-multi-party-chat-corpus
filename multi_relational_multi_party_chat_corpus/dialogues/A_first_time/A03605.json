@@ -1,0 +1,711 @@
+{
+    "dialogue_id": "A03605",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "つぶあん",
+        "くらげ",
+        "しらす"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "つぶあん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "くらげ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらす",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "つぶあん",
+            "text": "よろしくお願いします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "しらす",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "くらげ",
+            "text": "宜しくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "つぶあん",
+            "text": "皆さん睡眠はよく寝れますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "しらす",
+            "text": "寝付き悪いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "くらげ",
+            "text": "睡眠時間が短いわりにちょいちょい目がさめます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くらげ",
+            "text": "@つぶあん どうですか？",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "つぶあん",
+            "text": "なかなか熟睡できないですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "しらす",
+            "text": "寝たら朝まで寝れますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くらげ",
+            "text": "@しらす 疲れすぎてですか？",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "しらす",
+            "text": "眠るまでが寝れないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "くらげ",
+            "text": "熟睡はないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つぶあん",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "くらげ",
+            "text": "@しらす しんどいですね",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "しらす",
+            "text": "@くらげ 直前まで仕事してて目が冴えるというか",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "しらす",
+            "text": "良くないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つぶあん",
+            "text": "@くらげ 子供と一緒に寝てしまい、",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "くらげ",
+            "text": "わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つぶあん",
+            "text": "途中で起きてとか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くらげ",
+            "text": "@つぶあん ありました",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "つぶあん",
+            "text": "@しらす それ、ありますね。",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "くらげ",
+            "text": "子供が小さい時、一緒に寝てたらお布団かけなおしたり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "しらす",
+            "text": "@つぶあん 夜は仕事したくないですが、なかなか時間作れないので",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "くらげ",
+            "text": "そのせいか、今もちょいちょい起きる気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "つぶあん",
+            "text": "@くらげ 子供とずっと寝て起きない！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "つぶあん",
+            "text": "決めてしまえばいいんですけど。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "くらげ",
+            "text": "@つぶあん いいですね",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つぶあん",
+            "text": "@しらす めちゃくちゃわかります！",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "くらげ",
+            "text": "私、習慣になったかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "くらげ",
+            "text": "@しらす 夜の方がはかどりますもんね",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "くらげ",
+            "text": "ついつい遅くなりませんか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つぶあん",
+            "text": "わかります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "くらげ",
+            "text": "@つぶあん どうして",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "しらす",
+            "text": "@くらげ そうなんですよね",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "つぶあん",
+            "text": "夜の方がすすむ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "しらす",
+            "text": "明日がつらいって分かっていても",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "くらげ",
+            "text": "子供ってあんなにお布団けるんでしょうね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "しらす",
+            "text": "やめどき分からなくで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "しらす",
+            "text": "ダラダラ仕事しちゃいます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "くらげ",
+            "text": "@しらす わかります！",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しらす",
+            "text": "本当に良くないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "くらげ",
+            "text": "私、元々夜型なのでついやっちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つぶあん",
+            "text": "@しらす ほんと、そうです。",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "くらげ",
+            "text": "@しらす わかっているけどってやつですよね",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "つぶあん",
+            "text": "@くらげ わたしもです。",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くらげ",
+            "text": "平日は朝が早いから、金曜の夜は要注意です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "しらす",
+            "text": "やはり一人の時間が邪魔されないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "しらす",
+            "text": "ついついね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "くらげ",
+            "text": "平日は歯止めがきいても金曜はついやっちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つぶあん",
+            "text": "@しらす そこですよね！",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "くらげ",
+            "text": "そこそこ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "つぶあん",
+            "text": "やはり、寝た後に起きたい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しらす",
+            "text": "@つぶあん ほんとそうです",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "くらげ",
+            "text": "夫も寝てたら最高です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "しらす",
+            "text": "@くらげ 分かりすぎます笑",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "くらげ",
+            "text": "起きてると面倒ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "しらす",
+            "text": "面倒です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "くらげ",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つぶあん",
+            "text": "一緒に何かされたりするんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "くらげ",
+            "text": "ごちゃごちゃ話かけてきたら面倒なんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "つぶあん",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "つぶあん",
+            "text": "仕事は進まないですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しらす",
+            "text": "何をするわけではないですけど視界に入ってくるのが笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "くらげ",
+            "text": "進むどころかお邪魔です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つぶあん",
+            "text": "あはは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "くらげ",
+            "text": "@しらす わかる",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "しらす",
+            "text": "気が散る",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "くらげ",
+            "text": "ちるちる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "つぶあん",
+            "text": "それはありますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "くらげ",
+            "text": "スマホでゲームしてたらちょっとムカつくかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "つぶあん",
+            "text": "うんうん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "しらす",
+            "text": "@くらげ うちそれです笑",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "くらげ",
+            "text": "どこも一緒ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "しらす",
+            "text": "ほんとですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "くらげ",
+            "text": "いい枕ありますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "くらげ",
+            "text": "ちょっと高いけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つぶあん",
+            "text": "オーダーですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くらげ",
+            "text": "通販生活の枕です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "しらす",
+            "text": "気になります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "くらげ",
+            "text": "イタリアの病院でつかってるそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つぶあん",
+            "text": "すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "しらす",
+            "text": "すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くらげ",
+            "text": "ぐぐったらすぐでてくると思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "しらす",
+            "text": "調べてみよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "つぶあん",
+            "text": "気になりますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "しらす",
+            "text": "ホテルとか病院とかで使ってるって聞くと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くらげ",
+            "text": "それ使ってから寝起きの頭痛がなくなりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "しらす",
+            "text": "信頼できます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くらげ",
+            "text": "１万円しましたが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "つぶあん",
+            "text": "すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しらす",
+            "text": "すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くらげ",
+            "text": "清水の舞台から飛び降りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "つぶあん",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "しらす",
+            "text": "でも睡眠改善できるならいいかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "くらげ",
+            "text": "これは買ってよかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "くらげ",
+            "text": "夫には金額いってませんが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つぶあん",
+            "text": "睡眠は毎日ですものね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "しらす",
+            "text": "いいと思います笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "くらげ",
+            "text": "自分のお金でかったけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "くらげ",
+            "text": "おすすめです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "つぶあん",
+            "text": "全然オッケーですね！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "つぶあん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "くらげ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらす",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

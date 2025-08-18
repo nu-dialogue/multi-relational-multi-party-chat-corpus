@@ -1,0 +1,711 @@
+{
+    "dialogue_id": "A08205",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "いくら",
+        "まぐろ",
+        "くまのみ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "いくら",
+            "text": "こんにちはー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "まぐろ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "くまのみ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "いくら",
+            "text": "趣味ってありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "くまのみ",
+            "text": "最近は新聞読む事かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "いくら",
+            "text": "新聞読まれるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "まぐろ",
+            "text": "趣味を探し続け、さまよっています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "くまのみ",
+            "text": "好きなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "いくら",
+            "text": "@くまのみ どんな記事を読まれるんですか？",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くまのみ",
+            "text": "@まぐろ 何系とかあります？",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "いくら",
+            "text": "@まぐろ わかります、中々無いですよね",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "いくら",
+            "text": "わたしはスイカゲームにハマっていて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くまのみ",
+            "text": "@いくら 全般的に読みます。経済はわからないから流れていきますけど　汗",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "いくら",
+            "text": "@くまのみ 全般的に！すごいですね！",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "まぐろ",
+            "text": "ないんです・・何かしたい、なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "くまのみ",
+            "text": "@いくら　スイカゲーム面白いですよね",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "いくら",
+            "text": "ほんとテレビ欄とかその裏の四コマとか、そのくらいでして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "まぐろ",
+            "text": "スイカゲーム？？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くまのみ",
+            "text": "@いくら はしから読んでいくだけですよ",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "いくら",
+            "text": "スイカゲーム面白いですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "くまのみ",
+            "text": "テレビ欄から。裏面からなので、ゆるい話からです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "いくら",
+            "text": "@まぐろ Switchだったりスマホアプリにもあるのですが面白いです！",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くまのみ",
+            "text": "@まぐろ 面白いですよ",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "まぐろ",
+            "text": "すいか割りするゲームとか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "いくら",
+            "text": "@くまのみ 裏面はゆるいんですね！",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "くまのみ",
+            "text": "テトリス系かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "いくら",
+            "text": "テトリス系ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "いくら",
+            "text": "くっつけて進化させてスイカを作るゲームなんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "まぐろ",
+            "text": "おお、ありがとうございます！理解できました笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "くまのみ",
+            "text": "スイカゲーム、面白いけどうまくないし、時間かかるからやめました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "いくら",
+            "text": "やり始めたら止まらなくて、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "くまのみ",
+            "text": "@いくら ３０分はかかりますよね",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "いくら",
+            "text": "時間かかりますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "くまのみ",
+            "text": "危険なんです。家事ができなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "まぐろ",
+            "text": "そんなに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "いくら",
+            "text": "なので私に見せないで！と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "いくら",
+            "text": "子供に伝えてるんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "いくら",
+            "text": "見ちゃいますね。笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くまのみ",
+            "text": "@いくら 三面記事は緩いですよー",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "くまのみ",
+            "text": "@いくら 家族全員やってます",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "まぐろ",
+            "text": "ブームに乗り遅れた！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "まぐろ",
+            "text": "あとでやってみようかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "くまのみ",
+            "text": "@まぐろ まだ大丈夫ですよ",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "いくら",
+            "text": "@くまのみ 毎日違うから読めたら絶対楽しいですよね！",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "まぐろ",
+            "text": "新聞・・私はとるところからスタートせねば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "いくら",
+            "text": "@まぐろ 安価なのでおすすめです！",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "くまのみ",
+            "text": "新聞も時間かかるんですけど、ためになる話もあるので読んでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "くまのみ",
+            "text": "@まぐろ 最近とってない人多いですもんね",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くまのみ",
+            "text": "やめてる人が増えてるみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "いくら",
+            "text": "@まぐろ 実家がとってるので、読める環境ではあるんですよねー",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "まぐろ",
+            "text": "そうなんです・・うちは新聞なくてもネットでとなってしまって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "まぐろ",
+            "text": "何年も前にやめちゃった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "くまのみ",
+            "text": "私、ネット検索が下手なので、情報がかたよるんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "いくら",
+            "text": "@くまのみ ためになりそうですよね！！",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "くまのみ",
+            "text": "最近はまっちゃんのニュースばっかり出てきて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "いくら",
+            "text": "まっちゃん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "まぐろ",
+            "text": "@くまのみ 確かに。情報のかたより出ちゃいます",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "くまのみ",
+            "text": "そんなに読んでないんですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "いくら",
+            "text": "あと何がほんとか分からなくなりますねネットは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "くまのみ",
+            "text": "それもありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "まぐろ",
+            "text": "わかる。真実がわからなくなる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "いくら",
+            "text": "芸能ニュース最近多いし、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "くまのみ",
+            "text": "けど、上手な人は色々読んでネットで情報えてるからすごいなぁと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "いくら",
+            "text": "あんまり知りたくないことばかりで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "くまのみ",
+            "text": "@いくら そればっかりになっちゃいます、ネットは",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "くまのみ",
+            "text": "お恥ずかしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "まぐろ",
+            "text": "うんうん、上手く使えばいいんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "いくら",
+            "text": "ネット上手に使えたらいいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "くまのみ",
+            "text": "やっぱり、新聞はちょっと情報遅くなっちゃいますしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "いくら",
+            "text": "父親が最近ネットニュースたくさんみてて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "いくら",
+            "text": "とても詳しいんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "いくら",
+            "text": "ニュース見てると色んな人と話せるようになりますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "まぐろ",
+            "text": "@いくら あら、いいですね！",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "くまのみ",
+            "text": "けど、びっくりするような世界の小さな話とかものってるので新聞面白いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "いくら",
+            "text": "@くまのみ 毎日でもそうですよね、、",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "くまのみ",
+            "text": "@いくら お父さんすごいですね",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "まぐろ",
+            "text": "どちらも良さがあるんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "くまのみ",
+            "text": "@まぐろ そうですよね",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "いくら",
+            "text": "@くまのみ そうなんですね！ネットだと調べないこととか見れるのいいですね！",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くまのみ",
+            "text": "中国でゾウが大移動したとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "いくら",
+            "text": "えええ、そんな話題が！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "まぐろ",
+            "text": "気になるな、それ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "くまのみ",
+            "text": "数年前にありました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "いくら",
+            "text": "気になりますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "くまのみ",
+            "text": "でしょう！　子供に見せてちょっと興味もってもらったり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "いくら",
+            "text": "砂漠を24時間映すYouTubeがあるらしく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "いくら",
+            "text": "そこに野生の動物がうつるそうで、きになってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "くまのみ",
+            "text": "@いくら はまる人いそうですね",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "いくら",
+            "text": "野生の動物って興味湧きますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "まぐろ",
+            "text": "普段見れないのをみれるのがいいなあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "くまのみ",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "いくら",
+            "text": "@くまのみ 子供に新聞に興味持ってもらうのいいですね！",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "いくら",
+            "text": "ですよねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "くまのみ",
+            "text": "なかなか読んでくれませんけどね　涙",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "いくら",
+            "text": "活字ばかりで大変ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "いくら",
+            "text": "でも文字の勉強にもなるし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "くまのみ",
+            "text": "私も読めない漢字あります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "いくら",
+            "text": "絶対頭良くなる気がします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "まぐろ",
+            "text": "漢字は難しいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "いくら",
+            "text": "漢字難しいですよねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "くまのみ",
+            "text": "@いくら そう思ってチャレンジするんですけどなかなかです",
+            "mention_to": [
+                "いくら"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "くまのみ",
+            "text": "漢字苦手です。",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "いくら",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "まぐろ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "くまのみ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

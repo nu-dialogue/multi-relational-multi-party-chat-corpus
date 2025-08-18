@@ -1,0 +1,681 @@
+{
+    "dialogue_id": "A02901",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "しらす",
+        "なると",
+        "しじみ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "しらす",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "なると",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しじみ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "しらす",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "しじみ",
+            "text": "お願いしますー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "なると",
+            "text": "こちらこそ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しらす",
+            "text": "今日も天気悪いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "しらす",
+            "text": "皆さんのところはどうですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "しじみ",
+            "text": "@しらす こちらは良い天気です！",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "なると",
+            "text": "いやな天気ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "しじみ",
+            "text": "@なると 天気悪いんですね",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "しらす",
+            "text": "@しじみ 晴れてるんですね!!",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "しらす",
+            "text": "羨ましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "しじみ",
+            "text": "私のところは、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "しじみ",
+            "text": "とにかく気温が高いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "しじみ",
+            "text": "みなさん、寒いですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "なると",
+            "text": "そうなんですか？寒いくらいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "しらす",
+            "text": "こっちも気温高いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "しらす",
+            "text": "湿気がすごくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "しじみ",
+            "text": "湿気はいやですね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "しらす",
+            "text": "朝、霧が凄かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "なると",
+            "text": "そうなんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "しじみ",
+            "text": "霧がでる地域なんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "しらす",
+            "text": "周りが真っ白!!",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "しじみ",
+            "text": "へー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "なると",
+            "text": "すごいですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "しらす",
+            "text": "@しじみ そうなんですよ、結構きりの多い地域です",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "しじみ",
+            "text": "霧って朝何時くらいまで、でるんでしょう？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "しじみ",
+            "text": "日中もでるのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "しらす",
+            "text": "@しじみ 時間によりますが",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "なると",
+            "text": "朝早くでしょうか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "しらす",
+            "text": "今日は8時には引いてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しじみ",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しじみ",
+            "text": "標高が関係あるんでしょうか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "しらす",
+            "text": "どうなんでしょうね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "なると",
+            "text": "地形とかによるんでしょうかね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "しらす",
+            "text": "でも霧でしょっちゅう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "しじみ",
+            "text": "@なると 霧のある地域ですか？",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "しらす",
+            "text": "高速道路が通行止めになります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "しじみ",
+            "text": "えー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "なると",
+            "text": "へー、大変だ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "しじみ",
+            "text": "それは大変！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "なると",
+            "text": "霧はあまりでないです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しらす",
+            "text": "本当に大変です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "なると",
+            "text": "でも風は毎日強いです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "しじみ",
+            "text": "霧が強いと、何も見えない感じですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "しじみ",
+            "text": "@なると 風の多い地域なんですね！",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "しらす",
+            "text": "@なると 風が強いということは海の近くでしょうか？",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "なると",
+            "text": "海と山の間ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "しらす",
+            "text": "今日の霧は濃かったので全然見えませんでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "なると",
+            "text": "霧が多いのはロンドンみたいですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "しじみ",
+            "text": "海も山もあるなんて、いいところですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "しらす",
+            "text": "ほんとですね!!",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "しじみ",
+            "text": "@しらす あらー、運転こわいですね！",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "しじみ",
+            "text": "ロンドン！確かに！おしゃれ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しらす",
+            "text": "ロンドン!!結構田舎です笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "しじみ",
+            "text": "情緒がありそうで、いいですね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "しらす",
+            "text": "@しじみ なるべく乗らないようにしてます",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "なると",
+            "text": "怖そうですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "しじみ",
+            "text": "@しらす なるほどー、気をつけないとですもんね",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "しらす",
+            "text": "濃霧の時に乗ったことがありますけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "しらす",
+            "text": "本当に怖かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しじみ",
+            "text": "怖そう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "しらす",
+            "text": "ちなみに助手席です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "しじみ",
+            "text": "対向車も見えなさそうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しじみ",
+            "text": "助手席だと、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "なると",
+            "text": "怖いですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "しらす",
+            "text": "もうライトが頼りです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "しじみ",
+            "text": "運転手より怖いかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "なると",
+            "text": "吹雪の中は運転したことあります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "しじみ",
+            "text": "吹雪の中も怖いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "しらす",
+            "text": "吹雪!!",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "なると",
+            "text": "怖いですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "しらす",
+            "text": "怖いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "しじみ",
+            "text": "@なると 積雪地域ですか？",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "なると",
+            "text": "そうなんです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "しじみ",
+            "text": "あらー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "しらす",
+            "text": "怖い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しじみ",
+            "text": "私も出身地が積雪地域なんですが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "しじみ",
+            "text": "雪は命にかかわりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "なると",
+            "text": "そうですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "しらす",
+            "text": "雪、怖いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "しじみ",
+            "text": "@しらす 雪も降りますか？",
+            "mention_to": [
+                "しらす"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "しらす",
+            "text": "今住んでるところはほとんど降りません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "しじみ",
+            "text": "それはいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しらす",
+            "text": "実家は積もりますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "なると",
+            "text": "うらやましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "しじみ",
+            "text": "適度に振るのがちょうどいい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "しらす",
+            "text": "こっちに住んで積もったという経験がないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "なると",
+            "text": "へー、いいですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "しじみ",
+            "text": "ご実家が積もる地域だと、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "しじみ",
+            "text": "ありがたさが身に沁みますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "しらす",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "なると",
+            "text": "暖かい地域がうらやましいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "しじみ",
+            "text": "@なると 雪かきもしないとですか？",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "なると",
+            "text": "雪かきもたまにしますね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "しじみ",
+            "text": "あ〜大変そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "しじみ",
+            "text": "腰が痛くなりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "しらす",
+            "text": "雪かきしたことがないですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "しらす",
+            "text": "大変そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "しじみ",
+            "text": "体力使いますね！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "しらす",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "なると",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しじみ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,754 @@
+{
+    "dialogue_id": "B10801",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "りんご",
+        "たまご",
+        "つみれ"
+    ],
+    "relationship": [
+        "たまご",
+        "つみれ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "りんご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たまご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つみれ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "りんご",
+            "text": "今日はさむいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つみれ",
+            "text": "ほんと寒いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たまご",
+            "text": "寒いですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "りんご",
+            "text": "雪ふりました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つみれ",
+            "text": "昨日降りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 昨日ですか！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "つみれ",
+            "text": "結構積もりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "つみれ",
+            "text": "でも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "たまご",
+            "text": "こっちは降ってないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つみれ",
+            "text": "水っぽい雪だったので、今日の雨で溶けました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "りんご",
+            "text": "@たまご よかったですね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ うちのほうもそうですよ",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "たまご",
+            "text": "よかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "りんご",
+            "text": "雪はこまりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "つみれ",
+            "text": "雪かきとか大変ですし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "つみれ",
+            "text": "そもそも移動が大変ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "たまご",
+            "text": "びちゃびちゃ雪が1番大変",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 本当ですよね、車とか怖いです",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つみれ",
+            "text": "ほとんと車の運転が怖いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "たまご",
+            "text": "服濡れるし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "りんご",
+            "text": "@たまご 後までのこるから嫌ですよね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ スタッドレスですか？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご はい、スタットレスです",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つみれ",
+            "text": "長野県なので必須です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "りんご",
+            "text": "@たまご 運転しますか？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "たまご",
+            "text": "靴も濡れると乾くまでたいへん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たまご",
+            "text": "たまに運転します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ なるほど！うちは埼玉なので微妙です笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "りんご",
+            "text": "@たまご 運転するんですね！靴は乾かないですよね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご 私にしたら埼玉は都会です！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ そんな事ないくらいの埼玉笑",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つみれ",
+            "text": "でも地域にうよっては雪とか降りそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つみれ",
+            "text": "地域によっては",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 埼玉の秩父とかは降りますね",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "たまご",
+            "text": "全然むりです新聞入れて風邪に当て続けるか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "つみれ",
+            "text": "秩父！地名はよく聞きますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つみれ",
+            "text": "行ったことはないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "りんご",
+            "text": "@たまご うち息子が大学が新潟だったのでわかりますよ",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "たまご",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 意外と埼玉って県内移動のがしにくいんです",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご そうなんですね",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "りんご",
+            "text": "@たまご 乾燥機は必須でした",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "たまご",
+            "text": "新潟も雪やばいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つみれ",
+            "text": "新潟だと雪が多そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 横移動がなかなか大変なんです",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "りんご",
+            "text": "新潟、めちゃくちゃ大変です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "たまご",
+            "text": "スキー有名だし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "りんご",
+            "text": "@たまご スキーしますか？スノボーかな",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つみれ",
+            "text": "長野より雪深いイメージです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "たまご",
+            "text": "たまにします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご 昔はスノボしてました",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "たまご",
+            "text": "ちょっと滑れる程度で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ すごーい！",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "りんご",
+            "text": "@たまご 滑れるのすごい！",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 昔にスキーは少ししました",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たまご",
+            "text": "けど上手くはないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "りんご",
+            "text": "@たまご できるだけすごいです、私筋肉痛になりそう笑",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご スキーもいいですよね！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "たまご",
+            "text": "なります笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 本当に昔はよく行きました",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご この前10年ぶりにやったら全然滑れませんでした笑",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "りんご",
+            "text": "@たまご スキーを初めてした時は筋肉痛でロボット的な動きになりました",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 私も今やったら無理かも",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ スピードがまず無理",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご 感覚を取り戻すのも大変ですよね",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "たまご",
+            "text": "バキバキです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "りんご",
+            "text": "@たまご 他に何かスポーツとかやりますか？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "たまご",
+            "text": "早く感じる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "たまご",
+            "text": "テニスとサッカーとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たまご",
+            "text": "遊び程度で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "りんご",
+            "text": "@たまご それくらいが楽しいですよね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "たまご",
+            "text": "@りんご そうです",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ スポーツは何かしてますか？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご 全然何もしてないです",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "つみれ",
+            "text": "しなきゃとは思いつつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 同じです",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つみれ",
+            "text": "やるまでに時間がかかちゃって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "りんご",
+            "text": "わかります私もですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "たまご",
+            "text": "なかなかできないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つみれ",
+            "text": "やりたいスポーツとかありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "たまご",
+            "text": "やりたい気持ちはあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 今はヨガやりたいです",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "りんご",
+            "text": "あんまり激しいのはちょっとなんで笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご ヨガいいですね!",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "りんご",
+            "text": "@たまご 何かやりたいのあります？",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "つみれ",
+            "text": "ヨガはやったことあります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ そうなんですか？いいですね",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ どうでした？",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "たまご",
+            "text": "テニスですかねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご 知り合いのところで何度か",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご 心も落ち着くのでいいですよ!",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "りんご",
+            "text": "@たまご テニスは楽しそう、でもいっぱい走るからきつそー",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たまご",
+            "text": "ヨガも良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "りんご",
+            "text": "@つみれ 気持ちも落ち着く感じですよね",
+            "mention_to": [
+                "つみれ"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "りんご",
+            "text": "@たまご 友達とかとやると楽しそうですね",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たまご",
+            "text": "打ってると走りを忘れちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つみれ",
+            "text": "@りんご ぜひやってみるのもいいと思います！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "りんご",
+            "text": "@たまご なんか当たった感じが気持ち良さそうですね、すかっと",
+            "mention_to": [
+                "たまご"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "たまご",
+            "text": "分かります",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "りんご",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "たまご",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つみれ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,702 @@
+{
+    "dialogue_id": "B13207",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "のりすけ",
+        "しらたき",
+        "つくね"
+    ],
+    "relationship": [
+        "しらたき",
+        "つくね"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "のりすけ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "しらたき",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つくね",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "のりすけ",
+            "text": "妻が潔癖なんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "のりすけ",
+            "text": "お2人はどうですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 全然無いね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "つくね",
+            "text": "全然ですね！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "つくね",
+            "text": "色々平気です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "しらたき",
+            "text": "同じく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "のりすけ",
+            "text": "綺麗好きとかそういうのも無く？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "しらたき",
+            "text": "綺麗にはしたいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "しらたき",
+            "text": "願望！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ 綺麗にはしたいです",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき 願望分かります！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "しらたき",
+            "text": "掃除が苦手で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つくね",
+            "text": "整理整頓が苦手です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "のりすけ",
+            "text": "自分もあまり気にならないタイプなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "しらたき",
+            "text": "隅っこに積み上げて綺麗にする！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき まとめてポン！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき それ綺麗とは言わない",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "つくね",
+            "text": "物が多いんだよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つくね",
+            "text": "断捨離",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "しらたき",
+            "text": "そうだね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "のりすけ",
+            "text": "@つくね 整理整頓しても翌月には",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ そうなんですよねー",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "しらたき",
+            "text": "小物が多くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つくね",
+            "text": "なんででしょうね？笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "のりすけ",
+            "text": "妻も断捨離出来ず",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "のりすけ",
+            "text": "潔癖で綺麗好きなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つくね",
+            "text": "箱とか使うかもと思って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "のりすけ",
+            "text": "パンパンになる押し入れとよく戦ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "つくね",
+            "text": "取っておくのもやめたいです！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "のりすけ",
+            "text": "@つくね 箱はかさばりますから",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しらたき",
+            "text": "でも捨ててもそれ以上に増えてく気が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき よくある現象です",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ そうなんですよね",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "つくね",
+            "text": "紙袋とかも取ってあります！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "のりすけ",
+            "text": "トイレ掃除とかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "のりすけ",
+            "text": "平気ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "しらたき",
+            "text": "平気です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "のりすけ",
+            "text": "@つくね 紙袋はある程度畳めるので",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つくね",
+            "text": "平気ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "しらたき",
+            "text": "最近は便利な掃除用品あるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しらたき",
+            "text": "だいぶ楽ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "のりすけ",
+            "text": "スッポンあります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "しらたき",
+            "text": "無いです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ 畳めますが量があります！笑",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "のりすけ",
+            "text": "詰まったことありません？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "しらたき",
+            "text": "この前子供が紙詰まらせて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "しらたき",
+            "text": "BBQのトングで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "しらたき",
+            "text": "とりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき それな！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "のりすけ",
+            "text": "@つくね 紙袋1つに畳んだの入れて",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "しらたき",
+            "text": "ブツもありました！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "つくね",
+            "text": "聞いた時はびっくりした笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "のりすけ",
+            "text": "それ以上は捨ててます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ それができればいいですが",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき 見えるところで詰まってたんですね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 布団も子供のお漏らしだらけ！笑",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つくね",
+            "text": "やっぱり使うかもと取ってありますね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "のりすけ",
+            "text": "自分のトイレは奥で詰まって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "しらたき",
+            "text": "@のりすけ そうですね！",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しらたき",
+            "text": "幸いにも手前で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき そうなんだよね…",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "しらたき",
+            "text": "よかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "つくね",
+            "text": "洗いたい笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "しらたき",
+            "text": "奥は取れませんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "のりすけ",
+            "text": "スッポンもなかったので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "のりすけ",
+            "text": "手を突っ込んで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "しらたき",
+            "text": "えー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ スッポンはなかなか家庭には置いてないですよね",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "のりすけ",
+            "text": "拳を握り",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "のりすけ",
+            "text": "勢いよく引き抜いて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "のりすけ",
+            "text": "拳スッポンで解消しました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "しらたき",
+            "text": "@のりすけ 流石です！",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "しらたき",
+            "text": "プロの技ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ さすがー！",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "のりすけ",
+            "text": "洗えば済むという考えなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "のりすけ",
+            "text": "しっかり洗ってすぐ夕食をいただきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "しらたき",
+            "text": "奥様は絶対できないですよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき いやー割とできちゃいますね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき 出来ないですし近づきもしません",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つくね",
+            "text": "できないか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つくね",
+            "text": "手袋でも無理か",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 大抵の人は抵抗あるかと",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "のりすけ",
+            "text": "手を突っ込んでる自分を見て",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき そうだよね…トイレだし",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "のりすけ",
+            "text": "大爆笑してました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "のりすけ",
+            "text": "タプタプに溜まった水が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しらたき",
+            "text": "@のりすけ あまり見る事ないですからね！",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "のりすけ",
+            "text": "拳を引き抜いた瞬間ゴゴゴゴと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "しらたき",
+            "text": "気持ちいい瞬間！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "のりすけ",
+            "text": "吸い込まれるのを見てまた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しらたき",
+            "text": "たまらないですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "のりすけ",
+            "text": "爆笑してました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ それは笑えますね",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき 希少映像です",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つくね",
+            "text": "中々見れない！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "のりすけ",
+            "text": "実は3度やってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "しらたき",
+            "text": "紙使いすぎ！笑",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "のりすけ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

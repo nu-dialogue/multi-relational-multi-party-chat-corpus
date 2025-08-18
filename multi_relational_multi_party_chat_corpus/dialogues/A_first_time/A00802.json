@@ -1,0 +1,693 @@
+{
+    "dialogue_id": "A00802",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おでん",
+        "おにぎり",
+        "ねぎとろ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おでん",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "おにぎり",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ねぎとろ",
+            "text": "おはようございます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おでん",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ねぎとろ",
+            "text": "よろしくお願いいたします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "おにぎり",
+            "text": "お願い致します！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おでん",
+            "text": "昨日はバレンタインでしたが、誰かにあげましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "おにぎり",
+            "text": "誰にもあげていません。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ねぎとろ",
+            "text": "はい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "おでん",
+            "text": "@ねぎとろ 誰にあげたんですか？",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "おでん",
+            "text": "@おにぎり あげなかったんですね",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@おでん 大好きなお友だちに。",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "おにぎり",
+            "text": "お友達にですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "おでん",
+            "text": "友チョコですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "おにぎり",
+            "text": "素敵！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@おでん あげましたか。",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ありがとうございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "おでん",
+            "text": "私はコンビニで手軽に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "おにぎり",
+            "text": "私は、いつも通りに過ごしました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "おでん",
+            "text": "主人にあげました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "おにぎり",
+            "text": "@おでん 優しい！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "おでん",
+            "text": "でも、それよりも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@おでん 素敵",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "おでん",
+            "text": "バレンタインジャンボが気になります  笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "おにぎり",
+            "text": "宝くじですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "おでん",
+            "text": "そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ねぎとろ",
+            "text": "明日かな、結果",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "おでん",
+            "text": "発売が昨日からで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "おにぎり",
+            "text": "宝くじ買ったのですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "おでん",
+            "text": "まだなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "おにぎり",
+            "text": "いくら当たるのかな？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@おでん そうなんですね。",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "おでん",
+            "text": "御二方は宝くじはどうですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "おにぎり",
+            "text": "私は、買わないですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "おでん",
+            "text": "1等はいくらなんだろ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたしは時々",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "おでん",
+            "text": "私は毎回です  笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "おにぎり",
+            "text": "@ねぎとろ 当たりますか？",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "おでん",
+            "text": "んーー当たりませんねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ねぎとろ",
+            "text": "いくらだろう。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "おにぎり",
+            "text": "@おでん お好きなんですね！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "おでん",
+            "text": "ほんと、夢ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "おにぎり",
+            "text": "一億あったら、、夢膨らみますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@おにぎり 先日3000円、ちょっとだけ。",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "おにぎり",
+            "text": "すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "おでん",
+            "text": "当たったんですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ねぎとろ",
+            "text": "1億がいいな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "おにぎり",
+            "text": "一億、、何したいですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "おでん",
+            "text": "私も何年も買い続けて、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "おでん",
+            "text": "最高1万円でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたしも、最高は1万円",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "おにぎり",
+            "text": "@おでん 一万円は、すごいー",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "おでん",
+            "text": "なかなか当たりません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "おにぎり",
+            "text": "収支を考えてはいけませんね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "おでん",
+            "text": "でも、当たったらーと夢をね  笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ねぎとろ",
+            "text": "1億あったら、まずは貯金",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "おでん",
+            "text": "貯金！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ねぎとろ",
+            "text": "あと外国に家を買う",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "おにぎり",
+            "text": "家のローン返したい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "おでん",
+            "text": "外国ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ねぎとろ",
+            "text": "貯金じゃなくて、投資",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ねぎとろ",
+            "text": "外国です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "おにぎり",
+            "text": "どこの国がいいとかあります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "おでん",
+            "text": "どこ？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ドイツかオーストリア",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "おでん",
+            "text": "良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "おにぎり",
+            "text": "値上がりが期待出来る？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ねぎとろ",
+            "text": "毎日美術館にいったり、クラシックコンサートに行きたい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "おでん",
+            "text": "ヨーロッパがいいんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ねぎとろ",
+            "text": "はい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "おにぎり",
+            "text": "日本と海外を行ったりきたり、したいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "おでん",
+            "text": "素敵ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ねぎとろ",
+            "text": "いいですね、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "おでん",
+            "text": "私は東京に中古物件でいいから家が欲しい笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ねぎとろ",
+            "text": "東京、高そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "おにぎり",
+            "text": "一億で、おつりくるかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "おでん",
+            "text": "当たってないのに、物件探ししたりしてます笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "おでん",
+            "text": "1億、お釣りくるかなー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたしも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "おにぎり",
+            "text": "準備は大事！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ねぎとろ",
+            "text": "です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "おでん",
+            "text": "夢ですねー笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "おにぎり",
+            "text": "住みたい街あります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "おでん",
+            "text": "私は東京か、鎌倉",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "おにぎり",
+            "text": "@おでん 鎌倉！！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたしはウィーン。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "おでん",
+            "text": "@おにぎりどこがありますか？",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "おにぎり",
+            "text": "私は、横浜に住みたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "おでん",
+            "text": "ウィーン、ほんとに好きなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ねぎとろ",
+            "text": "横浜、いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "おでん",
+            "text": "横浜もいいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "おにぎり",
+            "text": "鎌倉とか、逗子も！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "おでん",
+            "text": "オシャレな街ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ねぎとろ",
+            "text": "鎌倉も素敵",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "おでん",
+            "text": "やっぱり関東って憧れます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "おにぎり",
+            "text": "老後は絶対引っ越したい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "おでん",
+            "text": "私もー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたしも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "おにぎり",
+            "text": "やはり宝くじ買わないと。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "おでん",
+            "text": "@ねぎとろ ヨーロッパとか行ったりするんですか？",
+            "mention_to": [
+                "ねぎとろ"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ねぎとろ",
+            "text": "結論はそこですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "おにぎり",
+            "text": "きになる、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "おでん",
+            "text": "宝くじ、買わないと夢が見れません笑笑",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おでん",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "おにぎり",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ねぎとろ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

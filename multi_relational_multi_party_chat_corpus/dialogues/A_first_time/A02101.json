@@ -1,0 +1,707 @@
+{
+    "dialogue_id": "A02101",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "うどん",
+        "みたらし",
+        "いそべ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うどん",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "みたらし",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "いそべ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うどん",
+            "text": "今日はどこか出かけましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "みたらし",
+            "text": "今日は家にいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "いそべ",
+            "text": "今日は寒くて出かけてないです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "うどん",
+            "text": "まだ寒いですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "みたらし",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "うどん",
+            "text": "まったりな休日もいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "いそべ",
+            "text": "はいさむいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "うどん",
+            "text": "春一番が吹いたといいますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "みたらし",
+            "text": "お昼寝をたくさんしてしまいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "うどん",
+            "text": "まだまだ冬ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "いそべ",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし ゆっくりなさることができたようでよかったです！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "みたらし",
+            "text": "@うどん 春一番がふいたんですね",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし そうみたいです！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "みたらし",
+            "text": "@うどん ありがとうございます",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "みたらし",
+            "text": "@うどん さんはどうでしたか？",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "うどん",
+            "text": "早く暖かくなるといいなー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし わたしは洋服を見に行きました",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "いそべ",
+            "text": "おーいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "うどん",
+            "text": "@いそべ ありがとうございます！",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "みたらし",
+            "text": "いいですね。どんな感じの服を見に行ったんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "うどん",
+            "text": "ブラウスを見に行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "みたらし",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "うどん",
+            "text": "春ものを揃えようと思いまして〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "みたらし",
+            "text": "最近はスーツか子供の服しか見に行ってないですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "いそべ",
+            "text": "そろそろあったかくなりますもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "うどん",
+            "text": "お子さんの服、かわいいだろうな〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "みたらし",
+            "text": "@うどん 春近いからいいですね。",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "うどん",
+            "text": "@いそべ ほんとですね！",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "うどん",
+            "text": "皆さんは春はお花見とかしますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "みたらし",
+            "text": "子供といってももう大きい子なので付き添いって感じですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし なるほど！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "いそべ",
+            "text": "自分はお花見する予定はないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "みたらし",
+            "text": "@うどん 花見はコロナ以降いってないですね。。",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "うどん",
+            "text": "コロナで出かける文化なくなりましたよね〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "みたらし",
+            "text": "今年は花見行きたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし 私も！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "みたらし",
+            "text": "@いそべ はどうですか？",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "いそべ",
+            "text": "確かに桜は見ておきたいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "うどん",
+            "text": "桜の観光名所とか興味ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "みたらし",
+            "text": "ソメイヨシノの寿命が近いっていうので目に焼き付けておきたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "うどん",
+            "text": "え！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "うどん",
+            "text": "ソメイヨシノって寿命近いんですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "うどん",
+            "text": "初めて知りました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "いそべ",
+            "text": "初耳です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "みたらし",
+            "text": "そうなんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "うどん",
+            "text": "悲しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "うどん",
+            "text": "定番なのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "みたらし",
+            "text": "ソメイヨシノは突然変異で1本しかないのを接ぎ木で増やしたので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "うどん",
+            "text": "ふむふむ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "いそべ",
+            "text": "@みたらし あとどれぐらいで寿命が来るんですか？",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "みたらし",
+            "text": "100年と言われていてそろそろ100年です。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "うどん",
+            "text": "えー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "いそべ",
+            "text": "かなしいですね、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "うどん",
+            "text": "100年しか生きないんですね...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "みたらし",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "うどん",
+            "text": "ほかの種の桜は大丈夫だといいけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "うどん",
+            "text": "桜がなくなるのは悲しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "みたらし",
+            "text": "遺伝子的に100年と言われてますがほんとのところは分からないですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "いそべ",
+            "text": "桜は春の代名詞なのに、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし なるほどですー！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "うどん",
+            "text": "日本の春！って感じですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "みたらし",
+            "text": "もし枯れてしまったらソメイヨシノ以外で楽しみましょう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "いそべ",
+            "text": "そうします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "うどん",
+            "text": "桜があると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "うどん",
+            "text": "華やかですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "みたらし",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "うどん",
+            "text": "枝垂れ桜とか好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "いそべ",
+            "text": "色が綺麗ですもんね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "みたらし",
+            "text": "やはりソメイヨシノが一番好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "いそべ",
+            "text": "それもいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "みたらし",
+            "text": "枝垂桜もいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "みたらし",
+            "text": "桜の観光名所と言ったら新宿御苑とかですかね。あとは芝公園かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "いそべ",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "いそべ",
+            "text": "参考になります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うどん",
+            "text": "行ってみますー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "うどん",
+            "text": "知らなかった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "みたらし",
+            "text": "あと江戸城跡もいいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "うどん",
+            "text": "江戸城！歴史が深いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "みたらし",
+            "text": "春はお昼にお弁当もっていくのもいいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "うどん",
+            "text": "いいですねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "いそべ",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "うどん",
+            "text": "お弁当の準備から楽しそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "いそべ",
+            "text": "今年はやっぱりお花見いこうかな！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "うどん",
+            "text": "ぜひ行きましょー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "みたらし",
+            "text": "＠うどん ＠いそべ おすすめの桜の観光名所ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし わたしは京都の円山公園が好きですー！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "うどん",
+            "text": "昔京都に住んでたもので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "みたらし",
+            "text": "おお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "みたらし",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "うどん",
+            "text": "すっごく大きな桜が1本うわっています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "うどん",
+            "text": "枝垂れ桜かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "うどん",
+            "text": "色が濃い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "みたらし",
+            "text": "京都好きなんですが 随分長いこといってないな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "いそべ",
+            "text": "見てみたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "うどん",
+            "text": "関東からだと少し遠いですよね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "うどん",
+            "text": "京都まで行くとなると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "いそべ",
+            "text": "確かに京都だと少し距離まりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "みたらし",
+            "text": "@うどん  見に行きたいな。どの地域にあるんですか？",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし 八坂神社とか祇園の近くです！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "うどん",
+            "text": "あと清水寺も近い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "いそべ",
+            "text": "参考になる！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うどん",
+            "informativeness": 1,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "みたらし",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "いそべ",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

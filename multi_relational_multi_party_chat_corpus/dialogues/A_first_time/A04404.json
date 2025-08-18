@@ -1,0 +1,677 @@
+{
+    "dialogue_id": "A04404",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "こまつな",
+        "かにたま",
+        "きなこ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "こまつな",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "かにたま",
+            "text": "こんにちは〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "きなこ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "こまつな",
+            "text": "春の予定とかありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "かにたま",
+            "text": "コラボカフェに行くかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "きなこ",
+            "text": "これから計画しようかな～と考えていました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "かにたま",
+            "text": "女子会",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "かにたま",
+            "text": "@こまつな ありますか？",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "きなこ",
+            "text": "@かにたま 気になる！",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "こまつな",
+            "text": "@かにたま 何もなくて",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こまつな",
+            "text": "どうしようかと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "かにたま",
+            "text": "@きなこ モブサイコ当たればいきたい",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "こまつな",
+            "text": "モブサイコ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "かにたま",
+            "text": "知ってますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "きなこ",
+            "text": "え！それはなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "きなこ",
+            "text": "知りたい！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "こまつな",
+            "text": "中身はよく知らないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "こまつな",
+            "text": "さわりぐらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "かにたま",
+            "text": "超能力の少年の話なんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "かにたま",
+            "text": "結構よくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "かにたま",
+            "text": "ハマりましたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "こまつな",
+            "text": "@かにたま 当たらないといけないんですか？",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "きなこ",
+            "text": "面白そう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "かにたま",
+            "text": "アニメ見ますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "こまつな",
+            "text": "見ます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "きなこ",
+            "text": "私はあまりみないですが、家族が見てます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "かにたま",
+            "text": "@こまつな コラボカフェは抽選なのです",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "かにたま",
+            "text": "何見ますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "こまつな",
+            "text": "まあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "こまつな",
+            "text": "今はフリーレンみてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "かにたま",
+            "text": "あー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "こまつな",
+            "text": "結構はまって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "かにたま",
+            "text": "たまに見てます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "かにたま",
+            "text": "面白いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "こまつな",
+            "text": "漫画もちょっと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "こまつな",
+            "text": "ただで見れるのとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "きなこ",
+            "text": "うちも、私以外の家族がみんな見てます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "かにたま",
+            "text": "流行ってますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "こまつな",
+            "text": "泣けるんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "こまつな",
+            "text": "時々",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "きなこ",
+            "text": "泣けるんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "こまつな",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "こまつな",
+            "text": "勇者が優しくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "かにたま",
+            "text": "内容いいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "きなこ",
+            "text": "そういう内容のいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "こまつな",
+            "text": "戦いが激しくないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こまつな",
+            "text": "描写があまりないから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "かにたま",
+            "text": "そうかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "こまつな",
+            "text": "回想シーンがいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "きなこ",
+            "text": "読んでいて疲れなさそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "こまつな",
+            "text": "あんまりグロイのは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "こまつな",
+            "text": "構えて見ないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "こまつな",
+            "text": "なので疲れますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "かにたま",
+            "text": "分かるかも、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "きなこ",
+            "text": "元気なときはいいんですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "こまつな",
+            "text": "呪術も最初見れなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "かにたま",
+            "text": "あー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "こまつな",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "きなこ",
+            "text": "疲れている時はそういうのみれない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "かにたま",
+            "text": "激しいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "こまつな",
+            "text": "覚悟して見ました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "きなこ",
+            "text": "なるほど～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "かにたま",
+            "text": "観る時ちから入ります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "こまつな",
+            "text": "肩こりますよ笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "かにたま",
+            "text": "息を飲んじゃう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "きなこ",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "こまつな",
+            "text": "音とかすごいし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "こまつな",
+            "text": "ホンワカ系がいいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "こまつな",
+            "text": "ダンジョン飯とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "かにたま",
+            "text": "あー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "こまつな",
+            "text": "知ってます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "かにたま",
+            "text": "聞いたことあるけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "きなこ",
+            "text": "料理系？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "かにたま",
+            "text": "知らないかも…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "こまつな",
+            "text": "ご飯",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "こまつな",
+            "text": "作るんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "かにたま",
+            "text": "何でしたっけ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "きなこ",
+            "text": "おもしろそうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "こまつな",
+            "text": "魔物で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "きなこ",
+            "text": "ん？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "こまつな",
+            "text": "笑えます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "きなこ",
+            "text": "想像と真反対でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "こまつな",
+            "text": "食べられるの？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "かにたま",
+            "text": "脳みそ食べるやつ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "こまつな",
+            "text": "いや結構おいしく作る",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "かにたま",
+            "text": "猿の",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "こまつな",
+            "text": "それは違うかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "かにたま",
+            "text": "違うやつかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "きなこ",
+            "text": "魔物を食べる？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "こまつな",
+            "text": "そうそう竜とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "こまつな",
+            "text": "料理人がいるんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "きなこ",
+            "text": "なるほど～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "かにたま",
+            "text": "えー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "こまつな",
+            "text": "ほんわか見てます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "きなこ",
+            "text": "ほ・・ほんわか系なのですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "こまつな",
+            "text": "モブサイコいいですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "かにたま",
+            "text": "普通の料理もありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "こまつな",
+            "text": "普通のがいい方は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こまつな",
+            "text": "別のアニメがいいかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "きなこ",
+            "text": "なるほど笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "かにたま",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "こまつな",
+            "text": "転生先で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "こまつな",
+            "text": "アマゾンで買って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "こまつな",
+            "text": "ご飯食べるアニメがありました",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "こまつな",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "かにたま",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "きなこ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

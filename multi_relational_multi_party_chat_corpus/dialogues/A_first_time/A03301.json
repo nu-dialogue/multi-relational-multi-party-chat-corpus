@@ -1,0 +1,691 @@
+{
+    "dialogue_id": "A03301",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おでん",
+        "がんも",
+        "きなこ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おでん",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "がんも",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "きなこ",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おでん",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "がんも",
+            "text": "よろしくお願いいたします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "きなこ",
+            "text": "こちらこそよろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おでん",
+            "text": "今夜、ハンドルネームでもある",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "おでん",
+            "text": "おでんにしたんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "きなこ",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "がんも",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "おでん",
+            "text": "好きな具ってありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "きなこ",
+            "text": "やっぱり・・卵です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "おでん",
+            "text": "@きなこ 一緒です！",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "がんも",
+            "text": "大根すきです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "おでん",
+            "text": "おー！大根もいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "きなこ",
+            "text": "@がんも 大根と悩みました",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "きなこ",
+            "text": "ツートップ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "がんも",
+            "text": "わかります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "おでん",
+            "text": "いい勝負だと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "おでん",
+            "text": "ちなみに苦手なのはありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "きなこ",
+            "text": "はんぺんとか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "おでん",
+            "text": "そうなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "おでん",
+            "text": "私は焼きちくわです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "きなこ",
+            "text": "えー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "おでん",
+            "text": "@がんも 何か、苦手なものありますか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "がんも",
+            "text": "おでん全部すきかも。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "おでん",
+            "text": "@がんも そうなんですね！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "きなこ",
+            "text": "うちは沢山ちくわぶが入ります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "おでん",
+            "text": "ちくわぶ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "おでん",
+            "text": "うちは入れませんけど、美味しいって聞きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんです～！おいしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "がんも",
+            "text": "うちは大根多めです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "きなこ",
+            "text": "@がんも わかります～",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "おでん",
+            "text": "大根が人気なんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "おでん",
+            "text": "何をつけて食べますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "きなこ",
+            "text": "え！何かつけるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "おでん",
+            "text": "定番はカラシなのかなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "きなこ",
+            "text": "@おでん おなじです",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "おでん",
+            "text": "@きなこ つけませんか？",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "おでん",
+            "text": "あっ、からしなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "きなこ",
+            "text": "そうです～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "がんも",
+            "text": "ねぎタレつけます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "おでん",
+            "text": "@がんも ネギたれ？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "きなこ",
+            "text": "お！おいしそう！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "おでん",
+            "text": "タレはどんな味なんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "おでん",
+            "text": "初めて聞きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "がんも",
+            "text": "出し醤油に刻んだネギいれたやつです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "おでん",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "きなこ",
+            "text": "初めてききました！おいしそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "おでん",
+            "text": "それは地域では普通なんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "がんも",
+            "text": "南信でよく食べます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "おでん",
+            "text": "南信？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "きなこ",
+            "text": "信州？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "おでん",
+            "text": "南信州でしょうか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "がんも",
+            "text": "長野の南の方",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "おでん",
+            "text": "そうなんですね、地域性あるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "きなこ",
+            "text": "ご当地の味ですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "がんも",
+            "text": "ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "おでん",
+            "text": "私も最近、九州では定番の",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "おでん",
+            "text": "柚子胡椒を試したりしてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "おでん",
+            "text": "これも結構いけます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "きなこ",
+            "text": "柚子胡椒おいしいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "がんも",
+            "text": "おいしそう。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "おでん",
+            "text": "ね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "きなこ",
+            "text": "今度試してみます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "おでん",
+            "text": "試してください",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "おでん",
+            "text": "ぜひぜひ  笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "がんも",
+            "text": "試してみます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "きなこ",
+            "text": "明日から寒いから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "きなこ",
+            "text": "試してみます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "おでん",
+            "text": "まだまだ、おでんいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "きなこ",
+            "text": "私、おでんが一番好きな食べ物なんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "おでん",
+            "text": "わー！それはいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "がんも",
+            "text": "ですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "きなこ",
+            "text": "周りからは・・おでんが一番？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "おでん",
+            "text": "また、明日から寒くなると言ってるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "きなこ",
+            "text": "なんて言われます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "おでん",
+            "text": "笑笑  私なら1番は焼肉かなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "がんも",
+            "text": "焼肉いいですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "きなこ",
+            "text": "@おでん 焼肉2番です",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "おでん",
+            "text": "@がんも 1番の好きな食べ物なにですか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "おでん",
+            "text": "@きなこ 焼肉に勝つとは！笑",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "がんも",
+            "text": "唐揚げすきです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "おでん",
+            "text": "唐揚げ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "おでん",
+            "text": "それも捨て難いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "きなこ",
+            "text": "おいしいですよね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "おでん",
+            "text": "美味しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "がんも",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "おでん",
+            "text": "コンビニとかも、力入れてますもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "がんも",
+            "text": "わかります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "きなこ",
+            "text": "唐揚げの専門店もありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "おでん",
+            "text": "ありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "がんも",
+            "text": "ありますね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "きなこ",
+            "text": "唐揚げの人気も高いですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "おでん",
+            "text": "近くに、軟骨や、ズリの唐揚げが売っていて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "きなこ",
+            "text": "おー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "おでん",
+            "text": "大きさはちっちゃいですけど、つまみにいいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "きなこ",
+            "text": "ズリってお魚とかですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "おでん",
+            "text": "食べだしたら、ポツポツ、辞められない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "おでん",
+            "text": "@きなこ 鶏ですよ",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "きなこ",
+            "text": "@おでん 鶏でしたか！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "きなこ",
+            "text": "部位とか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "おでん",
+            "text": "そうなんです、そそ、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "おでん",
+            "text": "鶏の居酒屋さんも多いですよね",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おでん",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "がんも",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 2
+        },
+        {
+            "interlocutor_id": "きなこ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

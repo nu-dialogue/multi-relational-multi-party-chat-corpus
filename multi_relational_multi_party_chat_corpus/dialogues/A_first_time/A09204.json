@@ -1,0 +1,709 @@
+{
+    "dialogue_id": "A09204",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "かにたま",
+        "あざらし",
+        "ハンバーグ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "かにたま",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "あざらし",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ハンバーグ",
+            "text": "こんにちはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "かにたま",
+            "text": "GW予定ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ハンバーグ",
+            "text": "まだ予定たててません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "あざらし",
+            "text": "@かにたま 何も決めてなくて",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "あざらし",
+            "text": "@かにたま どこか行きますか？",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "かにたま",
+            "text": "私もライブ位で何もです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "あざらし",
+            "text": "子供いるとどこかには行かなきゃですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし ですよね",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ハンバーグ",
+            "text": "どこ行っても混んでるから別で休み取ろうかなぁって感じ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あざらし ですよね",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "あざらし",
+            "text": "@ハンバーグ 別で休みいいですね",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "かにたま",
+            "text": "@ハンバーグ 本当はそれが1番ですね",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "あざらし",
+            "text": "確かに混んでますよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "かにたま",
+            "text": "GW混むし高いし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "あざらし",
+            "text": "渋滞がすごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ハンバーグ",
+            "text": "渋滞嫌ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "あざらし",
+            "text": "昔、茨城のひたちなか海浜公園まで行くのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし 怖いですよね",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ハンバーグ",
+            "text": "時間がよめなくなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "あざらし",
+            "text": "6時間くらいかかりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "かにたま",
+            "text": "渋滞の先頭はどうなってるか気になります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ええー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし えー！",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "あざらし",
+            "text": "子供が車内でトイレ行きたいって言い出して",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "あざらし",
+            "text": "大変でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ハンバーグ",
+            "text": "確かにトイレ困ります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし 降りれないし困りますよね",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "あざらし",
+            "text": "そうなんですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "かにたま",
+            "text": "喉は乾くし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "あざらし",
+            "text": "何とかことなきを得たんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "かにたま",
+            "text": "うん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "あざらし",
+            "text": "まさかそんなに混むとは思わず",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "あざらし",
+            "text": "場所選び大切ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "かにたま",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ハンバーグ",
+            "text": "渋滞はよめませんよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "かにたま",
+            "text": "あとトイレチェックも重要！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "あざらし",
+            "text": "そうですね！トイレチェック",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@かにたま 重要です",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "あざらし",
+            "text": "大事ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "かにたま",
+            "text": "渋滞のたびに空飛べたら…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "かにたま",
+            "text": "と思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "あざらし",
+            "text": "@かにたま 確かにー",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "あざらし",
+            "text": "いいかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@かにたま 空飛べるようになる頃には生きてなさそうですけど涙",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "かにたま",
+            "text": "ドローンみたいに飛べると便利",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "あざらし",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "あざらし",
+            "text": "便利ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "かにたま",
+            "text": "@ハンバーグ いずれ飛べるかな？",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ハンバーグ",
+            "text": "飛べたら便利です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "あざらし",
+            "text": "飛べるようになりそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "かにたま",
+            "text": "あー乗りたい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@かにたま 将来飛べるようになると思いますが….",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ハンバーグ",
+            "text": "でも、色々問題ありそうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "あざらし",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "かにたま",
+            "text": "@ハンバーグ それまでに不老不死薬があれば",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "あざらし",
+            "text": "それはそれで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "あざらし",
+            "text": "また問題増えそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "あざらし",
+            "text": "不老不死ですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "かにたま",
+            "text": "空も渋滞しちゃうかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@かにたま 年取ってから不老不死になってもな笑",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "あざらし",
+            "text": "空の渋滞もあり得ますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ハンバーグ",
+            "text": "今の状態で不老不死ならいいけど笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "かにたま",
+            "text": "@ハンバーグ 確かに",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "あざらし",
+            "text": "若返りたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あざらし 若返りたいーー",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし ですよね",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "あざらし",
+            "text": "でも人口おかしくなりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "かにたま",
+            "text": "でも開発されてますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "あざらし",
+            "text": "みんな若返ったら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "あざらし",
+            "text": "開発されてそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@かにたま そのうち開発されそうですね",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "あざらし",
+            "text": "高そうですがね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "あざらし",
+            "text": "高価な薬ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし 美容医師が試してますって",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ハンバーグ",
+            "text": "人口増え続けますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "かにたま",
+            "text": "@ハンバーグ 人口増えちゃいますね",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "あざらし",
+            "text": "それも地球にはよくないのかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし 確かに",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "あざらし",
+            "text": "だから他の惑星に住むのかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "かにたま",
+            "text": "生態系崩れちゃうか、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "あざらし",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ハンバーグ",
+            "text": "人口増え続けたら住むとか無くなっちゃいますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし 確かに！",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ハンバーグ",
+            "text": "そこまで考えてなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "かにたま",
+            "text": "火星でしたっけ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "あざらし",
+            "text": "火星とかって言われてますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "かにたま",
+            "text": "販売しているの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "あざらし",
+            "text": "住めるのかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "かにたま",
+            "text": "水はあるとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "あざらし",
+            "text": "おおー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ハンバーグ",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "あざらし",
+            "text": "水あれば行けそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし ですよね",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ハンバーグ",
+            "text": "まぁ向こうにも何らかの生物が存在してそうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "かにたま",
+            "text": "他の惑星に行ける日も近いのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "あざらし",
+            "text": "行ってみたい気もします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "あざらし",
+            "text": "でも怖いかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "かにたま",
+            "text": "間違いなく居ますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ハンバーグ",
+            "text": "一般人が宇宙に出られるのは相当先になりそう",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "かにたま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "あざらし",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "ハンバーグ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

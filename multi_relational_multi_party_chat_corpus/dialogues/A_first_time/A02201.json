@@ -1,0 +1,680 @@
+{
+    "dialogue_id": "A02201",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おでん",
+        "げんまい",
+        "はくさい"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おでん",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "げんまい",
+            "text": "こんにちはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "はくさい",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おでん",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "げんまい",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "はくさい",
+            "text": "お願いします！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おでん",
+            "text": "一昨日に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "おでん",
+            "text": "髪を切ったんですが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "げんまい",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "おでん",
+            "text": "皆さんはどんな髪型ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "げんまい",
+            "text": "美容院ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "おでん",
+            "text": "@げんまい はい",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "はくさい",
+            "text": "@おでん 最近ウルフにしました",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "おでん",
+            "text": "おー！ウルフ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "げんまい",
+            "text": "ウルフカットすてき。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "おでん",
+            "text": "流行ってますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "げんまい",
+            "text": "短いんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "はくさい",
+            "text": "ていうのも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "はくさい",
+            "text": "カラーのし過ぎで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "おでん",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "はくさい",
+            "text": "痛みすぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "げんまい",
+            "text": "カラー痛みますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "おでん",
+            "text": "あー、どうしてもカラーすると痛みますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "はくさい",
+            "text": "伸びなくなっちゃったんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "げんまい",
+            "text": "伸びなく？なるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "おでん",
+            "text": "伸びなく？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "はくさい",
+            "text": "切れ毛がひどくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "おでん",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "はくさい",
+            "text": "全部切れちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "おでん",
+            "text": "で、ウルフにしたんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "はくさい",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "げんまい",
+            "text": "@はくさい けっこう長かったんでしょうか？",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "はくさい",
+            "text": "@げんまい 長さは鎖骨くらいだったんですけど",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "はくさい",
+            "text": "切れ毛がひどくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "げんまい",
+            "text": "まぁまぁ長いですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "はくさい",
+            "text": "勝手にウルフっぽくなってましたね。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "おでん",
+            "text": "嫌だと思ったら、切らなきゃですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "おでん",
+            "text": "@げんまい 長いですか？",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "げんまい",
+            "text": "私は映画レオンに出てくるマチルダカットです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "げんまい",
+            "text": "レオンってかなり昔の映画ですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "はくさい",
+            "text": "マチルダなつかしいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "げんまい",
+            "text": "お、ご存じですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "おでん",
+            "text": "マチルダって、女の子でしたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "げんまい",
+            "text": "そうです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "はくさい",
+            "text": "ナタリーポートマンですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "げんまい",
+            "text": "十代前半の女の子です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "おでん",
+            "text": "レオン見た記憶あります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "げんまい",
+            "text": "ですです。ナタリーポートマン",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "はくさい",
+            "text": "当時洋画にはまって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "はくさい",
+            "text": "いろんなの観ました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "おでん",
+            "text": "ショートボブ？でした？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "げんまい",
+            "text": "当時、洋画はやってましたね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "げんまい",
+            "text": "おかっぱっぽいショートボブですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "おでん",
+            "text": "そうですよね、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "おでん",
+            "text": "@げんまい @はくさい よく、名前まで覚えてますね",
+            "mention_to": [
+                "げんまい",
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "げんまい",
+            "text": "去年、近所の映画館んでリバイバル上演をやっていて、見に来ました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "げんまい",
+            "text": "好きな映画なんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "おでん",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "おでん",
+            "text": "人間味ある感じで、カッコイイですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "はくさい",
+            "text": "レオン泣けちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "げんまい",
+            "text": "泣きました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "げんまい",
+            "text": "号泣です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "はくさい",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "おでん",
+            "text": "アクションとか好きなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "はくさい",
+            "text": "@おでん 洋画のアクション",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "はくさい",
+            "text": "迫力あって好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "げんまい",
+            "text": "ハリウッドのアクションはおもしろいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "おでん",
+            "text": "そうですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "はくさい",
+            "text": "いろんなの爆発させちゃって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "おでん",
+            "text": "私も大好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "はくさい",
+            "text": "規模が違う",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "おでん",
+            "text": "ドキドキハラハラ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "はくさい",
+            "text": "しますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "げんまい",
+            "text": "車とか何台もこわれちゃってｗｗｗ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "はくさい",
+            "text": "ほんとに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "げんまい",
+            "text": "非現実的なドキドキが味わえていいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "おでん",
+            "text": "ねー、ぶつけるの多いですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "げんまい",
+            "text": "最近は、ＣＧもけっこう多いですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "げんまい",
+            "text": "実際には何も壊さない。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "おでん",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "はくさい",
+            "text": "CGすごいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "おでん",
+            "text": "CGって、なんでも出来るようになってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "はくさい",
+            "text": "CGっぽくないところがまたすごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "おでん",
+            "text": "すごい技術ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "げんまい",
+            "text": "なんでもできますね。ＣＧ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "げんまい",
+            "text": "ハリーポッターとかＣＧめっちゃ使ってますよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "おでん",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "はくさい",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "おでん",
+            "text": "ハリーボッターとか、全部見ましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "げんまい",
+            "text": "ハリーポッターは、小説を先に全部読んで、DVDで見ました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "はくさい",
+            "text": "1本が長くて観られなかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "げんまい",
+            "text": "たしかに、長いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "おでん",
+            "text": "あら、色々ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "はくさい",
+            "text": "小説も最後まで読めなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "おでん",
+            "text": "長いと、時間かかるし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "おでん",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "げんまい",
+            "text": "ですね。なかなか時間がかかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "げんまい",
+            "text": "好きな映画はありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "おでん",
+            "text": "私は最近はMIシリーズが好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "げんまい",
+            "text": "アクションだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "おでん",
+            "text": "ベタですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "はくさい",
+            "text": "いや、あのトム・クルーズはすごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "げんまい",
+            "text": "トムクルーズ、いいですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "おでん",
+            "text": "ですよねー",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おでん",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "げんまい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "はくさい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,712 @@
+{
+    "dialogue_id": "A05101",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おでん",
+        "あひる",
+        "はくまい"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おでん",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "あひる",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "おでん",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "あひる",
+            "text": "よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい おはようございます",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "はくまい",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おでん",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "はくまい",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "おでん",
+            "text": "今日は何の日か、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "あひる",
+            "text": "今朝は少し冷えますね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "おでん",
+            "text": "@あひる 冷えてますか？",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "あひる",
+            "text": "冷えてます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "おでん",
+            "text": "私のところは、まだマシかもです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "はくまい",
+            "text": "昨日と今日でだいぶ寒くなりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "おでん",
+            "text": "暖房とか付けてますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "あひる",
+            "text": "暖房は我慢しました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "おでん",
+            "text": "我慢したんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "はくまい",
+            "text": "暖房はつけるほど寒くないですかねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "あひる",
+            "text": "ちょっと春が近づいてはきてますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "おでん",
+            "text": "冷えても、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "おでん",
+            "text": "真冬とは違うんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "あひる",
+            "text": "そんな感じします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "はくまい",
+            "text": "気温一桁台はないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "おでん",
+            "text": "春ま近かって感じですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "あひる",
+            "text": "春楽しみ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "おでん",
+            "text": "服装とか、悩みませんか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "はくまい",
+            "text": "@あひる そうですね",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "あひる",
+            "text": "@おでん 悩みますー！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "おでん",
+            "text": "@あひる @はくまい 貼る楽しみですね",
+            "mention_to": [
+                "あひる",
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "あひる",
+            "text": "ダウンを着るべきか...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "おでん",
+            "text": "あっ、春です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん 日によってなにをきるのか悩みます",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "おでん",
+            "text": "この時期、ほんと、悩みます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "あひる",
+            "text": "@おでん ね！ありがとうございます",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "あひる",
+            "text": "寒暖差がありますものね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "はくまい",
+            "text": "@あひる ですです",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "おでん",
+            "text": "ダウンも段々着る時期が短くなってきてませんか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "あひる",
+            "text": "@おでん そうかも！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "あひる",
+            "text": "なんか、暖かい日増えてきてるのかな...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "はくまい",
+            "text": "着る頻度少なくなってきてます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "おでん",
+            "text": "私、暑がりなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "あひる",
+            "text": "わたしも暑がり！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "おでん",
+            "text": "ダウンはなかなか着れません  笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん 寒がりなんですか",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "はくまい",
+            "text": "暑がりか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "おでん",
+            "text": "暑がりなんです  泣",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "あひる",
+            "text": "冬服着たら昼間に汗かいちゃったりして〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "はくまい",
+            "text": "自分は寒がりでもあり暑がりです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい 暑がりですか？寒がりですか？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "あひる",
+            "text": "@はくまい それもわかります 笑",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "おでん",
+            "text": "あら、どっちも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "あひる",
+            "text": "冬は寒いし夏は暑い！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "おでん",
+            "text": "いい季節って、短いから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "はくまい",
+            "text": "すごい汗っかきなんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "おでん",
+            "text": "一緒ですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "あひる",
+            "text": "@はくまい 代謝が良くて健康ですね！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "おでん",
+            "text": "夏が辛い！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "はくまい",
+            "text": "秋が一番好きですかねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "あひる",
+            "text": "夏つらい！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "おでん",
+            "text": "秋かぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "はくまい",
+            "text": "今年は短く感じましたけども",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "あひる",
+            "text": "秋は過ごしやすいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "おでん",
+            "text": "残暑が長くなって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "おでん",
+            "text": "難しいですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん わかります",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "あひる",
+            "text": "そうなんですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "あひる",
+            "text": "秋あっという間！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "おでん",
+            "text": "11月ぐらいまで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "おでん",
+            "text": "暑かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "あひる",
+            "text": "@おでん そうでしたよね！！！びっくりした",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "おでん",
+            "text": "辛い⋯泣",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "あひる",
+            "text": "泣",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "おでん",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "はくまい",
+            "text": "紅葉の時期も12月くらいまで続いていた気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "おでん",
+            "text": "見に行ったんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "あひる",
+            "text": "@はくまい ですよね！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん いきましたー",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい そうなんですね",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "はくまい",
+            "text": "ちょっと郊外までお出かけしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "おでん",
+            "text": "いいですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "おでん",
+            "text": "毎年行かれるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "あひる",
+            "text": "紅葉見に行くの風情ありますね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "はくまい",
+            "text": "ですです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "おでん",
+            "text": "ねぇーいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "おでん",
+            "text": "そうなんですね、じゃあ、桜も？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "はくまい",
+            "text": "桜も見にいきたいですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "あひる",
+            "text": "もうすぐですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "あひる",
+            "text": "桜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "おでん",
+            "text": "ですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "はくまい",
+            "text": "今年は早く咲くらしいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "あひる",
+            "text": "やったー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "あひる",
+            "text": "河津桜はそろそろ咲くのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "おでん",
+            "text": "私は去年、造幣局の桜の通り抜けに行ってきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "あひる",
+            "text": "@おでん おぉ！！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "あひる",
+            "text": "大阪でしたっけ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん いいですね",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "おでん",
+            "text": "河津桜！よくききます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "おでん",
+            "text": "@あひる そうです",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "あひる",
+            "text": "河津桜、ピンクが濃くて可愛いくて好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "おでん",
+            "text": "そうなんだ、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "はくまい",
+            "text": "@あひる 大阪いいなぁ",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "あひる",
+            "text": "ソメイヨシノより早めに咲くんですよね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい 住まいが関東でしょうか？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "あひる",
+            "text": "大阪観光したい〜",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おでん",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "あひる",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 2,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "はくまい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

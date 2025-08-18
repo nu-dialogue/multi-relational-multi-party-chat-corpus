@@ -1,0 +1,683 @@
+{
+    "dialogue_id": "A07003",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "てんぷら",
+        "みたらし",
+        "ししとう"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "てんぷら",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "みたらし",
+            "text": "こんばんはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ししとう",
+            "text": "こんばんはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "てんぷら",
+            "text": "私、公団に住んで10年になるんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "てんぷら",
+            "text": "子どもが大きくなったら家を買いたいと思っています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "みたらし",
+            "text": "おお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら おぉー！いいですね",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "みたらし",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "てんぷら",
+            "text": "子どもが自立したらですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ししとう",
+            "text": "夢が広がりますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "てんぷら",
+            "text": "夫婦2人になってから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "みたらし",
+            "text": "@てんぷら 昨日ハウスメーカー行ってきました",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし タイムリー！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "てんぷら",
+            "text": "@みたらし 大好きです、モデルハウス",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "みたらし",
+            "text": "ほんとびっくり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "てんぷら",
+            "text": "どうでしたかどうでしたか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "てんぷら",
+            "text": "え、建てるんですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "みたらし",
+            "text": "へーベルハウスだったんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "みたらし",
+            "text": "建てたいなとおもって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "てんぷら",
+            "text": "スマートハウスですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "みたらし",
+            "text": "初めて聞きに行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし いいですね！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "てんぷら",
+            "text": "一番気がかりなのは、空き巣です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "てんぷら",
+            "text": "わたし、鍵が苦手で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "みたらし",
+            "text": "@てんぷら 確かに気になりますね",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "てんぷら",
+            "text": "ベランダは基本開いています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "みたらし",
+            "text": "パナソニックはいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "てんぷら",
+            "text": "OK Google、パナソニックの鍵を教えて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "みたらし",
+            "text": "鍵とかIOT系の家につよいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし そうなんですね！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "みたらし",
+            "text": "パナソニックもハウスメーカーやってますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ししとう",
+            "text": "現代的なお家ができそうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "てんぷら",
+            "text": "時代ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "みたらし",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ししとう",
+            "text": "断熱とか耐熱とか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "てんぷら",
+            "text": "断熱気になります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ししとう",
+            "text": "時代とともによくなってそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "てんぷら",
+            "text": "結露がひどいので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "てんぷら",
+            "text": "カビだらけです、賃貸",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら 結露〜！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "みたらし",
+            "text": "断熱とか耐熱はヘーベルハウス強いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "みたらし",
+            "text": "結露とかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし おぉ！結露にも！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "みたらし",
+            "text": "旭化成がその辺の対策をめちゃやってるみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし なるほど！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "てんぷら",
+            "text": "日本は湿度が高いから、とあきらめていました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "みたらし",
+            "text": "参考にしてみてください",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "てんぷら",
+            "text": "参考にさせていただきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら お子さんが自立するタイミング",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ししとう",
+            "text": "もっと時代が変化してたり！る",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "てんぷら",
+            "text": "いつ自立してくれるんだろう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "みたらし",
+            "text": "建売は安いですが、その辺は対策弱いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "てんぷら",
+            "text": "建売、うちの周りも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "てんぷら",
+            "text": "好評分譲中です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "てんぷら",
+            "text": "好評分譲中、長いなーと思って見ています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "みたらし",
+            "text": "ハウスメーカー見に行くと建売怖くなってきます。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "てんぷら",
+            "text": "怖い話、好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ししとう",
+            "text": "@みたらし なるほど！",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "みたらし",
+            "text": "好評が長いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "みたらし",
+            "text": "どこが好評なんだろう？って思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "てんぷら",
+            "text": "売れ残りを良い言葉に言い換えているような",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ししとう",
+            "text": "確かにそうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "みたらし",
+            "text": "好評なら売れ残らないですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "てんぷら",
+            "text": "あはは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "てんぷら",
+            "text": "ほんとそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ししとう",
+            "text": "ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "てんぷら",
+            "text": "近所に、モデルハウスの町？みたいなのがあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "みたらし",
+            "text": "やっぱ一軒家欲しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "てんぷら",
+            "text": "住宅展示場？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "みたらし",
+            "text": "車で20分くらいのところに住宅展示場あります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ししとう",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てんぷら",
+            "text": "そこに行かれたのですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "みたらし",
+            "text": "@てんぷら そうです",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "てんぷら",
+            "text": "他に見られました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "みたらし",
+            "text": "まだそこにしか見に行ってませんが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "みたらし",
+            "text": "ハウスメーカーがいくつか入っているので面白かったですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "てんぷら",
+            "text": "うち、千葉なんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ししとう",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "てんぷら",
+            "text": "全部は回れないほどあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "みたらし",
+            "text": "おおお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "みたらし",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "てんぷら",
+            "text": "入り口ちかくにあったので、まず",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら 都会ですもんね！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "てんぷら",
+            "text": "一条工務店",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら 有名な！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "てんぷら",
+            "text": "で、お腹空いて出ました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら まさかの！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "みたらし",
+            "text": "1か所？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "てんぷら",
+            "text": "まさかの1か所",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "みたらし",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "てんぷら",
+            "text": "娘が、奥の方の",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てんぷら",
+            "text": "nico and...とコラボした家に行きたかったと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "みたらし",
+            "text": "結構じっくり見ると時間がかかるから1か所でもお腹すいてくるかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "てんぷら",
+            "text": "そうなんですそうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら へー！コラボ住宅！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "てんぷら",
+            "text": "広いんですよ一条工務店の家",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "てんぷら",
+            "text": "お城かと思いました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "みたらし",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら お城〜！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "みたらし",
+            "text": "特徴はなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "てんぷら",
+            "text": "劣化しない外壁だったかな・・・",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "てんぷら",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "みたらし",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ししとう",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,735 @@
+{
+    "dialogue_id": "A04805",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "くらげ",
+        "いそべ",
+        "こまつな"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くらげ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "いそべ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "こまつな",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くらげ",
+            "text": "スポーツすきですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "いそべ",
+            "text": "すきです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "こまつな",
+            "text": "@くらげ 見る",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ 見るのもやるのも？",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "いそべ",
+            "text": "@くらげ どちらも好きです",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "くらげ",
+            "text": "@こまつな 今は私もです",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "こまつな",
+            "text": "@いそべ 何やります？",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "いそべ",
+            "text": "野球やってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "くらげ",
+            "text": "お！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "こまつな",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "くらげ",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "くらげ",
+            "text": "野球といえば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "くらげ",
+            "text": "大谷君ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "いそべ",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "こまつな",
+            "text": "話題",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くらげ",
+            "text": "連日報道されてますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "いそべ",
+            "text": "すごい活躍ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "こまつな",
+            "text": "まだ試合ないのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "いそべ",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ 他の選手と違うなって思いますか",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "くらげ",
+            "text": "@こまつな ほんとに",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "いそべ",
+            "text": "@くらげ 規格外ですね",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "くらげ",
+            "text": "へー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "こまつな",
+            "text": "やっぱり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ スタンフォード大学に行く子、名前忘れましたが",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "くらげ",
+            "text": "彼もすごいんですかねぇ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "いそべ",
+            "text": "あー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "いそべ",
+            "text": "佐々木くんかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ 大谷くんの後輩",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ そうですそうです",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "こまつな",
+            "text": "はいはい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "くらげ",
+            "text": "私、彼、知りませんでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "いそべ",
+            "text": "僕もよく知りませんでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "こまつな",
+            "text": "わたしも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "くらげ",
+            "text": "甲子園もでてたんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くらげ",
+            "text": "甲子園もでてたんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "いそべ",
+            "text": "あーでてましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ ちゃんとご存じ！",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "こまつな",
+            "text": "あんまみてなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "くらげ",
+            "text": "見る年とそうでない年とあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "くらげ",
+            "text": "100回記念のレジェンド始球式は面白かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "くらげ",
+            "text": "確か夏かな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "こまつな",
+            "text": "それはみたかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "いそべ",
+            "text": "誰が投げたんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "くらげ",
+            "text": "たとえば、桑田真澄さん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "いそべ",
+            "text": "すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "くらげ",
+            "text": "大魔神も投げてたかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "こまつな",
+            "text": "私の世代",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "くらげ",
+            "text": "@こまつな 私もです",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "くらげ",
+            "text": "桑田君は、現役みたいでした。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "くらげ",
+            "text": "びっくりしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "いそべ",
+            "text": "マットのお父さん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "くらげ",
+            "text": "松井君も投げてたかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "こまつな",
+            "text": "すごいっ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ おおおおおお",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "こまつな",
+            "text": "さすが記念大会",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "くらげ",
+            "text": "マットが桑田君の息子と表現する私とやはり違いますね　笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ そうそう",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "こまつな",
+            "text": "今の子は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "くらげ",
+            "text": "マットのお父さんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "いそべ",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "こまつな",
+            "text": "マットさんしか知らない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "いそべ",
+            "text": "マットのインパクトがすごいので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ マットってどういう風にかんじます？",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "いそべ",
+            "text": "人形です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "こまつな",
+            "text": "あはは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くらげ",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "くらげ",
+            "text": "面白い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "いそべ",
+            "text": "ちょっと怖いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "いそべ",
+            "text": "いい人らしいけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ ですよね、よかった。感覚まだ大丈夫で",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "こまつな",
+            "text": "作ってますからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "いそべ",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ いい子みたいですね",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "くらげ",
+            "text": "@こまつな ですね",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "こまつな",
+            "text": "@いそべ ポジションは？",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "いそべ",
+            "text": "外野でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ フライとるの難しくないですか？",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こまつな",
+            "text": "外野走るからたいへん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "くらげ",
+            "text": "@こまつな ほんとですね",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "いそべ",
+            "text": "@くらげ 難しいです",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "いそべ",
+            "text": "距離感が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ 風でのびたりしますもんね",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "こまつな",
+            "text": "@いそべ 確かに",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "いそべ",
+            "text": "しますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ 憧れの選手は？",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "こまつな",
+            "text": "甲子園とか風すごいし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "いそべ",
+            "text": "ヤクルトの青木です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くらげ",
+            "text": "@こまつな 浜風ですね",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ 今も頑張ってますね",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "いそべ",
+            "text": "すごいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くらげ",
+            "text": "@いそべ すごいですよね",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "くらげ",
+            "text": "昔、頭にデットボールあたってませんでしたっけ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "いそべ",
+            "text": "あーありましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "くらげ",
+            "text": "しばらく調子悪かったので心配してたら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こまつな",
+            "text": "はいはい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "くらげ",
+            "text": "いつのまにか復帰してて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "くらげ",
+            "text": "頑張ってますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "いそべ",
+            "text": "そうなんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "いそべ",
+            "text": "ベテランすぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "こまつな",
+            "text": "すごいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "くらげ",
+            "text": "青木君が憧れって渋いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "いそべ",
+            "text": "玄人に憧れているんです",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くらげ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "いそべ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "こまつな",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

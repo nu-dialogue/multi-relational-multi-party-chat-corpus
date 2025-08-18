@@ -1,0 +1,707 @@
+{
+    "dialogue_id": "A06302",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "ししとう",
+        "げんまい",
+        "きりん"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ししとう",
+            "text": "こんにちはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "げんまい",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "きりん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "げんまい",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "きりん",
+            "text": "よろしくです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ししとう",
+            "text": "お願いします〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ししとう",
+            "text": "連休中いかがおすごしですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "げんまい",
+            "text": "私は、仕事してますー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "げんまい",
+            "text": "最近バイトはじめまして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ししとう",
+            "text": "@げんまい おぉ！お疲れ様です！",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "きりん",
+            "text": "私も仕事してますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "げんまい",
+            "text": "@きりん お疲れ様です。仲間",
+            "mention_to": [
+                "きりん"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ししとう",
+            "text": "@げんまい へー！どんなバイトなんですか？",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "きりん",
+            "text": "@げんまい バイト！",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "げんまい",
+            "text": "お惣菜販売です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ししとう",
+            "text": "@きりん おぉ！お疲れ様です！",
+            "mention_to": [
+                "きりん"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "げんまい",
+            "text": "久しぶりの接客で慣れません。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ししとう",
+            "text": "@げんまい なるほど！お弁当とか？",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "げんまい",
+            "text": "サラダが多いですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "げんまい",
+            "text": "量り売りです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "きりん",
+            "text": "@げんまい 接客ですか、お疲れさまです",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ししとう",
+            "text": "おぉ！量り売りなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "げんまい",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "げんまい",
+            "text": "あせって、手が震えますｗｗｗ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "きりん",
+            "text": "結構お客さんとやり取りありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "げんまい",
+            "text": "ありますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ししとう",
+            "text": "@げんまい あせりますよねー",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "きりん",
+            "text": "わぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "げんまい",
+            "text": "何グラムにしますかとか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ししとう",
+            "text": "@げんまい 繁盛してるんですね！",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "げんまい",
+            "text": "まぁまぁ人の多い場所にあるのでね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "げんまい",
+            "text": "外国の人もけっこう来て、大変です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "きりん",
+            "text": "売れ筋の物とかありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "げんまい",
+            "text": "サラダとコロッケですかね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "きりん",
+            "text": "@げんまい 英語で話したり？",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "げんまい",
+            "text": "英語、苦手なので困ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "きりん",
+            "text": "定番だぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "げんまい",
+            "text": "出川イングリッシュです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ししとう",
+            "text": "@げんまい 英語難しいですよね！",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "きりん",
+            "text": "最終的には",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "きりん",
+            "text": "パッションですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "げんまい",
+            "text": "有料のビニール袋いりますか？とか聞かないといけないでしょ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "きりん",
+            "text": "ビニール袋…plastic bag？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "げんまい",
+            "text": "プラスチックバックって言うって覚えました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "げんまい",
+            "text": "そうです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ししとう",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "きりん",
+            "text": "ニュアンス伝えるのが難しそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ししとう",
+            "text": "全然変換できなかった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ししとう",
+            "text": "難しいですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "きりん",
+            "text": "わかってもらえますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "きりん",
+            "text": "出川イングリッシュ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "げんまい",
+            "text": "伝わってるかわかりませんが、笑って暮れてます。お客さん。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "げんまい",
+            "text": "まぁ。そんなに期待はされていないでしょうし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "きりん",
+            "text": "笑ってくれてるならいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ししとう",
+            "text": "まごころ伝わってる証拠！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "きりん",
+            "text": "冷たい目で見られたらいたたまれない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "げんまい",
+            "text": "苦笑いかもｗｗｗ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ししとう",
+            "text": "@げんまい まさかの！？",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ししとう",
+            "text": "大丈夫ですって！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "げんまい",
+            "text": "高いお惣菜を買うようなご機嫌な人たちなので、暖かい感じではあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ししとう",
+            "text": "@げんまい なるほど！",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "きりん",
+            "text": "余裕がある感じですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "げんまい",
+            "text": "そうです。余裕ある感じです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ししとう",
+            "text": "客層が余裕ある人だと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ししとう",
+            "text": "ゆとり持って対応できますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "げんまい",
+            "text": "ですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "きりん",
+            "text": "お惣菜屋さん近所にあったら通っちゃいそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "げんまい",
+            "text": "便利ですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ししとう",
+            "text": "@きりん わかります！",
+            "mention_to": [
+                "きりん"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "きりん",
+            "text": "お財布とは相談しますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "げんまい",
+            "text": "それが問題。お財布",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ししとう",
+            "text": "確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "げんまい",
+            "text": "時間をお金で買う感じになりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ししとう",
+            "text": "そうそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "げんまい",
+            "text": "でも、人が作ってくれたものっておいしいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ししとう",
+            "text": "ですよねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "げんまい",
+            "text": "普段は自分で作るから。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "げんまい",
+            "text": "お料理担当ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ししとう",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ししとう",
+            "text": "お料理しますー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "げんまい",
+            "text": "仲間です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ししとう",
+            "text": "苦手意識モリモリですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "げんまい",
+            "text": "料理は好きだけど、献立を考えるのがしんどいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "きりん",
+            "text": "苦手でも頑張ってるならえらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "げんまい",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "きりん",
+            "text": "献立…1人だと悩まないですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "げんまい",
+            "text": "そうかも。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "きりん",
+            "text": "家族いるといろいろ考えること多そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ししとう",
+            "text": "家族がいるとね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "げんまい",
+            "text": "そうなんですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ししとう",
+            "text": "大変！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ししとう",
+            "text": "好き嫌い対応とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "げんまい",
+            "text": "それ！それが一番大変。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "げんまい",
+            "text": "なんでも食べくれ！と思います。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "きりん",
+            "text": "各自なんとかして！って言えればね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ししとう",
+            "text": "それなんですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "げんまい",
+            "text": "みんなの嫌いなものを避けると、同じメニューがぐるぐるまわることになります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ししとう",
+            "text": "@げんまい そうそう！",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "きりん",
+            "text": "そうなりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "げんまい",
+            "text": "定番の献立ってありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "げんまい",
+            "text": "よく作るもの。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ししとう",
+            "text": "そぼろの三色丼は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "きりん",
+            "text": "私は寒い時期はだいたい鍋です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "ししとう",
+            "text": "見た目の彩りでよくしてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "げんまい",
+            "text": "鍋はいいですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "きりん",
+            "text": "そぼろおいしいですね！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ししとう",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "げんまい",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "きりん",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

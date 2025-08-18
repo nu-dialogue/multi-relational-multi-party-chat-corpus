@@ -1,0 +1,737 @@
+{
+    "dialogue_id": "A07702",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "さんま",
+        "くまのみ",
+        "ちくわぶ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "さんま",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "くまのみ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ちくわぶ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "さんま",
+            "text": "よろしくお願いします～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "くまのみ",
+            "text": "よろしくおねがいします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ちくわぶ",
+            "text": "こちらこそ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "さんま",
+            "text": "今日はお天気になりましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ちくわぶ",
+            "text": "そうですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "くまのみ",
+            "text": "@さんま やっと晴れましたね",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ひさびさな気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "くまのみ",
+            "text": "@さんま けど、さっきにわか雨がちらっとふったんです。",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ちくわぶ",
+            "text": "まだまだ寒いですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "さんま",
+            "text": "やっとですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@くまのみ そうなんですか？",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "くまのみ",
+            "text": "@ちくわぶ 寒いですね。",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ちくわぶ",
+            "text": "あ、雪みたいなの舞ってたかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "さんま",
+            "text": "風がすごいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "くまのみ",
+            "text": "@ちくわぶ そうなんです。ドキっとしました。洗濯物があるので",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@さんま まだアウターはなきゃですね！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "さんま",
+            "text": "@ちくわぶ 雪ですか？",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ちくわぶ",
+            "text": "洗濯物は中に干しました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "くまのみ",
+            "text": "@さんま こちらの方は風はまだましです",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "さんま",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "くまのみ",
+            "text": "@ちくわぶ 正解ですね。",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ちくわぶ",
+            "text": "花粉も怖いので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "くまのみ",
+            "text": "こちらはなんとか外ぼし出来てます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "くまのみ",
+            "text": "@ちくわぶ 花粉症ですか？",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@くまのみ 妻が花粉症で",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "さんま",
+            "text": "がっかり外へ干しました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ちくわぶ",
+            "text": "みてて可哀想です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "さんま",
+            "text": "とびますかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "くまのみ",
+            "text": "@ちくわぶ 奥様ひどそうですね。",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@さんま 飛びますよねー",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "くまのみ",
+            "text": "@さんま ちょっと増えてきているみたいですよ。",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ちくわぶ",
+            "text": "すこーし暖かくなると辛そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "くまのみ",
+            "text": "鼻も目もですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "さんま",
+            "text": "そうですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ちくわぶ",
+            "text": "鼻みたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ちくわぶ",
+            "text": "何回も鼻かんでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "くまのみ",
+            "text": "お薬飲んではるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@くまのみ まだ行かないと病院行ってません！",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ちくわぶ",
+            "text": "市販のは効かないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "くまのみ",
+            "text": "早く行った方がよさそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ちくわぶ",
+            "text": "頑固です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "さんま",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "くまのみ",
+            "text": "@ちくわぶ 市販薬はあんまりなんですね",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@くまのみ 眠くなるみたいで",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "さんま",
+            "text": "ああ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くまのみ",
+            "text": "そうなんですね。それはつらいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ちくわぶ",
+            "text": "可哀想です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ちくわぶ",
+            "text": "皆さんはないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "くまのみ",
+            "text": "私はないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "くまのみ",
+            "text": "さいわいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ちくわぶ",
+            "text": "僕はいいティッシュを買ってあげるしかできないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "くまのみ",
+            "text": "家族もないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "くまのみ",
+            "text": "@ちくわぶ やさしいですね",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ちくわぶ",
+            "text": "おー羨ましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ちくわぶ",
+            "text": "変わってあげられないんでね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "くまのみ",
+            "text": "@ちくわぶ 鼻セレブですか？",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ちくわぶ",
+            "text": "労わることしか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "さんま",
+            "text": "私もたまーにめが痒くなるくらいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@くまのみ セレブまでいかないです",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@さんま 目にくるのも辛いみたいで",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "くまのみ",
+            "text": "セレブは結構いいお値段するみたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ちくわぶ",
+            "text": "高いですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "さんま",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ちくわぶ",
+            "text": "鼻かむだけなのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "くまのみ",
+            "text": "花粉はないんですけど、ほこりのアレルギーがあるのかもです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ちくわぶ",
+            "text": "あーよく聞きますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "さんま",
+            "text": "あら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ハウスダストか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "くまのみ",
+            "text": "なので、季節の変わり目はアレルギーの薬飲みます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "くまのみ",
+            "text": "@ちくわぶ それもあると思います",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ほこりはいつでもいますしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ちくわぶ",
+            "text": "掃除してもすぐ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "くまのみ",
+            "text": "こんだけ掃除してるのにと落胆します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ちくわぶ",
+            "text": "どこから来るのか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ちくわぶ",
+            "text": "すみっこで集まる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "さんま",
+            "text": "@ちくわぶ ほんとですね",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くまのみ",
+            "text": "@ちくわぶ ほんとですね",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ちくわぶ",
+            "text": "掃除好きなのでやりますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "くまのみ",
+            "text": "@ちくわぶ いい旦那さんですね",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ちくわぶ",
+            "text": "どこから来るのか…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "さんま",
+            "text": "どこからくるんでしょう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ちくわぶ",
+            "text": "できることはやりたいと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くまのみ",
+            "text": "@ちくわぶ うらやましいです",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@くまのみ 旦那さんやらないですか？",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "くまのみ",
+            "text": "掃除は一番しませんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "さんま",
+            "text": "あはは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@くまのみ そうなんですね",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "くまのみ",
+            "text": "料理は作るのはやります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くまのみ",
+            "text": "作るのは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "くまのみ",
+            "text": "たまにですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "さんま",
+            "text": "うちもあんまりやりませんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@くまのみ おー僕はできないので",
+            "mention_to": [
+                "くまのみ"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "くまのみ",
+            "text": "@さんま 同じですね",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ちくわぶ",
+            "text": "料理は任せてます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "さんま",
+            "text": "うちは料理もしませんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ちくわぶ",
+            "text": "食べる専門",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "くまのみ",
+            "text": "@ちくわぶ もしかして洗濯もするんですか",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ちくわぶ",
+            "text": "妻も料理が一番嫌いみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ちくわぶ",
+            "text": "あ、しますよー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "くまのみ",
+            "text": "@さんま 何かしてくれますか？",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "くまのみ",
+            "text": "@ちくわぶ すてきですね",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "さんま",
+            "text": "しませんねえ笑",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "さんま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "くまのみ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ちくわぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

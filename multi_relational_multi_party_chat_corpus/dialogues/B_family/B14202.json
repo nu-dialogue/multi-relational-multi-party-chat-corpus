@@ -1,0 +1,798 @@
+{
+    "dialogue_id": "B14202",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "コアラ",
+        "じゃがいも",
+        "くま"
+    ],
+    "relationship": [
+        "じゃがいも",
+        "くま"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "コアラ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "じゃがいも",
+            "text": "こんばんわ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "くま",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "コアラ",
+            "text": "学生時代、何の部活入ってましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 弓道部です",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "くま",
+            "text": "弓矢",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "コアラ",
+            "text": "@くま かっこいい！",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ 私はバレー部からの帰宅部でした",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも バレー部もすごい！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "じゃがいも",
+            "text": "腕だけ旦那は筋肉ムキムキです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "コアラ",
+            "text": "アタック！みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 珍しいやつ選びました",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "じゃがいも",
+            "text": "そう！アタックみたいな笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも そんなことなくない？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも おー弓道たまに電車にいますが大変ですよね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも ポジションは？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 多分レフト",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 結構長いんですよね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "コアラ",
+            "text": "ポジション！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "コアラ",
+            "text": "かっこいいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも アタックの人やん",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "コアラ",
+            "text": "ほんとアタックですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "じゃがいも",
+            "text": "そこそこ身長あるしちゃんとやってました笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも ほう",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "コアラ",
+            "text": "何センチですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも よければ",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "じゃがいも",
+            "text": "@ゆうても160センチ...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "コアラ",
+            "text": "あっ、同じくらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "じゃがいも",
+            "text": "女子校だったんで大きい方でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも 私も女子校でした！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 日本代表とかだとすごい高い人いるよね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ あら！！！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "コアラ",
+            "text": "いま高校生の娘も女子校です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "じゃがいも",
+            "text": "嬉しい、女子校仲間ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 意外と多いんですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ ええ！すごい〜",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "コアラ",
+            "text": "@くま さんは？共学ですか？",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 私は共学です！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "コアラ",
+            "text": "@くま 主人も共学でした",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "くま",
+            "text": "男子校はさすがに、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "コアラ",
+            "text": "なぜか驚愕って変換ばかり出ました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま でも男子校って楽しそうじゃない？",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 私もそうでしたw",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "くま",
+            "text": "2回くらい消した",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "コアラ",
+            "text": "@くま あっ変換？",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ @くま 本当だ！！！！",
+            "mention_to": [
+                "コアラ",
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "コアラ",
+            "text": "わかります！なんででしょう？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "コアラ",
+            "text": "ですよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 変換です！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "コアラ",
+            "text": "スマホのせい？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "コアラ",
+            "text": "そんなに使わないのにー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "じゃがいも",
+            "text": "驚愕のがよく使うと思われてるのかしら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 私パソコンですけど驚愕ですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも そうかも！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "くま",
+            "text": "久々に言いましたけどねw",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "コアラ",
+            "text": "@くま PCでも？",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま @コアラ こういう時に予測変換はなんとも言えない笑",
+            "mention_to": [
+                "コアラ",
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "コアラ",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "コアラ",
+            "text": "ですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "コアラ",
+            "text": "焦りません？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 絶対使わないやつ出たりするよね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ お子さんを女子校に入れた意味はお母様が楽しかったから？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "コアラ",
+            "text": "@くま 間違えて送ったり",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "じゃがいも",
+            "text": "気になって！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 急いでると困りますよね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "じゃがいも",
+            "text": "話を割ります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 割りすぎてる",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま すいません",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも えーっと確かに私自身も楽しかったです",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 楽しいんですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "コアラ",
+            "text": "あとは、中学受験のとき、娘がいきたかがったので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "くま",
+            "text": "大変そうなイメージもありますけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ 私もしました！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "じゃがいも",
+            "text": "中学校受験",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "コアラ",
+            "text": "共学あまりいまいちらしく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも 私もです笑",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ そうなんですね〜今の受験事情を知らない",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "じゃがいも",
+            "text": "えっ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "くま",
+            "text": "皆さんされてるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "コアラ",
+            "text": "親子でしてるという意味ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 私の母はしてないね",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ 母はしてないからさせたかったみたいでした",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "じゃがいも",
+            "text": "ちゃんとした学校に入れたい！って感じでしたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "コアラ",
+            "text": "ただ私は大学までエスカレーターでしたが、娘はこれから大学受験します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "くま",
+            "text": "真面目に勉強もせず進学したなあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "じゃがいも",
+            "text": "公立がそうではないというわけではないんですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま それも素晴らしいのよ",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも わかります",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "じゃがいも",
+            "text": "私も大学受験しました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くま",
+            "text": "@コアラ がんばってほしいですね！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "コアラ",
+            "text": "@くま うちも主人はオール公立&国立です",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ 頑張ってください！とお伝えください",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "コアラ",
+            "text": "私とは真逆です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "じゃがいも",
+            "text": "国立はすごい、、レベチ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くま",
+            "text": "@コアラ すごい！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも ありがとうございます！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "コアラ",
+            "text": "励みにします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ 私と旦那は同じ大学であったんで、私立行っても公立行っても変わらなかった笑",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "コアラ",
+            "text": "でも大変そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "じゃがいも",
+            "text": "こういうケースもある",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "コアラ",
+            "text": "おー同じ大学！いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "コアラ",
+            "text": "素敵",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "コアラ",
+            "text": "みんなお友達？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "コアラ",
+            "text": "いまだに集まったり？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "コアラ",
+            "text": "連投すみません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "じゃがいも",
+            "text": "集まりますけど、みんなライフステージ変わって！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 集まる人はいますね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "じゃがいも",
+            "text": "旦那の友達と会う方が多いかも",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "コアラ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "じゃがいも",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "くま",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

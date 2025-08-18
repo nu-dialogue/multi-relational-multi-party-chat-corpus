@@ -1,0 +1,757 @@
+{
+    "dialogue_id": "A02603",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "くらげ",
+        "たらこ",
+        "がんも"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くらげ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たらこ",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "がんも",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くらげ",
+            "text": "今日、歯医者さんにいきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ 検診ですか？",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "くらげ",
+            "text": "はい。そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たらこ",
+            "text": "わたしも今日歯医者でした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "くらげ",
+            "text": "偶然！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ 一緒ですね！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くらげ",
+            "text": "ちょっとうれしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "くらげ",
+            "text": "なぜか　笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "たらこ",
+            "text": "わたしも検診でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くらげ",
+            "text": "問題なかったですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ ねー！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "たらこ",
+            "text": "前回とかわりなかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ 問題なかったですか？",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "くらげ",
+            "text": "私も問題なかったんですけど、歯の中心の位置が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "くらげ",
+            "text": "ずれてるっていわれました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ どうゆうことですか！？",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "くらげ",
+            "text": "左に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "たらこ",
+            "text": "ズレるんですか！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "たらこ",
+            "text": "歯ぎしりとかで？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くらげ",
+            "text": "いーしたら、真ん中があってないんです、上下の",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ なるほど！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ 歯ぎしりも原因の１つです",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ そうなんですね！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "くらげ",
+            "text": "多分、右の治療時、左ばっかりで食べてたからです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも さんは歯ぎしりとか食いしばりありますか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "くらげ",
+            "text": "もう治らないみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ それは辛い…",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "がんも",
+            "text": "@たらこ 自分は特にないですね",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも うらやましい",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも そうなんですね！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "たらこ",
+            "text": "うん！うらやましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "がんも",
+            "text": "@くらげ 辛いですね",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "くらげ",
+            "text": "治らないけど、マウスピースして軽減させます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "たらこ",
+            "text": "私はくいしばりがあるので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ マウスピース一緒！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ 私もです",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ またまた一緒ですね！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ マウスピースしてますか",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "がんも",
+            "text": "嫁さんもマウスピースしてます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ ほんとですね",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも 一緒ですね",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも 奥さんはくいしばりですか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "たらこ",
+            "text": "歯ぎしり？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "がんも",
+            "text": "@たらこ そうです。",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たらこ",
+            "text": "けっこういるんですね！くいしばりする人",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くらげ",
+            "text": "日中もくいしばったりしますか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ そうですね",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ します！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ 私もです",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "たらこ",
+            "text": "しすぎて顎いたくなるときあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ しんどいですよね",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ しんどいです",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "くらげ",
+            "text": "肩こりません？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "たらこ",
+            "text": "治る気がしないですもん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "くらげ",
+            "text": "わかるー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ めっちゃこります！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも 奥さんは肩こりますか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "がんも",
+            "text": "酷いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "がんも",
+            "text": "肩こり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも やっぱり",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "くらげ",
+            "text": "たまに肩こりない人いますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "たらこ",
+            "text": "辛いですよね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "くらげ",
+            "text": "うらやましいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ 肩こりますか？",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "くらげ",
+            "text": "めっちゃこります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "たらこ",
+            "text": "うちの夫こらない人なんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くらげ",
+            "text": "えええええ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "くらげ",
+            "text": "いいなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "がんも",
+            "text": "うらやましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たらこ",
+            "text": "だから痛み分からないんですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも こりますか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "くらげ",
+            "text": "体質ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ どうなんでしょうか",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "がんも",
+            "text": "@たらこ こります",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも つらいですよね",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも けっこうひどいんですか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "がんも",
+            "text": "ひどいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも ご夫婦一緒ですね",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "がんも",
+            "text": "辛いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも そうなんですね！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "たらこ",
+            "text": "マッサージとかいきますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも わかちあえますね",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ 整骨院にいきます",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ いきますか？",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "がんも",
+            "text": "マッサージ苦手で・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ 和らぎますか？",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも そうなんですか！？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも 気持ちいいのに、残念",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ はい",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも 肩こりひどいときの",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "たらこ",
+            "text": "対処法は？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ 体ゆるみますよ",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "がんも",
+            "text": "@たらこ 温泉いきます",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "たらこ",
+            "text": "整骨院ボキッが怖くて笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも 別の意味でいいなぁ",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも 温泉！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ うち、ポキッないですよ",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "たらこ",
+            "text": "わたしも好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ そうなんですか！？",
+            "mention_to": [
+                "くらげ"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くらげ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "たらこ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "がんも",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

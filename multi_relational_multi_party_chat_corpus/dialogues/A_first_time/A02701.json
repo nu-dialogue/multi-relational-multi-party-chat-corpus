@@ -1,0 +1,779 @@
+{
+    "dialogue_id": "A02701",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "こまつな",
+        "まりも",
+        "ししとう"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "こまつな",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "まりも",
+            "text": "こんにちは～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "こまつな",
+            "text": "お天気悪いんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "まりも",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "まりも",
+            "text": "外曇ってますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "こまつな",
+            "text": "降ったりやんだり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "まりも",
+            "text": "夜本降りになるって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "まりも",
+            "text": "言われてますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ししとう",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ししとう",
+            "text": "雨ひどいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "こまつな",
+            "text": "@ししとう 結構降ってますか？",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "まりも",
+            "text": "そうなんですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな 結構ふってます！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "こまつな",
+            "text": "風はひどいんだけどこっちはまだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "まりも",
+            "text": "こっちはそんなでもないですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな そうなんですね！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "こまつな",
+            "text": "そんなにひどくない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "こまつな",
+            "text": "部屋に洗濯ものが！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "まりも",
+            "text": "あ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "こまつな",
+            "text": "ちょっと憂鬱です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな 部屋干し…なっちゃいますよね",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "まりも",
+            "text": "みなさんどの辺りにお住まいですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "こまつな",
+            "text": "関東です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも 私は四国です～",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "まりも",
+            "text": "私は関東です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "こまつな",
+            "text": "@ししとう 四国ですか",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ししとう",
+            "text": "お二人関東なんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな そうです～！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "まりも",
+            "text": "@ししとう 四国は雨降ってるんですね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "こまつな",
+            "text": "妹が四国にいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ししとう",
+            "text": "降ってます～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "まりも",
+            "text": "おぉ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな 妹さんが！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "こまつな",
+            "text": "遠いのでなかなか会えないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ししとう",
+            "text": "なかなか機会ないといけないですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "こまつな",
+            "text": "飛行機とかですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ししとう",
+            "text": "本州から橋通るか、飛行機か、船か…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "こまつな",
+            "text": "妹は夫が飛行機ダメなので陸路です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "まりも",
+            "text": "陸からだと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "まりも",
+            "text": "どういう経路だろう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "こまつな",
+            "text": "遊びに来るときは新幹線",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "まりも",
+            "text": "結構かかりそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "こまつな",
+            "text": "岡山まで出て",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "こまつな",
+            "text": "岡山までが時間かかる見たいで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "まりも",
+            "text": "香川出身の人から",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "まりも",
+            "text": "聞いたことあるかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな 瀬戸大橋ですかね～",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "こまつな",
+            "text": "@ししとう ですね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "こまつな",
+            "text": "なんか風が強いと止まる見たいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな 今日とか大丈夫かな？",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ししとう",
+            "text": "まあまあ風吹いてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "まりも",
+            "text": "聞き覚えがある話…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "こまつな",
+            "text": "@まりも 有名ですかね",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "まりも",
+            "text": "@こまつな 香川出身者からの情報で",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "こまつな",
+            "text": "なるほどです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "まりも",
+            "text": "風で止まるネタ割とあちこちでありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "こまつな",
+            "text": "高知へ行きたいんですよ私",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "まりも",
+            "text": "滋賀の湖西線とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "まりも",
+            "text": "ほ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな 高知！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "こまつな",
+            "text": "NHKのやつです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "こまつな",
+            "text": "朝ドラ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "まりも",
+            "text": "全然知らないや",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "こまつな",
+            "text": "あはは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "まりも",
+            "text": "高知が舞台なんですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "ししとう",
+            "text": "らんまんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "こまつな",
+            "text": "ひとつ前のやつです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "まりも",
+            "text": "じゃあ聖地巡礼的な？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "こまつな",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "こまつな",
+            "text": "妹も四国にいるし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "まりも",
+            "text": "いいですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ししとう",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "こまつな",
+            "text": "旅行とかいきます・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "こまつな",
+            "text": "あ、？だった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ししとう",
+            "text": "旅行、今度、関東いこうかなと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ししとう",
+            "text": "思ってます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "まりも",
+            "text": "普段全然行かないですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "まりも",
+            "text": "去年は関西行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも 関西いいですね！",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "まりも",
+            "text": "@ししとう 関東はどこかお目当てが？",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ししとう",
+            "text": "ディズニーリゾートに行こうと思ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こまつな",
+            "text": "関東もいろいろですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "まりも",
+            "text": "ディズニー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ししとう",
+            "text": "子どもと1度は行っておきたくて！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "まりも",
+            "text": "関西の友達が行きたがってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "まりも",
+            "text": "なるほど～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "こまつな",
+            "text": "@まりも ディズニー行きます？",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "まりも",
+            "text": "ドナルドのイベントか何かやってる？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ししとう",
+            "text": "関東住んでたら頻繁に行けるイメージ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "まりも",
+            "text": "これからやる？んだったかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "こまつな",
+            "text": "私はいかないので…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "こまつな",
+            "text": "よく知らないんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな そうなんですね！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "まりも",
+            "text": "@こまつな いや～行かないですね　人混み苦手で",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こまつな",
+            "text": "よく行く人は結構行くよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも 確かに人多そう！",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "まりも",
+            "text": "子供の頃は何回か行きましたけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも おぉ～！",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "こまつな",
+            "text": "子どものころ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "まりも",
+            "text": "祖父母が千葉に住んでたので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "こまつな",
+            "text": "ああ～近いからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "まりも",
+            "text": "そこからは割と近かったはず",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ししとう",
+            "text": "@まりも おお！それは行きやすい環境ですね",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "こまつな",
+            "text": "うちからは遠いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "ししとう",
+            "text": "@こまつな そうなんですね！",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "まりも",
+            "text": "うちも自宅からは遠いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "こまつな",
+            "text": "関東も広いですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "ししとう",
+            "text": "関東といっても広いですもんね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "まりも",
+            "text": "そうですよね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 109,
+            "interlocutor_id": "ししとう",
+            "text": "でも関東＝都会のイメージ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 110,
+            "interlocutor_id": "まりも",
+            "text": "東京かそれ以外かで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 111,
+            "interlocutor_id": "こまつな",
+            "text": "山もある",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 112,
+            "interlocutor_id": "まりも",
+            "text": "違います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 113,
+            "interlocutor_id": "ししとう",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 114,
+            "interlocutor_id": "こまつな",
+            "text": "住所とはイメージ違う所とかあるし",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "こまつな",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "まりも",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ししとう",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

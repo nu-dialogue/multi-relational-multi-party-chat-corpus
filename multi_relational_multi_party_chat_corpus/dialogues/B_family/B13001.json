@@ -1,0 +1,694 @@
+{
+    "dialogue_id": "B13001",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "にわとり",
+        "じゃがいも",
+        "くま"
+    ],
+    "relationship": [
+        "じゃがいも",
+        "くま"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "にわとり",
+            "text": "こんばんは～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "じゃがいも",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "くま",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "じゃがいも",
+            "text": "今日寒くないっすか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "にわとり",
+            "text": "よろしくお願いしますーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "じゃがいも",
+            "text": "あ、よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "くま",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "にわとり",
+            "text": "寒いですか？こちらはそうでもないですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "くま",
+            "text": "昨日とは全然違いますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "じゃがいも",
+            "text": "昨日から13度も下がって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "じゃがいも",
+            "text": "明日は5度下がるとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "じゃがいも",
+            "text": "結構体がびっくりしてますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "にわとり",
+            "text": "えーーーーそうなんですか！それは寒い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "にわとり",
+            "text": "二日間で18度も下がるの・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "じゃがいも",
+            "text": "ほんとうに...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "くま",
+            "text": "体調には気を付けないとですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "じゃがいも",
+            "text": "旦那結構暑がりなんですけどそれでもきつそうでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "じゃがいも",
+            "text": "ね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "にわとり",
+            "text": "この間は暑かったのにね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "くま",
+            "text": "スノボ好きとしては雪降ってほしいですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "じゃがいも",
+            "text": "確かにね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "にわとり",
+            "text": "まだ2月でしょ？っていうほどあったかかったですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "にわとり",
+            "text": "雪、降らないですねえ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま スノボ行かれると犬の面倒見るの私なんですけどね",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "くま",
+            "text": "都内は降らなくていいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "じゃがいも",
+            "text": "雪なんて降らなくていいっす",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "くま",
+            "text": "雪国は降ってほしい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "じゃがいも",
+            "text": "本当に交通機関も大変だし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "にわとり",
+            "text": "この間都内ふってましたよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "にわとり",
+            "text": "積もったとか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "じゃがいも",
+            "text": "降ってました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも いつもありがとうございます",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "じゃがいも",
+            "text": "次の日在宅勤務にならないかな〜ってワクワクしてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "にわとり",
+            "text": "最近あんまり雪もみないから、めずらしかったですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "じゃがいも",
+            "text": "がならなかった悪夢でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "にわとり",
+            "text": "ああー！！確かに！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "くま",
+            "text": "都内じゃないみたいでしたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "にわとり",
+            "text": "学校お休みになるところもあったのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり だと思いますよ！",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "くま",
+            "text": "うちの会社は原則在宅になってましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "じゃがいも",
+            "text": "さすがにあれじゃ休みのところ多いと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "にわとり",
+            "text": "あーーーそうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま ほんまにムカつく！",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "にわとり",
+            "text": "確かに、交通機関がだめになる。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "じゃがいも",
+            "text": "ぬくぬくしてて私は滑りそうになりながら会社に向かうという",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "じゃがいも",
+            "text": "笑えません！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "にわとり",
+            "text": "わはは、在宅になるとうらやましいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも どんまい！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "じゃがいも",
+            "text": "もうね、旦那氏は本当にいい生活してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "にわとり",
+            "text": "わはは！励まされています！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 一回黙ってなさい",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "くま",
+            "text": "そこだけはコロナの良かったとこですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "にわとり",
+            "text": "@くま あっ",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり お仕事関係大丈夫でしたか？",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "にわとり",
+            "text": "なるほどー。はい、私は大丈夫でした。いつもと何も変わらない生活・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "にわとり",
+            "text": "こちらは岡山なんですが、あの日は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "じゃがいも",
+            "text": "あ、そうか。こっちでないと雪降ってないですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "じゃがいも",
+            "text": "岡山！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "くま",
+            "text": "岡山！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "にわとり",
+            "text": "そうなんですよ。岡山でーす。全然ふってなかったですよ！残念！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "じゃがいも",
+            "text": "なんか日本海側って全部雪降るイメージなんですけど、流石に横暴ですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "じゃがいも",
+            "text": "やりすぎてるか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "にわとり",
+            "text": "あーーーー確かに。日本海側って降るイメージですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "くま",
+            "text": "西の方はあまり降らないイメージ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 確かにそうかも",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "にわとり",
+            "text": "@くま そうですね、",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "じゃがいも",
+            "text": "まぁ雪なんてなくていいんですわ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "にわとり",
+            "text": "瀬戸内だから、ふらない～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "じゃがいも",
+            "text": "寒いし冷たいし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "にわとり",
+            "text": "そうですね！こどものころは楽しかったけどねえ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "じゃがいも",
+            "text": "影響しかないけど、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "にわとり",
+            "text": "大人になると寒い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "じゃがいも",
+            "text": "それです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "じゃがいも",
+            "text": "子供の時はマジで嬉しかった！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "くま",
+            "text": "大人でも楽しいですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "にわとり",
+            "text": "そうそう、雪だるまとかね、雪合戦！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "くま",
+            "text": "家の近くでは降らなくていいですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま スノボ行くからでしょ",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "にわとり",
+            "text": "@くま わはは、そうですね！スキー場はふってほしい！",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "じゃがいも",
+            "text": "あ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くま",
+            "text": "そんなんですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "じゃがいも",
+            "text": "犬は楽しむかなって思ったんですけど大してでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "じゃがいも",
+            "text": "なんか何事もないように散歩してました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "にわとり",
+            "text": "えっそうなんですか？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "じゃがいも",
+            "text": "体はよく降ってましたけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも たしかに",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "じゃがいも",
+            "text": "そうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "にわとり",
+            "text": "そうそう、さっきワンちゃんの話が出て、ワンちゃんいるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり なんかすごくはしゃぐと思うでしょう？",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "にわとり",
+            "text": "いいな～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "にわとり",
+            "text": "はい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "じゃがいも",
+            "text": "そうなんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "じゃがいも",
+            "text": "ポメチワ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "くま",
+            "text": "足りなかったのかもしれんな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "にわとり",
+            "text": "うわーーーー　もう種別聞くだけでかわいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "じゃがいも",
+            "text": "可愛いけどよく噛むし吠えるし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "じゃがいも",
+            "text": "生き物飼うのは大変ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "くま",
+            "text": "夜うるさいしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "にわとり",
+            "text": "甘えん坊ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "じゃがいも",
+            "text": "@にわとり 私には",
+            "mention_to": [
+                "にわとり"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "じゃがいも",
+            "text": "撫でてないとキレられます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "にわとり",
+            "text": "わはは、そうなんだ・・・！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 俺にもそこそこでしょ",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "にわとり",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 2,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "じゃがいも",
+            "informativeness": 3,
+            "comprehension": 2,
+            "familiarity": 1,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "くま",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 2,
+            "satisfaction": 4
+        }
+    ]
+}

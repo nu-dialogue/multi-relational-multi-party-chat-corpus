@@ -1,0 +1,747 @@
+{
+    "dialogue_id": "A02601",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "くらげ",
+        "たらこ",
+        "がんも"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くらげ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "たらこ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "がんも",
+            "text": "こんばんは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くらげ",
+            "text": "昨日、洗濯物にかめむしが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "くらげ",
+            "text": "ついてました　涙",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たらこ",
+            "text": "ええー！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "くらげ",
+            "text": "びっくりでしょ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "たらこ",
+            "text": "びっくりです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "がんも",
+            "text": "ビックリですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くらげ",
+            "text": "まだ2月ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たらこ",
+            "text": "とったんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "くらげ",
+            "text": "夫がいたので頼みました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "がんも",
+            "text": "よかったー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "たらこ",
+            "text": "よかったですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "くらげ",
+            "text": "娘はさけんでました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "たらこ",
+            "text": "カメムシはわたしも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "くらげ",
+            "text": "ありがとうございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "たらこ",
+            "text": "苦手です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ ですよね",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "がんも",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "くらげ",
+            "text": "つぶすとくさいときくので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "くらげ",
+            "text": "ドキドキしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ 虫嫌いですか？",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "くらげ",
+            "text": "嫌いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ 大丈夫ですか",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "がんも",
+            "text": "嫌いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも さんも！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "たらこ",
+            "text": "カメムシ臭いってききますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "くらげ",
+            "text": "昨日あたたかかったからですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たらこ",
+            "text": "洗濯物に虫といえば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "くらげ",
+            "text": "なになに？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "たらこ",
+            "text": "夏とかセミいますよね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "くらげ",
+            "text": "うるさいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "たらこ",
+            "text": "ベランダによく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "くらげ",
+            "text": "えええええ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "たらこ",
+            "text": "いないですか！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ いないです",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "たらこ",
+            "text": "うそー！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くらげ",
+            "text": "小学校の近くなので、鳴き声はききますよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ そんなにびっくり？",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも ベランダにいませんか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "がんも",
+            "text": "庭の木にはいますね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ ベランダのどこにですか？",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たらこ",
+            "text": "うちは絶対セミベランダにいるんですよ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "たらこ",
+            "text": "夏に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "くらげ",
+            "text": "セミベランダ　なんだかかわいいひびき",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "がんも",
+            "text": "笑い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも 網とか服に！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くらげ",
+            "text": "子供は喜びそうですが、おとなはいやですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "くらげ",
+            "text": "服にセミって、なかなか聞かないかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ そうなんです！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "くらげ",
+            "text": "近くに公園でもあるんですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "たらこ",
+            "text": "@えっ！？ほんとですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "たらこ",
+            "text": "田んぼがいっぱいあります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも 服につきますか、セミ？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも 洗濯物に",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "がんも",
+            "text": "セミは付かないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ ついてて夫にとってもらいましたよ去年",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "くらげ",
+            "text": "田んぼってセミいるんですかねぇ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "くらげ",
+            "text": "木がないのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "たらこ",
+            "text": "田んぼはいないですねセミ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "くらげ",
+            "text": "トンボはいそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "くらげ",
+            "text": "どこから来るんだろう？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ やっぱり夫ですよね",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "くらげ",
+            "text": "虫は　笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "たらこ",
+            "text": "田んぼは春になると黄色い蝶々が飛んでますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ のどか～",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ 夫いると助かりますよね！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "くらげ",
+            "text": "ちょっとなごみますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ そういう時は",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "くらげ",
+            "text": "あっ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ そうなんです",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "くらげ",
+            "text": "男性陣におこられるかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "たらこ",
+            "text": "どうしましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "たらこ",
+            "text": "夫にですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "くらげ",
+            "text": "夫の価値を虫とりだけみたいにいってしまったので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "たらこ",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "がんも",
+            "text": "大丈夫だと思いますよ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも ありがとうございます",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "たらこ",
+            "text": "旦那さんは年上ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "がんも",
+            "text": "私も虫取り係です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ １つ下です",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも すばらしい",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも 虫とり係ですか！？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "がんも",
+            "text": "です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くらげ",
+            "text": "虫取りかかり、重要です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "がんも",
+            "text": "田舎なので虫多いです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも 高いところの荷物とりもですか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ 姉さん女房ですね！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ そうなんです",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "がんも",
+            "text": "@くらげ それもありますね",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ 夫さんは年上ですか？",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも すばらしい",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ うちは1つ年上です！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くらげ",
+            "text": "@たらこ うちと反対ですね　笑",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ ほんとですね笑",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも 他にかかりはありますか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "たらこ",
+            "text": "@がんも 虫取れるだけで尊敬です！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "がんも",
+            "text": "係ではないですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "たらこ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "くらげ",
+            "text": "ゴキブリもさけんで夫よびました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ わかりますー！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "くらげ",
+            "text": "けど、いない時は、意外と冷静に自分で退治しました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "くらげ",
+            "text": "出来るやん、私って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "たらこ",
+            "text": "@くらげ すごーい！",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "がんも",
+            "text": "一通りの事はやります",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くらげ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "たらこ",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "がんも",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

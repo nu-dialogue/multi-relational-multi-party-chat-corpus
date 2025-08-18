@@ -1,0 +1,685 @@
+{
+    "dialogue_id": "A02104",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "うどん",
+        "みたらし",
+        "いそべ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うどん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "みたらし",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "いそべ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うどん",
+            "text": "最近どこか旅行しました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "いそべ",
+            "text": "してないですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "いそべ",
+            "text": "行きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "みたらし",
+            "text": "去年の夏が最後ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "うどん",
+            "text": "そうだったんですねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "うどん",
+            "text": "わたしも行きたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし 夏はどこに行かれたんですか？",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "いそべ",
+            "text": "@うどん どこに行きたいですか？",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "うどん",
+            "text": "@いそべ 沖縄に行きたいですー！",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "うどん",
+            "text": "あと海外旅行もしてみたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "いそべ",
+            "text": "沖縄いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "みたらし",
+            "text": "沖縄いいですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "うどん",
+            "text": "海が最高でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "いそべ",
+            "text": "やっぱり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "みたらし",
+            "text": "沖縄にいったことないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "うどん",
+            "text": "海の動物まで綺麗に見えるんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "みたらし",
+            "text": "海きれいそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "みたらし",
+            "text": "おお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし わたしも最近初めて行きました",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "いそべ",
+            "text": "いいな！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "みたらし",
+            "text": "見てみたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "うどん",
+            "text": "おすすめです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "うどん",
+            "text": "冬の沖縄は本州よりだいぶ暖かいので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "うどん",
+            "text": "冬がいいかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "みたらし",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "みたらし",
+            "text": "夏かと思ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "うどん",
+            "text": "冬が終わったかと錯覚します",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "いそべ",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "うどん",
+            "text": "夏もいいだろうけど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "うどん",
+            "text": "夏も行ってみます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "うどん",
+            "text": "皆さんは、どこか良かった旅行先ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "みたらし",
+            "text": "@うどん ハワイは感動しました",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "うどん",
+            "text": "ハワイ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "いそべ",
+            "text": "ハワイいいな！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし 海の景色？",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "みたらし",
+            "text": "空港から匂いが違うんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "うどん",
+            "text": "へー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "みたらし",
+            "text": "海の景色も最高です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "うどん",
+            "text": "匂いが違うのわかるかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "いそべ",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "うどん",
+            "text": "うまく言葉にできないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "うどん",
+            "text": "降り立った瞬間、違う土地に来た感がありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "いそべ",
+            "text": "あー分かります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "うどん",
+            "text": "ハワイ行きたいな〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "みたらし",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "うどん",
+            "text": "グアムしか行ったことなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "みたらし",
+            "text": "おすすめですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "みたらし",
+            "text": "グアムないんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "うどん",
+            "text": "ぜひぜひ行ってみますー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "みたらし",
+            "text": "行ってみたいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "いそべ",
+            "text": "グアムもいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "うどん",
+            "text": "グアムは、日本の色がちょっと強めでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "うどん",
+            "text": "日本円が使えるお店があったりとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "みたらし",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "みたらし",
+            "text": "おお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "みたらし",
+            "text": "日本円が使えるって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "みたらし",
+            "text": "すごいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし ハワイはさすがにドルしか無理ですよね？",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "うどん",
+            "text": "びっくりしちゃいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "うどん",
+            "text": "もはや日本じゃんって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "みたらし",
+            "text": "@うどん ですね。基本米ドルのみです",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし ですよね〜",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "うどん",
+            "text": "ハワイのごはんは、ハンバーガーとか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "いそべ",
+            "text": "気になる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "みたらし",
+            "text": "ハンバーガーも食べますね。いろいろです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "うどん",
+            "text": "ほー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "うどん",
+            "text": "@みたらし 特においしかったものとかありますか？",
+            "mention_to": [
+                "みたらし"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "いそべ",
+            "text": "お魚とか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "みたらし",
+            "text": "魚",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "みたらし",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "うどん",
+            "text": "魚！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "うどん",
+            "text": "ハワイだとフライとかですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "うどん",
+            "text": "焼いてるのかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "みたらし",
+            "text": "フライも焼きもあります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "うどん",
+            "text": "そうなんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "みたらし",
+            "text": "フライおいしいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "うどん",
+            "text": "日本のフライとは違うんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "うどん",
+            "text": "日本のお魚フライ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "いそべ",
+            "text": "気になる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "みたらし",
+            "text": "味付けがちがいますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "うどん",
+            "text": "へー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "みたらし",
+            "text": "タルタルが基本です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "いそべ",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "うどん",
+            "text": "タルタルってハワイにもあるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "うどん",
+            "text": "おいしそうだなぁ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "みたらし",
+            "text": "日本のと味付けが違いますけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "うどん",
+            "text": "おしゃれそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "うどん",
+            "text": "日本のとは違うタルタルなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "みたらし",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "うどん",
+            "text": "グアムだとタルタルなかった気がするので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "うどん",
+            "text": "地域によっていろいろなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "うどん",
+            "text": "おもしろい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "みたらし",
+            "text": "どんな料理があるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "いそべ",
+            "text": "知らない世界がいっぱいあるなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "うどん",
+            "text": "どんなだったかなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "うどん",
+            "text": "チャモロ？っていう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "みたらし",
+            "text": "チャモロ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "うどん",
+            "text": "何かがあった気がする",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "みたらし",
+            "text": "どんなですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "いそべ",
+            "text": "気になる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "うどん",
+            "text": "行ったのが昔すぎて忘れちゃったけど",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うどん",
+            "informativeness": 1,
+            "comprehension": 2,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "みたらし",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "いそべ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

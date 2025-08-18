@@ -1,0 +1,733 @@
+{
+    "dialogue_id": "A02403",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "うどん",
+        "おでん",
+        "はくまい"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うどん",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "おでん",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "はくまい",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うどん",
+            "text": "皆さんは、好きな旅行先ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "はくまい",
+            "text": "自分は海外に行ってみたいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "おでん",
+            "text": "私は東京が、好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "うどん",
+            "text": "おー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい 行きたい国はあるんですか？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい 海外だとどこですか？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "うどん",
+            "text": "@おでん わたしも東京好き！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "はくまい",
+            "text": "バハマっていう国に行ってみたいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "うどん",
+            "text": "バハマ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "おでん",
+            "text": "バハマ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "はくまい",
+            "text": "海が綺麗で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "うどん",
+            "text": "どのあたりの国ですか...？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "おでん",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "はくまい",
+            "text": "カリブ海の島国です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "うどん",
+            "text": "ほぉー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "おでん",
+            "text": "へぇー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "うどん",
+            "text": "綺麗そう！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "うどん",
+            "text": "建物とかも美しそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "おでん",
+            "text": "どのくらいで行けるんでしょう？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "おでん",
+            "text": "あっ、時間です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "はくまい",
+            "text": "とにかく海が綺麗で死ぬまでに行ってみたい国です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "おでん",
+            "text": " 行かなきゃですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん 半日かかるくらいじゃないでしょうか",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "はくまい",
+            "text": "正確じゃないですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "はくまい",
+            "text": "おそらく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい そうなんですね",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "うどん",
+            "text": "意外と早い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "うどん",
+            "text": "遠くの国、いいなぁ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "うどん",
+            "text": "世界がぜんぜん違いそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "はくまい",
+            "text": "皆さんは海外で行きたい国ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "うどん",
+            "text": "わたしはアメリカに行きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "うどん",
+            "text": "アメリカのディズニーランド！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "おでん",
+            "text": "私は…どこだろ？日本語しか話せないからなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "はくまい",
+            "text": "@うどん アメリカのディズニー行きたいです！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "うどん",
+            "text": "@おでん 同じく！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい 日本よりめちゃ広くて楽しそうですよね！！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "おでん",
+            "text": "アメリカのディズニーランド！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "おでん",
+            "text": "本場ですもんね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "うどん",
+            "text": "ですです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "うどん",
+            "text": "ディズニー大好きで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "はくまい",
+            "text": "@うどん そうなんですか",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "うどん",
+            "text": "そうなんです〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "おでん",
+            "text": "じゃ、東京ディズニーランドは結構行かれてますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "うどん",
+            "text": "昔は年パス持ってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "うどん",
+            "text": "行ってましたが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "うどん",
+            "text": "最近は行けてなくて...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "おでん",
+            "text": "へぇー、そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "はくまい",
+            "text": "@うどん 何のキャラクターが好きですか？",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい プーさんが好きです！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "うどん",
+            "text": "なんだか和むから...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "おでん",
+            "text": "私もプーさんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "はくまい",
+            "text": "プーさんいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "うどん",
+            "text": "うれしい！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい 好きなキャラいますか？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "おでん",
+            "text": "プーさんのちょっとドジなところ。好きですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "うどん",
+            "text": "@おでん わかります〜！好き",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん スリンキーが好きです！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "うどん",
+            "text": "トイストーリー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "おでん",
+            "text": "スリンキー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "はくまい",
+            "text": "@うどん そうです",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "うどん",
+            "text": "犬ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "うどん",
+            "text": "かわいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "はくまい",
+            "text": "犬のです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "おでん",
+            "text": "そうなんだ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "うどん",
+            "text": "体が長い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "うどん",
+            "text": "愛嬌ありますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "おでん",
+            "text": "あー、分かりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "はくまい",
+            "text": "バネのやつです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "おでん",
+            "text": "なかなか、通ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "うどん",
+            "text": "バネのびるのおもしろい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "はくまい",
+            "text": "スリンキーが好きでトイストーリー見始めました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "おでん",
+            "text": "やっぱり、トイストーリーとか、ディズニー映画も見たりするんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "うどん",
+            "text": "トイストーリー3泣いちゃう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "うどん",
+            "text": "ディズニー映画観ます！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん この前アラジンの実写見ました！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うどん",
+            "text": "おぉー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい どうでしたか？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "おでん",
+            "text": "@うどん ほんとにディズニー好きなんですね",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "はくまい",
+            "text": "実写でジャスミンが歌う新しい歌があって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "うどん",
+            "text": "@おでん そうなんです！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "はくまい",
+            "text": "すごくよかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "おでん",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい わたしも観てみます！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "うどん",
+            "text": "すてきですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "はくまい",
+            "text": "ぜひぜひ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい 教えてくださってありがとうございます！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "おでん",
+            "text": "実写、ディズニーはすごくいいと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん わかります",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "うどん",
+            "text": "美女と野獣の実写も好き！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "おでん",
+            "text": "私は美女と野獣！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "おでん",
+            "text": "一緒です笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "うどん",
+            "text": "わーい！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "はくまい",
+            "text": "美女と野獣自分みてないんですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "うどん",
+            "text": "とってもおすすめです！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "おでん",
+            "text": "良かったですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "うどん",
+            "text": "歌が最高で...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "はくまい",
+            "text": "見てみたいですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "おでん",
+            "text": "そうですよね、ほんと何もかもが美しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "うどん",
+            "text": "映像も綺麗でしたもんね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "うどん",
+            "text": "ライオンキングの実写はさすがにびっくりしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "うどん",
+            "text": "リアルすぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "おでん",
+            "text": "そうなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "おでん",
+            "text": "まだ見てないけど、見たいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "うどん",
+            "text": "ほんもののライオンなんですよ〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "はくまい",
+            "text": "劇団四季のライオンキングは見ました！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うどん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "おでん",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "はくまい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

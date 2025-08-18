@@ -1,0 +1,679 @@
+{
+    "dialogue_id": "A04402",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "こまつな",
+        "かにたま",
+        "きなこ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "こまつな",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "かにたま",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "きなこ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "こまつな",
+            "text": "この頃気になる事ってありますか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "かにたま",
+            "text": "気になることというか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "こまつな",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "かにたま",
+            "text": "ダイエットしようかと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "きなこ",
+            "text": "同じく！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "こまつな",
+            "text": "みんな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "かにたま",
+            "text": "@きなこ 何かやってますか？",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "きなこ",
+            "text": "@かにたま 何かしたい！と思いつつ",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "きなこ",
+            "text": "何もできてないんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "かにたま",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "こまつな",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "かにたま",
+            "text": "ストレッチとかは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "きなこ",
+            "text": "時々やると・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "きなこ",
+            "text": "あちこち痛みます・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "きなこ",
+            "text": "まずいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "かにたま",
+            "text": "わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "こまつな",
+            "text": "@きなこ あるあるです",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "かにたま",
+            "text": "毎日筋肉痛です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "かにたま",
+            "text": "w",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "きなこ",
+            "text": "@こまつな 安心しました",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "こまつな",
+            "text": "つったりしません？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "きなこ",
+            "text": "@かにたま 笑同じく",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "きなこ",
+            "text": "つります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "かにたま",
+            "text": "つったりはしないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "こまつな",
+            "text": "毎日やればいいのかなあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "かにたま",
+            "text": "筋肉痛がエグい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんですよね。筋肉痛・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "かにたま",
+            "text": "リンパながしとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "こまつな",
+            "text": "@かにたま 歩くと筋肉痛なります",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "かにたま",
+            "text": "@こまつな かなり歩きますか？",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "こまつな",
+            "text": "買い物に行くくらいですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "こまつな",
+            "text": "坂道なので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "こまつな",
+            "text": "20分くらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "かにたま",
+            "text": "運動になりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "きなこ",
+            "text": "坂道いいですね。時間もちょうどよさそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "こまつな",
+            "text": "荷物重いと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "きなこ",
+            "text": "あ・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "こまつな",
+            "text": "きついです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "かにたま",
+            "text": "わかるわかる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "こまつな",
+            "text": "根菜とか買って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "こまつな",
+            "text": "ああ、、って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "きなこ",
+            "text": "なりますよね、私もそれあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "かにたま",
+            "text": "調味料も重いですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こまつな",
+            "text": "水分とか重いので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "かにたま",
+            "text": "@こまつな 野菜重たい…",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "きなこ",
+            "text": "わかります～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "こまつな",
+            "text": "この間",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "こまつな",
+            "text": "すごい大きい白菜を",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "きなこ",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "こまつな",
+            "text": "激安で売ってって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "こまつな",
+            "text": "でも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "かにたま",
+            "text": "ひとたま？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "こまつな",
+            "text": "重くて買えなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "かにたま",
+            "text": "わかりますー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "こまつな",
+            "text": "@かにたま そうです",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "かにたま",
+            "text": "激安でも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "きなこ",
+            "text": "ほしくても断念するときありますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "きなこ",
+            "text": "買い物",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "かにたま",
+            "text": "重くて買えない、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "こまつな",
+            "text": "ほんとです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "きなこ",
+            "text": "そうそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "かにたま",
+            "text": "@きなこ あるある",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "こまつな",
+            "text": "カートだと失敗するので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "かにたま",
+            "text": "わかるかもー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "こまつな",
+            "text": "かごは持つことにしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "きなこ",
+            "text": "私もまったく同じです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "かにたま",
+            "text": "@こまつな そうなんですね",
+            "mention_to": [
+                "こまつな"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "きなこ",
+            "text": "会社帰りの買い物は、かご手持ちにします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こまつな",
+            "text": "持てる分だけ買わないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "かにたま",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "こまつな",
+            "text": "手が肩が・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "きなこ",
+            "text": "うんうん・・わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "かにたま",
+            "text": "肩外れそうになる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "こまつな",
+            "text": "お米はお米だけとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "きなこ",
+            "text": "お米！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "こまつな",
+            "text": "宅配とかするといいんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "かにたま",
+            "text": "お米すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "こまつな",
+            "text": "安いの買うので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "こまつな",
+            "text": "手持ちです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "きなこ",
+            "text": "すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "かにたま",
+            "text": "すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "こまつな",
+            "text": "でも運動ってそれだけです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "こまつな",
+            "text": "あとはしない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "きなこ",
+            "text": "十分運動しているのかも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "かにたま",
+            "text": "買い物で運動になりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "こまつな",
+            "text": "毎日買い物行かないし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "こまつな",
+            "text": "ダイエット向きではないかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "かにたま",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "きなこ",
+            "text": "私は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "きなこ",
+            "text": "近くのチョコザップ気になってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "かにたま",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "かにたま",
+            "text": "@きなこ いいですよね",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "こまつな",
+            "text": "@きなこ 近くにあるんです？",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんです。歩いて・・1分のところにできました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "こまつな",
+            "text": "それはいい！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "かにたま",
+            "text": "いいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "きなこ",
+            "text": "いいのかなあ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "きなこ",
+            "text": "続けられない気がして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "かにたま",
+            "text": "１分なら通いたい",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "こまつな",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "かにたま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "きなこ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,691 @@
+{
+    "dialogue_id": "A01601",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "くらげ",
+        "かにたま",
+        "がんも"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "くらげ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "かにたま",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "がんも",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "くらげ",
+            "text": "じゅじゅつかいせん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "くらげ",
+            "text": "ご存じですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "かにたま",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "がんも",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "くらげ",
+            "text": "@かにたま みてました",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "かにたま",
+            "text": "五条悟好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも みてました",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "がんも",
+            "text": "読んでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "くらげ",
+            "text": "私も五条先生すきです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "くらげ",
+            "text": "一番は七海ですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "がんも",
+            "text": "五条先生カッコいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "くらげ",
+            "text": "私もまんがよんでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも どこまでよんでますか",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "くらげ",
+            "text": "@かにたま テレビですか",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "かにたま",
+            "text": "@くらげ テレビです",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "がんも",
+            "text": "単行本で読んでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "がんも",
+            "text": "全巻あります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも すごい！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "かにたま",
+            "text": "@がんも 作画若干ちがいますよね",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "くらげ",
+            "text": "テレビは渋谷事変でおわりましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "がんも",
+            "text": "そうですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "くらげ",
+            "text": "テレビはきれいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "かにたま",
+            "text": "@くらげ はい",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "がんも",
+            "text": "どっちも好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "くらげ",
+            "text": "昨日、図書館で17かんかりたんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "かにたま",
+            "text": "野薔薇ちゃん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "くらげ",
+            "text": "かわいそう！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "かにたま",
+            "text": "@くらげ 今でも泣いちゃいます。",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "くらげ",
+            "text": "@かにたま 渋谷事変後、しってますか",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "くらげ",
+            "text": "目玉飛び出てましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "かにたま",
+            "text": "@くらげ 知らないです",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "くらげ",
+            "text": "では、ネタばれしないよにします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "かにたま",
+            "text": "ギャン泣きしましたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "かにたま",
+            "text": "@くらげ ありがとです",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "くらげ",
+            "text": "@がんも なきました？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "くらげ",
+            "text": "五条先生の高校生へん、せつなくないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "かにたま",
+            "text": "切ない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "がんも",
+            "text": "良いですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "くらげ",
+            "text": "ですよね。　後ひきます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "かにたま",
+            "text": "かなりひきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "くらげ",
+            "text": "わかる！！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "がんも",
+            "text": "青春してますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "くらげ",
+            "text": "早く続きがテレビでもみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "かにたま",
+            "text": "してますよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "かにたま",
+            "text": "私もです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "くらげ",
+            "text": "私も戻りたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "くらげ",
+            "text": "あおはる　青洲",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "くらげ",
+            "text": "間違いました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "がんも",
+            "text": "押しキャラはいますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "くらげ",
+            "text": "青春でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "くらげ",
+            "text": "七海ですが、しんじゃいましたからねぇ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "がんも",
+            "text": "東堂好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "くらげ",
+            "text": "同感！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "かにたま",
+            "text": "@がんも あー",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "くらげ",
+            "text": "面白いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "かにたま",
+            "text": "いい奴ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "がんも",
+            "text": "残念なところが好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "かにたま",
+            "text": "わかるわかる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "くらげ",
+            "text": "テレビオリジナルの女のことのコラボ面白かったですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "くらげ",
+            "text": "名前わすれました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "くらげ",
+            "text": "アイドル",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "かにたま",
+            "text": "たかだちゃん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "くらげ",
+            "text": "そうそう！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "かにたま",
+            "text": "ギャップが、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "くらげ",
+            "text": "タッパがあってお尻の大きな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "がんも",
+            "text": "高田ちゃんとのやつですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くらげ",
+            "text": "面白すぎましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "かにたま",
+            "text": "面白かったー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "がんも",
+            "text": "おもしろかったですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "くらげ",
+            "text": "東堂って実はかしこいらしいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "かにたま",
+            "text": "そうなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "くらげ",
+            "text": "らしいです。ちょいちょい難しい事いってましたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "かにたま",
+            "text": "えー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "がんも",
+            "text": "頭の回転が早い描写ありましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "くらげ",
+            "text": "そうですね。京都校と東京校の野球の時の東堂いじりが面白かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "かにたま",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "がんも",
+            "text": "あれ面白かった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "くらげ",
+            "text": "デットボールの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "くらげ",
+            "text": "ナイピーってやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "くらげ",
+            "text": "あのころはのどかでよかったですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "くらげ",
+            "text": "渋谷事変ではしんどかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "がんも",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "かにたま",
+            "text": "@くらげ しんど過ぎました",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "くらげ",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "かにたま",
+            "text": "力入って見ちゃいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "くらげ",
+            "text": "テレビの歌もよかったですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くらげ",
+            "text": "全部",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "くらげ",
+            "text": "４つとも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "くらげ",
+            "text": "どれが一番すきですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "かにたま",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "がんも",
+            "text": "歌良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "くらげ",
+            "text": "私は羊文学です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "くらげ",
+            "text": "一緒に頭ふりそうになりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "かにたま",
+            "text": "King Gnu",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "くらげ",
+            "text": "今もくちづさみそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "がんも",
+            "text": "青のすみかすきです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "かにたま",
+            "text": "あー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "くらげ",
+            "text": "やっぱり、全部いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "かにたま",
+            "text": "@くらげ 確かに",
+            "mention_to": [
+                "くらげ"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "がんも",
+            "text": "いいっすねー",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "くらげ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "かにたま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "がんも",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

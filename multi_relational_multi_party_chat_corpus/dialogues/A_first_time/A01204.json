@@ -1,0 +1,747 @@
+{
+    "dialogue_id": "A01204",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "てんぷら",
+        "まりも",
+        "かにたま"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "てんぷら",
+            "text": "こんにちは～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "まりも",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "かにたま",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "まりも",
+            "text": "寒いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "かにたま",
+            "text": "寒いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "てんぷら",
+            "text": "昨日は汗かいたのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "まりも",
+            "text": "寒いのに花粉飛んでるの理不尽だと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "かにたま",
+            "text": "ほんとほんと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "まりも",
+            "text": "昨日は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "まりも",
+            "text": "布団の調整に苦しみました笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "かにたま",
+            "text": "暑かったですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "まりも",
+            "text": "暑かったんだと思うんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "まりも",
+            "text": "体がよくわからない感じになってましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "かにたま",
+            "text": "あー、わかるかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "てんぷら",
+            "text": "言われてみれば半袖で寝ていました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "まりも",
+            "text": "急に暑くなると混乱しちゃう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "まりも",
+            "text": "半袖はなかなか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "かにたま",
+            "text": "@てんぷら 半袖！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "まりも",
+            "text": "いや半袖がよかったのかも？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "てんぷら",
+            "text": "上着着るの忘れて寝てしまいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "てんぷら",
+            "text": "そうそう、快適でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "かにたま",
+            "text": "@まりも 着るもの困りますよね",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "てんぷら",
+            "text": "朝は寒すぎましたけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "まりも",
+            "text": "@てんぷら 忘れたんですか",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "まりも",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "てんぷら",
+            "text": "よく忘れますいろいろ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "てんぷら",
+            "text": "春のコート欲しくなりました、昨日は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "まりも",
+            "text": "起きたら強風で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "まりも",
+            "text": "あ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "てんぷら",
+            "text": "強風にたなびかせたいです、春のコート",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "まりも",
+            "text": "スプリングコート、出番少ないけどほしいときある",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "かにたま",
+            "text": "夜中から明け方凄かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "てんぷら",
+            "text": "出番少ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "まりも",
+            "text": "西川貴教みたいに…>たなびかせる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "てんぷら",
+            "text": "イエローや水色をたなびかせたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "かにたま",
+            "text": "@まりも 着る時期少なめですよね",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "てんぷら",
+            "text": "凍えそうな季節に君は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "かにたま",
+            "text": "@まりも カッコいいかも",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "まりも",
+            "text": "@かにたま なんとかあるもので耐えちゃいますね",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "てんぷら",
+            "text": "ダウンコートは暑かったです、昨日",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "かにたま",
+            "text": "@まりも 私もです",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "まりも",
+            "text": "あ、ちゃんと通じて嬉しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "てんぷら",
+            "text": "愛をどうこう言います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "まりも",
+            "text": "昨日ダウンは暑かったでしょうね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "かにたま",
+            "text": "@てんぷら ダウンは暑い",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "てんぷら",
+            "text": "電車も暑かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "まりも",
+            "text": "今日は着てもよさそう？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "てんぷら",
+            "text": "良さそうですねえ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "まりも",
+            "text": "電車は調整困りますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "てんぷら",
+            "text": "ダウンはたなびかないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "かにたま",
+            "text": "@まりも よいと思います",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "まりも",
+            "text": "めっちゃ寒くて着込んでいったら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "まりも",
+            "text": "車内暑すぎて…とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "かにたま",
+            "text": "わかるわかる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "てんぷら",
+            "text": "混んでいると脱げないし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "かにたま",
+            "text": "汗かいちゃいますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "てんぷら",
+            "text": "脱いでも持つの大変だし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "まりも",
+            "text": "脱いでもつの邪魔ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "かにたま",
+            "text": "それで外出ると暑い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "てんぷら",
+            "text": "ほんとです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "かにたま",
+            "text": "寒い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "まりも",
+            "text": "チャリで全力疾走した後の電車がつらい…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "てんぷら",
+            "text": "なかなか暑そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "かにたま",
+            "text": "わかるわかる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "まりも",
+            "text": "電車でぜーはーしますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "てんぷら",
+            "text": "髪もオールバックですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "まりも",
+            "text": "でもチャリ乗ってるときは風強いんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "かにたま",
+            "text": "強風オールバック",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "まりも",
+            "text": "風ガードをしないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "かにたま",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "てんぷら",
+            "text": "自転車乗ってて追い風のときって人生一度もなかったな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てんぷら",
+            "text": "ないですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "まりも",
+            "text": "風でオールバックならまだいいかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "かにたま",
+            "text": "えー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "まりも",
+            "text": "あー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "まりも",
+            "text": "なぜかいつも逆風ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "てんぷら",
+            "text": "物理的にそういうものなんでしょうか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "まりも",
+            "text": "天パなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "かにたま",
+            "text": "そうなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "まりも",
+            "text": "雨がやばい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "かにたま",
+            "text": "@まりも 天パいいなぁ",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "てんぷら",
+            "text": "天パ、お姫様みたいと思ったことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "まりも",
+            "text": "行き逆風だったら帰り追い風になる気がするけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "かにたま",
+            "text": "@てんぷら あるある",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "まりも",
+            "text": "なぜかならない…みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "てんぷら",
+            "text": "常に逆風",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "かにたま",
+            "text": "@まりも なぜだろ？",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "かにたま",
+            "text": "そうなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "まりも",
+            "text": "@てんぷら 天パも人によりけりなんですよ～",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "まりも",
+            "text": "癖が素敵な感じになればいいんですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "かにたま",
+            "text": "@まりも ストレートなので羨ましいです",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "まりも",
+            "text": "ただの寝癖？爆発？だとちょっと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "てんぷら",
+            "text": "美容院のパーマも、確かに色々計算してくれているなと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "かにたま",
+            "text": "@まりも カチューシャとか似合いそう",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "まりも",
+            "text": "@かにたま 天パも最近ようやく悪くないかもと思えてきましたけど",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "てんぷら",
+            "text": "まとめても華やかそうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "まりも",
+            "text": "小さい頃からかわれるし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "かにたま",
+            "text": "@まりも えー",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "まりも",
+            "text": "美容院でうまく切ってもらえないし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "てんぷら",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "てんぷら",
+            "text": "ロングですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "まりも",
+            "text": "それがなければな～と思いますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "まりも",
+            "text": "ショートです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "まりも",
+            "text": "ロング無理ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "てんぷら",
+            "text": "正直不動産っていうドラマで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "かにたま",
+            "text": "@まりも 強めの天パですか？",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "まりも",
+            "text": "長いとどんどん広がっちゃうんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "てんぷら",
+            "text": "いじわる不動産の女性がクルクルショートでしたが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 108,
+            "interlocutor_id": "まりも",
+            "text": "@かにたま 結構強いですね～",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 109,
+            "interlocutor_id": "かにたま",
+            "text": "@まりも 帽子とかバレッタとか合いそうなだけどなぁ",
+            "mention_to": [
+                "まりも"
+            ]
+        },
+        {
+            "utterance_id": 110,
+            "interlocutor_id": "てんぷら",
+            "text": "帽子良さそう",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "てんぷら",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "まりも",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "かにたま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,701 @@
+{
+    "dialogue_id": "A09701",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おにぎり",
+        "らっこ",
+        "ハンバーグ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おにぎり",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "らっこ",
+            "text": "こんにちはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ハンバーグ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おにぎり",
+            "text": "はじめまして！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "おにぎり",
+            "text": "よろしくお願いいたします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "らっこ",
+            "text": "はじめましてー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ハンバーグ",
+            "text": "はじめまして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ハンバーグ",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "おにぎり",
+            "text": "今日も、こちらはいいお天気です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "らっこ",
+            "text": "こちらもよく晴れています。都内",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "おにぎり",
+            "text": "春らしくなってきましたね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "らっこ",
+            "text": "そうですねー。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ハンバーグ",
+            "text": "こっちは曇ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "おにぎり",
+            "text": "昨日は、ひな祭り、何かされましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "らっこ",
+            "text": "通勤途中の梅が咲いていました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "らっこ",
+            "text": "息子二人なので、なにもせずですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "おにぎり",
+            "text": "梅、今がさかりですかね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり 娘が家にいないので何もしてません",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "おにぎり",
+            "text": "みなさん、娘さんいらっしゃらないのですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "らっこ",
+            "text": "@おにぎり なにかしました？",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "おにぎり",
+            "text": "うちは、娘二人なのですが、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "らっこ",
+            "text": "あらーお嬢さん2人",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "おにぎり",
+            "text": "とりあえず、ひな人形を飾りましたが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "おにぎり",
+            "text": "ちらし寿司とかは、作れませんでした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "らっこ",
+            "text": "ひな人形って、1つ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり いますけど寮にいる子と、彼氏と暮らしてる子といて家にいないので…..",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "らっこ",
+            "text": "1人に１つ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "おにぎり",
+            "text": "一人は、私のおさがりで、一人は買いましたので、2つ出しました。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "らっこ",
+            "text": "わー２つ。すごい。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "おにぎり",
+            "text": "おさがりって、良くないんですよね、本当は。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "らっこ",
+            "text": "なんかそう聞きますけどね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ハンバーグ",
+            "text": "確かね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "らっこ",
+            "text": "もったいないですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "おにぎり",
+            "text": "@ハンバーグ 娘さん、大きいのですね！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "おにぎり",
+            "text": "さすがに、2つはねぇ。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり 早くに結婚したのでもう大きいです",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "おにぎり",
+            "text": "娘さん達出ていくとき、さみしくなりましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり 特にならなかったな",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "らっこ",
+            "text": "そうなんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "おにぎり",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ハンバーグ",
+            "text": "真ん中に息子もいて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "らっこ",
+            "text": "お嬢さん、時々帰省されますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "おにぎり",
+            "text": "息子さんもいるのですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ハンバーグ",
+            "text": "その子が東京に行く時は寂しかったですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "らっこ",
+            "text": "お子さん3人？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "おにぎり",
+            "text": "男の子が出ていくときの方が寂しいのかな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ハンバーグ",
+            "text": "部活とかでついて回ってたので余計です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@らっこ 子供3人です",
+            "mention_to": [
+                "らっこ"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "らっこ",
+            "text": "私は、息子が家を出る日がくるのかと思うと、今からもう寂しいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "おにぎり",
+            "text": "お友達が、息子さん2人で、大学生で出て行ったら、本当に落ち込んでて。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "おにぎり",
+            "text": "@らっこ あら！",
+            "mention_to": [
+                "らっこ"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@らっこ ですよねー",
+            "mention_to": [
+                "らっこ"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "らっこ",
+            "text": "あーそうなっちゃいますよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "らっこ",
+            "text": "まだもうちょっと先ですけどね、高校生なので。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "おにぎり",
+            "text": "女の子が出ていく方が、あっさり離れられるのかな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり そうなりますよねー",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "おにぎり",
+            "text": "@らっこ 大学は、地元で行けそうですか？",
+            "mention_to": [
+                "らっこ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり うちの場合女の子はすぐ近くにいるけど",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "らっこ",
+            "text": "春から大学ですが、埼玉で、けっこう遠いです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "おにぎり",
+            "text": "うちは、地元で大学はほぼ可能性ないので、出ていく予定で。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "おにぎり",
+            "text": "@ハンバーグ 近いんですね！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ハンバーグ",
+            "text": "息子はすぐに会いに行ける距離じゃないからかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "おにぎり",
+            "text": "なるほどー。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "らっこ",
+            "text": "遠いのは寂しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり 近いです",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "おにぎり",
+            "text": "@らっこ 息子さん通学、大変ですねぇ。",
+            "mention_to": [
+                "らっこ"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "らっこ",
+            "text": "そうなんです。1時間ちょっとかかります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "おにぎり",
+            "text": "でも、家から通ってもらえると、色々と助かりますよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ハンバーグ",
+            "text": "息子は東京で就職決まったので戻って来ない感じなので余計に寂しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "らっこ",
+            "text": "就職きまっちゃったら、もうね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり 確かに家からだと助かります",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "おにぎり",
+            "text": "あらー！働き始めると、なかなか帰省も減るのかな。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ハンバーグ",
+            "text": "なかなか帰って来れる感じじゃなくなりそうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ハンバーグ",
+            "text": "まぁ仕方ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "おにぎり",
+            "text": "お友達も、息子の帰省時は、めちゃくちゃ張り切ってました笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "らっこ",
+            "text": "自分自身がめったに実家帰らないから、子どもにも期待しないでおこうとは思います。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "おにぎり",
+            "text": "@らっこ 笑笑確かに！",
+            "mention_to": [
+                "らっこ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり そうなりますよね",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "らっこ",
+            "text": "寂しいけど、立派に自立されて頼もしいですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@らっこ 笑笑",
+            "mention_to": [
+                "らっこ"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ハンバーグ",
+            "text": "たまに戻ってきてくれればいいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "らっこ",
+            "text": "そうですね。たまにね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "おにぎり",
+            "text": "そうですね！親に頼ってばかりで帰省ばっかされても、心配かも笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり それはありますよね",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "らっこ",
+            "text": "実家から出ない子のほうが心配です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "おにぎり",
+            "text": "そうそう！ずっといられても、困るかも笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@らっこ うちも全員実家から出しました",
+            "mention_to": [
+                "らっこ"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "らっこ",
+            "text": "出したんですね。ｗｗｗ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "おにぎり",
+            "text": "出しちゃった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "おにぎり",
+            "text": "でも、それって子育て成功ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "らっこ",
+            "text": "ですね！大成功。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ハンバーグ",
+            "text": "1番上は一度戻ってきたけど彼氏と暮らすって出てきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "おにぎり",
+            "text": "同棲ですねー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "らっこ",
+            "text": "自立が最終目標ですからね。子育ては。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "らっこ",
+            "text": "同棲、楽しそう。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ですです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "おにぎり",
+            "text": "同棲、いいですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "らっこ",
+            "text": "同棲経験ありですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "おにぎり",
+            "text": "私も、結婚する前一緒に住んでみるべきだった！と思って笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ハンバーグ",
+            "text": "結婚前にあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "おにぎり",
+            "text": "経験ないです。",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おにぎり",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "らっこ",
+            "informativeness": 1,
+            "comprehension": 2,
+            "familiarity": 2,
+            "interest": 1,
+            "proactiveness": 3,
+            "satisfaction": 1
+        },
+        {
+            "interlocutor_id": "ハンバーグ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

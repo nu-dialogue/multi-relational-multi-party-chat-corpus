@@ -1,0 +1,792 @@
+{
+    "dialogue_id": "B10705",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "りんご",
+        "しらたき",
+        "つくね"
+    ],
+    "relationship": [
+        "しらたき",
+        "つくね"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "りんご",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "しらたき",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "つくね",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "りんご",
+            "text": "お花見行きますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "つくね",
+            "text": "行く予定です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "しらたき",
+            "text": "行きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "りんご",
+            "text": "@つくね いいですね！近く？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 遠くに連れてく？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 旦那の実家が",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "つくね",
+            "text": "桜有名なんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 実家の方にいきます",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "りんご",
+            "text": "@つくね どこらへんですか。",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "しらたき",
+            "text": "毎年",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 長野です！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "つくね",
+            "text": "県内の南の方ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "りんご",
+            "text": "@つくね いいとこですね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "つくね",
+            "text": "だいぶ田舎ですが笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 帰省も兼ねて？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 帰省はしないですね",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "りんご",
+            "text": "@つくね のんびりできますね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "しらたき",
+            "text": "お花見だけ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つくね",
+            "text": "@りんご たまには都会に行きたいです！笑",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき そうなんですね、でもお花見はいいですよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 花より団子ですけどね笑",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 都内とか？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "しらたき",
+            "text": "大体屋台目当てです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき いっぱいでるんですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 都内行きたいです！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご そうですね、出てますね！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "りんご",
+            "text": "@つくね お店いっぱいあるもんね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "しらたき",
+            "text": "桜の花びらの塩漬けが乗った",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき どんな屋台すきですか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しらたき",
+            "text": "天ぷら饅頭をいつも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しらたき",
+            "text": "嫁が食べてます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご イカ焼きすきでふ",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 美味しそう",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "つくね",
+            "text": "美味しいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "つくね",
+            "text": "天ぷら饅頭が好きで笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 太るぞ！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "りんご",
+            "text": "@つくね なんか桜の花びらののったやつなんて食べたい！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 大丈夫！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき それは言っちゃダメ",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 桜の花びらの塩漬けがまた甘いのと合います！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 言っておかないとどんどんでかくなる笑",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "りんご",
+            "text": "@つくね想像だけでも美味しそう！！！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき うわー！それいっちゃう！？笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "つくね",
+            "text": "@りんご めちゃうまです！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "りんご",
+            "text": "@つくね だって美味しいもの多すぎなんですー",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つくね",
+            "text": "あと桜ソフトもオススメです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 私、桜好きなんですよ",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "りんご",
+            "text": "@つくね えー、桜ソフト！！！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 桜いいですよね！私も好きです",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 食べたい！！！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 俺も食べたい",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "しらたき",
+            "text": "桜ソフト！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しらたき",
+            "text": "今年は食べる笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 自分で買ってください！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "りんご",
+            "text": "コンビニでスタバの桜の飲み物のみました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つくね",
+            "text": "スタバの桜味?",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 桜物も季節ものだからね",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "つくね",
+            "text": "コーヒーですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "しらたき",
+            "text": "コーヒーはブラックしか飲まない！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "りんご",
+            "text": "@つくね コーヒーではなかったけど桜とゼリーが入ってたかな",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき えー大人",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 桜ゼリー！？気になる！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "りんご",
+            "text": "@つくね コンビニチェックしてみてください！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 大人です！笑",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "しらたき",
+            "text": "でもケーキとか大好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 行ってみます！セブンですかね？",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき おー、コンビニスイーツたべますか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご めっちゃ食べます",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "りんご",
+            "text": "@つくね セブンです！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 近所にあるのでみてみますー！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき どんな感じのたべますか？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "りんご",
+            "text": "@つくね うちも近くにセブンあるからつい行っちゃう",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご ローソンのバスターとかよく食べます！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "しらたき",
+            "text": "あとセブンのクリーム乗ってるやつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき ローソンはスイーツ美味しいですよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "つくね",
+            "text": "@りんご コンビニ行くとついつい買っちゃいますよね！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご うまいです！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "しらたき",
+            "text": "お値段もリーズナブル！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "りんご",
+            "text": "@つくね そうなんです！絶対にそのコーナーみる",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 見ます！見ると食べたくなります",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき お値段重要です！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 毎回新商品につられるか",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 大分重要です！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "しらたき",
+            "text": "新商品チェックします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 新商品気になりますよね",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "つくね",
+            "text": "テレビとかで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 最近のコンビニスイーツちょっと高いですからねー",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "つくね",
+            "text": "特集されてると余計に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 高いですよね、、、物価も上がって",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 話題になってると買いますねー！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しらたき",
+            "text": "家計が大ダメージ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 確かに！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "つくね",
+            "text": "控えないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "りんご",
+            "text": "@しらたき 物価高い！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つくね",
+            "text": "@りんご 買いますよね！1回は！",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "つくね",
+            "text": "リピートになるかは別として",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "しらたき",
+            "text": "@りんご 高いです！ガソリンとかも高くて",
+            "mention_to": [
+                "りんご"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "りんご",
+            "text": "@つくね 本当ですね、物価上がってるけどスイーツは買っちゃう",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "しらたき",
+            "text": "車維持もしんどいです笑",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "りんご",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

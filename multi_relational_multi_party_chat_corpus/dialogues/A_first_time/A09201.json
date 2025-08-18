@@ -1,0 +1,717 @@
+{
+    "dialogue_id": "A09201",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "かにたま",
+        "あざらし",
+        "ハンバーグ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "かにたま",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "あざらし",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ハンバーグ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "かにたま",
+            "text": "朝ごはんたべましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "あざらし",
+            "text": "@かにたま 食べました！",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@かにたま 食べました",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "かにたま",
+            "text": "なにたべましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "あざらし",
+            "text": "@かにたま 食べました？",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "あざらし",
+            "text": "私は昨日の残り御飯です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし 食べました！",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ハンバーグ",
+            "text": "トースト焼いてバターぬって食べました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "あざらし",
+            "text": "@ハンバーグ パンですね！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "あざらし",
+            "text": "美味しそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あざらし はい",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "かにたま",
+            "text": "私もパン食べましたー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "あざらし",
+            "text": "私は御飯でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ハンバーグ",
+            "text": "いつもご飯なのでたまには",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし 朝はご飯派？",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "あざらし",
+            "text": "@ハンバーグ 休日ですしね",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "あざらし",
+            "text": "そうなんですよ。大概ごはんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あざらし ですね",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "かにたま",
+            "text": "そうなのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "あざらし",
+            "text": "お昼にパンが多いかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "あざらし",
+            "text": "でも今日のお昼も御飯の予定です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし なるほど",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ハンバーグ",
+            "text": "自分はほぼご飯かな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "かにたま",
+            "text": "朝がごはんて作るの大変じゃないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ハンバーグ",
+            "text": "お米好きなので！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "あざらし",
+            "text": "チュモッパという韓国料理です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@かにたま 昨日の残り物が多いかな",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "あざらし",
+            "text": "うちも残り物ですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし のりみたいなやつですか？",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "あざらし",
+            "text": "@かにたま そうです！",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あざらし チュモッパ？",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "あざらし",
+            "text": "韓国のりと漬物の入ったもの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "ハンバーグ",
+            "text": "聞いたことないから後で調べてみよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "かにたま",
+            "text": "おにぎりとかにするやつ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あざらし 美味しそうですね",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "あざらし",
+            "text": "カルディに売ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "あざらし",
+            "text": "そうです。丸いおにぎりです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "ハンバーグ",
+            "text": "カルディいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし 美味しいですよね",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "あざらし",
+            "text": "@ハンバーグ ついつい色々買うんです",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あざらし 本当そんな感じ",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "かにたま",
+            "text": "カルディ好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "あざらし",
+            "text": "@かにたま 好きです！よく行きますね",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "かにたま",
+            "text": "私も大好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "あざらし",
+            "text": "あれこれ掘り出し物を探すのが好きで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@かにたま カルディにわざわざ行かないですけどモールに入ってると必ず立ち寄ります",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "かにたま",
+            "text": "同じです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "あざらし",
+            "text": "滞在時間長めです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "あざらし",
+            "text": "うちもモールにありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "かにたま",
+            "text": "わかります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あざらし 確かに",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "かにたま",
+            "text": "生ハムとか書います！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "あざらし",
+            "text": "むしろコーヒーは買ったことないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ハンバーグ",
+            "text": "色々珍しい物とかあるから見ていて飽きない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "あざらし",
+            "text": "へー生ハムですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "あざらし",
+            "text": "うん、飽きない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "かにたま",
+            "text": "@ハンバーグ そうですよね",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ハンバーグ",
+            "text": "コーヒーはその場で飲むくらい笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "あざらし",
+            "text": "海外行った気になりますね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "かにたま",
+            "text": "生ハムやすいんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "あざらし",
+            "text": "安くて美味しいんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "あざらし",
+            "text": "買ってみよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@かにたま 今度生ハム見てみます",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "かにたま",
+            "text": "@ハンバーグ コーヒーいいですよね",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "あざらし",
+            "text": "サラダとかに合いそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@かにたま ですです",
+            "mention_to": [
+                "かにたま"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "かにたま",
+            "text": "@ハンバーグ ぜひぜひ",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "かにたま",
+            "text": "冷凍カヌレも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ハンバーグ",
+            "text": "最初行ったときこのコーヒー店内で飲んでいいの？って感じでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "あざらし",
+            "text": "冷凍カヌレもあるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "かにたま",
+            "text": "@ハンバーグ ですよね",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ハンバーグ",
+            "text": "色々あって楽しいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "あざらし",
+            "text": "本場の味ですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "あざらし",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし あるんですよ",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "あざらし",
+            "text": "探してみます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "かにたま",
+            "text": "朝ごはんにしちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "あざらし",
+            "text": "おしゃれですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "かにたま",
+            "text": "手軽で便利です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ハンバーグ",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "あざらし",
+            "text": "確かに便利ですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "かにたま",
+            "text": "トルティーヤとかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "かにたま",
+            "text": "安いので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "あざらし",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "かにたま",
+            "text": "冷凍庫にあると安心",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ハンバーグ",
+            "text": "確かに色々安い気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "かにたま",
+            "text": "パスタも安いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "あざらし",
+            "text": "買い込んじゃいますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ハンバーグ",
+            "text": "カルディ行きたくなってきたな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "あざらし",
+            "text": "パスタ色々ありますよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "かにたま",
+            "text": "@あざらし はい",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "あざらし",
+            "text": "本当、行きたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "かにたま",
+            "text": "トマト缶も安くないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "あざらし",
+            "text": "時間ないと寄れないんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "あざらし",
+            "text": "トマト缶安いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "あざらし",
+            "text": "わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ハンバーグ",
+            "text": "でも週末は混んでるから平日の方が見やすいかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "あざらし",
+            "text": "あー確かに",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "かにたま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "あざらし",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ハンバーグ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,711 @@
+{
+    "dialogue_id": "A00903",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "あずき",
+        "つぶあん",
+        "しじみ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "あずき",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つぶあん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しじみ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "あずき",
+            "text": "休日はどう過ごしていますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "あずき",
+            "text": "我が家は家にいることが多くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "しじみ",
+            "text": "@あずき 確定申告の準備をしました！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "しじみ",
+            "text": "お家でゆっくりされたんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "あずき",
+            "text": "@しじみ 大事ですね",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "あずき",
+            "text": "比較的、休日は家にこもってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "しじみ",
+            "text": "家ごもりいいですよね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "あずき",
+            "text": "お子さんが小さいと出かけます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "しじみ",
+            "text": "@つぶあん さんは？",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "つぶあん",
+            "text": "@あずき 家でまったりですね！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "しじみ",
+            "text": "みなさんおうちなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "つぶあん",
+            "text": "うちは出かけることが多いです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "あずき",
+            "text": "お家大好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "つぶあん",
+            "text": "アウトドアが好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "あずき",
+            "text": "@つぶあん そうなんですね",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "あずき",
+            "text": "どこに行きます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "しじみ",
+            "text": "アウトドアいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "あずき",
+            "text": "家族で決めますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "あずき",
+            "text": "キャンプとか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "つぶあん",
+            "text": "子供は公園に行きたがります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "あずき",
+            "text": "@つぶあん そうですよねー",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "つぶあん",
+            "text": "キャンプいきます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "あずき",
+            "text": "公園好きですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "しじみ",
+            "text": "我が家の主人もキャンプ好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "あずき",
+            "text": "キャンプいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "つぶあん",
+            "text": "親がキャンプに行きたがります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "あずき",
+            "text": "やってみたいんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "あずき",
+            "text": "親が！！面白い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "しじみ",
+            "text": "親御さんが！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "あずき",
+            "text": "準備や片付け大変じゃないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "しじみ",
+            "text": "ベテランキャンパーの予感！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "つぶあん",
+            "text": "私も好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "あずき",
+            "text": "@しじみ 本当！",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "しじみ",
+            "text": "準備や片付けも、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "あずき",
+            "text": "非日常ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "つぶあん",
+            "text": "自然が好きですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "しじみ",
+            "text": "意外と楽しいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "あずき",
+            "text": "そっかー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "あずき",
+            "text": "慣れれば楽しいのかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "あずき",
+            "text": "ワイワイいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しじみ",
+            "text": "@あずき さんはキャンプに行くなら",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "つぶあん",
+            "text": "外でバーベキューだけでもたのしいですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "しじみ",
+            "text": "泊まりがいいですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "あずき",
+            "text": "泊まりもしてみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "しじみ",
+            "text": "@つぶあん バーベキューいいですね！",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つぶあん",
+            "text": "泊まることが多いです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "あずき",
+            "text": "テント？泊まってみたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "しじみ",
+            "text": "泊まりいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "しじみ",
+            "text": "朝が気持ちいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "あずき",
+            "text": "そうなんですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "つぶあん",
+            "text": "@あずき 昔はテントでした。",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "あずき",
+            "text": "天気が良いと最高ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しじみ",
+            "text": "今はテントじゃないんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "あずき",
+            "text": "@つぶあん 今はなんですか？",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "つぶあん",
+            "text": "@あずき 車中泊です。",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "しじみ",
+            "text": "コテージとか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "しじみ",
+            "text": "車中泊！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "あずき",
+            "text": "すごい！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "しじみ",
+            "text": "すごーい！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つぶあん",
+            "text": "車の上にテントをのせてます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "しじみ",
+            "text": "キャンピングカー？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "あずき",
+            "text": "すごいー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しじみ",
+            "text": "え？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "あずき",
+            "text": "プロですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "しじみ",
+            "text": "車の上にテント？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "しじみ",
+            "text": "想像がつかないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "つぶあん",
+            "text": "キャンピングカーではないんです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "あずき",
+            "text": "そんなことできるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "つぶあん",
+            "text": "そうなんですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "しじみ",
+            "text": "ワゴンですか？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "つぶあん",
+            "text": "すごいですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "あずき",
+            "text": "雑誌で見たことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "しじみ",
+            "text": "気になります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "しじみ",
+            "text": "後で調べてみます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "つぶあん",
+            "text": "上と下に分かれて、ねてます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しじみ",
+            "text": "へー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "あずき",
+            "text": "ほう！そう言うことか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "しじみ",
+            "text": "楽しそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "あずき",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "つぶあん",
+            "text": "ルーフテントと調べてみてください！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "あずき",
+            "text": "ホテルより楽しそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "しじみ",
+            "text": "@つぶあん ありがとうございます！",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "あずき",
+            "text": "ルーフテントと言うんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "しじみ",
+            "text": "ルーフテント",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "しじみ",
+            "text": "初めて聞きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "あずき",
+            "text": "@つぶあん ありがとうございます",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "あずき",
+            "text": "同じく！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "しじみ",
+            "text": "普通のテントより、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "しじみ",
+            "text": "小回りが効きそうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "あずき",
+            "text": "そうですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つぶあん",
+            "text": "普通のテントより設営が楽です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "あずき",
+            "text": "簡単に設置できそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "しじみ",
+            "text": "場所の選択肢も増えそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "あずき",
+            "text": "なるほどー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "しじみ",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "しじみ",
+            "text": "楽なの大事！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つぶあん",
+            "text": "問題は子供が大きくなったら狭いかも。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "あずき",
+            "text": "そっかー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "あずき",
+            "text": "子供も楽しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "つぶあん",
+            "text": "あと何年できるかな？みたいな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "しじみ",
+            "text": "お子さんからしたら、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "あずき",
+            "text": "それはキャンプ好きになるかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "しじみ",
+            "text": "最高の体験ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "つぶあん",
+            "text": "子供は好きですね！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "あずき",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つぶあん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "しじみ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

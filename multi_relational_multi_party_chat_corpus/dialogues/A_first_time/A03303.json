@@ -1,0 +1,695 @@
+{
+    "dialogue_id": "A03303",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おでん",
+        "がんも",
+        "きなこ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おでん",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "がんも",
+            "text": "こんばんは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "おでん",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "きなこ",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "がんも",
+            "text": "よろしくお願いします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "きなこ",
+            "text": "よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おでん",
+            "text": "本って読まれますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "きなこ",
+            "text": "最近なかなか時間がなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "がんも",
+            "text": "本はあまり…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "おでん",
+            "text": "そうですか、私は好きなんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "がんも",
+            "text": "まんがなら読みます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "おでん",
+            "text": "私も漫画読みます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "きなこ",
+            "text": "いいですね～マンガも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "おでん",
+            "text": "本は紙だと思ってたんですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "おでん",
+            "text": "電子本の便利さに、負けました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "がんも",
+            "text": "わたしもです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "きなこ",
+            "text": "らしいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "おでん",
+            "text": "便利ですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "がんも",
+            "text": "ですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "おでん",
+            "text": "持たなくていいし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "おでん",
+            "text": "字の大きさや明るさも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "おでん",
+            "text": "設定できるし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんですね！便利！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "おでん",
+            "text": "漫画も場所取らなくていいし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "がんも",
+            "text": "本は置き場問題が。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "おでん",
+            "text": "@がんも そーなんです！！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "おでん",
+            "text": "@きなこ 雑誌とかも読まれませんか？",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "きなこ",
+            "text": "ここしばらく本当に忙しくて読めてませんでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "おでん",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "おでん",
+            "text": "@がんも どんな漫画を読まれるんですか？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "がんも",
+            "text": "@おでん 最近はフリーレンや俺だけレベルアップな件など",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "おでん",
+            "text": "読んでないけど、題名は見たことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "きなこ",
+            "text": "どんな感じのお話ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "おでん",
+            "text": "葬送のフレーリンでしたっけ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "おでん",
+            "text": "違ったかな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "がんも",
+            "text": "@おでん そうです。",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "おでん",
+            "text": "少年、青年系の漫画ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "きなこ",
+            "text": "なるほど～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "おでん",
+            "text": "@きなこ 漫画はあんまりですか？",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "きなこ",
+            "text": "@おでん 最近は何が面白化もわからなくて",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "きなこ",
+            "text": "面白いもの知っていたら教えてほしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "きなこ",
+            "text": "マンガはスキなんですよ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "おでん",
+            "text": "沢山ありすぎて、選ぶの大変ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "おでん",
+            "text": "私は一昨年ぐらいに、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "おでん",
+            "text": "東京リベンジャーズを全巻大人買いしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "おでん",
+            "text": "子供に内緒で  笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "きなこ",
+            "text": "そうなんですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "がんも",
+            "text": "@おでん おなじです。",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "きなこ",
+            "text": "確か家族が読んでました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "おでん",
+            "text": "携帯で読むので、なかなかシェア出来ない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "おでん",
+            "text": "@がんも 東リべ買いました？",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "おでん",
+            "text": "@きなこ 読んでみてください",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "おでん",
+            "text": "面白かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "きなこ",
+            "text": "今、私以外の家族にきいたら・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "おでん",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "きなこ",
+            "text": "私以外みんな読んでました・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "おでん",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "きなこ",
+            "text": "絶対読みます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "おでん",
+            "text": "それはぜひぜひ読んでみてください",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "がんも",
+            "text": "@おでん 東リベ、マガジンで読んでて大人買いしました。",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "おでん",
+            "text": "@がんも 大人で良かったですよねー  笑笑",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "きなこ",
+            "text": "@がんも おお！大人買い！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "がんも",
+            "text": "笑。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "おでん",
+            "text": "前はNARUTOも大人買いしたり⋯もう、子供ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "がんも",
+            "text": "進撃の巨人も大人買い。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "おでん",
+            "text": "進撃の巨人も面白いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "おでん",
+            "text": "何巻ぐらいまでありましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "がんも",
+            "text": "33巻です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "きなこ",
+            "text": "結構あるんですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "おでん",
+            "text": "大人買いって、いいですよねぇ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "きなこ",
+            "text": "大人の特権ですよね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "おでん",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "おでん",
+            "text": "子供にはなかなか言えないけど、ホクホクですよね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "きなこ",
+            "text": "そうそう！私はお菓子の大人買いしてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "おでん",
+            "text": "おー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "おでん",
+            "text": "どんなお菓子ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "きなこ",
+            "text": "子供に内緒で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "おでん",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "きなこ",
+            "text": "フツーのおやつですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "おでん",
+            "text": "それも時には大事なことだと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "きなこ",
+            "text": "ですよね嬉",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "おでん",
+            "text": "子供に優しくなれる  笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "きなこ",
+            "text": "そうそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "がんも",
+            "text": "うちも気付いたらポテチ４袋位ストックが増えてます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "おでん",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "きなこ",
+            "text": "@がんも すごいわかります！",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "がんも",
+            "text": "今日も増えてました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "おでん",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "おでん",
+            "text": "みんな好きなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "がんも",
+            "text": "好きですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "きなこ",
+            "text": "おいしいですよね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "おでん",
+            "text": "ポテチは美味しいし、辞められないですよね、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "きなこ",
+            "text": "袋は大きいのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "おでん",
+            "text": "でも、最近中身、少なくなって、直ぐになくなる気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "おでん",
+            "text": "え？これだけ？みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "きなこ",
+            "text": "@おでん 同じこと思ってました！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "がんも",
+            "text": "同感。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "おでん",
+            "text": "みんな同じことおもってますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "おでん",
+            "text": "だから、ストック増えてるのかもですね  笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "がんも",
+            "text": "少ないですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "きなこ",
+            "text": "なので大きい袋しか買いません！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "おでん",
+            "text": "ビッグサイズですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "きなこ",
+            "text": "そうです！おもいきって",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おでん",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "がんも",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "きなこ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

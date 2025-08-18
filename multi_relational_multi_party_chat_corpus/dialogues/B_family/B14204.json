@@ -1,0 +1,764 @@
+{
+    "dialogue_id": "B14204",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "コアラ",
+        "じゃがいも",
+        "くま"
+    ],
+    "relationship": [
+        "じゃがいも",
+        "くま"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "コアラ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "じゃがいも",
+            "text": "こんばんはー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "くま",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "コアラ",
+            "text": "スマホってiPhoneですか？Android？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ 私はiPhoneです！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "くま",
+            "text": "@コアラ わたしはアンドロイドです",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "コアラ",
+            "text": "おーご夫婦で違う？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ さんは？",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "くま",
+            "text": "違いますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "じゃがいも",
+            "text": "そうなんですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも iPhoneです",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "じゃがいも",
+            "text": "iPhoneにして欲しいのに高いから断られます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "コアラ",
+            "text": "家族3人とも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 多いですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま ほらiPhoneの時代なんです",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 高すぎなのよね",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "コアラ",
+            "text": "前はAndroidでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ 8年くらい前はAndroidでしたね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "コアラ",
+            "text": "@くま わかります、高校生の娘は中古です",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "じゃがいも",
+            "text": "AQUOS",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 一度は通る道ですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも 懐かしい！私も！",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ なんかもう今のは性能高すぎて",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "くま",
+            "text": "私もiphoneだったことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "コアラ",
+            "text": "AQUOSでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "じゃがいも",
+            "text": "共通点ありますね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "じゃがいも",
+            "text": "AQUOSなんとも言えない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも ですねー好きでした",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま iPhone6とかだよね",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "くま",
+            "text": "国産のは使ったことない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも そうよ",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "コアラ",
+            "text": "@くま 使いやすさですよね",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま Googleだっけ",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 今のとこ韓国かgoogle",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "コアラ",
+            "text": "Googleのスマホどんな感じですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "コアラ",
+            "text": "あっ、使われてる？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 安いわりにいいですよ",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "コアラ",
+            "text": "@くま お安いんですね",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "コアラ",
+            "text": "全然知らなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "くま",
+            "text": "最新の一個前ですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 結構安いです！",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "コアラ",
+            "text": "@くま 私もiPhoneだいたい少し前のです",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ ほんとに安くてびっくりしました",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "じゃがいも",
+            "text": "分かります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "コアラ",
+            "text": "あんまり変わらないし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "コアラ",
+            "text": "性能",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "じゃがいも",
+            "text": "でもなんかiPhone15はやめておいたほうがいいと聞きましたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "くま",
+            "text": "買い方にもよりますけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "じゃがいも",
+            "text": "割れやすいと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも そうなんですか？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "コアラ",
+            "text": "知らなかったー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "コアラ",
+            "text": "割れやすい？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "じゃがいも",
+            "text": "その人の見たら背面バキバキでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "くま",
+            "text": "たまにアンドロイドの方が性能いい時ありますからね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま やめて、ありません",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも えええー？背面が？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "じゃがいも",
+            "text": "そうなんです、背面が...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも iPhoneってめっちゃ割れるイメージある",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "コアラ",
+            "text": "ど、どうして？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "じゃがいも",
+            "text": "まぁ落としたんでしょうけどね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "コアラ",
+            "text": "@くま 私割れたことないのでショック",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "じゃがいも",
+            "text": "私もよく落としますが、iPhone11で割れたことないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも 下手したら倍くらい値段するて",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ 嘘つきましたiPhone8のときは2回割りました",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも 画面に貼りますよね？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "コアラ",
+            "text": "シート？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "じゃがいも",
+            "text": "貼ります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 否めないぜ",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "コアラ",
+            "text": "貼ってもなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "くま",
+            "text": "@コアラ 落とし方が上手なんですよ",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま たまにすごい音するよ...",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "コアラ",
+            "text": "@くま それある意味すごい",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも でも落とすことありますよねー",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "コアラ",
+            "text": "スルッと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ 携帯いのちですけど、まぁタァ扱いは雑です",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "じゃがいも",
+            "text": "スルッと行きますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "くま",
+            "text": "修理させるために割れやすくしてるんじゃあ、、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "じゃがいも",
+            "text": "@くま 否定できなさすぎる笑",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "コアラ",
+            "text": "@くま そういう戦略？",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも まあタア？",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "コアラ",
+            "text": "主人はiPhoneのPro？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "コアラ",
+            "text": "すごく大きいのでヒヤヒヤします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "じゃがいも",
+            "text": "Pro！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "コアラ",
+            "text": "落としそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "じゃがいも",
+            "text": "おっきいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "くま",
+            "text": "@コアラ proはすごいですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "コアラ",
+            "text": "ガタイも大きいので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "コアラ",
+            "text": "水泳やってたので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "じゃがいも",
+            "text": "くまもガタイいいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "くま",
+            "text": "iPhone好きなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "コアラ",
+            "text": "手も大きいし足も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "じゃがいも",
+            "text": "本当に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "じゃがいも",
+            "text": "手足は大きくないけど、本当に一回りは大きいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "くま",
+            "text": "@じゃがいも まあ確かにスマホもでかいかもw",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "コアラ",
+            "text": "@くま その代わりものすごく長持ちしてます",
+            "mention_to": [
+                "くま"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ 比例するのか...",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "くま",
+            "text": "@コアラ それなら多少高くてもいいですね",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも 比例！笑",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "コアラ",
+            "text": "私はおとなしく小さいiPhoneです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "じゃがいも",
+            "text": "何使ってます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "くま",
+            "text": "大きい方が動画見るときいいんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "じゃがいも",
+            "text": "@コアラ さんは。",
+            "mention_to": [
+                "コアラ"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "コアラ",
+            "text": "@じゃがいも iPhone13です",
+            "mention_to": [
+                "じゃがいも"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "じゃがいも",
+            "text": "私が一番古かった〜",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "コアラ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "じゃがいも",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "くま",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

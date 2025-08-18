@@ -1,0 +1,671 @@
+{
+    "dialogue_id": "A09503",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "さんま",
+        "がんも",
+        "ハンバーグ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "さんま",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "がんも",
+            "text": "おはようございます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ハンバーグ",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "さんま",
+            "text": "よろしくお願いします～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ハンバーグ",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "がんも",
+            "text": "よろしくお願いします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "さんま",
+            "text": "いい天気ですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "がんも",
+            "text": "そうですねぇ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "さんま",
+            "text": "そろそろ春ですかね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ハンバーグ",
+            "text": "もう3月ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "がんも",
+            "text": "ですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ハンバーグ",
+            "text": "早いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "さんま",
+            "text": "春に楽しみな事ありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ハンバーグ",
+            "text": "最近行ってないですがお花見行きたいかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "さんま",
+            "text": "@ハンバーグ いいですね",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "がんも",
+            "text": "@さんま お花見",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "がんも",
+            "text": "@ハンバーグ 良いですね！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ハンバーグ",
+            "text": "桜も見るけど色々食べたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "がんも",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "さんま",
+            "text": "@ハンバーグ 花より団子ですね～",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@さんま そのとおりです笑",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "がんも",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "がんも",
+            "text": "団子大事です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ハンバーグ",
+            "text": "大事ーー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "さんま",
+            "text": "お花見弁当とかありますね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ありますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "がんも",
+            "text": "ありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "さんま",
+            "text": "つくりませんが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ハンバーグ",
+            "text": "みんなでワイワイするのもいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "がんも",
+            "text": "良いですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "さんま",
+            "text": "桜の下で宴会してないですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ハンバーグ",
+            "text": "そういうのも好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "さんま",
+            "text": "楽しそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ハンバーグ",
+            "text": "今年計画しようかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "がんも",
+            "text": "宴会したい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "さんま",
+            "text": "そろそろ解禁ですかね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ハンバーグ",
+            "text": "仲の良い仲間でワイワイしたいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "がんも",
+            "text": "解禁ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "ハンバーグ",
+            "text": "そう言えば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "がんも",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "さんま",
+            "text": "はいはい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ハンバーグ",
+            "text": "今月中学の同級生6人くらいで集まります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "がんも",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ハンバーグ",
+            "text": "だいぶ久しぶりに集まる人達なので楽しみ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "さんま",
+            "text": "@ハンバーグ 同窓会いいです",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "がんも",
+            "text": "プチ同窓会！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "ハンバーグ",
+            "text": "何年ぶりかは年がバレちゃうので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "さんま",
+            "text": "あはは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "がんも",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ハンバーグ",
+            "text": "だいぶぶりです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "がんも",
+            "text": "いいですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ハンバーグ",
+            "text": "楽しみです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "さんま",
+            "text": "私も同窓会はなしでてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ハンバーグ",
+            "text": "よくつながってるなって思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "がんも",
+            "text": "@ハンバーグ そうですねー",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ハンバーグ",
+            "text": "おお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@さんま 是非やりましょう",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "さんま",
+            "text": "コロナの時はオンライン飲み会やって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "がんも",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@さんま おお",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ハンバーグ",
+            "text": "良いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "さんま",
+            "text": "それはそれでおもしろかったですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ハンバーグ",
+            "text": "確かに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "がんも",
+            "text": "やったことないです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "さんま",
+            "text": "突然猫があらわれたり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "がんも",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ハンバーグ",
+            "text": "オンライン飲み会やった事ないけど面白そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "さんま",
+            "text": "家族がみに来たり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "がんも",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@さんま 確かに",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "がんも",
+            "text": "楽しそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ハンバーグ",
+            "text": "楽しそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "さんま",
+            "text": "飲むペースがバラバラなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "がんも",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "さんま",
+            "text": "おもしろかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ハンバーグ",
+            "text": "でも誰も持ってきてくれないので自分で取りに行く感じですよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "さんま",
+            "text": "そうです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "がんも",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ハンバーグ",
+            "text": "それはそれで楽しそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "さんま",
+            "text": "もう空けたの？みたいな感じです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "ハンバーグ",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "がんも",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "さんま",
+            "text": "ご飯食べながらとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "がんも",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "さんま",
+            "text": "つまみも紹介しながら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ハンバーグ",
+            "text": "へぇー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ハンバーグ",
+            "text": "楽しそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "さんま",
+            "text": "実は一人なんだけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "がんも",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "がんも",
+            "text": "自分のペースで飲めるのは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "がんも",
+            "text": "良いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "さんま",
+            "text": "@がんも そうです",
+            "mention_to": [
+                "がんも"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ハンバーグ",
+            "text": "しかも自分の家だからすぐ寝れる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "がんも",
+            "text": "人のペースに合せると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "さんま",
+            "text": "飲まない人もいたりして",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "がんも",
+            "text": "すぐに酔ってしまいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@がんも 確かに",
+            "mention_to": [
+                "がんも"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "さんま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "がんも",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ハンバーグ",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 2,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

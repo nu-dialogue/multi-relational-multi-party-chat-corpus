@@ -1,0 +1,699 @@
+{
+    "dialogue_id": "A02302",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "ししとう",
+        "つぶあん",
+        "てんぷら"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ししとう",
+            "text": "こんばんは～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つぶあん",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てんぷら",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ししとう",
+            "text": "今日は図書館で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ししとう",
+            "text": "たくさん本を借りてきました～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "てんぷら",
+            "text": "あら素敵",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "てんぷら",
+            "text": "本、好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ししとう",
+            "text": "みなさんは読書とかします？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "つぶあん",
+            "text": "うちも図書館行きました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "てんぷら",
+            "text": "漫画は本に入れていいですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "つぶあん",
+            "text": "本ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら マンガも本です！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "てんぷら",
+            "text": "ですよね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ししとう",
+            "text": "マンガも大好き～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "てんぷら",
+            "text": "図書館に漫画ないけど、図書館好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "つぶあん",
+            "text": "@てんぷら こちらは図書館にも漫画あります！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ししとう",
+            "text": "私のとこも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "てんぷら",
+            "text": "えー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "つぶあん",
+            "text": "みんな結構読んでます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "てんぷら",
+            "text": "手塚治虫ではなく？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "つぶあん",
+            "text": "大人も子供も！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ししとう",
+            "text": "コナンとか鬼滅の刃とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "てんぷら",
+            "text": "えー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "つぶあん",
+            "text": "いえいえ？普通に。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "てんぷら",
+            "text": "ジャンプコミックスが図書館にあるなんて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ししとう",
+            "text": "地域によってちがうんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "てんぷら",
+            "text": "最高ですねえ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "てんぷら",
+            "text": "@ししとう 何借りたか聞いていいですか",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ししとう",
+            "text": "今日は子どもがコナンの7巻借りてました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "てんぷら",
+            "text": "おおお",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ししとう",
+            "text": "中途半端に7巻しかなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "てんぷら",
+            "text": "争奪戦ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "つぶあん",
+            "text": "7巻だけですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "つぶあん",
+            "text": "人気ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "ししとう",
+            "text": "人気です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "てんぷら",
+            "text": "皆さんは、最近何か漫画読みました？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ししとう",
+            "text": "でも7巻だけでも満足してます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "つぶあん",
+            "text": "@ししとう 一冊でもあればいい方なんですね？",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ししとう",
+            "text": "最近は、アニメ新作に備えて鬼滅の刃読み直しました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "つぶあん",
+            "text": "@てんぷら 漫画最近読んでないです。。。",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "つぶあん",
+            "text": "@ししとう おお！",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "てんぷら",
+            "text": "@ししとう アニメ、いまどうなっているんですっけ",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "てんぷら",
+            "text": "電車の映画の続きが始まった、で合ってますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら 今度、柱稽古編がはじまるとか！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら そうそう！ちょうど続きになるんですかね？",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "てんぷら",
+            "text": "やばい、忘れている",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "てんぷら",
+            "text": "読み直さないと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "てんぷら",
+            "text": "全巻、家にあるんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つぶあん",
+            "text": "忘れますよね。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "つぶあん",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "てんぷら",
+            "text": "忘れますね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "つぶあん",
+            "text": "全巻あるんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ししとう",
+            "text": "子どもがアマプラで何回も映画と普通のアニメを再生してるのでわけがわからなくなってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "てんぷら",
+            "text": "髪の毛がピンクの子が好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "てんぷら",
+            "text": "名前も忘れている",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら みつりちゃん！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "てんぷら",
+            "text": "みつりちゃん！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら かわいいですよね！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "てんぷら",
+            "text": "涙流して祈っている大きい人も名前出てきません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ししとう",
+            "text": "ひめじまぎょうめい！です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ししとう",
+            "text": "変換ができない～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "つぶあん",
+            "text": "すごい、名前！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "てんぷら",
+            "text": "さすがアマプラで無限ループ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "ししとう",
+            "text": "@つぶあん 子どもが漢字を覚えてくれます！",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "つぶあん",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "てんぷら",
+            "text": "生殺与奪",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "つぶあん",
+            "text": "子供すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つぶあん",
+            "text": "好きなこと、覚えますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ししとう",
+            "text": "いっぱいノートに鬼って書いてた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "てんぷら",
+            "text": "鬼w",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つぶあん",
+            "text": "えらい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "つぶあん",
+            "text": "漢字練習だ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ししとう",
+            "text": "好きなことは一生懸命なんですけどね…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "つぶあん",
+            "text": "でも、そこから広がって漢字覚えますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "つぶあん",
+            "text": "@ししとう 本当ですね！好きなことは！",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "てんぷら",
+            "text": "霹靂とか、読みますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら 画数が多いやつ！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "つぶあん",
+            "text": "すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ししとう",
+            "text": "大人でも書けない…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "てんぷら",
+            "text": "本屋に英語版の鬼滅の刃が売っていましたよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "つぶあん",
+            "text": "かけない、かけない！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら 英語版！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "てんぷら",
+            "text": "一冊千円くらいでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら 英語も興味持ってくれるかしら～",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "つぶあん",
+            "text": "おお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "てんぷら",
+            "text": "霹靂一閃、英語で何て言うんだろう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "てんぷら",
+            "text": "と、思いました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "つぶあん",
+            "text": "そこから英語に！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら 気になりますね！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "てんぷら",
+            "text": "鬼滅の刃、テレビアニメが始まるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ししとう",
+            "text": "今年の春に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ししとう",
+            "text": "アニメもはじまるって聞きました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "てんぷら",
+            "text": "遊郭編、観てない！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つぶあん",
+            "text": "新しいのですね？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "てんぷら",
+            "text": "あれ、遊郭編でしたっけ、電車の次",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら そうそう！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "ししとう",
+            "text": "電車の次です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "てんぷら",
+            "text": "電車というか、列車でしたっけ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ししとう",
+            "text": "@てんぷら 無限列車ですね！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つぶあん",
+            "text": "無限列車編？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "てんぷら",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ししとう",
+            "text": "@つぶあん そうそう！新しいシリーズが放送されるんです！",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "つぶあん",
+            "text": "ですね！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ししとう",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つぶあん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "てんぷら",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

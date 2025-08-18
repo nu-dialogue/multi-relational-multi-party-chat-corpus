@@ -1,0 +1,719 @@
+{
+    "dialogue_id": "A03802",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おにぎり",
+        "うどん",
+        "ちくわぶ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おにぎり",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "うどん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ちくわぶ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おにぎり",
+            "text": "皆さん、お昼ご飯は食べましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "うどん",
+            "text": "まだなんですー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ちくわぶ",
+            "text": "あ、今食べました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おにぎり",
+            "text": "@うどん あら！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "うどん",
+            "text": "タイミング逃してしまって...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "おにぎり",
+            "text": "私は、タコライス食べました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "うどん",
+            "text": "あとで食べます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "うどん",
+            "text": "タコライス大好物ですー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@おにぎり おしゃれー",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "うどん",
+            "text": "野菜も取れていいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "おにぎり",
+            "text": "食べすぎました。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "うどん",
+            "text": "ふふふ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "うどん",
+            "text": "美味しいですものね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "おにぎり",
+            "text": "@うどん 美味しいですよね！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ちくわぶ",
+            "text": "タコライス…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "おにぎり",
+            "text": "@ちくわぶ 何食べました？？",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@おにぎり 昨日のカレーです！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "うどん",
+            "text": "カレーも好き！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "おにぎり",
+            "text": "最高ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ちくわぶ",
+            "text": "2日目サイコー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "おにぎり",
+            "text": "準備も要らないし！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "うどん",
+            "text": "何日か食べられるのうれしい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "おにぎり",
+            "text": "残り物大好き！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@おにぎり 残り物笑",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "うどん",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "おにぎり",
+            "text": "何カレー好きですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "うどん",
+            "text": "いい感じに手抜きするの大事ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "おにぎり",
+            "text": "手抜きしかしてません。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ちくわぶ",
+            "text": "たまーにキーマカレー好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ちくわぶ",
+            "text": "手抜きしてなんぼですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "うどん",
+            "text": "わたし辛めのカレーが好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "うどん",
+            "text": "具はお肉とかで！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "おにぎり",
+            "text": "キーマカレー、私も好きです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@うどん 同じく",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "うどん",
+            "text": "キーマカレーいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "おにぎり",
+            "text": "@うどん 辛口ルーですか？",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "うどん",
+            "text": "スパイスで作るんです〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "うどん",
+            "text": "カレー大好きで！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ちくわぶ",
+            "text": "こくまろの濃いカレーすきです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "おにぎり",
+            "text": "スパイス！！本格的だ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@うどん え！すご！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "うどん",
+            "text": "意外と簡単ですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "おにぎり",
+            "text": "濃いカレーっていうのがあるんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@おにぎり 濃くてうまい！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "うどん",
+            "text": "濃いのいいな〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ちくわぶ",
+            "text": "サラサラが好きな人は濃すぎかもー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "おにぎり",
+            "text": "濃厚なんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ちくわぶ",
+            "text": "固いカレーがすきです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "おにぎり",
+            "text": "無印のレトルトカレー食べます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@おにぎり 食べたことあります！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "うどん",
+            "text": "@おにぎり 食べてみたいなと思っててまだです！",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ちくわぶ",
+            "text": "グリーンカレー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "おにぎり",
+            "text": "あまり食べた事ないのですが、おすすめあります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "うどん",
+            "text": "本格的ですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "うどん",
+            "text": "気になる！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ちくわぶ",
+            "text": "見た目によらず辛い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "おにぎり",
+            "text": "グリーンカレー、辛そうですねーー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ちくわぶ",
+            "text": "緑なのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "うどん",
+            "text": "今度食べてみます〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "ちくわぶ",
+            "text": "無印いいですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "おにぎり",
+            "text": "@ちくわぶ 緑なのに笑",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "うどん",
+            "text": "緑で辛いの意外！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "おにぎり",
+            "text": "無印、お家の近くにあります？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "おにぎり",
+            "text": "うち、無くって。。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ちくわぶ",
+            "text": "うちも車で40分かなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "うどん",
+            "text": "うちもないです　泣",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "おにぎり",
+            "text": "ローソンで、少し買えるじゃないですか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "うどん",
+            "text": "そうだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "うどん",
+            "text": "ローソンにおいてますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "おにぎり",
+            "text": "娘、歓喜！みたいな。なんか、かわいそうで。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@おにぎり わかるー",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ちくわぶ",
+            "text": "ローソンありますね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "おにぎり",
+            "text": "無印は、通販じゃなくて店でゆっくり見たい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "うどん",
+            "text": "もっと気軽に種類いろいろ買えたらいいんですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ちくわぶ",
+            "text": "@おにぎり そーそー",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うどん",
+            "text": "お店で見たい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "おにぎり",
+            "text": "たくさん買わないと送料もかかる気が。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ちくわぶ",
+            "text": "通販したことないなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "うどん",
+            "text": "そうですよね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "うどん",
+            "text": "送料ばかにならない...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "おにぎり",
+            "text": "送料無料でないと、買う気がしないです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ちくわぶ",
+            "text": "送料で生活してたのでなんとも笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "ちくわぶ",
+            "text": "配達員してました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "おにぎり",
+            "text": "@ちくわぶ そうなんですね！",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "うどん",
+            "text": "@ちくわぶ お世話になってます！",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ちくわぶ",
+            "text": "いつもありがとうございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ちくわぶ",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "うどん",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "おにぎり",
+            "text": "配達員さん、大変ですよね。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ちくわぶ",
+            "text": "もち戻りがねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "うどん",
+            "text": "ほんと、配達してもらってばかりで...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ちくわぶ",
+            "text": "午前指定でいないとかねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "おにぎり",
+            "text": "ほんと、申し訳ないと思いながら通販ばっかり。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "おにぎり",
+            "text": "@ちくわぶ それは、ちょっと、腹立たしいですね。。",
+            "mention_to": [
+                "ちくわぶ"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ちくわぶ",
+            "text": "配達員する前は僕もやってましたけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "うどん",
+            "text": "午前指定って、幅大きいですよね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ちくわぶ",
+            "text": "11:50にいくとちょい怒られる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "うどん",
+            "text": "えー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ちくわぶ",
+            "text": "確かに午前ですけどね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ちくわぶ",
+            "text": "みたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "おにぎり",
+            "text": "どうして～？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "ちくわぶ",
+            "text": "もっと早くくるかと思ったー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "ちくわぶ",
+            "text": "って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "おにぎり",
+            "text": "午前ですよね。",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おにぎり",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "うどん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ちくわぶ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

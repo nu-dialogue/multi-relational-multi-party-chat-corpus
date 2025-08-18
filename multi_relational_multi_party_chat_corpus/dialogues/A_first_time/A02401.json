@@ -1,0 +1,727 @@
+{
+    "dialogue_id": "A02401",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "うどん",
+        "おでん",
+        "はくまい"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うどん",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "おでん",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "はくまい",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うどん",
+            "text": "今日はお天気が不安定ですが、みなさんのところはどうですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "おでん",
+            "text": "曇ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "はくまい",
+            "text": "同じく曇ってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おでん",
+            "text": "後々、降りそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "うどん",
+            "text": "降りそうですね...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "うどん",
+            "text": "そこまで寒くなくてよかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "おでん",
+            "text": "暖かいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "はくまい",
+            "text": "明日22度の予報だとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "うどん",
+            "text": "春の気配ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "おでん",
+            "text": "昨日は上着が邪魔になりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "うどん",
+            "text": "22度！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "おでん",
+            "text": "春ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "うどん",
+            "text": "わたしも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "うどん",
+            "text": "ニット着てこうと思ってやめました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "おでん",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "はくまい",
+            "text": "でも来週は1桁台らしいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "うどん",
+            "text": "えー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "うどん",
+            "text": "寒暖差激しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "おでん",
+            "text": "また、寒くなるって言ってますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "はくまい",
+            "text": "温度差には気をつけましょう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "うどん",
+            "text": "風邪ひきそう...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "おでん",
+            "text": "この時期、着るものに迷います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい ほんとですね！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "うどん",
+            "text": "@おでん わかります！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "うどん",
+            "text": "毎日気温変わるから難しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "うどん",
+            "text": "ニットはもういらないかな...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "おでん",
+            "text": "ほんと、そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "うどん",
+            "text": "春はみなさん何か旅行とかお花見とか、行かれますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "はくまい",
+            "text": "3月に富士急行く予定です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "おでん",
+            "text": "お花見は行きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい おぉー！富士急いいですね！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん お花見いいですね！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "うどん",
+            "text": "@おでん わたしも行きたい！！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい 富士急ハイランド!",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "はくまい",
+            "text": "今年は桜早く咲きそうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい ジェットコースターとか平気ですか？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "はくまい",
+            "text": "全然平気です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "うどん",
+            "text": "おぉー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "はくまい",
+            "text": "むしろ大好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "うどん",
+            "text": "すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "おでん",
+            "text": "富士急はいったことないですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "うどん",
+            "text": "よきですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "おでん",
+            "text": "大人も楽しめる感じですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "はくまい",
+            "text": "今学生で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "はくまい",
+            "text": "部活の人と一緒に行きます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "おでん",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "うどん",
+            "text": "楽しそう！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "おでん",
+            "text": "若い！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい 楽しんできてください！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "はくまい",
+            "text": "卒業旅行みたいな感じです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "おでん",
+            "text": "じゃ、泊まりで？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "うどん",
+            "text": "富士急はお化け屋敷も有名ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん 1泊します",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "おでん",
+            "text": "@うどん そうなんですか？",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "うどん",
+            "text": "いいなー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "おでん",
+            "text": "お化け屋敷…苦手です  笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "はくまい",
+            "text": "@うどん お化け屋敷も好きです！",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "うどん",
+            "text": "@おでん テレビで見ました！すごーく距離が長いお化け屋敷あるみたいです！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん そうなんですね",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい そしたらぴったりですね！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "うどん",
+            "text": "よかった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい 友達と行くの、絶対楽しいですね",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "はくまい",
+            "text": "楽しんできます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "おでん",
+            "text": "いい思い出になりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "うどん",
+            "text": "@おでん 同じくお化け屋敷苦手です...！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "おでん",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "うどん",
+            "text": "びっくりしちゃう...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "おでん",
+            "text": "目をつぶって、前の人について行く人でした笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "はくまい",
+            "text": "たまに本物の幽霊紛れ込んでたりしますかね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "うどん",
+            "text": "@おでん わたしも！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "うどん",
+            "text": "きゃー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい きゃー！それはやめてー！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "うどん",
+            "text": "雰囲気が雰囲気だから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "うどん",
+            "text": "いそう！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "おでん",
+            "text": "いたら怖すぎですよ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うどん",
+            "text": "いないといいです〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "うどん",
+            "text": "卒業旅行懐かしいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "おでん",
+            "text": "霊感とかありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "うどん",
+            "text": "霊感、全くないんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "はくまい",
+            "text": "まあ、紛れ込んでてもわからないですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "うどん",
+            "text": "そうだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "はくまい",
+            "text": "なんでしょうか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "おでん",
+            "text": "笑笑  @はくまい 平気そうですね",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "うどん",
+            "text": "霊感、みなさんはありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "おでん",
+            "text": "私は全くないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "はくまい",
+            "text": "霊感全然ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "うどん",
+            "text": "よかった！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "はくまい",
+            "text": "それでお化け屋敷平気なのかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "おでん",
+            "text": "信じてないから、大丈夫ってことですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "はくまい",
+            "text": "@うどん 霊感ありますか？",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "おでん",
+            "text": "ナイナイです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい わたしも霊感ないです",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "うどん",
+            "text": "夜にトイレは行けないけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "おでん",
+            "text": "作り物ってわかっていても、雰囲気で怖い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "うどん",
+            "text": "@おでん ですよねー！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "はくまい",
+            "text": "小さい頃は暗いところ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "おでん",
+            "text": "なんでしょうね、ビビりなのかな笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "はくまい",
+            "text": "苦手でしたけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "おでん",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "はくまい",
+            "text": "今は全然です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "うどん",
+            "text": "ビビリなのかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "おでん",
+            "text": "うんうん  笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "うどん",
+            "text": "ね...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "うどん",
+            "text": "想像しただけでこわい",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うどん",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "おでん",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "はくまい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

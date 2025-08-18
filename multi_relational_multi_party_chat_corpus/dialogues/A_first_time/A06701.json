@@ -1,0 +1,705 @@
+{
+    "dialogue_id": "A06701",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "はくさい",
+        "あざらし",
+        "ハンバーグ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "はくさい",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "あざらし",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ハンバーグ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "はくさい",
+            "text": "よろしくお願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ハンバーグ",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "あざらし",
+            "text": "お願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "はくさい",
+            "text": "今日起きたら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "はくさい",
+            "text": "雪が降ってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "あざらし",
+            "text": "@はくさい おお！！",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "はくさい",
+            "text": "昨日から心配してたんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "あざらし",
+            "text": "こちらもです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "はくさい",
+            "text": "とっても残念です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ハンバーグ",
+            "text": "こちらもです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "あざらし",
+            "text": "雪降ってますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@はくさい 何か予定あった感じですか？",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "はくさい",
+            "text": "@ハンバーグ 雪が降りそうだったから",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "はくさい",
+            "text": "何の予定も入れてないですー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ハンバーグ",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "あざらし",
+            "text": "私は出かける予定なんです汗",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ハンバーグ",
+            "text": "天気予報みてなかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "あざらし",
+            "text": "運転が怖い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ハンバーグ",
+            "text": "きを",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "はくさい",
+            "text": "@あざらし 怖いですねー",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あざらし 気をつけて下さい",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "あざらし",
+            "text": "@はくさい 怖いですー",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "あざらし",
+            "text": "@ハンバーグ ありがとうございます",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "はくさい",
+            "text": "@あざらし 近場のお出かけですか？",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "あざらし",
+            "text": "そうです！近場です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "あざらし",
+            "text": "母とイチゴフェアに行くんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ハンバーグ",
+            "text": "いいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "はくさい",
+            "text": "さっきテレビでやってたとこですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ハンバーグ",
+            "text": "苺の時期ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "あざらし",
+            "text": "テレビでやってたんですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "あざらし",
+            "text": "見てなかったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "はくさい",
+            "text": "たまたま付けてたら流れてきたので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "はくさい",
+            "text": "特に気にしてなかったんです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "あざらし",
+            "text": "ホテルでやってるイチゴフェアです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "はくさい",
+            "text": "じゃあ違いましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "あざらし",
+            "text": "いちごの季節ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "はくさい",
+            "text": "テレビのは外でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ですです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "はくさい",
+            "text": "イチゴおいしいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "あざらし",
+            "text": "@はくさい そうでしたか",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ハンバーグ",
+            "text": "自分もテレビつけてなかったので見てないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "あざらし",
+            "text": "イチゴ使ったお菓子がたくさんあるらしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "はくさい",
+            "text": "いいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ハンバーグ",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "あざらし",
+            "text": "楽しんできます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "あざらし",
+            "text": "運転怖いけど汗",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "ハンバーグ",
+            "text": "いっぱい食べてきて下さい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "あざらし",
+            "text": "そうですね。お腹いっぱいになってきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "はくさい",
+            "text": "ホテルまで行ければ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ハンバーグ",
+            "text": "運転気をつけて下さい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "はくさい",
+            "text": "天気は気にしなくていいので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "はくさい",
+            "text": "楽しんできてください！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "あざらし",
+            "text": "室内なので行き帰りだけですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ハンバーグ",
+            "text": "それなら良かった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "あざらし",
+            "text": "ありがとうございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ハンバーグ",
+            "text": "この天気だと空いてるかもですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "あざらし",
+            "text": "@ハンバーグ そうですね！！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "はくさい",
+            "text": "確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "あざらし",
+            "text": "空いててラッキーかも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ですです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "あざらし",
+            "text": "ゆっくり選べそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ハンバーグ",
+            "text": "他の人気にしなくていいですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "あざらし",
+            "text": "今日で三連休も終わりですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "はくさい",
+            "text": "終わっちゃいますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ずっと仕事でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "あざらし",
+            "text": "おお！そうでしたか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ハンバーグ",
+            "text": "明日休みですけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "はくさい",
+            "text": "@ハンバーグ お疲れさまです",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "あざらし",
+            "text": "明日、楽しみですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@はくさい ありがとうございます",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "はくさい",
+            "text": "@ハンバーグ 平日休みっていいですよね",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あざらし 出かけようと思ってますけど…..",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "はくさい",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ハンバーグ",
+            "text": "天気次第ですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "あざらし",
+            "text": "そうですね！混まないし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "あざらし",
+            "text": "天気が良いといいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@はくさい 平日の方が色々空いてていいです",
+            "mention_to": [
+                "はくさい"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "はくさい",
+            "text": "ですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "あざらし",
+            "text": "確かに。休日はどこも混んでて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "ハンバーグ",
+            "text": "どこ行くとか何するとか全く決めてないですけど….",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "あざらし",
+            "text": "道も渋滞しているし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "あざらし",
+            "text": "ええ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ハンバーグ",
+            "text": "とりあえず出かけようかなって思ってます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "あざらし",
+            "text": "そういう時、ありますよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "あざらし",
+            "text": "予定は決めてないど、フラフラと。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あざらし 渋滞は嫌ですね",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "あざらし",
+            "text": "渋滞嫌ですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "あざらし",
+            "text": "時間ももったいないし",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あざらし フラフラするの好きです",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "あざらし",
+            "text": "フラフラいいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "はくさい",
+            "text": "そんなときって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "あざらし",
+            "text": "私もたまにします。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "はくさい",
+            "text": "ありますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "あざらし",
+            "text": "ありますねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "あざらし",
+            "text": "行き当たりばったりもいいもんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ありますあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "はくさい",
+            "text": "一人で出かけられなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "あざらし",
+            "text": "そうですか。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "はくさい",
+            "text": "最近できないんですよね",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "はくさい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "あざらし",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ハンバーグ",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

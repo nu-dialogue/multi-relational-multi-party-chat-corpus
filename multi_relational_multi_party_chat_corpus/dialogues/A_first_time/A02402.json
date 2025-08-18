@@ -1,0 +1,717 @@
+{
+    "dialogue_id": "A02402",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "うどん",
+        "おでん",
+        "はくまい"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "うどん",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "おでん",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "はくまい",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "うどん",
+            "text": "皆さん週末はどこか行きましたか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "はくまい",
+            "text": "自分はお出かけはしてないですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "おでん",
+            "text": "私はちょっと気になっている",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おでん",
+            "text": "神社に行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "はくまい",
+            "text": "吹奏楽の楽団の練習に行ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "うどん",
+            "text": "@おでん お！わたしも神社好きです！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい 吹奏楽をらしてるんですね",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい 楽器は何なさるのですか？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "はくまい",
+            "text": "楽器はサックス吹いてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "うどん",
+            "text": "かっこいいー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "おでん",
+            "text": "わーカッコイイ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "うどん",
+            "text": "音も好き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "はくまい",
+            "text": "いい音しますよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "おでん",
+            "text": "結構重いし、体力いりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "うどん",
+            "text": "たしかに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "はくまい",
+            "text": "肩こります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "うどん",
+            "text": "こりそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "おでん",
+            "text": "大変そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "はくまい",
+            "text": "あと首も痛いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい サックスは長いこと続けていらっしゃるのですか？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "うどん",
+            "text": "首も痛いんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "はくまい",
+            "text": "小学校5年生からやってます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "うどん",
+            "text": "すごーい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "うどん",
+            "text": "長いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "おでん",
+            "text": "へぇー何かきっかけがあったんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "はくまい",
+            "text": "きっかけは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "おでん",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "はくまい",
+            "text": "今入っている楽団の",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "おでん",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "はくまい",
+            "text": "定期演奏会に行った時に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "はくまい",
+            "text": "サックスのソロを聴いて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "はくまい",
+            "text": "自分もあんなふうに吹けるようになりたいなって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "おでん",
+            "text": "へぇ、そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "うどん",
+            "text": "すてき！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "はくまい",
+            "text": "思ったのがきっかけです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "うどん",
+            "text": "憧れて、始めてみるって、いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "おでん",
+            "text": "それで始めるって、すごく響いたんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "はくまい",
+            "text": "ほんとに素敵で！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "うどん",
+            "text": "なかなか行動に移せる人少ないと思う！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "おでん",
+            "text": "ほんと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "おでん",
+            "text": "そうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "はくまい",
+            "text": "今はその憧れの人の横で吹いてます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "うどん",
+            "text": "そんなに素敵と感じられるものに出会えることも、素敵ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "おでん",
+            "text": "小5から、サックスですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい わぁ！！！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん そうです！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "うどん",
+            "text": "夢が叶ってよかった！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "おでん",
+            "text": "凄いですね、夢を叶えるって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい ソロでも演奏するんですか？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "はくまい",
+            "text": "吹曲中にソロを吹くことはあります @うどん ",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "おでん",
+            "text": "今後も続けられるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "うどん",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "はくまい",
+            "text": "体が持つ限り続けます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "うどん",
+            "text": "今後が楽しみですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "おでん",
+            "text": "わぁ！頑張ってくださいね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "はくまい",
+            "text": "頑張ります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "はくまい",
+            "text": "今は4月の定期演奏会に向けて練習中です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "うどん",
+            "text": "すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい 練習は毎日あるのですか？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "おでん",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "はくまい",
+            "text": "社会人のバンドなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "おでん",
+            "text": "そうなんですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "はくまい",
+            "text": "練習は基本休日です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "うどん",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "うどん",
+            "text": "いろいろな人が集まって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "おでん",
+            "text": "好きな事だから、できるんですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "うどん",
+            "text": "おもしろそうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "うどん",
+            "text": "ほんとですね〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "はくまい",
+            "text": "音楽はほんとに奥が深くて面白いですよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "うどん",
+            "text": "わたしも音楽大好き！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "おでん",
+            "text": "じゃ、定期公演会も大きいホールでするんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "はくまい",
+            "text": "@うどん どんな音楽が好きですか？",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "うどん",
+            "text": "@はくまい 小さい頃からピアノが好きです！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん 結構大きいホールです！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "うどん",
+            "text": "弾いたり聴いたり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "うどん",
+            "text": "大きいホールかぁ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "うどん",
+            "text": "緊張しそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "はくまい",
+            "text": "@うどん ピアノ弾くんですか",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "はくまい",
+            "text": "小さい頃からいろいろ本番はやってきましたけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "おでん",
+            "text": "ピアノも良いですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "はくまい",
+            "text": "今になってもまだ緊張はします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "おでん",
+            "text": "そうですか、ドキドキなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "うどん",
+            "text": "ピアノ大好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "うどん",
+            "text": "何度で出ても緊張しますよね...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "おでん",
+            "text": "@うどん 弾かれるんですね",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "おでん",
+            "text": "羨ましいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "うどん",
+            "text": "今は、趣味程度ですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "うどん",
+            "text": "ストリートピアノとかあるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "はくまい",
+            "text": "@うどん 趣味でピアノいいですね",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "うどん",
+            "text": "友人の輪が広がったのがよかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "おでん",
+            "text": "わぁ、ストピ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "うどん",
+            "text": "ありがたいです、ストピ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "はくまい",
+            "text": "@うどん 駅とかでたまにみます",
+            "mention_to": [
+                "うどん"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "おでん",
+            "text": "あちこちにピアノ、ありますもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "うどん",
+            "text": "そうなんですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "おでん",
+            "text": "YouTubeで、増えた気がします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "うどん",
+            "text": "たしかに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "うどん",
+            "text": "YouTubeのストピの動画すごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "おでん",
+            "text": "でも、私はあまり電車とか都会に行かないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "はくまい",
+            "text": "YouTubeで自分もよくみますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "うどん",
+            "text": "@おでん うんうん",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "おでん",
+            "text": "子供が弾いてるのを見たり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "おでん",
+            "text": "ぐらいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "うどん",
+            "text": "お子さん弾いてるの素敵！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "うどん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "おでん",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "はくまい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

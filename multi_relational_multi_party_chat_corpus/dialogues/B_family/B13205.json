@@ -1,0 +1,804 @@
+{
+    "dialogue_id": "B13205",
+    "dialogue_type": "Family",
+    "interlocutors": [
+        "のりすけ",
+        "つくね",
+        "しらたき"
+    ],
+    "relationship": [
+        "つくね",
+        "しらたき"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "のりすけ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つくね",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しらたき",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "のりすけ",
+            "text": "どこか旅行に行きたい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "しらたき",
+            "text": "海外とか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "のりすけ",
+            "text": "おすすめあります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ 先月名古屋に行きました！",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき 国内ですらあまり行かないので",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "しらたき",
+            "text": "やっぱり京都がいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "のりすけ",
+            "text": "海外はまだ早いか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 関西もいいよね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "しらたき",
+            "text": "お寺とか好き",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "のりすけ",
+            "text": "結構行かれます？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "つくね",
+            "text": " @のりすけ 私は行きたい派ですね！",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "しらたき",
+            "text": "嫁が以外とアクティブで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "のりすけ",
+            "text": "@つくね 今はどこ行きたいですか?",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき アウトドア派です？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ 北海道行ってみたいですねー",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "しらたき",
+            "text": "@のりすけ インドアです！",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "のりすけ",
+            "text": "BBQとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "のりすけ",
+            "text": "しますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ BBQしますがあんまり好きじゃないです！",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "しらたき",
+            "text": "します！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき あれれ",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね え！そなの？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "しらたき",
+            "text": "@のりすけ 基本動きたく無い",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 準備も片付けもめんどくさい笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "のりすけ",
+            "text": "@つくね どこが好きじゃないんです？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき 納得！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ 準備がめんどくさいです",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "つくね",
+            "text": "買い出しとか好きじゃないですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "しらたき",
+            "text": "@のりすけ でも子供の事考えると動かなきゃ",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "のりすけ",
+            "text": "@つくね お焦げめんどいです",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "のりすけ",
+            "text": "しぶとくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 買い出しが楽しいじゃん",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ 片付けもも大変なので",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "つくね",
+            "text": "あんまり…笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "のりすけ",
+            "text": "いつもやってる事は好きになれないとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 買い出し行ってきてくれるならやりたい！笑",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 一緒に行こ？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ そうですねー",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき できれば行ってきて欲しい",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ 量も多いですし！",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "のりすけ",
+            "text": "エリンギとか美味しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "しらたき",
+            "text": "まだ寒いからBBQ出来ないよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "のりすけ",
+            "text": "楽しめる所をその人の担当にすれな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "のりすけ",
+            "text": "すれば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ エリンギ美味しいですよね",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "つくね",
+            "text": "牛角で絶対頼みます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "のりすけ",
+            "text": "みんな楽しめるかもしれませんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ そうですね！なのでしらたき担当です",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "しらたき",
+            "text": "焼肉食べたくなってきた",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 連れてってくださいー",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "のりすけ",
+            "text": "@つくね 食感もいいですし",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ ですよね！醤油とバターで食べます！",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき 連れてってください",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "しらたき",
+            "text": "@のりすけ 焼肉屋行くなら何処行きます？",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "のりすけ",
+            "text": "@つくね それもまたいいですね！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "のりすけ",
+            "text": "自分は塩コショウで食べます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ 塩コショウもいいですね！",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね エリンギは嫌い",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき 最近行ってませんが",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき きのこが嫌いじゃん！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね そだねー",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "のりすけ",
+            "text": "よく行ってたのは源蔵だったか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "しらたき",
+            "text": "@つくね 松茸は好きよ",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "しらたき",
+            "text": "@のりすけ 知らないなー",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき 松茸はそりゃ美味しいよ！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき なめ茸の味噌汁とか美味しいのに！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "しらたき",
+            "text": "@のりすけ それは好き",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ 源蔵っていう焼肉屋さんですか？",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "のりすけ",
+            "text": "@つくね そうです",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ チェーン店ですか？",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき きのこいけるんですね！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "のりすけ",
+            "text": "@つくね 覚えてないんです",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ ぶなしめじとか嫌いみたいで笑",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "しらたき",
+            "text": "@のりすけ いけるのといけないのが",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "のりすけ",
+            "text": "ただ名古屋だったとしか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しらたき",
+            "text": "好き嫌いが激しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ おー名古屋！気になる！",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "しらたき",
+            "text": "@のりすけ 連れてってください",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき 他になにが嫌いです？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "しらたき",
+            "text": "@のりすけ きのこでは無いですが",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "しらたき",
+            "text": "ナスが大っ嫌いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "のりすけ",
+            "text": "@つくね そこそこ高いですが社長さんが出してくれてたので！",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき お金さえあれば！くそ！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき 焼きナス",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "のりすけ",
+            "text": "麻婆茄子",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ そうなんですね！それは高級焼肉だ！",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しらたき",
+            "text": "@のりすけ ナスはゲロが出る",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき いや、うまいから！",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき 忘れてください",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "しらたき",
+            "text": "天丼の茄子は食べれる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "つくね",
+            "text": "@しらたき それだけだよね",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "のりすけ",
+            "text": "@つくね 嫌いなのあります？",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ グリンピースですね、、",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "のりすけ",
+            "text": "@しらたき 茄子の天ぷらです？",
+            "mention_to": [
+                "しらたき"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "しらたき",
+            "text": "@のりすけ そうですね！",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "のりすけ",
+            "text": "@つくね ピースご飯",
+            "mention_to": [
+                "つくね"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "つくね",
+            "text": "@のりすけ いやですねー笑",
+            "mention_to": [
+                "のりすけ"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "しらたき",
+            "text": "好んでは食べませんが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "つくね",
+            "text": "一応食べられます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "のりすけ",
+            "text": "自分は薬味系が苦手です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "つくね",
+            "text": "ネギとかですか？",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "のりすけ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "つくね",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "しらたき",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

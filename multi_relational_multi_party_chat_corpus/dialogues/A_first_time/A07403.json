@@ -1,0 +1,731 @@
+{
+    "dialogue_id": "A07403",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "たらこ",
+        "はくまい",
+        "ししとう"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "たらこ",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "はくまい",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ししとう",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "たらこ",
+            "text": "最近ご飯作りに困ってて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "はくまい",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "たらこ",
+            "text": "レパートリーがない！って",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ししとう",
+            "text": "@たらこ うんうん",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "はくまい",
+            "text": "どんなもの作るんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "たらこ",
+            "text": "とりあえず丼もの？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ししとう",
+            "text": "@たらこ わかります！",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たらこ",
+            "text": "何か時短メニューレシピありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "はくまい",
+            "text": "時短ではないですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "たらこ",
+            "text": "@ししとう 丼ものめっちゃ助かりますよね",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ししとう",
+            "text": "@たらこ 我が家も丼物多いです！",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "たらこ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "はくまい",
+            "text": "ポトフは放っておくだけでできます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "たらこ",
+            "text": "@ししとう 一緒です～",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ししとう",
+            "text": "@はくまい ポトフ！いいですね！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "たらこ",
+            "text": "@はくまい ポトフ！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "はくまい",
+            "text": "何もせずとも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "はくまい",
+            "text": "数時間煮てるだけでできるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "はくまい",
+            "text": "楽です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "たらこ",
+            "text": "放っておくだけいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ししとう",
+            "text": "なるほど〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "たらこ",
+            "text": "@はくまい それ魅力的ですね！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ししとう",
+            "text": "レパートリーに加えちゃお！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "はくまい",
+            "text": "ぜひぜひ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "たらこ",
+            "text": "同じく！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ししとう",
+            "text": "料理があまり好きではないので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "たらこ",
+            "text": "あとは麺料理？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "たらこ",
+            "text": "@ししとう そうなんですか！？",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "はくまい",
+            "text": "@たらこ 焼きそばとかすぐできますね",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ししとう",
+            "text": "@たらこ そうそう〜",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "たらこ",
+            "text": "そうなんですよ～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "たらこ",
+            "text": "でもあまりに出しすぎて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "たらこ",
+            "text": "子供が焼きそば嫌いになりました笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ししとう",
+            "text": "焼きそばは結構な頻度になりますよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "はくまい",
+            "text": "なるほどー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "たらこ",
+            "text": "@ししとう なりますよね～！",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "はくまい",
+            "text": "焼きそばの上にオムレツ乗せたりとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たらこ",
+            "text": "みなさんは食べすぎて嫌いになったものとかありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "たらこ",
+            "text": "@はくまい いいですね！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ししとう",
+            "text": "@はくまい おぉ！いいですね！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "はくまい",
+            "text": "たまにやります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "たらこ",
+            "text": "ちょっと何か加えてみるみたいな！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "はくまい",
+            "text": "@たらこ そうです！",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "はくまい",
+            "text": "手間は増えますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "はくまい",
+            "text": "その分美味しいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "たらこ",
+            "text": "今度チャレンジして食べさせてみよ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "はくまい",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ししとう",
+            "text": "ケチャップでニコニコマーク書くと子ども喜びそう！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "たらこ",
+            "text": "私は子供の頃夏休みにお好み焼きばかり出されて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ししとう",
+            "text": "うんうん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "たらこ",
+            "text": "お好み焼き嫌いになったんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "たらこ",
+            "text": "@ししとう 喜びそうですね！",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ししとう",
+            "text": "今も嫌いなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "はくまい",
+            "text": "夏にそうめんと冷麦交互に出されて嫌いになった友達いますね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "たらこ",
+            "text": "今もあまり好きではないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ししとう",
+            "text": "そうなんですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "たらこ",
+            "text": "@はくまい 夏休みの定番！私",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "ししとう",
+            "text": "知り合いは大学生の時に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "はくまい",
+            "text": "毎日だそうです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "はくまい",
+            "text": "@ししとう ほうほう",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "たらこ",
+            "text": "そうめんと冷麦はもう一緒のような",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ししとう",
+            "text": "ツナマヨおにぎりを食べすぎてもう食べないとのこと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "たらこ",
+            "text": "夏休み冷麦率高いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ししとう",
+            "text": "夏休みの定番ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "たらこ",
+            "text": "@ししとう ツナマヨおにぎりですか！",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "はくまい",
+            "text": "太さが違うだけだそうで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "たらこ",
+            "text": "@はくまい そうそう！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "たらこ",
+            "text": "もうほぼ一緒ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "はくまい",
+            "text": "@ししとう ツナマヨあんまり好きじゃないです",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "はくまい",
+            "text": "@たらこ ですね",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "ししとう",
+            "text": "@はくまい おぉ！そうなんですね",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "たらこ",
+            "text": "@はくまい 好きじゃないんですか？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たらこ",
+            "text": "ツナマヨ好きじゃないの珍しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "はくまい",
+            "text": "火を通してある魚があんまり好きじゃないんですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ししとう",
+            "text": "@はくまい なるほど！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "はくまい",
+            "text": "生の方が好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "たらこ",
+            "text": "@はくまい そうなんですか",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "たらこ",
+            "text": "刺身は大丈夫？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "ししとう",
+            "text": "@はくまい 生は確かに美味しい〜",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "はくまい",
+            "text": "白身の焼き魚は食べれます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "たらこ",
+            "text": "@はくまい 例えば？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "はくまい",
+            "text": "たらとか好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "たらこ",
+            "text": "たら！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "ししとう",
+            "text": "@はくまい 美味しいやつ！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "たらこ",
+            "text": "たら美味しいですよね～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "はくまい",
+            "text": "柔らかくて好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "ししとう",
+            "text": "いいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "たらこ",
+            "text": "@はくまい わかります！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "たらこ",
+            "text": "青魚類は？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "たらこ",
+            "text": "さんまとかさばはダメ？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "はくまい",
+            "text": "あんまりです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "ししとう",
+            "text": "そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たらこ",
+            "text": "@はくまい そうなんですね！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "はくまい",
+            "text": "青魚は生がいいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "たらこ",
+            "text": "生魚はなにが好きなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "はくまい",
+            "text": "サーモンとか、サバですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "ししとう",
+            "text": "美味しいやつ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "たらこ",
+            "text": "サーモン私も大好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ししとう",
+            "text": "お寿司屋さんとか結構行かれたり？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "たらこ",
+            "text": "@ししとう 生魚すきなのありますか？",
+            "mention_to": [
+                "ししとう"
+            ]
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "はくまい",
+            "text": "@ししとう いきます！",
+            "mention_to": [
+                "ししとう"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "たらこ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "はくまい",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 1
+        },
+        {
+            "interlocutor_id": "ししとう",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

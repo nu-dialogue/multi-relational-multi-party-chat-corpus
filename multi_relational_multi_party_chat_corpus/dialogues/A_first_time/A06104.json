@@ -1,0 +1,719 @@
+{
+    "dialogue_id": "A06104",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "あひる",
+        "ハンバーグ",
+        "さんま"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "あひる",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ハンバーグ",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "さんま",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "あひる",
+            "text": "みなさん旅行とかお好きですかー？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あひる 最近行ってないですが行きたいです",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "さんま",
+            "text": "コロナまえはよくいきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "あひる",
+            "text": "お！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@さんま おすすめの所ありますか？",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "さんま",
+            "text": "沖縄と北海道",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ハンバーグ",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "あひる",
+            "text": "@さんま 行きたーい！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "さんま",
+            "text": "好きなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ハンバーグ",
+            "text": "両方行ったことないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "あひる",
+            "text": "両方とも今年初めて行きます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あひる 両方いくんですか？",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "さんま",
+            "text": "@あひる そうなんですね",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ハンバーグ",
+            "text": "羨ましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "あひる",
+            "text": "@ハンバーグ そうなんです 笑",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "さんま",
+            "text": "すごいです両方とは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "あひる",
+            "text": "沖縄行ったらめちゃ楽しくて、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ハンバーグ",
+            "text": "ずるいです笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "あひる",
+            "text": "北海道も誘ってもらいました 笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "あひる",
+            "text": "次は北海道にしよ！的な",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ハンバーグ",
+            "text": "楽しそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "あひる",
+            "text": "ノリです 笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あひる いいのりです",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "さんま",
+            "text": "北海道ごはんおいしいですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "あひる",
+            "text": "@ハンバーグ いえす！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "あひる",
+            "text": "@さんま なんと！！！！！楽しみにしてます！！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "あひる",
+            "text": "@さんま 北海道は海鮮とかですかね？",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@さんま 色々食べるもの楽しめそうですよね",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "さんま",
+            "text": "朝から海鮮丼とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "あひる",
+            "text": "朝から海鮮丼！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@さんま 朝から！！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "さんま",
+            "text": "ホテルのバイキングにありました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "あひる",
+            "text": "最高かよです...！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "ハンバーグ",
+            "text": "夢のようです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "あひる",
+            "text": "まさに夢！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ハンバーグ",
+            "text": "いいなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "さんま",
+            "text": "好きなだけのせるんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "あひる",
+            "text": "好きなだけっ...！？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "あひる",
+            "text": "なんと...！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ハンバーグ",
+            "text": "こぼれそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "さんま",
+            "text": "バイキングですから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "ハンバーグ",
+            "text": "羨ましいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "あひる",
+            "text": "あぁ食べたい...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ハンバーグ",
+            "text": "食べたくなってきました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "あひる",
+            "text": "そんなバイキングを経験したことがないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "あひる",
+            "text": "ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "あひる",
+            "text": "お腹すいた...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あひる 自分もないです",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "あひる",
+            "text": "@ハンバーグ ねー！！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "ハンバーグ",
+            "text": "北海道なら経験出来そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "あひる",
+            "text": "海鮮山盛りってすごい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "ハンバーグ",
+            "text": "しかも凄く新鮮そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "あひる",
+            "text": "@ハンバーグ うんうん！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "さんま",
+            "text": "北海道ならではですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "あひる",
+            "text": "@さんま ですねー！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ハンバーグ",
+            "text": "楽しみですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "あひる",
+            "text": "楽しみ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "あひる",
+            "text": "たくさん魚介が獲れるんだろうなぁ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ハンバーグ",
+            "text": "何月に行くんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "あひる",
+            "text": "5月です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "さんま",
+            "text": "いいころですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ハンバーグ",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "あひる",
+            "text": "@さんま うれしい！！！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "さんま",
+            "text": "また行きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "ハンバーグ",
+            "text": "いっぱい食べてきてください",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "あひる",
+            "text": "いっぱい食べてきます！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "さんま",
+            "text": "@あひる どのへんに行きますか？",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "あひる",
+            "text": "@さんま 函館です！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ハンバーグ",
+            "text": "帰ってきてスーパーの刺身食べれなくなっても知りませんよ笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "あひる",
+            "text": "@ハンバーグ 笑笑笑",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "さんま",
+            "text": "夜景見れるといいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "あひる",
+            "text": "@ハンバーグ ありえますね！！笑",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "あひる",
+            "text": "@さんま そっか！夜景のところか！！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "さんま",
+            "text": "@ハンバーグ 確かにです",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "あひる",
+            "text": "お天気だといいなぁ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@あひる 全然違うって言いますよね….",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "あひる",
+            "text": "@ハンバーグ たしかに...！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@さんま 夜景いいですね",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "あひる",
+            "text": "昔、高知に住んでたんですが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "さんま",
+            "text": "私は雨に降られました函館",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@さんま 天気はね….",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "あひる",
+            "text": "地元のカツオ食べれなくなりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "さんま",
+            "text": "@あひる 高知あこがれです",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "あひる",
+            "text": "@さんま 雨かぁ...！こればっかりは難しいですね！！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "さんま",
+            "text": "何年後かにリベンジしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@さんま 何度か行ってるんですね",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "あひる",
+            "text": "リベンジできてよかったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ハンバーグ",
+            "text": "羨ましい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "さんま",
+            "text": "その時は満月までみれました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "ハンバーグ",
+            "text": "いいなぁ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "あひる",
+            "text": "満月と夜景って最高ですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "あひる",
+            "text": "しかも函館の夜景",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "あひる",
+            "text": "この上ないです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "さんま",
+            "text": "でも人が多いんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "ハンバーグ",
+            "text": "最高ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "あひる",
+            "text": "あぁー！！ひと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "あひる",
+            "text": "観光地あるあるですね...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "さんま",
+            "text": "展望台が満員でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ハンバーグ",
+            "text": "なるほど….",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "あひる",
+            "text": "やっぱりみんなくるんですね！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "あひる",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ハンバーグ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "さんま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

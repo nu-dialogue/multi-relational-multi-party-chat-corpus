@@ -1,0 +1,712 @@
+{
+    "dialogue_id": "A06001",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "こぐま",
+        "あざらし",
+        "きりん"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "こぐま",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "あざらし",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "きりん",
+            "text": "おはようございます～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "こぐま",
+            "text": "よろしくです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "きりん",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "あざらし",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "こぐま",
+            "text": "お願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "こぐま",
+            "text": "今日は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "こぐま",
+            "text": "久しぶりの青空です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "きりん",
+            "text": "そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "あざらし",
+            "text": "@こぐま そうなんですよー",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "あざらし",
+            "text": "嬉しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "きりん",
+            "text": "曇ってたり雨降ってたり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "きりん",
+            "text": "でしたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "こぐま",
+            "text": "ねー、嬉しい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "あざらし",
+            "text": "@きりん でしたね",
+            "mention_to": [
+                "きりん"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "こぐま",
+            "text": "久しぶりに、外に洗濯物干せました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "きりん",
+            "text": "カーテン開けたら眩しいの久々",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "あざらし",
+            "text": "@こぐま そうなんですね",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "あざらし",
+            "text": "うちは部屋ぼしです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "こぐま",
+            "text": "@きりん ですねー",
+            "mention_to": [
+                "きりん"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "あざらし",
+            "text": "晴れていてもです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "こぐま",
+            "text": "@あざらし 花粉とかですか？",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "きりん",
+            "text": "@あざらし 私も部屋干しです～",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "あざらし",
+            "text": "なんとなく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "あざらし",
+            "text": "乾燥対策に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "あざらし",
+            "text": "部屋干しにしてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "きりん",
+            "text": "あ～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "こぐま",
+            "text": "@きりん @あざらし なんですね",
+            "mention_to": [
+                "きりん",
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "きりん",
+            "text": "タオル濡らしておいたりしますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "あざらし",
+            "text": "あんまり乾かないですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "こぐま",
+            "text": "乾燥対策！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "あざらし",
+            "text": "二日間干していたり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "きりん",
+            "text": "私は花粉症ひどいので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "あざらし",
+            "text": "しています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "きりん",
+            "text": "今外に出すと大変なことに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "あざらし",
+            "text": "@きりん 大変だ",
+            "mention_to": [
+                "きりん"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "こぐま",
+            "text": "加湿器置くならってことですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "あざらし",
+            "text": "やっぱり花粉",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "あざらし",
+            "text": "つきますよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "きりん",
+            "text": "外干さないとだいぶいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "こぐま",
+            "text": "そうなのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "あざらし",
+            "text": "@きりん 違うんですねー",
+            "mention_to": [
+                "きりん"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "あざらし",
+            "text": "花粉の時期過ぎれば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "あざらし",
+            "text": "外ぼししてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "こぐま",
+            "text": "取り込む時に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "こぐま",
+            "text": "払ってもダメですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "きりん",
+            "text": "ダメですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "あざらし",
+            "text": "だめですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "あざらし",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "きりん",
+            "text": "だいぶひどいほうなんだと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "あざらし",
+            "text": "少しでも付くと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "こぐま",
+            "text": "敏感に反応するものなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "きりん",
+            "text": "症状",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "あざらし",
+            "text": "だめんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "あざらし",
+            "text": "ほんと敏感ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "きりん",
+            "text": "舌下免疫療法受けて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "こぐま",
+            "text": "鼻とか目とかに来ますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "きりん",
+            "text": "かなりよくなったんですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "こぐま",
+            "text": "舌下？？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "あざらし",
+            "text": "@きりん そうなんですね",
+            "mention_to": [
+                "きりん"
+            ]
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "あざらし",
+            "text": "@きりん 聞いたことあります",
+            "mention_to": [
+                "きりん"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "きりん",
+            "text": "全部ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "こぐま",
+            "text": "そんな治療法があるのですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "きりん",
+            "text": "舌下に錠剤を1分置いてから飲むという",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "きりん",
+            "text": "やつです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "こぐま",
+            "text": "まぁ、そんなものがあるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "こぐま",
+            "text": "効き目の程は、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "あざらし",
+            "text": "娘も飲み薬服用してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "きりん",
+            "text": "月1皮下注射でやるタイプのも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "きりん",
+            "text": "ありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "こぐま",
+            "text": "注射ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "あざらし",
+            "text": "@きりん 注射も聞いたことあります",
+            "mention_to": [
+                "きりん"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "こぐま",
+            "text": "ドキドキしてしまいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "きりん",
+            "text": "私は注射無理なので薬を選びました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "こぐま",
+            "text": "ね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "あざらし",
+            "text": "そうですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "きりん",
+            "text": "たまに飲み忘れます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "あざらし",
+            "text": "色々ありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "あざらし",
+            "text": "治療法",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "こぐま",
+            "text": "@きりん あら？笑",
+            "mention_to": [
+                "きりん"
+            ]
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "きりん",
+            "text": "効果は実感してます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "こぐま",
+            "text": "そうなんですね、効果あると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "あざらし",
+            "text": "娘もすぐ良くなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "こぐま",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "きりん",
+            "text": "元が生活にものすごく支障出るレベルで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "あざらし",
+            "text": "そうなんですよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "きりん",
+            "text": "今はアレルギー薬飲めば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "あざらし",
+            "text": "娘も辛そうなんで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "こぐま",
+            "text": "@あざらし 娘さんはどんな薬ですか？",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "きりん",
+            "text": "普通の花粉症の人ぐらいなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "あざらし",
+            "text": "@こぐま 耳鼻科で処方される薬です",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "あざらし",
+            "text": "アレルギーの",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "こぐま",
+            "text": "@きりん それは結構辛いですね",
+            "mention_to": [
+                "きりん"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "こぐま",
+            "text": "@あざらし そうなんですね",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "あざらし",
+            "text": "みなさん大変ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "あざらし",
+            "text": "夜が眠れなくなりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "こぐま",
+            "text": "この時期、耳鼻科は凄い人じゃないですか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "あざらし",
+            "text": "@こぐま そうですねー",
+            "mention_to": [
+                "こぐま"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "きりん",
+            "text": "@あざらし そうなんですよね・・・鼻が詰まって",
+            "mention_to": [
+                "あざらし"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "あざらし",
+            "text": "しばらく混んでますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "あざらし",
+            "text": "@きりん 鼻詰まりです",
+            "mention_to": [
+                "きりん"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "きりん",
+            "text": "耳鼻科はいつでも混んでるイメージあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "こぐま",
+            "text": "鼻詰まりも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "こぐま",
+            "text": "鼻水も",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "こぐま",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "あざらし",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "きりん",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

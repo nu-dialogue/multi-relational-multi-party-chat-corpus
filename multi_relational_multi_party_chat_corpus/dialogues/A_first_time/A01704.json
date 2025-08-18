@@ -1,0 +1,669 @@
+{
+    "dialogue_id": "A01704",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "ねぎとろ",
+        "てんぷら",
+        "きなこ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ねぎとろ",
+            "text": "こんばんは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "てんぷら",
+            "text": "こんばんは～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "きなこ",
+            "text": "こんばんは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ねぎとろ",
+            "text": "いつもお花見行かれますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "てんぷら",
+            "text": "そんな季節ですねえ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そうですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "きなこ",
+            "text": "行きますよ～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "てんぷら",
+            "text": "@きなこ どこに行きます？",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@きなこ 有名なスポットあるんですか？",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "きなこ",
+            "text": "近くの公園とか、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "きなこ",
+            "text": "あとは夫の実家の近くかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "てんぷら",
+            "text": "いいですねえ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ねぎとろ",
+            "text": "@きなこ 近場で楽しめるのいいですね・",
+            "mention_to": [
+                "きなこ"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "きなこ",
+            "text": "お花見癒されますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "てんぷら",
+            "text": "若いころ、目黒川に見に行きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "きなこ",
+            "text": "@てんぷら 混みますよね～でも綺麗ですよね",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "てんぷら",
+            "text": "そうそう、すごい人混みでしたけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "てんぷら",
+            "text": "みんな上みてて、なんかいいんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ねぎとろ",
+            "text": "うっとりするほどきれいですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "きなこ",
+            "text": "楽しみになってきましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "てんぷら",
+            "text": "ほんとです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ねぎとろ",
+            "text": "今年は見に行きたいな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "てんぷら",
+            "text": "いま、近所で梅が満開です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "きなこ",
+            "text": "咲いてますね！そういえば！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ねぎとろ",
+            "text": "梅は、香りもいいですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "てんぷら",
+            "text": "5月くらいにボロボロ梅が落ちます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "きなこ",
+            "text": "わかります～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "てんぷら",
+            "text": "団地なので、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "てんぷら",
+            "text": "小さい子が喜びます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ねぎとろ",
+            "text": "かわいい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "てんぷら",
+            "text": "癒されます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "きなこ",
+            "text": "ですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ねぎとろ",
+            "text": "いい季節になりますね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "てんぷら",
+            "text": "団地、桜もたくさんあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "てんぷら",
+            "text": "散ると、お掃除が大変そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "きなこ",
+            "text": "雨が降ると大変ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "てんぷら",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "ねぎとろ",
+            "text": "地面に張り付いて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "てんぷら",
+            "text": "地面にべったり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "てんぷら",
+            "text": "そうそうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "てんぷら",
+            "text": "花びらのあとは、ガクが落ちるんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "ねぎとろ",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "きなこ",
+            "text": "確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "てんぷら",
+            "text": "ガクのあとは、サクランボが落ちます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "きなこ",
+            "text": "え！そうなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "てんぷら",
+            "text": "マッチ棒みたいなサクランボが落ちて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "ねぎとろ",
+            "text": "さくらんばがなるんですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "てんぷら",
+            "text": "残ったサクランボが赤く大きくなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "ねぎとろ",
+            "text": "あーー、なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "きなこ",
+            "text": "気づいてなかった～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "てんぷら",
+            "text": "赤いのが黒くなって落ちて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "てんぷら",
+            "text": "また小さい子が喜ぶんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "てんぷら",
+            "text": "無限ループです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "ねぎとろ",
+            "text": "桜は、いいやつですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "てんぷら",
+            "text": "ほんとですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "きなこ",
+            "text": "色々楽しめますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "ねぎとろ",
+            "text": "楽しめますね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "てんぷら",
+            "text": "今年はお花見、みんな宴会しそうですねえ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "ねぎとろ",
+            "text": "賑わいますね、きっと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "きなこ",
+            "text": "そうですね！いつもの春になりそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "てんぷら",
+            "text": "コロナ明けって感じですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ねぎとろ",
+            "text": "季節の行事は、やっぱりやりたいですよね。せっかく四季があるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "てんぷら",
+            "text": "ほんとですねえ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "きなこ",
+            "text": "わかります～！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "ねぎとろ",
+            "text": "最近境が曖昧になってる感はあって淋しいですが。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "てんぷら",
+            "text": "急に夏が来たり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "きなこ",
+            "text": "確かに・・そうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "てんぷら",
+            "text": "急に冬が来たりしますもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ねぎとろ",
+            "text": "そうそう、いつまでも冬が来ない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "てんぷら",
+            "text": "去年の秋は1週間くらいだったような",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "ねぎとろ",
+            "text": "まさにそうですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "きなこ",
+            "text": "でしたよね。11月も暖かかった",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "ねぎとろ",
+            "text": "危機感を持たなきゃですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "きなこ",
+            "text": "そうですよね、色々と。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ねぎとろ",
+            "text": "身近なところに、温暖化の波が！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "ねぎとろ",
+            "text": "なんちゃって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "てんぷら",
+            "text": "飲み会とかありました？コロナ明けて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ねぎとろ",
+            "text": "ないですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "きなこ",
+            "text": "@てんぷら お友達と飲んだくらいですかね",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "てんぷら",
+            "text": "いいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "きなこ",
+            "text": "会社のは参加してないです・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "てんぷら",
+            "text": "友達と２，３人がちょうどいいですねえ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "てんぷら",
+            "text": "去年、職場で30人の飲み会がありました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "てんぷら",
+            "text": "秒で断っちゃいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "きなこ",
+            "text": "わ！楽しそうだけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "きなこ",
+            "text": "疲れそう笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "てんぷら",
+            "text": "そうそうw",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "てんぷら",
+            "text": "誰と話していいやら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "ねぎとろ",
+            "text": "わたしももっぱら断ってます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "きなこ",
+            "text": "結局話すの２。３人ですしね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "ねぎとろ",
+            "text": "もう、大人数では飲めないかも、、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "きなこ",
+            "text": "私もです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "てんぷら",
+            "text": "大昔に絶滅したのかと思っていたので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "てんぷら",
+            "text": "大人数の飲み会",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "てんぷら",
+            "text": "新鮮でした、行かなかったけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "きなこ",
+            "text": "でも、コロナのおかげで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "きなこ",
+            "text": "断りやすくなりましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "てんぷら",
+            "text": "そうなんですそうなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ねぎとろ",
+            "text": "行かない口実になりますね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "てんぷら",
+            "text": "今の世の中の方が好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "きなこ",
+            "text": "そうそう！私もです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "ねぎとろ",
+            "text": "リモートワークの普及も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "ねぎとろ",
+            "text": "悪いことばかりではなかった",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ねぎとろ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てんぷら",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "きなこ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

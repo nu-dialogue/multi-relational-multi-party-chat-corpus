@@ -1,0 +1,667 @@
+{
+    "dialogue_id": "A06904",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "なると",
+        "さんま",
+        "いそべ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "なると",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "さんま",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "いそべ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "さんま",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "なると",
+            "text": "お願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "いそべ",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "なると",
+            "text": "家にいるときは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "なると",
+            "text": "外出の時と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "なると",
+            "text": "服装は変わりませんか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "いそべ",
+            "text": "ち・・違いますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "いそべ",
+            "text": "スエットです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "なると",
+            "text": "@いそべ やはりそうですよね",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "さんま",
+            "text": "@なると このまま外へ行けません",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "なると",
+            "text": "@さんま 笑",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "いそべ",
+            "text": "絶対に出られませんね・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "なると",
+            "text": "楽な格好がいいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "さんま",
+            "text": "@いそべ でられません笑",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "いそべ",
+            "text": "たまにそのまま出てる人いますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "なると",
+            "text": "コンビニとかにいますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "いそべ",
+            "text": "私は勇気がなく出れません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "さんま",
+            "text": "あはは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "いそべ",
+            "text": "@なると います！でも、できない・・",
+            "mention_to": [
+                "なると"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "なると",
+            "text": "スエットでも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "さんま",
+            "text": "反対に",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "なると",
+            "text": "おしゃれのために着ている人も",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "さんま",
+            "text": "おうちでもちゃんとした服の人もいますかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "なると",
+            "text": "気品ありそうな方は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "なると",
+            "text": "ちゃんとしているイメージが笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "いそべ",
+            "text": "確かに・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "さんま",
+            "text": "おうちでも化粧されているとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "なると",
+            "text": "インスタ用でしょうか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "さんま",
+            "text": "そういうのもあるのかしら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "いそべ",
+            "text": "私はリラックスを優先してしまいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "なると",
+            "text": "その時宅急便が来たら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "なると",
+            "text": "どうしますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "いそべ",
+            "text": "諦めてそのままでます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "なると",
+            "text": "ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "さんま",
+            "text": "あはは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "いそべ",
+            "text": "宅急便の人は家族と思い込みます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "なると",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "なると",
+            "text": "ドアの外に置いておいてください",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "なると",
+            "text": "と言います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "さんま",
+            "text": "それもありますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "いそべ",
+            "text": "それいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "なると",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "さんま",
+            "text": "上からワンピース着ます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "なると",
+            "text": "@さんま ワンピースはいいですね！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "さんま",
+            "text": "化粧は勘弁してもらいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "いそべ",
+            "text": "マスクするとか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "さんま",
+            "text": "見ないで下さい…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "なると",
+            "text": "マスクいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "さんま",
+            "text": "ありましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "いそべ",
+            "text": "救世主、マスクですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "さんま",
+            "text": "コロナの時",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "さんま",
+            "text": "助かっているって",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "さんま",
+            "text": "友人たくさんいました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "なると",
+            "text": "化粧せずに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "なると",
+            "text": "でかけられますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "いそべ",
+            "text": "確かに。マスク外せない友人がいますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "さんま",
+            "text": "そうです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "いそべ",
+            "text": "男でも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "なると",
+            "text": "顔見せるの怖い人",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "いそべ",
+            "text": "恥ずかしいみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "さんま",
+            "text": "うちの次男そうです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "なると",
+            "text": "増えたそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "なると",
+            "text": "そうなんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "いそべ",
+            "text": "マスク、楽ですよね。わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "さんま",
+            "text": "出来ればはずしたくないみたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "なると",
+            "text": "若い人に多いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "いそべ",
+            "text": "それもわかります！私も付けたくなる時あります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "さんま",
+            "text": "@いそべ どんな時ですか？",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "いそべ",
+            "text": "そうですね・・ひげでしょうか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "なると",
+            "text": "ヒゲですか、なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "さんま",
+            "text": "@いそべ ひげか！",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "いそべ",
+            "text": "鼻毛も気になります・・・恥",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "なると",
+            "text": "視線が怖いとかではなくですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "なると",
+            "text": "笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "いそべ",
+            "text": "そうです。身だしなみ忘れたときです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "なると",
+            "text": "それは女性と一緒ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "さんま",
+            "text": "そうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "いそべ",
+            "text": "まったく一緒ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "いそべ",
+            "text": "マスクに感謝しています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "なると",
+            "text": "ですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "さんま",
+            "text": "マスク苦しくないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "なると",
+            "text": "私はすぐ苦しくなりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "いそべ",
+            "text": "花粉で花が詰まっている時苦しいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "いそべ",
+            "text": "鼻です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "なると",
+            "text": "花粉症は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "さんま",
+            "text": "呼吸困難になりそうで…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "なると",
+            "text": "マスク必須ですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "なると",
+            "text": "@さんま ですよね",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "いそべ",
+            "text": "マスクしてもしなくても、花粉で苦しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "さんま",
+            "text": "@いそべ どちらも辛いんですね",
+            "mention_to": [
+                "いそべ"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "いそべ",
+            "text": "そうなんです・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "いそべ",
+            "text": "なので、花粉症だけどマスクしてないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "さんま",
+            "text": "花粉症じゃないから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "なると",
+            "text": "それは大変ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "さんま",
+            "text": "たいへんさがわからなくてすいません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "いそべ",
+            "text": "いえいえ。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "いそべ",
+            "text": "知らない方がいい苦しさなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "なると",
+            "text": "ひどい人は本当に大変っていいますね",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "なると",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "さんま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "いそべ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

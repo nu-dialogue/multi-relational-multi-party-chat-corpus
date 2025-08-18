@@ -1,0 +1,701 @@
+{
+    "dialogue_id": "A00904",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "あずき",
+        "つぶあん",
+        "しじみ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "あずき",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "つぶあん",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "しじみ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "あずき",
+            "text": "ペットは何か飼われてますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "しじみ",
+            "text": "飼ってないです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "しじみ",
+            "text": "みなさんは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "つぶあん",
+            "text": "かめとメダカです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "あずき",
+            "text": "うちも飼ってなくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "しじみ",
+            "text": "亀とメダカ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "しじみ",
+            "text": "可愛い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "あずき",
+            "text": "昔、ヤドカリ飼ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "つぶあん",
+            "text": "カメはリクガメです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "あずき",
+            "text": "@つぶあん 亀いいですね",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "しじみ",
+            "text": "@あずき ヤドカリ！すごい！",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "あずき",
+            "text": "@つぶあん 陸亀？",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "しじみ",
+            "text": "@つぶあん 大きい亀さんですか？",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "つぶあん",
+            "text": "@あずき やどかりですか？",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "あずき",
+            "text": "水槽ではないのですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "しじみ",
+            "text": "ヤドカリって飼育難しそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "つぶあん",
+            "text": "水槽ですが、水は飲水だけです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "あずき",
+            "text": "@しじみ ヤドカリ意外と楽です",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "しじみ",
+            "text": "ほー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "つぶあん",
+            "text": "木のチップみたいなのがはいってます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "しじみ",
+            "text": "飲み水でいいのは、楽ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "つぶあん",
+            "text": "水は手入れが大変ですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "しじみ",
+            "text": "ヤドカリ楽なんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "あずき",
+            "text": "@つぶあん 長生きしますよね",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "しじみ",
+            "text": "我が家は、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "しじみ",
+            "text": "子供がペット欲しいというのですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "つぶあん",
+            "text": "@あずき でも、20年ぐらいみたいです。",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "あずき",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "しじみ",
+            "text": "悩んでいたので、亀やヤドカリという手もあったのか！と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "しじみ",
+            "text": "目から鱗でした！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "つぶあん",
+            "text": "何飼われるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "あずき",
+            "text": "@しじみ もふもふはしてないですけどね",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "しじみ",
+            "text": "@つぶあん 20年！すごい！",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "つぶあん",
+            "text": "@あずき ヤドカリ何を食べるんですか？",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "あずき",
+            "text": "すごい！！愛着わきますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "しじみ",
+            "text": "もふもふ！確かにー！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "あずき",
+            "text": "ヤドカリは専用の餌があります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "しじみ",
+            "text": "猫を飼いたがっていますが、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "あずき",
+            "text": "沖縄から取り寄せていました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "つぶあん",
+            "text": "へー！しらなかったー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "しじみ",
+            "text": "費用が悩みどころ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "つぶあん",
+            "text": "沖縄？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "あずき",
+            "text": "@しじみ 猫いいですね",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "しじみ",
+            "text": "@あずき え？！沖縄？",
+            "mention_to": [
+                "あずき"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "しじみ",
+            "text": "どんなエサですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "あずき",
+            "text": "ヤドカリの故郷が沖縄らしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "しじみ",
+            "text": "虫かな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "つぶあん",
+            "text": "@しじみ 哺乳類は一気に手間がかかりますよね？！",
+            "mention_to": [
+                "しじみ"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "しじみ",
+            "text": "知らなかったです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "あずき",
+            "text": "丸い茶色い餌です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "あずき",
+            "text": "わかりづらくてすみません",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "つぶあん",
+            "text": "虫なんだ？！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "しじみ",
+            "text": "@つぶあん もふもふ系はハードル高いですよね〜",
+            "mention_to": [
+                "つぶあん"
+            ]
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "しじみ",
+            "text": "丸い茶色いえさ…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "あずき",
+            "text": "もふもふ系はそうですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "つぶあん",
+            "text": "可愛いんですけらどね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "しじみ",
+            "text": "チョコレートを想像してしまいました！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "あずき",
+            "text": "ヤドカリはポップコーンも食べます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "しじみ",
+            "text": "えー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "しじみ",
+            "text": "面白い！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "つぶあん",
+            "text": "ポップコーン？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "しじみ",
+            "text": "グルメ！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "あずき",
+            "text": "栄養価は少ないらしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "つぶあん",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "つぶあん",
+            "text": "食感かな？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "あずき",
+            "text": "塩なしですけどね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "しじみ",
+            "text": "しょっぱいのが好きなんですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "しじみ",
+            "text": "塩なしなんですね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "あずき",
+            "text": "とうもろこし？がいいらしいいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "しじみ",
+            "text": "なるほどなるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "つぶあん",
+            "text": "そういうことですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "しじみ",
+            "text": "ハサミで怪我したりはしないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "あずき",
+            "text": "哺乳類は憧れますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "つぶあん",
+            "text": "ハードル高いですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "あずき",
+            "text": "怪我しないですよ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "しじみ",
+            "text": "意外です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "つぶあん",
+            "text": "可愛いんだけれど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "しじみ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "あずき",
+            "text": "あんまりハサミを使ってませんでした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "しじみ",
+            "text": "あ、そうなんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "つぶあん",
+            "text": "へー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "あずき",
+            "text": "海水がないと死ぬので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "つぶあん",
+            "text": "何に使うんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "あずき",
+            "text": "海水も沖縄の海水を買ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "しじみ",
+            "text": "あらー、海水が命綱ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "つぶあん",
+            "text": "海水作るんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "しじみ",
+            "text": "えー！！すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "しじみ",
+            "text": "どうやって買うんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "あずき",
+            "text": "海水を飲んだり、乾燥しないようにしてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "あずき",
+            "text": "ネットで買ってましたよー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "しじみ",
+            "text": "通販？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "つぶあん",
+            "text": "沖縄！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "あずき",
+            "text": "そうです！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "しじみ",
+            "text": "なるほど！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "つぶあん",
+            "text": "ほぉ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "しじみ",
+            "text": "なるべく故郷の沖縄の、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "あずき",
+            "text": "3年くらいは生きてました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "つぶあん",
+            "text": "いいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "しじみ",
+            "text": "環境に近づけないとってことですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "あずき",
+            "text": "脱皮もして、だんだん大きくなるんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "つぶあん",
+            "text": "すごい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "つぶあん",
+            "text": "貝も買うんですか？",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "あずき",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "つぶあん",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "しじみ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

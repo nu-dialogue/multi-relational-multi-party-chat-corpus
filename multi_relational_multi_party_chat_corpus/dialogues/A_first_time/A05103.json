@@ -1,0 +1,721 @@
+{
+    "dialogue_id": "A05103",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おでん",
+        "あひる",
+        "はくまい"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おでん",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "あひる",
+            "text": "おはようございます！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "はくまい",
+            "text": "おはようございますー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おでん",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "あひる",
+            "text": "お願いします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "はくまい",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おでん",
+            "text": "最近、どこに行っても",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "おでん",
+            "text": "ガチャガチャが置いてあるところ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "おでん",
+            "text": "増えたと思いませんか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "あひる",
+            "text": "たしかに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "はくまい",
+            "text": "たしかに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "あひる",
+            "text": "ファミレスとかにも置いてて驚きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "おでん",
+            "text": "したりしますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "はくまい",
+            "text": "電気量販店とかでも見ます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "あひる",
+            "text": "へー！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "おでん",
+            "text": "駅とかにもあったりします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "あひる",
+            "text": "久しくしてないなぁ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "あひる",
+            "text": "駅！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "はくまい",
+            "text": "駅も見ますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "おでん",
+            "text": "そう、ついつい見たりしてます笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "あひる",
+            "text": "たまに面白いの見つけるとやりたくなります！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "おでん",
+            "text": "ねー、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "あひる",
+            "text": "見てるだけでも楽しいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "はくまい",
+            "text": "自分ガチャガチャ集めるの好きなのでよく通うんですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "あひる",
+            "text": "お！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい そうなんですね",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "はくまい",
+            "text": "はい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "あひる",
+            "text": "@はくまい どんなガチャをなさるのですか？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "おでん",
+            "text": "どんなのをしますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "はくまい",
+            "text": "車のエンブレムとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "あひる",
+            "text": "おー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "はくまい",
+            "text": "バイクのミニチュアとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "はくまい",
+            "text": "集めるのが好きです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "おでん",
+            "text": "へぇーそんなものがあるんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "あひる",
+            "text": "かっこいい系だ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "おでん",
+            "text": "ですねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "あひる",
+            "text": "集めるの楽しそうだな〜！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "はくまい",
+            "text": "楽しいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "おでん",
+            "text": "私は、ちいかわが好きなので、見つけるとしちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "あひる",
+            "text": "ちいかわ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "あひる",
+            "text": "かわいいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "はくまい",
+            "text": "ちいかわ好きです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "おでん",
+            "text": "でも、ガチャガチャも高いですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "あひる",
+            "text": "高くなりましたよね〜",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "はくまい",
+            "text": "4,5百円当たり前ですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "あひる",
+            "text": "そうそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "おでん",
+            "text": "そうなんですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "あひる",
+            "text": "前はもう少し安かった気が",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "おでん",
+            "text": "何回も出来ない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "あひる",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "はくまい",
+            "text": "たまたま小銭がジャラジャラしてた時に回しに行ったりします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "おでん",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "あひる",
+            "text": "重いしね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "はくまい",
+            "text": "財布重いと持ち運びずらいので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "あひる",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "おでん",
+            "text": "結構、大人がしたくなるのが多くなりましたよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "あひる",
+            "text": "@おでん わかる！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "おでん",
+            "text": "レトロな感じのとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "はくまい",
+            "text": "子供向けのやつは少なくなった印象です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "あひる",
+            "text": "ガチャガチャも進化してますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "おでん",
+            "text": "ねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "はくまい",
+            "text": "ですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "おでん",
+            "text": "また、高くなった分",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "おでん",
+            "text": "クオリディアコードも高くなってますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "おでん",
+            "text": "あっ、クオリティです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "はくまい",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "おでん",
+            "text": "なんちゅう、変換   笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "あひる",
+            "text": "クオリティ高い！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん わかります！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "あひる",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "あひる",
+            "text": "クオリディアコードぐぐっちゃいました 笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "おでん",
+            "text": "@あひる 意味分かりません笑笑",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "あひる",
+            "text": "笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "はくまい",
+            "text": "確かアニメですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "あひる",
+            "text": "ガチャガチャ調べてたら、これ絶対あとで回しに行っちゃいます...",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "あひる",
+            "text": "@はくまい ですです！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい ん？そうなんですね笑笑",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "おでん",
+            "text": "ちいかわのガチャガチャは直ぐになくなります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "あひる",
+            "text": "ちいかわ、すごい人気ですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "おでん",
+            "text": "なので見つけた時に、しちゃうんですよねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "あひる",
+            "text": "それはしなきゃですね！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん 回しに行ったらもう在庫ないってことよくありますよね",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "おでん",
+            "text": "そう、すごくショック受けます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "はくまい",
+            "text": "わかります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "あひる",
+            "text": "そうなんだ！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい エンブレムとか、無くならないですか？",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "はくまい",
+            "text": "カバンにつけたりしてるので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "はくまい",
+            "text": "無くすことはないですかね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "おでん",
+            "text": "ウンウン",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "おでん",
+            "text": "ガチャってる自分って、どーなんだろうと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "はくまい",
+            "text": "結構大きくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "おでん",
+            "text": "いつも思います笑笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん というと？",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "あひる",
+            "text": "@おでん わたしもあとで回しに行くので大丈夫です！！！",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "おでん",
+            "text": "エンブレムって、大きいんですか！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "はくまい",
+            "text": "結構手のひらサイズで大きいです！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい おばちゃんが回してる図ですよ",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい それはいいですね！",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "はくまい",
+            "text": "@おでん 変じゃないですよ？",
+            "mention_to": [
+                "おでん"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "おでん",
+            "text": "@あひる どんなのが好きですか？",
+            "mention_to": [
+                "あひる"
+            ]
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "あひる",
+            "text": "老若男女問わず楽しめるのもガチャガチャの魅力かも！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "おでん",
+            "text": "@はくまい ありがとうございます",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "あひる",
+            "text": "今調べてみたら、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "おでん",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 104,
+            "interlocutor_id": "あひる",
+            "text": "化粧品のガチャガチャとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 105,
+            "interlocutor_id": "はくまい",
+            "text": "ほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 106,
+            "interlocutor_id": "あひる",
+            "text": "昔食べてたお菓子のミラーとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 107,
+            "interlocutor_id": "あひる",
+            "text": "欲しいなって思いました！",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おでん",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "あひる",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "はくまい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

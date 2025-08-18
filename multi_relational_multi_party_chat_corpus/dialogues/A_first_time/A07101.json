@@ -1,0 +1,687 @@
+{
+    "dialogue_id": "A07101",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "おにぎり",
+        "げんまい",
+        "ハンバーグ"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "おにぎり",
+            "text": "こんにちは。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "げんまい",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ハンバーグ",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "おにぎり",
+            "text": "はじめまして。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "げんまい",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ハンバーグ",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "おにぎり",
+            "text": "よろしくお願いいたします！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "おにぎり",
+            "text": "今日は、すっきり晴れています！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "げんまい",
+            "text": "こちらも晴れです！都内",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "おにぎり",
+            "text": "昨日は、寒かったですね。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ハンバーグ",
+            "text": "こちらも晴れです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "おにぎり",
+            "text": "洗濯ものが、まだ洗濯機の中ですが。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "げんまい",
+            "text": "洗濯物を干して、洗濯2回目回してます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "おにぎり",
+            "text": "今日は、乾きそうですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "げんまい",
+            "text": "今日はいいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "おにぎり",
+            "text": "乾燥機が無いので、天気悪いと困ります。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ハンバーグ",
+            "text": "昨日天気悪かったですもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "げんまい",
+            "text": "うちも乾燥器ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うちも乾燥機ないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "げんまい",
+            "text": "機能、寒かったー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "おにぎり",
+            "text": "昨日はエアコンの前に干していました。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり なるほど",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "げんまい",
+            "text": "エアコン乾きますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "げんまい",
+            "text": "昨日は、コインランドリー行きました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "おにぎり",
+            "text": "@げんまい コインランドリー、良く使いますか？",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うちも乾かしたい物あればコインランドリーです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "げんまい",
+            "text": "近くに出来たので雨の日は行きます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "おにぎり",
+            "text": "@ハンバーグ 利用するんですね！",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@げんまい 近くにあるといいですね",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "おにぎり",
+            "text": "近いなら、良いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "げんまい",
+            "text": "はい。徒歩20秒ぐらいです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり 本当乾かしたい物がある時だけですが",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@げんまい 近いっ",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "おにぎり",
+            "text": "車で行って、また帰って、、がどうも面倒で。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "おにぎり",
+            "text": "20秒！！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "げんまい",
+            "text": "近いから行けます。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "おにぎり",
+            "text": "それは、羨ましい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "げんまい",
+            "text": "車だとめんどうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "ハンバーグ",
+            "text": "その近さだとほぼ家ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "おにぎり",
+            "text": "確かに！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "げんまい",
+            "text": "はい。うちの乾燥器として使ってますｗｗｗ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "おにぎり",
+            "text": "今年は、湿気も多くないですか？冬なのに。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@げんまい 確かに",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "げんまい",
+            "text": "最近、よく雨ふりますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "おにぎり",
+            "text": "加湿器出さなくて良かったかな、、って思う。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "ハンバーグ",
+            "text": "あまり乾燥してない気もします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "げんまい",
+            "text": "エアコンだと室内乾燥しますもんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "おにぎり",
+            "text": "暖房は、エアコン利用ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "げんまい",
+            "text": "うちは、石油ストーブにやかんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "げんまい",
+            "text": "去年買いました。ストーブ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり うちは石油ストーブです",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "おにぎり",
+            "text": "お二人とも石油ストーブかー！！暖かいですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "げんまい",
+            "text": "はい！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "おにぎり",
+            "text": "灯油ですよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "げんまい",
+            "text": "@おにぎり エアコンですか？",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "ハンバーグ",
+            "text": "寒いところなのでエアコンだけだと下の方が寒いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "げんまい",
+            "text": "灯油です。ｗｗｗ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "おにぎり",
+            "text": "うちは、エアコンと、ホットカーペットで。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "おにぎり",
+            "text": "蓄熱暖房機ってご存じですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@げんまい 自分もつられました笑",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "げんまい",
+            "text": "ホットカーペット、電気代がエグイのでやめました。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり しらないです",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "げんまい",
+            "text": "蓄熱？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "げんまい",
+            "text": "知らないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "おにぎり",
+            "text": "夜間電力で、おっきい暖房機に熱をためるんです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "げんまい",
+            "text": "あー、聞いたことあります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "おにぎり",
+            "text": "中にレンガがはいってるとかで。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "ハンバーグ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "げんまい",
+            "text": "電話ボックスみたいな箱がいるんですよね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "おにぎり",
+            "text": "でも、すっごい電気代かかるんです。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "ハンバーグ",
+            "text": "そうなんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "おにぎり",
+            "text": "@げんまい 電話ボックス横にした感じかな！",
+            "mention_to": [
+                "げんまい"
+            ]
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "げんまい",
+            "text": "深夜電力使うから安いのかと思ってました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "ハンバーグ",
+            "text": "電気代かかるのはいやですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "おにぎり",
+            "text": "最近夜間電気代も高くなったらしくて、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "げんまい",
+            "text": "あら、深夜も高いんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "ハンバーグ",
+            "text": "何が1番良いんですかね？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "げんまい",
+            "text": "ねー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "おにぎり",
+            "text": "らしいです。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "ハンバーグ",
+            "text": "まぁ地域にもよると思いますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "げんまい",
+            "text": "灯油は買いに行くのが面倒です。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "おにぎり",
+            "text": "暖炉欲しいんですけど笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "おにぎり",
+            "text": "そうなんですよ、灯油を買いに行くのが、大変ですよね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "おにぎり",
+            "text": "ホットカーペットも、電気代高いんですね。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "げんまい",
+            "text": "売りに来たりもしますよね。灯油。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "げんまい",
+            "text": "うちは、夫が自転車で買いに行くけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "ハンバーグ",
+            "text": "知り合いのところに暖炉あるんですけどめちゃくちゃ暖かいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "げんまい",
+            "text": "暖炉いいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "おにぎり",
+            "text": "来てくれるならいいですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "げんまい",
+            "text": "見てるだけで温まりそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "ハンバーグ",
+            "text": "冬でもみんな半袖笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "おにぎり",
+            "text": "@ハンバーグ やっぱり！うち栃木で寒いんですよ。。",
+            "mention_to": [
+                "ハンバーグ"
+            ]
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "げんまい",
+            "text": "え！半そで",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "おにぎり",
+            "text": "わぁーーいいなーー！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "ハンバーグ",
+            "text": "@おにぎり うちも長野なので寒いです",
+            "mention_to": [
+                "おにぎり"
+            ]
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "げんまい",
+            "text": "栃木も長野も寒そう。。。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "おにぎり",
+            "text": "長野、、寒いですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "ハンバーグ",
+            "text": "寒いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "げんまい",
+            "text": "雪積もってないですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "ハンバーグ",
+            "text": "昨日ずっと降ってましたけどそんなに積もらなかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "おにぎり",
+            "text": "いつも積もっているわけではないのかな。",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "げんまい",
+            "text": "そうなんだ。",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "おにぎり",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "げんまい",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ハンバーグ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

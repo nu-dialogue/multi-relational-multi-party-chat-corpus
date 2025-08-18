@@ -1,0 +1,701 @@
+{
+    "dialogue_id": "A07901",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "たらこ",
+        "さんま",
+        "てんぷら"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "たらこ",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "さんま",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "てんぷら",
+            "text": "こんにちは！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "たらこ",
+            "text": "皆さんは花粉症ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "さんま",
+            "text": "@たらこ ほとんどないです～",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "てんぷら",
+            "text": "今年は気のせいではなさそうです…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "たらこ",
+            "text": "@さんま 一緒です！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "てんぷら",
+            "text": "毎年気のせいで乗り切っていたんですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "たらこ",
+            "text": "@てんぷら あらら？",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "さんま",
+            "text": "まあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "たらこ",
+            "text": "はいはい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "てんぷら",
+            "text": "頭が重いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "てんぷら",
+            "text": "お二人は、まだなんですね・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "さんま",
+            "text": "@てんぷら しんどいですね",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "てんぷら",
+            "text": "まだ、っていういい方もアレですけれども",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "たらこ",
+            "text": "@てんぷら私は花粉症ではなくて",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "たらこ",
+            "text": "@てんぷら 気のせいでは",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "たらこ",
+            "text": "なくなってきたんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "てんぷら",
+            "text": "えーん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "たらこ",
+            "text": "@てんぷら 鼻水とかは？",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "さんま",
+            "text": "気のせいにしたいですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "たらこ",
+            "text": "でますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "てんぷら",
+            "text": "流れ出てきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "さんま",
+            "text": "あらら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "てんぷら",
+            "text": "マスクしていると、ちょっと大変です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "たらこ",
+            "text": "@てんぷら 絶対花粉症ですね笑",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "てんぷら",
+            "text": "えーん！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "たらこ",
+            "text": "目の痒みとかは？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "さんま",
+            "text": "@てんぷら 花粉症です！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "てんぷら",
+            "text": "気のすむまで搔いています",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "てんぷら",
+            "text": "永遠に目をこすれます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "たらこ",
+            "text": "それつらい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "てんぷら",
+            "text": "かゆい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "てんぷら",
+            "text": "これが・・・花粉症・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "さんま",
+            "text": "辛いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "たらこ",
+            "text": "薬は飲んでるんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "てんぷら",
+            "text": "今日、飲んでみます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "てんぷら",
+            "text": "アレジオン？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "たらこ",
+            "text": "子供の頃は全然でした？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "てんぷら",
+            "text": "いやー、今思えば",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "たらこ",
+            "text": "うんうん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "てんぷら",
+            "text": "ホコリとか、ありましたね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "てんぷら",
+            "text": "猫とか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "たらこ",
+            "text": "@てんぷら アレルギー？",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "てんぷら",
+            "text": "そうですね、かゆかったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "たらこ",
+            "text": "アレルギー体質なんですね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "てんぷら",
+            "text": "くしゃみが止まらなかったり",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "さんま",
+            "text": "@てんぷら アレルギー体質ですね～",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "てんぷら",
+            "text": "去年までは気のせいにしていましたが・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "てんぷら",
+            "text": "今日から向き合います！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "てんぷら",
+            "text": "私はアレルギー体質！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "たらこ",
+            "text": "気のせいにできたことが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "たらこ",
+            "text": "凄いです！笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "てんぷら",
+            "text": "認めざるを得ません！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "さんま",
+            "text": "確かにですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "てんぷら",
+            "text": "花粉症記念日です！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "たらこ",
+            "text": "我が家は娘、夫、息子と花粉症で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "たらこ",
+            "text": "娘は目に出て",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "てんぷら",
+            "text": "@たらこ わあ、大変だ",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "たらこ",
+            "text": "夫はくしゃみなんです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "さんま",
+            "text": "違うんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "てんぷら",
+            "text": "洗濯物、外に干せませんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "たらこ",
+            "text": "@てんぷら そうなんです！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "たらこ",
+            "text": "とくに娘はひどくて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "たらこ",
+            "text": "顔が別人になります",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "さんま",
+            "text": "あらら",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "てんぷら",
+            "text": "か、かわいそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "さんま",
+            "text": "辛いです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "てんぷら",
+            "text": "私も老け顔になっています、今日",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "てんぷら",
+            "text": "いつもはハツラツとしているのに",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "たらこ",
+            "text": "今日笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "てんぷら",
+            "text": "自分でいう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "たらこ",
+            "text": "面白い！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "てんぷら",
+            "text": "よく言われます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "てんぷら",
+            "text": "数少ない美徳です",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "たらこ",
+            "text": "あれ見てるこっちも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "てんぷら",
+            "text": "面白い",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "たらこ",
+            "text": "つらいですよね！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "てんぷら",
+            "text": "@たらこ 何もしてあげられないです",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "たらこ",
+            "text": "@てんぷら いいですね！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "てんぷら",
+            "text": "何もしてもらえないです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "さんま",
+            "text": "確かにです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "てんぷら",
+            "text": "花粉を世の中からなくして欲しいですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "てんぷら",
+            "text": "多くの人が望んでいるんでしょうね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "たらこ",
+            "text": "なんか大人なってから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "たらこ",
+            "text": "花粉症になるひと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "さんま",
+            "text": "難しい…",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "たらこ",
+            "text": "いるみたいですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "てんぷら",
+            "text": "いつかなるものなのかと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "たらこ",
+            "text": "妊娠を機にとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "さんま",
+            "text": "急になるって聞きました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "てんぷら",
+            "text": "あー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "てんぷら",
+            "text": "体質が変わるんでしょうか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "たらこ",
+            "text": "@さんま 聞きますよね？",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "たらこ",
+            "text": "皆さんは子供の頃と",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "たらこ",
+            "text": "体質かわったこと",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "たらこ",
+            "text": "あります？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "てんぷら",
+            "text": "あるかなあ・・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "さんま",
+            "text": "@たらこ あるかしら",
+            "mention_to": [
+                "たらこ"
+            ]
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "たらこ",
+            "text": "私は風邪引きやすくなりました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "てんぷら",
+            "text": "子どもは風の子、の逆ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 101,
+            "interlocutor_id": "てんぷら",
+            "text": "大人は風邪ひく",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 102,
+            "interlocutor_id": "さんま",
+            "text": "あるかもですね～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 103,
+            "interlocutor_id": "たらこ",
+            "text": "@てんぷら わかります！",
+            "mention_to": [
+                "てんぷら"
+            ]
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "たらこ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "さんま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "てんぷら",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,673 @@
+{
+    "dialogue_id": "A05901",
+    "dialogue_type": "First time",
+    "interlocutors": [
+        "まぐろ",
+        "はくまい",
+        "さんま"
+    ],
+    "relationship": [],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "まぐろ",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "はくまい",
+            "text": "おはようございます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "さんま",
+            "text": "こんにちは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "はくまい",
+            "text": "よろしくお願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "まぐろ",
+            "text": "よろしくおねがいします～",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "さんま",
+            "text": "お願いします",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "まぐろ",
+            "text": "うちの家族がですね、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "はくまい",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "まぐろ",
+            "text": "初めてバイトをしようと考えてます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "まぐろ",
+            "text": "何かオススメ無いですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "まぐろ",
+            "text": "今までの経験とか、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "さんま",
+            "text": "@まぐろ はじめてですか？",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "まぐろ",
+            "text": "@さんま まったくの初めてです！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "はくまい",
+            "text": "今私が働いているのは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "まぐろ",
+            "text": "ほうほう気になる",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "はくまい",
+            "text": "飲食店の調理場で",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "はくまい",
+            "text": "かなりお皿の数が多くて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "まぐろ",
+            "text": "おー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "さんま",
+            "text": "@はくまい たいへんそうですね",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "はくまい",
+            "text": "しまう場所を覚えるのが大変ですが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "まぐろ",
+            "text": "大変そう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "はくまい",
+            "text": "一度覚えてしまえは楽しいですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "まぐろ",
+            "text": "@はくまい それはいいですね",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "まぐろ",
+            "text": "初心者もできるかな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "はくまい",
+            "text": "かなり動くので体力もつきます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "まぐろ",
+            "text": "そこもいいポイントですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "はくまい",
+            "text": "ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "さんま",
+            "text": "@はくまい 体力いりそうですね",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "はくまい",
+            "text": "飲食店の環境によると思いますが",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "はくまい",
+            "text": "調理場が見えるところならちょっと覗いてみて",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "まぐろ",
+            "text": "それ、なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "はくまい",
+            "text": "どんな感じで人が働いているのか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 32,
+            "interlocutor_id": "はくまい",
+            "text": "みてみるのもいいかと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 33,
+            "interlocutor_id": "さんま",
+            "text": "様子わかるかもしれませんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 34,
+            "interlocutor_id": "まぐろ",
+            "text": "@はくまい 参考になりますね～",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 35,
+            "interlocutor_id": "まぐろ",
+            "text": "@さんま 何かありますか？",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 36,
+            "interlocutor_id": "さんま",
+            "text": "我が家の息子は",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 37,
+            "interlocutor_id": "はくまい",
+            "text": "ほつ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 38,
+            "interlocutor_id": "まぐろ",
+            "text": "聞きたいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 39,
+            "interlocutor_id": "さんま",
+            "text": "学校の近くにしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 40,
+            "interlocutor_id": "さんま",
+            "text": "でも",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 41,
+            "interlocutor_id": "はくまい",
+            "text": "はい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 42,
+            "interlocutor_id": "さんま",
+            "text": "自宅からは遠いから",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 43,
+            "interlocutor_id": "まぐろ",
+            "text": "ふむふむ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 44,
+            "interlocutor_id": "さんま",
+            "text": "帰りがたいへん",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 45,
+            "interlocutor_id": "はくまい",
+            "text": "なるほど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 46,
+            "interlocutor_id": "まぐろ",
+            "text": "@さんま どちらをとるかですかね～",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 47,
+            "interlocutor_id": "はくまい",
+            "text": "休日はバイト先行くとなると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 48,
+            "interlocutor_id": "はくまい",
+            "text": "大変ですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 49,
+            "interlocutor_id": "さんま",
+            "text": "@はくまい そうなんです",
+            "mention_to": [
+                "はくまい"
+            ]
+        },
+        {
+            "utterance_id": 50,
+            "interlocutor_id": "さんま",
+            "text": "映画館でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 51,
+            "interlocutor_id": "まぐろ",
+            "text": "@さんま いいですね！",
+            "mention_to": [
+                "さんま"
+            ]
+        },
+        {
+            "utterance_id": 52,
+            "interlocutor_id": "はくまい",
+            "text": "映画館",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 53,
+            "interlocutor_id": "はくまい",
+            "text": "楽しそうですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 54,
+            "interlocutor_id": "まぐろ",
+            "text": "今まで経験したことないバイトです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 55,
+            "interlocutor_id": "はくまい",
+            "text": "どんな仕事内容か聞いたりしたことありますか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 56,
+            "interlocutor_id": "さんま",
+            "text": "帰って来るとポップコーンの香りがしました",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 57,
+            "interlocutor_id": "はくまい",
+            "text": "いいですね笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 58,
+            "interlocutor_id": "まぐろ",
+            "text": "わあ～なんかいいなー",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 59,
+            "interlocutor_id": "さんま",
+            "text": "死ぬほどポップコーン売ったらしいです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 60,
+            "interlocutor_id": "はくまい",
+            "text": "でも毎日嗅いでると",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 61,
+            "interlocutor_id": "はくまい",
+            "text": "くどくなりそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 62,
+            "interlocutor_id": "まぐろ",
+            "text": "死ぬほどってわかる笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 63,
+            "interlocutor_id": "さんま",
+            "text": "みんなたのむのですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 64,
+            "interlocutor_id": "まぐろ",
+            "text": "ほぼ全員買ってそうですよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 65,
+            "interlocutor_id": "はくまい",
+            "text": "映画館行ったら必ず買っちゃいます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 66,
+            "interlocutor_id": "まぐろ",
+            "text": "映画見放題ですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 67,
+            "interlocutor_id": "まぐろ",
+            "text": "うちの子映画好きなので",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 68,
+            "interlocutor_id": "さんま",
+            "text": "回数が決まっていたと思います",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 69,
+            "interlocutor_id": "はくまい",
+            "text": "なるほど！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 70,
+            "interlocutor_id": "まぐろ",
+            "text": "みられるんだ！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 71,
+            "interlocutor_id": "はくまい",
+            "text": "ピッタリかもしれませんね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 72,
+            "interlocutor_id": "まぐろ",
+            "text": "本当ですね！学校近くにないけど、",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 73,
+            "interlocutor_id": "まぐろ",
+            "text": "帰り道で通りそう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 74,
+            "interlocutor_id": "まぐろ",
+            "text": "候補にすすめてみます",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 75,
+            "interlocutor_id": "さんま",
+            "text": "@まぐろ 募集してるといいですね",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 76,
+            "interlocutor_id": "はくまい",
+            "text": "いいと思います！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 77,
+            "interlocutor_id": "まぐろ",
+            "text": "募集のタイミングとあうといいなあ",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 78,
+            "interlocutor_id": "まぐろ",
+            "text": "ちなみに私がすすめたのは",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 79,
+            "interlocutor_id": "まぐろ",
+            "text": "パン工場でした",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 80,
+            "interlocutor_id": "はくまい",
+            "text": "どんなにことしてたんですか？",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 81,
+            "interlocutor_id": "まぐろ",
+            "text": "パンに霧吹きで水をかけるとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 82,
+            "interlocutor_id": "はくまい",
+            "text": "ほうほう",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 83,
+            "interlocutor_id": "まぐろ",
+            "text": "蒸しパンをカットするとか",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 84,
+            "interlocutor_id": "まぐろ",
+            "text": "ひたすら・・バナナの皮を向き続けるなどなど・・",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 85,
+            "interlocutor_id": "さんま",
+            "text": "はいはい",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 86,
+            "interlocutor_id": "まぐろ",
+            "text": "単純作業で辛かったけど",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 87,
+            "interlocutor_id": "まぐろ",
+            "text": "ありがたみもわかったみたいな",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 88,
+            "interlocutor_id": "はくまい",
+            "text": "くり開始の作業が多いんですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 89,
+            "interlocutor_id": "さんま",
+            "text": "@まぐろ そうですね",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 90,
+            "interlocutor_id": "はくまい",
+            "text": "工場だとそういうことが多いのかもですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 91,
+            "interlocutor_id": "まぐろ",
+            "text": "繰り返しすぎて、時間がすぎない",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 92,
+            "interlocutor_id": "さんま",
+            "text": "飽きてきますね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 93,
+            "interlocutor_id": "はくまい",
+            "text": "@まぐろ わかります",
+            "mention_to": [
+                "まぐろ"
+            ]
+        },
+        {
+            "utterance_id": 94,
+            "interlocutor_id": "まぐろ",
+            "text": "時計みても数分しか過ぎてない！！",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 95,
+            "interlocutor_id": "まぐろ",
+            "text": "が辛かったです",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 96,
+            "interlocutor_id": "はくまい",
+            "text": "ちょっと憂鬱な気持ちになりますよね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 97,
+            "interlocutor_id": "まぐろ",
+            "text": "そうそう笑",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 98,
+            "interlocutor_id": "まぐろ",
+            "text": "でも、パン食べ放題",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 99,
+            "interlocutor_id": "さんま",
+            "text": "辛いですね",
+            "mention_to": []
+        },
+        {
+            "utterance_id": 100,
+            "interlocutor_id": "はくまい",
+            "text": "パン好きならいいかもですねー",
+            "mention_to": []
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "まぐろ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "はくまい",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "さんま",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}
